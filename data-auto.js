@@ -1,4 +1,5 @@
-// 自動生成された追加熟語データ\nconst autoData = {
+// 自動生成された追加熟語データ
+const autoData = {
   "冊": [
     {
       "jukugo": "冊友",
@@ -19,12 +20,6 @@
       "reading": "はらげい",
       "meaning": "言葉に出さずに、態度や表情などで自分の考えや気持ちを巧みに表すこと。",
       "example": "部長の腹芸はすごくて、言いたいことがすぐにはわからないんだ。"
-    },
-    {
-      "jukugo": "腹積もり",
-      "reading": "はらづもり",
-      "meaning": "心の中で決めている計画や覚悟のこと。",
-      "example": "明日のテスト、満点取る腹積もりで勉強してきたよ！"
     }
   ],
   "undefined": [
@@ -68,5 +63,67 @@
       "meaning": "医者が患者を思う優しい気持ち。",
       "example": "先生の医心が伝わってきて、とても安心しました。"
     }
+  ],
+  "層": [
+    {
+      "jukugo": "一層顔",
+      "reading": "いっそうがお",
+      "meaning": "顔つきが一段と変わる様子。",
+      "example": "テストの結果を聞いた時の、一層顔は忘れられない。"
+    },
+    {
+      "jukugo": "層雲層",
+      "reading": "そううんそう",
+      "meaning": "空に広がる雲の層のうち、特に厚く重なった部分。",
+      "example": "層雲層が厚くなり、雨が降りそうだ。"
+    }
+  ],
+  "系": [
+    {
+      "jukugo": "系線",
+      "reading": "けいせん",
+      "meaning": "つながりや関係を示す線。",
+      "example": "この地図では、都市と都市を系線で結んで交通網を表しています。"
+    },
+    {
+      "jukugo": "系譜",
+      "reading": "けいふ",
+      "meaning": "家系や血筋のつながり。",
+      "example": "この古いお寺には、代々の住職の系譜が大切に保管されています。"
+    }
+  ],
+  "貯": [
+    {
+      "jukugo": "貯蓄箱",
+      "reading": "ちょちくばこ",
+      "meaning": "お金を貯めておくための箱。",
+      "example": "おこづかいを貯蓄箱に入れた。"
+    },
+    {
+      "jukugo": "貯水池",
+      "reading": "ちょすいち",
+      "meaning": "水を貯めておくための池。",
+      "example": "貯水池の水が少なくなってきた。"
+    }
+  ],
+  "建": [
+    {
+      "jukugo": "建学",
+      "reading": "けんがく",
+      "meaning": "学校を建てること。",
+      "example": "この大学は、多くの人々の寄付によって建学されました。"
+    },
+    {
+      "jukugo": "建材",
+      "reading": "けんざい",
+      "meaning": "建物を建てるのに使う材料。",
+      "example": "新しい家を建てるために、丈夫な建材を選びました。"
+    }
   ]
-};\nfor (const k in autoData) {\n  if (window.OFFLINE_DB[k]) {\n    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);\n  }\n}\n
+};
+
+for (const k in autoData) {
+  if (window.OFFLINE_DB[k]) {
+    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);
+  }
+}
