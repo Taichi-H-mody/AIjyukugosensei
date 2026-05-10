@@ -17,7 +17,7 @@ function showLoading() {
       <div class="spinner-wave">
         <span></span><span></span><span></span><span></span><span></span>
       </div>
-      <p class="loading-text">辞書をめくっています...</p>
+      <p class="loading-text">言葉を紡いでいます...</p>
     </div>`;
 }
 
@@ -102,6 +102,8 @@ async function generateJukugo() {
   if (!isKanji(kanji)) { showError('漢字を入力してください。'); input.focus(); return; }
 
   btn.disabled = true;
+  const originalBtnText = btn.querySelector('span:last-child').textContent;
+  btn.querySelector('span:last-child').textContent = '考え中...';
   showLoading();
 
   try {
@@ -120,6 +122,7 @@ async function generateJukugo() {
       </div>`;
   } finally {
     btn.disabled = false;
+    btn.querySelector('span:last-child').textContent = originalBtnText;
   }
 }
 
@@ -130,7 +133,7 @@ document.addEventListener('DOMContentLoaded', () => {
   });
 
   const grid = document.getElementById('kanji-grid');
-  GRADE6_KANJI.forEach(k => {
+  ALL_ELEMENTARY_KANJI.forEach(k => {
     const chip = document.createElement('div');
     chip.className = 'kanji-chip';
     chip.textContent = k;
