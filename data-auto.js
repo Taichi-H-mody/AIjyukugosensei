@@ -40,5 +40,19 @@
       "meaning": "まだわからない数や、これからどうなるかわからないこと。",
       "example": "未来のことは未知数だけど、ぼくは夢を追いかけるよ。"
     }
+  ],
+  "程": [
+    {
+      "jukugo": "程遠",
+      "reading": "ていえん",
+      "meaning": "まだ時間がかかりそうであること。",
+      "example": "目標達成まで程遠いが、諦めずに努力を続けよう。"
+    },
+    {
+      "jukugo": "程近",
+      "reading": "ていきん",
+      "meaning": "もうすぐそこまで来ていること。",
+      "example": "卒業式まで程近くなり、みんな期待に胸を膨らませている。"
+    }
   ]
 };\nfor (const k in autoData) {\n  if (window.OFFLINE_DB[k]) {\n    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);\n  }\n}\n
