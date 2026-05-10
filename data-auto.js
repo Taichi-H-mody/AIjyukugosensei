@@ -1,5 +1,4 @@
-// 自動生成された追加熟語データ
-const autoData = {
+// 自動生成された追加熟語データ\nconst autoData = {
   "冊": [
     {
       "jukugo": "冊友",
@@ -154,96 +153,18 @@ const autoData = {
       "example": "このお店では、毎月最終日には割増ポイントがつきます。"
     }
   ],
-  "医": [
+  "諸": [
     {
-      "jukugo": "医灯",
-      "reading": "いとう",
-      "meaning": "医療の道しるべとなる光。希望の灯火。",
-      "example": "彼の研究は、多くの患者にとっての医灯となった。"
+      "jukugo": "諸方々",
+      "reading": "しょほうほう",
+      "meaning": "いろいろな場所、あちこち",
+      "example": "お祭りの準備で、諸方々から人が集まってきました。"
     },
     {
-      "jukugo": "医心",
-      "reading": "いしん",
-      "meaning": "人を助けようとする、医者としての清らかな心。",
-      "example": "医心を持って患者に接することが、何よりも大切だ。"
-    }
-  ],
-  "建": [
-    {
-      "jukugo": "建学",
-      "reading": "けんがく",
-      "meaning": "学校を新しく建てること。また、その学校を建てる時の考え方。",
-      "example": "この学校の建学の精神を大切にしよう。"
-    },
-    {
-      "jukugo": "建材",
-      "reading": "けんざい",
-      "meaning": "家や建物を建てる時に使う材料のこと。",
-      "example": "新しい図書室には、いい香りのする建材が使われている。"
-    }
-  ],
-  "姿": [
-    {
-      "jukugo": "姿態",
-      "reading": "したい",
-      "meaning": "体の様子や、立ち居振る舞いのこと。",
-      "example": "バレエを踊る彼女の姿態は、とても美しかった。"
-    },
-    {
-      "jukugo": "姿影",
-      "reading": "しえい",
-      "meaning": "姿とかたちのこと。また、そのおもかげ。",
-      "example": "鏡に自分の姿影を映して、身だしなみを整える。"
-    }
-  ],
-  "層": [
-    {
-      "jukugo": "一層顔",
-      "reading": "いっそうがお",
-      "meaning": "以前よりもさらに引き締まったり、明るくなったりした顔つき。",
-      "example": "目標を達成した彼は、一層顔が輝いて見えた。"
-    },
-    {
-      "jukugo": "層雲",
-      "reading": "そううん",
-      "meaning": "層のように重なって見える雲のこと。",
-      "example": "空一面に層雲が広がっている。"
-    }
-  ],
-  "系": [
-    {
-      "jukugo": "系譜",
-      "reading": "けいふ",
-      "meaning": "代々受け継がれてきたつながりのこと。家系図のようなもの。",
-      "example": "この伝統あるお祭りの系譜を調べてみた。"
-    },
-    {
-      "jukugo": "系線",
-      "reading": "けいせん",
-      "meaning": "つながりを示す線のこと。",
-      "example": "図形の中に、関係を表す系線を書き入れる。"
-    }
-  ],
-  "貯": [
-    {
-      "jukugo": "貯蓄箱",
-      "reading": "ちょちくばこ",
-      "meaning": "お金をためておくための箱（貯金箱）。",
-      "example": "お年玉を貯蓄箱に入れて大切に保管する。"
-    },
-    {
-      "jukugo": "貯水池",
-      "reading": "ちょすいち",
-      "meaning": "水をためておくための大きな池。",
-      "example": "街の水を確保するために、大きな貯水池が作られた。"
+      "jukugo": "諸事",
+      "reading": "しょじ",
+      "meaning": "いろいろな事柄、多くの用事",
+      "example": "毎日、諸事に取りかかって忙しいです。"
     }
   ]
-};
-
-for (const k in autoData) {
-  if (window.OFFLINE_DB[k]) {
-    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);
-  } else {
-    window.OFFLINE_DB[k] = autoData[k];
-  }
-}
+};\nfor (const k in autoData) {\n  if (window.OFFLINE_DB[k]) {\n    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);\n  }\n}\n
