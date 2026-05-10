@@ -62,12 +62,23 @@ function showMore() {
 function displayResults(data) {
   const container = document.getElementById('results-container');
   container.innerHTML = '';
-  allJukugo = data;
+  
+  // 重複を削除（熟語名でユニークにする）
+  const uniqueData = [];
+  const seen = new Set();
+  data.forEach(item => {
+    if (!seen.has(item.jukugo)) {
+      seen.add(item.jukugo);
+      uniqueData.push(item);
+    }
+  });
+
+  allJukugo = uniqueData;
   shownCount = 0;
-  const first = data.slice(0, 5);
+  const first = uniqueData.slice(0, 5);
   renderCards(first, 0);
   shownCount = first.length;
-  if (data.length > 5) showMoreButton();
+  if (uniqueData.length > 5) showMoreButton();
 }
 
 function showNotFound(kanji) {
