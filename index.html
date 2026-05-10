@@ -36,8 +36,21 @@
 
         <!-- Kanji Grid -->
         <details class="kanji-grid-wrap" id="kanji-grid-wrap">
-            <summary class="kanji-grid-toggle">📋 小学校で習う漢字一覧を見る</summary>
-            <div class="kanji-grid" id="kanji-grid"></div>
+            <summary class="kanji-grid-toggle">📋 学年を選んで漢字を探す</summary>
+            <div class="grade-selector-wrap" style="text-align: center; margin: 15px 0;">
+                <select id="grade-select" class="grade-select" onchange="updateKanjiGrid()">
+                    <option value="">-- 学年を選択 --</option>
+                    <option value="1年生">1年生（80字）</option>
+                    <option value="2年生">2年生（160字）</option>
+                    <option value="3年生">3年生（200字）</option>
+                    <option value="4年生">4年生（202字）</option>
+                    <option value="5年生">5年生（193字）</option>
+                    <option value="6年生">6年生（191字）</option>
+                </select>
+            </div>
+            <div class="kanji-grid" id="kanji-grid">
+                <p style="color: #94a3b8; text-align: center; padding: 20px;">学年を選ぶと漢字が表示されます</p>
+            </div>
         </details>
 
         <!-- Results Section -->
