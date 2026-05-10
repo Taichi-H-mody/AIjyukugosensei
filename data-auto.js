@@ -54,5 +54,19 @@
       "meaning": "もうすぐそこまで来ていること。",
       "example": "卒業式まで程近くなり、みんな期待に胸を膨らませている。"
     }
+  ],
+  "医": [
+    {
+      "jukugo": "医灯",
+      "reading": "いとう",
+      "meaning": "病人を助ける医療の光。",
+      "example": "夜遅くまで医灯が灯り、患者さんの看病が続いていました。"
+    },
+    {
+      "jukugo": "医心",
+      "reading": "いしん",
+      "meaning": "医者が患者を思う優しい気持ち。",
+      "example": "先生の医心が伝わってきて、とても安心しました。"
+    }
   ]
 };\nfor (const k in autoData) {\n  if (window.OFFLINE_DB[k]) {\n    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);\n  }\n}\n
