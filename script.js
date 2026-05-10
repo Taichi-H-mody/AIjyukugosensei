@@ -126,14 +126,17 @@ async function generateJukugo() {
   }
 }
 
-// --- Init ---
-document.addEventListener('DOMContentLoaded', () => {
-  document.getElementById('kanji-input').addEventListener('keydown', e => {
-    if (e.key === 'Enter') generateJukugo();
-  });
-
+function updateKanjiGrid() {
+  const grade = document.getElementById('grade-select').value;
   const grid = document.getElementById('kanji-grid');
-  ALL_ELEMENTARY_KANJI.forEach(k => {
+  grid.innerHTML = '';
+
+  if (!grade || !KANJI_BY_GRADE[grade]) {
+    grid.innerHTML = '<p style="color: #94a3b8; text-align: center; padding: 20px;">学年を選ぶと漢字が表示されます</p>';
+    return;
+  }
+
+  KANJI_BY_GRADE[grade].forEach(k => {
     const chip = document.createElement('div');
     chip.className = 'kanji-chip';
     chip.textContent = k;
@@ -143,6 +146,13 @@ document.addEventListener('DOMContentLoaded', () => {
       document.getElementById('kanji-grid-wrap').open = false;
     };
     grid.appendChild(chip);
+  });
+}
+
+// --- Init ---
+document.addEventListener('DOMContentLoaded', () => {
+  document.getElementById('kanji-input').addEventListener('keydown', e => {
+    if (e.key === 'Enter') generateJukugo();
   });
 
   document.getElementById('kanji-input').focus();
