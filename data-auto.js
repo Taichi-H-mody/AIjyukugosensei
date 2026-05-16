@@ -1,4 +1,6 @@
-// 自動生成された追加熟語データ\nconst autoData = {
+// 自動生成された追加熟語データ
+if (!window.OFFLINE_DB) window.OFFLINE_DB = {};
+const autoData = {
   "冊": [
     {
       "jukugo": "冊友",
@@ -331,4 +333,11 @@
       "example": "美術館で、色鮮やかな絹絵風景の展示を見ました。"
     }
   ]
-};\nfor (const k in autoData) {\n  if (window.OFFLINE_DB[k]) {\n    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);\n  }\n}\n
+};
+for (const k in autoData) {
+  if (window.OFFLINE_DB[k]) {
+    window.OFFLINE_DB[k] = window.OFFLINE_DB[k].concat(autoData[k]);
+  } else {
+    window.OFFLINE_DB[k] = autoData[k];
+  }
+}
