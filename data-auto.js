@@ -8774,6 +8774,281 @@ const autoData = {
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
     }
+  ],
+  "机": [
+    {
+      "jukugo": "机上",
+      "reading": "きじょう",
+      "meaning": "机の上。また、理論上だけで実際には役立たないことのたとえ。",
+      "example": "机上の整理をする。机上の空論に終わる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "机辺",
+      "reading": "きへん",
+      "meaning": "机のほとり。机のまわり。",
+      "example": "机辺に座って読書にふける。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "机下",
+      "reading": "きか",
+      "meaning": "机の下。手紙の脇付として、相手を敬う語。",
+      "example": "謹啓、〇〇様机下、時下ますますご清栄のこととお慶び申し上げます。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "承": [
+    {
+      "jukugo": "承認",
+      "reading": "しょうにん",
+      "meaning": "事柄を正しいと認め許すこと。",
+      "example": "会議で提案が承認された。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "承諾",
+      "reading": "しょうだく",
+      "meaning": "相手の依頼や要求を聞き入れること。",
+      "example": "私の申し出を承諾してくれた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "継承",
+      "reading": "けいしょう",
+      "meaning": "前代の地位や事業などを受け継ぐこと。",
+      "example": "伝統的な技術が次世代に継承される。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "承知",
+      "reading": "しょうち",
+      "meaning": "事情をよく知っていること。また、依頼や要求を聞き入れること。",
+      "example": "その件はすでに承知しております。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "了承",
+      "reading": "りょうしょう",
+      "meaning": "相手の事情や考えを理解し、納得すること。",
+      "example": "計画変更について関係者から了承を得る。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "銭": [
+    {
+      "jukugo": "金銭",
+      "reading": "きんせん",
+      "meaning": "お金。現金とそれに代わるもの。",
+      "example": "金銭の貸し借りは慎重に行うべきだ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "銭湯",
+      "reading": "せんとう",
+      "meaning": "入浴料を取って客に湯を提供する施設。公衆浴場。",
+      "example": "昔ながらの銭湯は、地域の交流の場として親しまれている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "小銭",
+      "reading": "こぜに",
+      "meaning": "少額の硬貨。または、少額のお金。",
+      "example": "財布の中に小銭がたくさん貯まっていた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "古銭",
+      "reading": "こせん",
+      "meaning": "昔使われていた貨幣。特に、収集の対象となるもの。",
+      "example": "博物館には、世界各地の珍しい古銭が展示されている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "銭貨",
+      "reading": "せんか",
+      "meaning": "鋳貨や紙幣など、貨幣の総称。",
+      "example": "古代ローマでは、さまざまな種類の銭貨が流通していた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "腸": [
+    {
+      "jukugo": "胃腸",
+      "reading": "いちょう",
+      "meaning": "消化器系の一部で、胃と腸の総称。飲食物を消化し栄養を吸収する器官。",
+      "example": "風邪をひくと、胃腸の調子が悪くなることがある。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "大腸",
+      "reading": "だいちょう",
+      "meaning": "消化管の一部。小腸に続き、水分を吸収して便を形成する器官。",
+      "example": "食べたものは、小腸で栄養が吸収され、大腸で水分が吸収されて便になる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "小腸",
+      "reading": "しょうちょう",
+      "meaning": "消化管の一部。胃と大腸の間にある細長い器官で、食物の消化と栄養の吸収を行う。",
+      "example": "食べたものの栄養のほとんどは小腸で吸収される。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "盲腸",
+      "reading": "もうちょう",
+      "meaning": "大腸の始まりにある袋状の器官。また、俗にこの器官の先端にある虫垂が炎症を起こす病気、虫垂炎のこと。",
+      "example": "急にお腹が痛くなり、病院に行ったら盲腸だと言われた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "十二指腸",
+      "reading": "じゅうにしちょう",
+      "meaning": "小腸の最初の部分。胃から送られた食物が最初に到達し、消化液と混ざり合う。",
+      "example": "十二指腸潰瘍という病気は、胃から続くこの部分に傷ができる病気だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "敵": [
+    {
+      "jukugo": "敵国",
+      "reading": "てきこく",
+      "meaning": "敵対関係にある国。交戦状態にある国。",
+      "example": "かつての敵国と平和条約を結んだ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "敵意",
+      "reading": "てきい",
+      "meaning": "相手を敵とみなす気持ち。憎しみや恨みなどの感情。",
+      "example": "彼は私に敵意をむき出しにした。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "敵対",
+      "reading": "てきたい",
+      "meaning": "敵として相対すること。争い、対立すること。",
+      "example": "その二つの勢力は長年敵対していた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "敵地",
+      "reading": "てきち",
+      "meaning": "敵の支配下にある土地。敵の本拠地。",
+      "example": "偵察隊は敵地深く潜入した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "敵味方",
+      "reading": "てきみかた",
+      "meaning": "敵と味方。対立する両者。",
+      "example": "戦場では敵味方の区別がつかなくなることがある。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "俵": [
+    {
+      "jukugo": "土俵",
+      "reading": "どひょう",
+      "meaning": "相撲で力士が勝敗を争うために、わらで編んだ俵を土中に埋め、その上を粘土で固めて築いた円形の場所。",
+      "example": "力士が土俵の上で激しい取り組みを見せた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "俵物",
+      "reading": "たわらもの",
+      "meaning": "江戸時代、中国などへの輸出品として俵に詰めて出荷された海産物（フカヒレ、ナマコ、アワビなど）の総称。",
+      "example": "長崎貿易において俵物は重要な輸出品であった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "預": [
+    {
+      "jukugo": "預金",
+      "reading": "よきん",
+      "meaning": "金銭を銀行などの金融機関に預けること。また、その金銭。",
+      "example": "毎月、給与の一部を銀行口座に預金する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "預言",
+      "reading": "よげん",
+      "meaning": "神の意志を預かって、未来のことなどを人々に告げ知らせること。また、将来について推測して語ること。",
+      "example": "古代の預言書には、数多くの神秘的な記述が見られる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "預託",
+      "reading": "よたく",
+      "meaning": "物や金銭を預けて、その保管や管理を他人に任せること。",
+      "example": "証券会社に株式の運用を預託する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "預貯金",
+      "reading": "よちょきん",
+      "meaning": "金融機関への預金と、郵便局などへの貯金を合わせた総称。",
+      "example": "老後の生活に備え、預貯金を着実に積み立てる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
   ]
 };
 for (const k in autoData) {
