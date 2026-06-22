@@ -352,6 +352,17 @@ const autoData = {
       "addedDate": "2026-06-22",
       "addedBy": "local-dict"
     }
+  ],
+  "胃": [
+    {
+      "jukugo": "胃痛",
+      "reading": "いつう",
+      "meaning": "胃が痛むこと。",
+      "example": "ストレスで胃痛がする。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "local-dict"
+    }
   ]
 };
 for (const k in autoData) {
