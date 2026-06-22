@@ -9049,6 +9049,48 @@ const autoData = {
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
     }
+  ],
+  "山": [
+    {
+      "jukugo": "山道",
+      "reading": "さんどう",
+      "meaning": "山の中にある道のこと。",
+      "example": "山道はせまくて、気をつけて歩いた。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山林",
+      "reading": "さんりん",
+      "meaning": "山にある、たくさんの木が生えている場所。森。",
+      "example": "山林には、色々な動物が住んでいる。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火山",
+      "reading": "かざん",
+      "meaning": "地下から熱いマグマなどがふき出してできた山。",
+      "example": "有名な火山を見に、家族旅行に出かけた。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山登り",
+      "reading": "やまのぼり",
+      "meaning": "山に登ること。ハイキング。",
+      "example": "夏休みに友達と山登りをして、頂上まで行った。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山川",
+      "reading": "やまかわ",
+      "meaning": "山と川。自然の風景を表す言葉。",
+      "example": "日本の山川の景色はとても美しい。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
