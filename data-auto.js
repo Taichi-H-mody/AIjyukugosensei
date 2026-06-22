@@ -341,6 +341,17 @@ const autoData = {
       "meaning": "絹に描かれた美しい景色。",
       "example": "美術館で、色鮮やかな絹絵風景の展示を見ました。"
     }
+  ],
+  "異": [
+    {
+      "jukugo": "異議",
+      "reading": "いぎ",
+      "meaning": "反対の意見。",
+      "example": "その提案に異議はない。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "local-dict"
+    }
   ]
 };
 for (const k in autoData) {
