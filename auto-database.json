@@ -2751,6 +2751,30 @@
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
+    },
+    {
+      "jukugo": "劇団",
+      "reading": "げきだん",
+      "meaning": "演劇をする人たちが集まって活動するグループ。",
+      "example": "将来は**劇団**に入って、色々な役を演じてみたい。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演劇",
+      "reading": "えんげき",
+      "meaning": "舞台の上で役を演じて物語を見せること。芝居。",
+      "example": "文化祭でクラスの友達と**演劇**を発表することになった。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観劇",
+      "reading": "かんげき",
+      "meaning": "芝居や舞台を見ること。",
+      "example": "夏休みに初めて歌舞伎を**観劇**して、とても感動した。",
+      "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
     }
   ],
   "激": [
