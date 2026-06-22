@@ -11,6 +11,15 @@
       "reading": "さくせい",
       "meaning": "本棚に並べられたたくさんの本の様子を、星に例えて表現した言葉。",
       "example": "夜空に輝く冊星のように、私の部屋の本棚はたくさんの本で埋め尽くされている。"
+    },
+    {
+      "jukugo": "小冊",
+      "reading": "しょうさつ",
+      "meaning": "小さい本。",
+      "example": "小冊にまとめた詩集。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "腹": [
@@ -74,6 +83,15 @@
       "reading": "こうき",
       "meaning": "天皇の基礎。天皇の位。",
       "example": "皇基を盤石ならしめる。"
+    },
+    {
+      "jukugo": "皇帝",
+      "reading": "こうてい",
+      "meaning": "帝国を治める君主。",
+      "example": "古代ローマの皇帝について調べる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "俳": [
@@ -102,6 +120,15 @@
       "reading": "こうこうしん",
       "meaning": "親のために尽くそうとする、あたたかい気持ち。",
       "example": "弟は、おばあちゃんのことをいつも孝行心をもって大切にしている。"
+    },
+    {
+      "jukugo": "不孝",
+      "reading": "ふこう",
+      "meaning": "親を大切にしないこと。",
+      "example": "親不孝なまねはしたくない。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "暮": [
@@ -184,6 +211,15 @@
       "reading": "かっきょ",
       "meaning": "自分の勢力範囲を定め、そこで権力をふるうこと。",
       "example": "昔の日本には、各地で割拠する大名たちがいた。"
+    },
+    {
+      "jukugo": "割当",
+      "reading": "わりあて",
+      "meaning": "分けて配ること。",
+      "example": "それぞれの班に仕事を割当てる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "諸": [
@@ -212,6 +248,15 @@
       "reading": "おうごうのたから",
       "meaning": "王后が持つ特別な宝物や、それに匹敵するほど大切なもののこと。",
       "example": "その宝石は、まるで王后之宝のように輝いていました。"
+    },
+    {
+      "jukugo": "后妃",
+      "reading": "こうひ",
+      "meaning": "天子や王のきさき。",
+      "example": "后妃たちの華やかな衣装。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "鋼": [
@@ -226,6 +271,15 @@
       "reading": "こうばんへき",
       "meaning": "鋼鉄の板でできた、丈夫な壁のこと。",
       "example": "その建物は鋼板壁で守られており、とても頑丈そうだ。"
+    },
+    {
+      "jukugo": "特殊鋼",
+      "reading": "とくしゅこう",
+      "meaning": "特別な性質を持たせた鋼。",
+      "example": "自動車の部品に特殊鋼を使う。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "姿": [
@@ -240,6 +294,15 @@
       "reading": "すがたみ",
       "meaning": "自分の姿全体を映してみる鏡。",
       "example": "姿見の前で、今日の服が似合うかチェックしました。"
+    },
+    {
+      "jukugo": "後姿",
+      "reading": "うしろすがた",
+      "meaning": "後ろから見た人の姿。",
+      "example": "母の後姿を見送る。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "奏": [
@@ -254,6 +317,24 @@
       "reading": "そうしゃだましい",
       "meaning": "楽器などを演奏する人の、演奏にかける情熱や誇り。",
       "example": "あのバイオリニストは、奏者魂にあふれた演奏だった。"
+    },
+    {
+      "jukugo": "奏功",
+      "reading": "そうこう",
+      "meaning": "計画や策略などが成功すること。功を奏すること。",
+      "example": "長年の研究が奏功し、画期的な新技術が誕生した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "奏上",
+      "reading": "そうじょう",
+      "meaning": "天皇や貴人などの目上の人に文章や意見を申し上げること。",
+      "example": "古代の役人は、重要な事項を記した書状を帝に奏上した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "秘": [
@@ -324,6 +405,15 @@
       "reading": "そうほう",
       "meaning": "ある宗派の決まりや規律。また、その宗派の教えを守ること。",
       "example": "彼は宗法を大切にし、日々修行に励んでいる。"
+    },
+    {
+      "jukugo": "宗旨",
+      "reading": "しゅうし",
+      "meaning": "信仰している宗派の教えの根本となる精神や教義。また、その宗派そのもの。",
+      "example": "彼の家は代々、真言宗を宗旨としている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
     }
   ],
   "絹": [
@@ -372,5 +462,1051 @@
       "addedDate": "2026-06-22",
       "addedBy": "local-dict"
     }
-  ]
+  ],
+  "遺": [],
+  "域": [],
+  "宇": [],
+  "沿": [],
+  "恩": [],
+  "我": [],
+  "灰": [
+    {
+      "jukugo": "降灰",
+      "reading": "こうはい",
+      "meaning": "火山灰が降ること。",
+      "example": "桜島で降灰が観測された。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "拡": [],
+  "革": [],
+  "閣": [
+    {
+      "jukugo": "閣下",
+      "reading": "かっか",
+      "meaning": "身分の高い人を敬って呼ぶ言葉。",
+      "example": "大統領閣下がお見えになる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "株": [
+    {
+      "jukugo": "株式会社",
+      "reading": "かぶしきがいしゃ",
+      "meaning": "株式を発行して資金を集める会社。",
+      "example": "将来は株式会社を作りたい。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "干": [
+    {
+      "jukugo": "干潟",
+      "reading": "ひがた",
+      "meaning": "潮が引いたときに現れる砂や泥の場所。",
+      "example": "干潟で潮干狩りをする。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "巻": [
+    {
+      "jukugo": "絵巻物",
+      "reading": "えまきもの",
+      "meaning": "横に長い紙に絵や文を描いて巻いたもの。",
+      "example": "博物館で古い絵巻物を見る。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "海苔巻",
+      "reading": "のりまき",
+      "meaning": "ご飯を海苔で巻いたお寿司。",
+      "example": "お弁当に海苔巻を入れる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "圧巻",
+      "reading": "あっかん",
+      "meaning": "全体の中で最もすぐれている部分。",
+      "example": "彼の演技はまさに圧巻だった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "看": [],
+  "簡": [],
+  "危": [],
+  "揮": [],
+  "貴": [],
+  "疑": [
+    {
+      "jukugo": "疑念",
+      "reading": "ぎねん",
+      "meaning": "疑いの気持ち。",
+      "example": "彼の言葉に疑念を抱く。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "吸": [
+    {
+      "jukugo": "吸入",
+      "reading": "きゅうにゅう",
+      "meaning": "息と一緒に吸い込むこと。",
+      "example": "ぜんそくの薬を吸入する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "供": [
+    {
+      "jukugo": "自給自足",
+      "reading": "じきゅうじそく",
+      "meaning": "自分に必要なものを自分で作り出すこと。",
+      "example": "野菜を育てて自給自足の生活をする。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "胸": [
+    {
+      "jukugo": "胸像",
+      "reading": "きょうぞう",
+      "meaning": "胸から上だけを作った彫刻。",
+      "example": "校長先生の胸像が飾られている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "郷": [],
+  "勤": [
+    {
+      "jukugo": "勤務",
+      "reading": "きんむ",
+      "meaning": "会社などで仕事をすること。",
+      "example": "夜遅くまで勤務する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "勤労",
+      "reading": "きんろう",
+      "meaning": "心身を使って働くこと。",
+      "example": "勤労感謝の日に手紙を書く。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "筋": [
+    {
+      "jukugo": "大筋",
+      "reading": "おおすじ",
+      "meaning": "物事のだいたいの内容。",
+      "example": "計画の大筋が決定した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "系": [],
+  "敬": [],
+  "警": [],
+  "劇": [],
+  "激": [],
+  "穴": [],
+  "券": [],
+  "権": [],
+  "憲": [],
+  "源": [],
+  "厳": [],
+  "己": [
+    {
+      "jukugo": "自己流",
+      "reading": "じこりゅう",
+      "meaning": "自分なりのやり方。",
+      "example": "自己流の料理を作る。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "呼": [],
+  "誤": [],
+  "紅": [],
+  "降": [
+    {
+      "jukugo": "降伏",
+      "reading": "こうふく",
+      "meaning": "戦いに負けて相手に従うこと。",
+      "example": "敵の軍隊が降伏した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "刻": [
+    {
+      "jukugo": "刻印",
+      "reading": "こくいん",
+      "meaning": "金属や木に文字などを彫りつけること。",
+      "example": "指輪に名前を刻印する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "穀": [],
+  "骨": [
+    {
+      "jukugo": "骨董",
+      "reading": "こっとう",
+      "meaning": "古くて値打ちのある美術品や道具。",
+      "example": "骨董品を集めるのが趣味だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "困": [],
+  "砂": [],
+  "座": [],
+  "済": [],
+  "裁": [
+    {
+      "jukugo": "裁決",
+      "reading": "さいけつ",
+      "meaning": "物事のよしあしを判断して決めること。",
+      "example": "委員長が最終的な裁決を下す。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "策": [
+    {
+      "jukugo": "方策",
+      "reading": "ほうさく",
+      "meaning": "問題を解決するための計画や方法。",
+      "example": "問題解決の方策を練る。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "画策",
+      "reading": "かくさく",
+      "meaning": "ひそかに計画を立てて実行しようとすること。",
+      "example": "クーデターを画策する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "蚕": [
+    {
+      "jukugo": "春蚕",
+      "reading": "はるご",
+      "meaning": "春に飼う蚕。",
+      "example": "春蚕の世話で忙しい。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "至": [],
+  "私": [],
+  "視": [
+    {
+      "jukugo": "重視",
+      "reading": "じゅうし",
+      "meaning": "大事なものとして注目すること。",
+      "example": "安全性を重視して設計する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "詞": [],
+  "誌": [],
+  "磁": [],
+  "捨": [],
+  "尺": [
+    {
+      "jukugo": "尺貫法",
+      "reading": "しゃっかんほう",
+      "meaning": "日本で明治時代に制定され、昭和中期まで主に用いられた度量衡の単位系。長さの尺、体積の升、質量の貫を基本とする。",
+      "example": "昔の土地の広さは尺貫法で測られていた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "一尺",
+      "reading": "いっしゃく",
+      "meaning": "尺貫法における長さの単位。約30.3センチメートル。",
+      "example": "池の深さは一尺にも満たない。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "曲尺",
+      "reading": "かねじゃく",
+      "meaning": "大工などが用いる、直角に曲がった金属製の定規。ものさし。さしがね。",
+      "example": "大工が木材を測るのに曲尺を使った。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "若": [],
+  "樹": [
+    {
+      "jukugo": "果樹",
+      "reading": "かじゅ",
+      "meaning": "食用となる果実をつける木。",
+      "example": "この地域は果樹栽培が盛んで、多くの果物が収穫される。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "樹立",
+      "reading": "じゅりつ",
+      "meaning": "高く立てること。基礎を固めて確立すること。特に、抜きんでた記録を打ち立てること。",
+      "example": "彼はスポーツの世界で前人未到の記録を樹立した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "樹皮",
+      "reading": "じゅひ",
+      "meaning": "木の幹や枝の表面を覆う組織。コルク層など。",
+      "example": "樹皮の模様や色合いは、木の種類によって大きく異なる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "収": [
+    {
+      "jukugo": "回収",
+      "reading": "かいしゅう",
+      "meaning": "一度出したものを再び手元に集めたり、使い終わったものを集めたりすること。",
+      "example": "使用済みの乾電池を回収するボックスが設置されている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "収容",
+      "reading": "しゅうよう",
+      "meaning": "ある場所や施設に人や物をいれておくこと。",
+      "example": "避難所には多くの被災者が収容された。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "就": [],
+  "衆": [
+    {
+      "jukugo": "衆人",
+      "reading": "しゅうじん",
+      "meaning": "多くの人々。大勢の人。",
+      "example": "衆人の注目を浴びる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "衆議",
+      "reading": "しゅうぎ",
+      "meaning": "多くの人が集まって議論すること。また、その議論。",
+      "example": "衆議を尽くして方針を決定した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "衆生",
+      "reading": "しゅじょう",
+      "meaning": "仏語。生あるすべてのもの。人間をはじめとする、苦しみの世界に生きるすべての生き物。",
+      "example": "衆生済度を願う。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "従": [
+    {
+      "jukugo": "従前",
+      "reading": "じゅうぜん",
+      "meaning": "これまで通りであること。以前。従来。",
+      "example": "状況は従前と何ら変わっていない。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "主従",
+      "reading": "しゅじゅう",
+      "meaning": "主人と家来。主君と臣下。",
+      "example": "彼らの間には固い主従関係が築かれていた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "縦": [
+    {
+      "jukugo": "縦隊",
+      "reading": "じゅうたい",
+      "meaning": "縦に長く一列に並んだ隊形。縦陣。",
+      "example": "兵士が縦隊を組んで行進する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "縦走",
+      "reading": "じゅうそう",
+      "meaning": "山地の尾根伝いに歩き通すこと。",
+      "example": "北アルプスを縦走する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "縮": [
+    {
+      "jukugo": "収縮",
+      "reading": "しゅうしゅく",
+      "meaning": "縮んで小さくなること。また、縮めて小さくすること。",
+      "example": "寒い場所では血管が収縮する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "伸縮",
+      "reading": "しんしゅく",
+      "meaning": "伸びたり縮んだりすること。また、伸ばしたり縮めたりすること。",
+      "example": "このゴムは伸縮性があるので扱いやすい。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "熟": [
+    {
+      "jukugo": "熟考",
+      "reading": "じゅっこう",
+      "meaning": "物事をじっくりと深く考えること。",
+      "example": "重要な決断を下す前に、彼はその問題を熟考した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "成熟",
+      "reading": "せいじゅく",
+      "meaning": "十分に成長し、完成すること。または、精神的に円熟すること。",
+      "example": "この地域の果物は、太陽の光を浴びて成熟する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "純": [
+    {
+      "jukugo": "純粋",
+      "reading": "じゅんすい",
+      "meaning": "まじりけがなく、けがれのないこと。また、そのさま。",
+      "example": "純粋な気持ちで物事に取り組む。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "処": [
+    {
+      "jukugo": "処置",
+      "reading": "しょち",
+      "meaning": "物事に対して適切な手段をとること。手当てすること。",
+      "example": "怪我人に適切な応急処置を施す。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "処方",
+      "reading": "しょほう",
+      "meaning": "医師が患者に与える薬の種類や量、服用法などを指示すること。また、その内容。",
+      "example": "医師から新しい風邪薬を処方してもらった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "署": [
+    {
+      "jukugo": "署長",
+      "reading": "しょちょう",
+      "meaning": "警察署や消防署など、「署」と名のつく機関の長。その組織の最高責任者。",
+      "example": "新しく赴任してきた署長が、朝礼で職員に挨拶をした。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "除": [
+    {
+      "jukugo": "除去",
+      "reading": "じょきょ",
+      "meaning": "邪魔なものや汚れているものなどを取り除くこと。",
+      "example": "庭の雑草を除去する作業をする。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "控除",
+      "reading": "こうじょ",
+      "meaning": "ある金額から一定の金額を差し引くこと。",
+      "example": "給料から社会保険料が控除される。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "将": [],
+  "傷": [
+    {
+      "jukugo": "傷害",
+      "reading": "しょうがい",
+      "meaning": "人の体に傷を負わせること。また、その傷。",
+      "example": "いじめは、相手の心に深い傷害を与える行為だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "損傷",
+      "reading": "そんしょう",
+      "meaning": "物などが傷つき、その機能が損なわれること。",
+      "example": "強い台風で、家の屋根が大きく損傷した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "傷心",
+      "reading": "しょうしん",
+      "meaning": "悲しみや失望などで心が深く傷つくこと。",
+      "example": "大切なペットが亡くなり、彼女は傷心の毎日を送っていた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "火傷",
+      "reading": "やけど",
+      "meaning": "熱いものに触れたり、火に近づいたりして皮膚を傷つけること。",
+      "example": "熱いお湯をこぼして、指に軽い火傷をしてしまった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "蒸": [
+    {
+      "jukugo": "蒸気",
+      "reading": "じょうき",
+      "meaning": "液体が熱せられて気体になったもの。特に、水が沸騰して生じる水蒸気のこと。",
+      "example": "やかんで湯が沸き、口から白い蒸気が勢いよく噴き出した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "蒸留",
+      "reading": "じょうりゅう",
+      "meaning": "液体を加熱して蒸発させ、その蒸気を冷却して再び液体に戻す操作。これにより不純物を取り除いたり、成分を分離したりする。",
+      "example": "海水から真水を得るために、特別な装置を使って蒸留を行った。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "蒸籠",
+      "reading": "せいろ",
+      "meaning": "竹や木を編んで作られた、食べ物を蒸すための容器。蒸し器の一種。",
+      "example": "蒸籠で肉まんを蒸すと、ふっくらとして一層美味しくなる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "蒸飯",
+      "reading": "むしめし",
+      "meaning": "もち米などを蒸して作った飯。おこわ。または、飯を温め直すために蒸したもの。",
+      "example": "お祝いの席で、栗と小豆が入った温かい蒸飯が振る舞われた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "針": [
+    {
+      "jukugo": "針鼠",
+      "reading": "はりねずみ",
+      "meaning": "体の背部が硬い針状の毛で覆われた哺乳類。",
+      "example": "夜、庭の物陰から針鼠がひょっこり現れた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "針魚",
+      "reading": "さより",
+      "meaning": "ダツ目サヨリ科の海水魚。体が細長く、下あごが針のように突き出ている。",
+      "example": "釣り上げたばかりの新鮮な針魚を刺身で味わった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "仁": [
+    {
+      "jukugo": "仁者",
+      "reading": "じんしゃ",
+      "meaning": "仁徳のある人。慈愛に満ちた人。",
+      "example": "孔子は仁者を理想の人物像として説いた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "垂": [
+    {
+      "jukugo": "垂下",
+      "reading": "すいか",
+      "meaning": "垂れ下がること。また、垂れ下げること。",
+      "example": "柳の枝が水面に垂下している。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "垂涎",
+      "reading": "すいぜん",
+      "meaning": "非常に欲しがること。涎を垂らす意から。",
+      "example": "店のショーケースに並んだケーキに垂涎の眼差しを向けた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "推": [
+    {
+      "jukugo": "推移",
+      "reading": "すいい",
+      "meaning": "時がたつにつれて、物事のようすが移り変わっていくこと。",
+      "example": "グラフで人口の推移を調べる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "寸": [
+    {
+      "jukugo": "寸志",
+      "reading": "すんし",
+      "meaning": "心ばかりのわずかな贈り物。また、その心遣い。",
+      "example": "日頃のお礼として、心ばかりの寸志を包んだ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "寸評",
+      "reading": "すんぴょう",
+      "meaning": "わずかな言葉で、ある物事について批評すること。また、その批評。",
+      "example": "先生は、生徒たちの作品にそれぞれ短い寸評を添えた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "盛": [
+    {
+      "jukugo": "盛況",
+      "reading": "せいきょう",
+      "meaning": "催し物や商売などが、非常ににぎわっていること。",
+      "example": "地元の夏祭りは連日大盛況だった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "盛夏",
+      "reading": "せいか",
+      "meaning": "夏の最も暑い時期。",
+      "example": "盛夏の候、皆様いかがお過ごしでしょうか。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "聖": [
+    {
+      "jukugo": "聖母",
+      "reading": "せいぼ",
+      "meaning": "神聖な母。特に、キリスト教でイエス・キリストの母マリアを指す尊称。",
+      "example": "教会の祭壇には、慈愛に満ちた表情の聖母像が安置されている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "誠": [
+    {
+      "jukugo": "誠心",
+      "reading": "せいしん",
+      "meaning": "偽りのない心。まごころ。",
+      "example": "お客様の信頼を得るために、誠心をもって接することが大切だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "舌": [
+    {
+      "jukugo": "舌先",
+      "reading": "したさき",
+      "meaning": "舌の先端。また、口先だけの言葉や、言おうとしてまだ言い表せない寸前のところ。",
+      "example": "彼は舌先三寸で人を丸め込むのが得意だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "舌苔",
+      "reading": "ぜったい",
+      "meaning": "舌の表面に付着する白い苔状のもの。舌のあか。",
+      "example": "体調が優れないと舌苔が厚くなることがある。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "舌禍",
+      "reading": "ぜっか",
+      "meaning": "失言や口論など、言葉が原因となって起こる災い。",
+      "example": "大臣の不用意な発言が舌禍を招いた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "舌鋒",
+      "reading": "ぜっぽう",
+      "meaning": "議論や批判の言葉の鋭さ。言い立てる勢い。",
+      "example": "弁護士は鋭い舌鋒で相手を追い詰めた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "宣": [
+    {
+      "jukugo": "宣戦",
+      "reading": "せんせん",
+      "meaning": "戦争を開始することを、国家が公に相手国や国際社会に表明すること。",
+      "example": "かつて、多くの国が互いに宣戦を布告し合った。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "専": [
+    {
+      "jukugo": "専売",
+      "reading": "せんばい",
+      "meaning": "特定の品物を、特定の者だけが独占して販売すること。また、その品物。",
+      "example": "たばこはかつて国の専売品であった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "専心",
+      "reading": "せんしん",
+      "meaning": "一つの事に心を集中して打ち込むこと。専念。",
+      "example": "彼は論文執筆に専心し、深夜まで机に向かっていた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "洗": [
+    {
+      "jukugo": "洗顔",
+      "reading": "せんがん",
+      "meaning": "顔を洗うこと。",
+      "example": "朝、鏡の前で丁寧に洗顔する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "染": [
+    {
+      "jukugo": "染色",
+      "reading": "せんしょく",
+      "meaning": "繊維や布などを染料で色づけること。また、その方法や色合い。",
+      "example": "染色工場を見学する。美しい染色が施された着物。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "善": [],
+  "窓": [
+    {
+      "jukugo": "同窓",
+      "reading": "どうそう",
+      "meaning": "同じ学校で学んだこと。また、同じ学校を卒業した人。",
+      "example": "久しぶりに同窓の友人と旧交を温めた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "出窓",
+      "reading": "でまど",
+      "meaning": "建物の壁面から外に突き出すように作られた窓。",
+      "example": "部屋の出窓に小さな花瓶を飾った。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "創": [
+    {
+      "jukugo": "創業",
+      "reading": "そうぎょう",
+      "meaning": "事業を新しく始めること。",
+      "example": "父は三十年前にこの会社を創業した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "創刊",
+      "reading": "そうかん",
+      "meaning": "新聞・雑誌などを初めて刊行すること。",
+      "example": "その月刊誌は来月創刊される予定だ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "装": [
+    {
+      "jukugo": "改装",
+      "reading": "かいそう",
+      "meaning": "建物などの内外を改め造り直すこと。",
+      "example": "老朽化した店舗を全面改装する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "層": [
+    {
+      "jukugo": "上層",
+      "reading": "じょうそう",
+      "meaning": "物事の上の部分や段階。また、社会の上位の階層。",
+      "example": "水温は海の深くなるにつれて、上層から下層へと変化する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "操": [
+    {
+      "jukugo": "情操",
+      "reading": "じょうそう",
+      "meaning": "物事に対する感情や道徳的な感覚。美的・倫理的な感情。",
+      "example": "芸術に触れることは、豊かな情操を育む上で大切である。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "貞操",
+      "reading": "ていそう",
+      "meaning": "道徳的に純粋で清らかな行い。特に、女性が結婚前の性的な純潔を守ること。",
+      "example": "彼女は高い倫理観を持ち、自分の貞操を重んじて生きてきた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "蔵": [
+    {
+      "jukugo": "冷蔵",
+      "reading": "れいぞう",
+      "meaning": "低温を保って物を保存すること。",
+      "example": "牛乳は冷蔵庫で冷蔵する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "収蔵",
+      "reading": "しゅうぞう",
+      "meaning": "物を収集し、保管すること。",
+      "example": "博物館の収蔵品は多岐にわたる。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "内蔵",
+      "reading": "ないぞう",
+      "meaning": "機器などの内部に組み込まれていること。",
+      "example": "このパソコンには無線LAN機能が内蔵されている。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "臓": [
+    {
+      "jukugo": "五臓",
+      "reading": "ごぞう",
+      "meaning": "漢方医学で、人体の主要な五つの臓器、すなわち肝・心・脾・肺・腎の総称。",
+      "example": "**五臓**六腑にしみわたるような、温かいお茶を飲んだ。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "臓腑",
+      "reading": "ぞうふ",
+      "meaning": "臓と腑の総称。転じて、からだ全体。また、心の奥底。",
+      "example": "彼の言葉は私の**臓腑**をえぐるようだった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "存": [],
+  "尊": [
+    {
+      "jukugo": "尊師",
+      "reading": "そんし",
+      "meaning": "先生を敬って呼ぶ語。僧侶に対する敬称としても使う。",
+      "example": "尊師は、私たちに多くの教えを授けてくださった。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "退": [
+    {
+      "jukugo": "引退",
+      "reading": "いんたい",
+      "meaning": "職務や公の活動から身を引くこと。",
+      "example": "長年のキャリアを終え、彼はついに引退を発表した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "退職",
+      "reading": "たいしょく",
+      "meaning": "職務を辞めること。勤めていた会社や組織を辞めること。",
+      "example": "定年を迎え、彼は昨年会社を退職した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "宅": [],
+  "担": [
+    {
+      "jukugo": "分担",
+      "reading": "ぶんたん",
+      "meaning": "複数の人が仕事や費用などを分け合って受け持つこと。",
+      "example": "みんなで役割を分担して、文化祭の準備を進めました。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "探": [
+    {
+      "jukugo": "探険",
+      "reading": "たんけん",
+      "meaning": "危険を冒して未開の地や未知の場所へ行き、探し調べること。",
+      "example": "少年たちは、夏の休みに近所の森へ探険に出かけた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    },
+    {
+      "jukugo": "探索",
+      "reading": "たんさく",
+      "meaning": "行方不明のものや隠されたものを探し求めること。また、未知の事柄を調べ求めること。",
+      "example": "警察は、手がかりを求めて容疑者の自宅を探索した。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "誕": [
+    {
+      "jukugo": "再誕",
+      "reading": "さいたん",
+      "meaning": "一度死んだ者が再び生まれること。また、一度衰えたものが再び活力を得ること。",
+      "example": "チームは苦境を乗り越え、不死鳥のごとく再誕を遂げた。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "段": [
+    {
+      "jukugo": "一段",
+      "reading": "いちだん",
+      "meaning": "①数や程度が一つ上の段階であること。②（多く「一段と」の形で）さらに程度が深まるさま。",
+      "example": "今日は昨日より一段と冷え込む。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "force-all"
+    }
+  ],
+  "暖": []
 }
