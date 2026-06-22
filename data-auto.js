@@ -363,6 +363,17 @@ const autoData = {
       "addedDate": "2026-06-22",
       "addedBy": "local-dict"
     }
+  ],
+  "延": [
+    {
+      "jukugo": "圧延",
+      "reading": "あつえん",
+      "meaning": "金属を押しつぶしてのばすこと。",
+      "example": "鉄の圧延工場を見学する。",
+      "grade": 6,
+      "addedDate": "2026-06-22",
+      "addedBy": "local-dict"
+    }
   ]
 };
 for (const k in autoData) {
