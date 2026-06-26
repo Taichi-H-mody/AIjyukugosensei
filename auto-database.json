@@ -11165,5 +11165,31 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "編": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の文字の一つで、中国から伝わった文字。",
+      "example": "漢字のテストで、ひらがなを漢字に直す問題が出ました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などのように、漢字で表した数字。",
+      "example": "時計の文字盤には、漢数字が書かれているものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べるための辞書。",
+      "example": "知らない漢字が出てきたら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
