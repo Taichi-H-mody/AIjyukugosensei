@@ -12027,5 +12027,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "好": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う文字で、中国から伝わったものです。",
+      "example": "ぼくは漢字をかくのが得意です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字を使って書く数字のことです。",
+      "example": "日記を書くときは漢数字を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物や動物など自然のものを材料にして作る薬や治療法のことです。",
+      "example": "おばあちゃんは漢方薬を飲んでいます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "「漢」は中国、「和」は日本のことで、漢和辞典のように中国の文字（漢字）を日本の言葉に直して説明する時に使います。",
+      "example": "漢字の意味を調べるときは、漢和辞典を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "中国の昔の言葉（漢字）で書かれた文章のことです。",
+      "example": "歴史の教科書で漢文を見かけました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
