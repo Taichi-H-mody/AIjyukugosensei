@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="AI熟語先生 - 漢字一文字を入力するとAIが熟語を自動生成し、意味と例文を表示します。">
+    <meta name="description" content="AI熟語先生 - 漢字一文字を入力するとAIが熟語を自動生成し、意味と例文を表示します">
     <title>AI熟語先生</title>
     <link rel="stylesheet" href="style.css">
 </head>
@@ -13,57 +13,41 @@
     <main class="container">
         <header class="app-header">
             <div class="header-icon">📖</div>
-            <h1 class="app-title" id="app-title">AI熟語先生</h1>
-            <p class="app-subtitle">漢字一文字から、熟語の世界を広げよう</p>
+            <h1>AI熟語先生</h1>
+            <p>漢字一文字から、関連する熟語をAIが自動生成します</p>
         </header>
 
-
-
-        <!-- Search Section -->
-        <section class="search-section" id="search-section">
+        <section class="search-section">
             <div class="input-group">
-                <label for="kanji-input" class="input-label">漢字を一文字入力してください（小学校で習う漢字）</label>
-                <div class="input-wrapper">
-                    <input type="text" id="kanji-input" class="kanji-input" maxlength="1" placeholder="例：誠" autocomplete="off">
-                </div>
-                <button id="generate-btn" class="generate-btn" onclick="generateJukugo()">
-                    <span class="btn-icon">🖌️</span>
-                    <span>熟語を生成する</span>
-                </button>
-                <p id="error-msg" class="error-msg" role="alert"></p>
+                <input type="text" id="kanji-input" placeholder="漢字を一文字入力してください (例: 海)" maxlength="1">
+                <button id="search-btn">熟語を生成する</button>
             </div>
+            <div id="error-msg" class="error-msg hidden"></div>
         </section>
 
-        <!-- Kanji Grid -->
-        <details class="kanji-grid-wrap" id="kanji-grid-wrap">
-            <summary class="kanji-grid-toggle">📋 学年を選んで漢字を探す</summary>
-            <div class="grade-selector-wrap" style="text-align: center; margin: 15px 0;">
-                <select id="grade-select" class="grade-select" onchange="updateKanjiGrid()">
-                    <option value="">-- 学年を選択 --</option>
-                    <option value="1年生">1年生（80字）</option>
-                    <option value="2年生">2年生（160字）</option>
-                    <option value="3年生">3年生（200字）</option>
-                    <option value="4年生">4年生（202字）</option>
-                    <option value="5年生">5年生（193字）</option>
-                    <option value="6年生">6年生（191字）</option>
-                </select>
-            </div>
-            <div class="kanji-grid" id="kanji-grid">
-                <p style="color: #94a3b8; text-align: center; padding: 20px;">学年を選ぶと漢字が表示されます</p>
-            </div>
-        </details>
+        <section id="loading-state" class="loading-state hidden">
+            <div class="spinner"></div>
+            <p>AIが熟語を生成中...</p>
+        </section>
 
-        <!-- Results Section -->
-        <section class="results-section" id="results-section" aria-live="polite">
-            <div id="results-container" class="results-container"></div>
+        <section id="results-section" class="results-section hidden">
+            <h2 id="results-title">「<span id="target-kanji"></span>」の熟語</h2>
+            <div id="jukugo-grid" class="jukugo-grid">
+                <!-- Results will be dynamically inserted here -->
+            </div>
+            
+            <div class="action-buttons">
+                <button id="reset-btn" class="secondary-btn">もう一度検索する</button>
+            </div>
         </section>
     </main>
 
     <footer class="app-footer">
-        <p>© 2026 AI熟語先生 ｜ Powered by Gemini AI</p>
+        <p>&copy; 2026 AI熟語先生 Powered by Gemini AI</p>
     </footer>
 
-    <script src="kanji-list.js"></script>
+    <!-- Database Scripts -->
+    <script src="data-auto.js"></script>
     <script src="data-1.js"></script>
     <script src="data-2.js"></script>
     <script src="data-3.js"></script>
@@ -76,7 +60,8 @@
     <script src="data-extra-4.js"></script>
     <script src="data-extra-5.js"></script>
     <script src="data-extra-6.js"></script>
-    <script src="data-auto.js"></script>
-    <script src="script.js"></script>
+    
+    <!-- Application Logic -->
+    <script src="main.js"></script>
 </body>
 </html>
