@@ -8955,5 +8955,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "予": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、ひらがなやカタカナと一緒に日本語を書くときに使う文字のこと。",
+      "example": "新しい漢字を覚えるのは楽しいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などのように、漢字で書く数字のこと。",
+      "example": "時計の文字盤には漢数字が使われていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書のこと。",
+      "example": "漢字の宿題でわからない字は、漢和辞典で調べます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "植物や動物、鉱物などを組み合わせて作る、昔からある日本の薬のこと。",
+      "example": "お腹が痛いとき、おばあちゃんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれだけ知っているか、力をためすテストのこと。",
+      "example": "来月の漢字検定に向けて、毎日勉強しています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
