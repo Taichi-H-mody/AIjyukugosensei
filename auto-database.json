@@ -10825,5 +10825,31 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "養": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "物事や言葉を表すために使う文字のこと。中国から日本に伝わった文字で、ひらがなやカタカナとは違う形をしています。",
+      "example": "今日の漢字の宿題は、新しい漢字を五つ練習することです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一」「二」「三」のように、漢字の形をした数字のことです。",
+      "example": "時計の文字盤には、漢数字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書のことです。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
