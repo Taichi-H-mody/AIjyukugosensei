@@ -11123,5 +11123,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "残": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われます。",
+      "example": "わたしは毎日、漢字の練習をします。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べる「漢和辞典」の略です。",
+      "example": "わからない漢字があったら、漢和辞典で調べよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔から中国に伝わる、植物など自然のものを使った薬や治療法のことです。",
+      "example": "風邪をひいた時、お母さんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の文章のことです。学校で勉強することがあります。",
+      "example": "歴史の授業で、古い漢文を読む勉強をしました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔、中国で作られた詩のことです。美しい言葉で自然などを表現します。",
+      "example": "国語のじかんで、きれいな漢詩を読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
