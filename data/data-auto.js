@@ -9373,6 +9373,32 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "民": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使う文字の一つだよ。ひらがなやカタカナとちがって、一つ一つに意味があるんだ。",
+      "example": "せんせいは、ホワイトボードにきれいな漢字を書いた。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三…のように、数字を漢字で書いたものだよ。",
+      "example": "昔の時計には、漢数字が使われているものが多いね。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、正しい使い方を調べるための本のことだよ。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
