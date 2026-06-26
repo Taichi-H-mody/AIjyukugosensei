@@ -10921,6 +10921,32 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "印": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる文字の一つで、中国から伝わりました。",
+      "example": "日本の文章には、ひらがな、カタカナ、漢字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のことです。",
+      "example": "時計の文字盤には、漢数字が書かれているものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などが詳しく載っている辞書です。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
