@@ -9083,6 +9083,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "課": [
+    {
+      "jukugo": "日曜日",
+      "reading": "にちようび",
+      "meaning": "一週間のうち、土曜日の次の日です。学校や会社が休みになることが多いです。",
+      "example": "日曜日は家族で公園に行きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "一日も休まず、全ての日。",
+      "example": "毎日、学校で新しいことを学びます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "仕事や学校が休みの日。",
+      "example": "明日は休日なので、ゆっくり寝たいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日記",
+      "reading": "にっき",
+      "meaning": "その日の出来事や思ったことを書き残すノートや記録。",
+      "example": "今日の楽しかった出来事を日記に書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日付",
+      "reading": "ひづけ",
+      "meaning": "年月日を表すものです。",
+      "example": "手紙を書くときに、今日の日付を入れます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
