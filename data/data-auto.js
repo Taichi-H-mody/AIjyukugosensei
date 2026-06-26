@@ -12275,6 +12275,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "側": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる文字の一つで、中国から伝わったもの。",
+      "example": "小学校では、学年ごとに新しい漢字を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一（いち）、二（に）、三（さん）のように、漢字で書く数字のこと。",
+      "example": "日付を書くときは、漢数字を使うことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べるための辞書。",
+      "example": "初めて見る漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力を試すための試験。",
+      "example": "私は漢字検定の合格を目指して、毎日勉強しています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "国語を書き表すときに、一般的に使われる漢字として国が定めているもの。",
+      "example": "小学校で習う漢字の多くは、常用漢字です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
