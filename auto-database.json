@@ -9311,5 +9311,23 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "機": [
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力をためすテストで、合格すると級がもらえるよ。",
+      "example": "漢字検定に合格するために、毎日こつこつ勉強しているんだ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "社会でふつうに使われる、基本的な漢字のこと。",
+      "example": "小学校で習う漢字は、ほとんどが常用漢字だよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
