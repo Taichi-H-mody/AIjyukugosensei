@@ -10499,6 +10499,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "喜": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の言葉を書くときに使う、中国からきた文字です。",
+      "example": "小学校では、毎日新しい漢字を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一」「二」「三」のように、漢字を使って数を表す書き方です。",
+      "example": "テストの時に、答えを漢数字で書く問題が出ました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆と墨を使って、文字をきれいに書く練習をすることです。",
+      "example": "習字の時間は、集中して漢字を丁寧に書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号のことです。ひらがなやカタカナ、漢字も文字の仲間です。",
+      "example": "世界にはたくさんの国があり、それぞれに違う文字を使っています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字が組み合わさってできた言葉のことです。",
+      "example": "国語の授業で、漢字の熟語をたくさん勉強しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
