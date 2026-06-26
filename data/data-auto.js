@@ -10381,6 +10381,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "謝": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使う文字のこと。ひらがなやカタカナとは違う。",
+      "example": "わたしは漢字のべんきょうがすきです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "漢字で書かれた数字のこと。「一、二、三」など。",
+      "example": "さいふの中に漢数字で「千円」と書いてあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などがのっている辞典のこと。",
+      "example": "わからない漢字があったら、漢和辞典でしらべましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれだけ知っているかためす試験のこと。",
+      "example": "ぼくはつぎの漢字検定で三級をとるためにがんばっています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔、中国で作られた詩のこと。日本では、それをまねて作った詩も言う。",
+      "example": "学校の国語のじゅぎょうで、有名な漢詩をべんきょうしました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
