@@ -11405,6 +11405,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "歴": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語の表記に使われる文字。",
+      "example": "日本語の文章には、ひらがな、カタカナ、漢字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。",
+      "example": "この絵本は文字が大きく、小さい子でも読みやすいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "古代中国語の文章。",
+      "example": "昔の偉い人は、漢文をよく勉強していました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "字を上手に書く練習をすること。書道。",
+      "example": "私は毎週、習字教室に通って、きれいな字を書く練習をしています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "古代中国で生まれた詩のこと。",
+      "example": "国語の授業で、有名な漢詩を声に出して読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
