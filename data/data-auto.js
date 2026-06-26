@@ -12155,6 +12155,24 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "郡": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、日本の文字と一緒に使われます。",
+      "example": "国語の授業で、新しい漢字をたくさん覚えました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で書く数字のことです。",
+      "example": "テストの回答は、漢数字で書いてくださいと先生に言われました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
