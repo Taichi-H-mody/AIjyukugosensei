@@ -8939,6 +8939,24 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "常": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の文字。",
+      "example": "日本にはたくさんの漢字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "よく使われる、国が定めた漢字のこと。",
+      "example": "小学校では、常用漢字を少しずつ習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
