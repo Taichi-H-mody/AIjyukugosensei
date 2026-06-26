@@ -11193,6 +11193,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "改": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる、中国から伝わった文字です。",
+      "example": "「漢字の書き順をていねいに練習しました。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べるための本（辞典）です。",
+      "example": "「知らない漢字は漢和辞典で調べてみよう。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字を使って数を表す書き方です。",
+      "example": "「時計の文字盤には漢数字が使われています。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "昔から中国に伝わる、植物などを材料にした体の調子を整える薬のことです。",
+      "example": "「おばあちゃんが風邪のときに漢方薬を飲んでいたよ。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や使い方をためす、色々なレベルのテストのことです。",
+      "example": "「漢字検定に合格するために、毎日勉強をがんばっています。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
