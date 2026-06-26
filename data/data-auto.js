@@ -11531,6 +11531,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "述": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の言葉を書き表すのに使う文字のこと。",
+      "example": "今日習った漢字を、ノートにたくさん練習した。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み方や書き方、意味などをどれだけ知っているかテストする試験。",
+      "example": "来月の漢字検定に合格するために、毎日勉強をがんばっている。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、書き順などを調べるための辞書。",
+      "example": "意味のわからない漢字があったら、漢和辞典を引いて調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書く数字のこと。",
+      "example": "時計の文字盤には、漢数字で時間が書いてあるものもある。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "昔から中国に伝わる考え方に基づいて作られた薬で、植物などが材料になっていることが多い。",
+      "example": "おじいちゃんは体調が悪いとき、漢方薬を飲むことがある。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
