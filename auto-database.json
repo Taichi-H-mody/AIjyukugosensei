@@ -10783,5 +10783,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "令": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。ひらがなやカタカナと一緒に使います。",
+      "example": "今日の国語の時間に、新しい漢字を習いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号です。ひらがな、カタカナ、漢字などがあります。",
+      "example": "世界にはたくさんの種類の文字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "手本を見て、正しい字の書き方を練習することです。筆や鉛筆を使って行います。",
+      "example": "毎週土曜日に習字教室に通っています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字引",
+      "reading": "じびき",
+      "meaning": "言葉や文字の意味、読み方などを調べるための本です。辞書とも言います。",
+      "example": "分からない漢字があったら、字引で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大文字",
+      "reading": "おおもじ",
+      "meaning": "アルファベットで使われる大きな文字のことです。また、日本語では「っ」や「ゃ」のように小さく書かない、普通の大きさの文字を指すこともあります。",
+      "example": "英語の文は、いつも大文字で書き始めます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
