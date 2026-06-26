@@ -9475,6 +9475,40 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "囲": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われる、中国から伝わった文字のことだよ。ひらがなやカタカナとはちがうね。",
+      "example": "今日の国語の時間に、新しい漢字をたくさん習ったよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書く数字のことだよ。算数で使う数字とは少し書き方が違うね。",
+      "example": "カレンダーには、漢数字で「一月」と書いてあることがあるよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるときに使う、漢字がたくさん集まった本のことを言うよ。",
+      "example": "知らない漢字が出てきたから、漢和辞典で調べてみたよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国でつくられた、決まった形がある詩のことだよ。日本の文学でも親しまれているんだ。",
+      "example": "おじいちゃんは漢詩を読むのが好きで、よく声に出して読んでくれるんだ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
