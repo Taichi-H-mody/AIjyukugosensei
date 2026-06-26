@@ -9329,5 +9329,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "英": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われる、中国から来た文字のこと。ひらがなやカタカナと一緒に使われます。",
+      "example": "新しい漢字をノートにたくさん練習しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一」「二」「三」のように、漢字で書く数字のこと。",
+      "example": "カレンダーには、漢数字で日付が書かれているものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べることができる本。",
+      "example": "宿題でわからない漢字があったら、漢和辞典で調べます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国から伝わった、植物や動物、鉱物などを材料にした、体に優しい薬のこと。",
+      "example": "お腹が痛いとき、おばあちゃんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の言葉で書かれた文章のこと。中学校や高校の国語で勉強します。",
+      "example": "テレビの歴史ドラマで、漢文のような古い文章を見かけました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
