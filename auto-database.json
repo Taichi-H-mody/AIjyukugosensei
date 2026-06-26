@@ -12239,5 +12239,39 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "希": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使う文字の一つで、中国から伝わったものです。",
+      "example": "わたしたちは、毎日、国語の時間に漢字を勉強します。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "漢字を使った数字のことです。「一、二、三」などがあります。",
+      "example": "時計の文字盤には、漢数字で時間が書かれていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれだけ知っているかをしらべる試験のことです。",
+      "example": "お兄ちゃんは、夏休みに漢字検定の勉強をがんばっていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字の線のかずや、線を書く順番のことです。",
+      "example": "この漢字は字画が多いので、書くのが少しむずかしいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
