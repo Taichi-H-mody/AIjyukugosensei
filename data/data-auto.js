@@ -11023,6 +11023,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "測": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う、中国から伝わった文字です。一つ一つの漢字には意味があります。",
+      "example": "新しい漢字を覚えるのが得意です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるために使う辞書のことです。「漢」は漢字、「和」は日本語を意味します。",
+      "example": "わからない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で表す数のことです。",
+      "example": "カレンダーにはアラビア数字と漢数字が書いてあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "植物や動物の材料を使って、体の調子を整えるための昔ながらの薬や治療法のことです。",
+      "example": "体があたたまるように、お母さんが漢方薬をくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で作られた詩、または中国の詩の形式にならって作られた詩のことです。教科書にも出てきます。",
+      "example": "国語の授業で、有名な漢詩を音読しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
