@@ -9527,6 +9527,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "得": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。ひらがなやカタカナと合わせて使われます。",
+      "example": "ぼくは、小学校で習う漢字をぜんぶ読めるようになりたいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれくらい知っているかをためすしけんのことです。",
+      "example": "漢字検定で良い点数を取るために、毎日がんばって勉強しています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べることができる本です。",
+      "example": "読めない漢字が出てきたときは、漢和辞典で調べるとすぐにわかります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔から中国に伝わる、草や木の実などを使った体にもやさしい薬や治療のことです。",
+      "example": "おばあちゃんは、風邪をひいたときに漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国で作られた詩（うた）のことです。短い言葉で美しい景色や気持ちを表しています。",
+      "example": "国語の授業で、有名な漢詩を声に出して読んでみました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
