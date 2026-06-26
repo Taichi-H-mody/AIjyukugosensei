@@ -12357,5 +12357,39 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "司": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われている文字の一つで、中国から伝わりました。一つ一つの文字に意味があります。",
+      "example": "今日は新しい漢字を五つ覚えました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字を使って数を表す書き方のことです。",
+      "example": "日本の和時計には、漢数字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国の昔からの考え方にもとづいて作られた薬で、植物の根や葉などを組み合わせて作られます。",
+      "example": "お腹の調子が悪いとき、おばあちゃんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べることができる本のことです。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
