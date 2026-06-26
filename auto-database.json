@@ -12069,5 +12069,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "幹": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語を書くときに使う文字のこと。",
+      "example": "日本人はひらがな、カタカナ、漢字を使って文章を書きます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書かれる数字のこと。",
+      "example": "時間を数えるときは「一つ、二つ」と漢数字を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるための辞典（漢和辞典）などで使われる言葉。",
+      "example": "漢字の読み方が分からないときは、漢和辞典で調べると便利です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔、中国で作られたり、中国の作り方にならって作られた詩のこと。",
+      "example": "有名な漢詩を読んで、昔の人の気持ちを考えてみました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔から中国や日本に伝わる、草や木など自然のものを材料にした薬や治療法のこと。",
+      "example": "風邪をひいたとき、お医者さんが漢方薬を出してくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
