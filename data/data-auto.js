@@ -10583,6 +10583,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "械": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われている、中国から伝わった文字です。絵のような形からできたものも多いよ。",
+      "example": "「にほん」を「日本」と書くのが、漢字だよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国の昔からの知恵を使った、体にやさしいお薬や治療法のこと。",
+      "example": "体をあたためる漢方薬は、風邪の時に飲むことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の読み方や意味がわかる、特別な辞書のこと。（漢和辞典として使われることが多いです。）",
+      "example": "漢字のことがたくさん書いてある「漢和辞典」は、漢字博士になるための大事な本だよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書かれた数字のこと。",
+      "example": "時計の文字盤に漢数字が使われているものもあるよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国で生まれ、日本にも伝わった詩のこと。自然や気持ちを歌っていることが多いよ。",
+      "example": "教科書で有名な「春眠暁を覚えず」という文は、漢詩の一つだよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
