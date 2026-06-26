@@ -9041,6 +9041,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "参": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉の表記に用いられるもの。",
+      "example": "小学校で漢字を習い始めた。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などのように、数を表すのに使う漢字。",
+      "example": "テストの答えに漢数字で日付を書いた。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の読み方や意味、書き順などが書かれている本。",
+      "example": "分からない漢字は漢字辞典で調べよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字が組み合わさってできた言葉。",
+      "example": "今日の国語の授業では、新しい熟語をたくさん覚えた。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "国語を書き表すときに使う漢字として、国が定めた漢字のこと。",
+      "example": "小学校から中学校で常用漢字のほとんどを習う。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
