@@ -11337,6 +11337,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "径": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う文字の一つで、中国から伝わりました。",
+      "example": "新しい漢字を覚えるのは楽しいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "草や木など自然のものを材料にして作られる、昔から伝わる中国の薬や治療法です。",
+      "example": "おじいちゃんは体調が悪いと、漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "韓国",
+      "reading": "かんこく",
+      "meaning": "日本のすぐ西にある国の一つです。正式な名前は「大韓民国」です。",
+      "example": "地図を見ると、韓国は日本ととても近いことがわかります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書のことです。",
+      "example": "わからない漢字が出てきたら、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の知識や使い方をためす「日本漢字能力検定」というテストのことです。",
+      "example": "ぼくは漢字が得意なので、将来漢検を受けてみたいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
