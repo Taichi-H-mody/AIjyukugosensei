@@ -11867,6 +11867,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "輪": [
+    {
+      "jukugo": "栄光",
+      "reading": "えいこう",
+      "meaning": "輝かしい名誉や成功。",
+      "example": "チームは優勝して栄光をつかんだ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "繁栄",
+      "reading": "はんえい",
+      "meaning": "豊かで栄えること。さかえること。",
+      "example": "その国は経済的に大きく繁栄している。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栄養",
+      "reading": "えいよう",
+      "meaning": "生物が活動に必要な物質を取り入れて成長すること。また、その物質。",
+      "example": "バランスの取れた栄養が大切です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栄える",
+      "reading": "さかえる",
+      "meaning": "勢いが盛んになる。富み、盛んになる。",
+      "example": "昔はこの村ももっと栄えていたそうです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栄転",
+      "reading": "えいてん",
+      "meaning": "前よりも良い地位や役職に変わること。",
+      "example": "お父さんが東京へ栄転することになりました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
