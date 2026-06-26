@@ -10989,6 +10989,40 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "位": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる文字で、中国から伝わったもの。一つ一つの文字が意味を持っている。",
+      "example": "今日は新しい漢字を5つ覚えました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などのように、漢字で書かれる数字のこと。",
+      "example": "お皿を数えるときに漢数字を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わった言葉や、漢字を組み合わせて作られた言葉。",
+      "example": "学校や先生は漢語です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれだけ知っているかを試す試験のこと。",
+      "example": "今年の目標は漢字検定に合格することです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
