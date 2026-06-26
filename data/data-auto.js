@@ -9253,6 +9253,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "必": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われる文字の一つです。",
+      "example": "漢字をきれいに書く練習をしました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のことです。",
+      "example": "お札には漢数字が書いてあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音読み",
+      "reading": "おんよみ",
+      "meaning": "漢字が中国から伝わったときの読み方です。例えば「山」は「サン」と読みます。",
+      "example": "漢字には音読みと訓読みがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "訓読み",
+      "reading": "くんよみ",
+      "meaning": "漢字の意味にあわせて、日本のもともとの言葉をあてた読み方です。例えば「山」は「やま」と読みます。",
+      "example": "訓読みの言葉は、ひらがなの送り仮名があることが多いです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書です。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
