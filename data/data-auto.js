@@ -10019,6 +10019,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "可": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書き表すのに使う、中国から伝わった文字。",
+      "example": "今日、新しい漢字を五つ習いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、成り立ちなどを調べるための本。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "昔から中国に伝わる、草や木の実などを使ったお薬。",
+      "example": "風邪をひいたとき、お母さんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "漢字で書く数字のこと。「一、二、三」など。アラビア数字（１、２、３）と区別して使う。",
+      "example": "用紙には漢数字で「一、二、三」と書きましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔、中国で作られた詩や、その作り方にならって日本で作られた詩。",
+      "example": "国語の教科書に、有名な漢詩が載っていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
