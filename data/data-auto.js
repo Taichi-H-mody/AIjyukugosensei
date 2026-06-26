@@ -8921,6 +8921,24 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "職": [
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力をはかる試験。",
+      "example": "漢字検定に合格するために、たくさん漢字を覚えました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための本。",
+      "example": "わからない漢字は漢字辞典で調べると便利です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
