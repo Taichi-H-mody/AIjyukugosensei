@@ -11571,5 +11571,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "利": [
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "勉強したり遊んだりするところ",
+      "example": "私は毎日、元気に学校へ行きます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "一緒に遊んだり話したりする仲良しの相手",
+      "example": "公園で友達と鬼ごっこをしました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時間",
+      "reading": "じかん",
+      "meaning": "ものの進みぐあいをはかるもの。また、あることにかかる長さ",
+      "example": "朝ごはんを食べる時間だよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "一日も休まず、ずっと続くこと",
+      "example": "私は毎日、歯をみがきます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勉強",
+      "reading": "べんきょう",
+      "meaning": "本を読んだり問題を解いたりして、新しいことを学ぶこと",
+      "example": "宿題の勉強をがんばります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
