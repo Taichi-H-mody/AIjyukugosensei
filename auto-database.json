@@ -8877,5 +8877,47 @@
       "addedDate": "2026-06-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "属": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文章にも使われています。",
+      "example": "小学校では、たくさんの漢字を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書かれた数字のこと。",
+      "example": "たて書きの文章では、漢数字を使うことが多いです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "「日本漢字能力検定」の略で、漢字の知識をためすテスト。",
+      "example": "友達が漢検の8級に合格して、とても喜んでいました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔、中国で作られた詩のこと。日本でも読まれています。",
+      "example": "国語の授業で、有名な漢詩を読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
