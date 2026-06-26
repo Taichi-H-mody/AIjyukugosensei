@@ -9703,5 +9703,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "栄": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語で使われる文字。",
+      "example": "日本語は漢字、ひらがな、カタカナを使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。",
+      "example": "友達に手紙を、きれいな文字で書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "物の数や量を表す記号。",
+      "example": "時計の数字は1から12まであります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字の線を書く順番や、その線の数。",
+      "example": "漢字を習う時は、字画を正しく書きましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字と日本語に関すること。特に、漢字の意味や読み方を調べる辞典の名前によく使われます。",
+      "example": "漢字の意味を調べる時は、漢和辞典を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
