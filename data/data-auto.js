@@ -10103,6 +10103,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "略": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる文字で、中国から伝わったものです。",
+      "example": "日本の文章には、ひらがな、カタカナ、漢字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった昔ながらの薬や治療法のことです。植物など天然のものを材料にします。",
+      "example": "おなかの調子が悪いとき、お医者さんが漢方薬を出してくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方、使い方を調べるための「漢和辞典」というものがあります。",
+      "example": "漢字の書き順を調べるときは、漢和辞典を使います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の言葉で作られた詩のことです。日本の人も作りました。",
+      "example": "国語の授業で、有名な漢詩をみんなで読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字を使った数字のことです。",
+      "example": "時計の文字盤に漢数字が書かれているものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
