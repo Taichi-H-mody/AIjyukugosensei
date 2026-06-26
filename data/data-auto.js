@@ -9399,6 +9399,40 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "約": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本の言葉を表すのに使われる文字。",
+      "example": "今日は新しい漢字を五つ習いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から日本に伝わった言葉や、それを元にして作られた言葉。",
+      "example": "日本語の言葉には、漢語がたくさんあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった考え方にもとづく、体に良い薬や治療の方法。",
+      "example": "おばあちゃんは漢方薬を飲んで元気になりました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で昔から作られてきた詩のこと。",
+      "example": "昔の偉い人は、漢詩をたくさん作りました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
