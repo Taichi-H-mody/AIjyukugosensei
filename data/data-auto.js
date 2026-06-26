@@ -9211,6 +9211,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "芽": [
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を表す記号。ひらがなや漢字、アルファベットなどがあります。",
+      "example": "世界には色々な国の「文字」があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って字をきれいに書く練習。",
+      "example": "小学校の「習字」の時間に、筆と墨を使いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書く数字。",
+      "example": "時計の文字盤には「漢数字」が書かれていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使う、中国から伝わった文字。",
+      "example": "小学校では、毎日新しい「漢字」を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための本。",
+      "example": "わからない漢字があったら、「漢字辞典」で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
