@@ -11909,6 +11909,32 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "飯": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の表記に使われます。",
+      "example": "日本語の文章は、ひらがな、カタカナ、漢字で書かれています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "日本語を学習する教科のことです。漢字の読み書きも学びます。",
+      "example": "国語のじかんは、新しい漢字をたくさん習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のことです。",
+      "example": "漢数字の「十」は、棒が横に一本と縦に一本で書きます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
