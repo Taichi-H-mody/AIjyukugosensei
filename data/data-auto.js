@@ -10541,6 +10541,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "率": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語を書くときに使われます。ひらがなやカタカナと合わせて使われることが多いです。",
+      "example": "日本語の文章には、ひらがな、カタカナ、漢字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から日本に伝わった言葉のことです。日本語の中には、もともと日本にあった言葉と、中国から来た言葉があります。",
+      "example": "「学校」や「電車」などの言葉は、漢語です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って病気を治す昔からの方法です。体の中から元気にする考え方です。",
+      "example": "風邪をひいたとき、おばあちゃんが漢方薬を飲んでいました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "漢字を使って書かれた詩のことです。中国で作られたものや、日本人が漢字を使って作ったものがあります。",
+      "example": "国語の授業で、古い漢詩を声に出して読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、熟語などを調べることができる辞書です。漢字を詳しく知りたいときに使います。",
+      "example": "漢字の書き順や意味がわからないときは、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
