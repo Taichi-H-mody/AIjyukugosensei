@@ -10271,6 +10271,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "敗": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を書くときに使われます。",
+      "example": "日本語には、ひらがな、カタカナ、漢字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一（いち）」「二（に）」「三（さん）」のように、漢字を使って表す数字です。",
+      "example": "時計の文字盤には、漢数字が書かれているものもあるよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための本です。",
+      "example": "知らない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って体の調子を整える方法や薬のことです。",
+      "example": "おじいちゃんが、体の調子が悪いときに漢方薬を飲むのを見たことがあるよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の言葉や書き方で作られた詩のことです。日本の文化にも影響を与えました。",
+      "example": "学校の国語の授業で、昔の有名な漢詩を読むことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
