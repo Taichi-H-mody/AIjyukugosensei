@@ -11655,5 +11655,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "版": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われます。",
+      "example": "漢字を毎日れんしゅうして、たくさん書けるようになりました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方がわかる本です。",
+      "example": "むずかしい漢字の意味を調べるために、漢和辞典を使いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から日本に伝わり、日本語になった言葉です。",
+      "example": "「勉強」や「学校」など、日本語にはたくさんの漢語があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国の昔からの考え方に基づいた薬や治療のことです。",
+      "example": "風邪をひいたとき、お医者さんから漢方を出してもらいました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の読み書きの力がどれくらいあるか試すテストのことです。",
+      "example": "今年の漢検で、一つ上の級に合格できるようにがんばります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
