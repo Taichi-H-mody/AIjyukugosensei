@@ -9745,5 +9745,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "覚": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われる文字。",
+      "example": "日本の小学校では、たくさんの新しい漢字を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方、使い方などを調べるための辞書（漢和辞典）のこと。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などのように、漢字で書かれる数字。",
+      "example": "縦書きの文章では、漢数字を使うことが多いです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物など天然のものを材料にして病気を治す方法や薬のこと。",
+      "example": "おばあちゃんは、風邪のときに漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の言葉で作られた詩。または、中国の詩の作り方にならって日本で作られた詩。",
+      "example": "歴史の教科書で、昔の人が作った漢詩を読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
