@@ -10465,6 +10465,40 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "破": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本で使われている文字。ひらがなやカタカナと一緒に使われます。",
+      "example": "日本語の文章には、漢字、ひらがな、カタカナが使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味、読み方、書き順などを調べるための辞書。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って、文字をきれいに書く練習をすること。",
+      "example": "習字の時間に、大きな紙に自分の名前を漢字で書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字盤",
+      "reading": "もじばん",
+      "meaning": "時計の針や数字、記号が書かれている面。",
+      "example": "この時計の文字盤には、漢数字が書いてあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
