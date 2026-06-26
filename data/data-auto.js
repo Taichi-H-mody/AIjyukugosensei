@@ -9823,6 +9823,24 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "治": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語で使われている文字のことです。",
+      "example": "新しい漢字を覚えるのが得意です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "日本で普段使う漢字として、国が定めた漢字のことです。",
+      "example": "小学校で習う漢字の多くは、常用漢字に入っています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
