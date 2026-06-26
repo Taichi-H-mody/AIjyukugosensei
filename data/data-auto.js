@@ -11741,6 +11741,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "飛": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。",
+      "example": "宿題で覚えた漢字をノートに練習しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字を使って書く数字のことです。",
+      "example": "カレンダーには漢数字で日付が書いてあるものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、書き順などを調べるための辞書です。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国から伝わった、植物などを原料にした体にやさしい薬のことです。",
+      "example": "お医者さんが、体にやさしい漢方薬を出してくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で昔から作られてきた詩のことです。日本でも作られました。",
+      "example": "国語の授業で、昔の漢詩を読みました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
