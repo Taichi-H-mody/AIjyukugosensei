@@ -10311,5 +10311,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "象": [
+    {
+      "jukugo": "工事",
+      "reading": "こうじ",
+      "meaning": "建物などを建てたり直したりする作業のこと。",
+      "example": "学校の新しいプールの工事が始まりました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工場",
+      "reading": "こうじょう",
+      "meaning": "物を作るための建物や場所のこと。",
+      "example": "お父さんの働いている工場を見学しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工夫",
+      "reading": "くふう",
+      "meaning": "良い方法を考えたり、もっとよくなるように考えたりすること。",
+      "example": "もっと早く宿題を終わらせるために、工夫しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大工",
+      "reading": "だいく",
+      "meaning": "家を建てたり修理したりする仕事を専門にする人のこと。",
+      "example": "大工さんが、木を使って丈夫な家を建てていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工業",
+      "reading": "こうぎょう",
+      "meaning": "物を作る産業のこと。機械などを使ってたくさんの物を作る仕事。",
+      "example": "日本の工業は、車や電化製品などで有名です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
