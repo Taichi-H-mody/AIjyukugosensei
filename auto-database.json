@@ -9975,5 +9975,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "順": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。ひらがなやカタカナと一緒に使われます。",
+      "example": "わたしは漢字を勉強するのが好きです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の知識や使い方をためすテストです。小学校でも挑戦する人がたくさんいます。",
+      "example": "漢字をたくさん覚えて、漢検にちょうせんしたいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物や動物など自然の力を使った昔ながらの薬や治療法です。",
+      "example": "風邪をひいたとき、漢方薬を飲むお家もあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書です。",
+      "example": "新しい漢字を習ったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "漢字で書かれた数字のことです。一、二、三などがそうです。",
+      "example": "漢数字の一から十までを正しく書けますか？",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
