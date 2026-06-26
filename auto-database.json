@@ -10421,5 +10421,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "康": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語の文字の一つで、中国から伝わった文字。",
+      "example": "国語のじかんに、新しい漢字をたくさん習いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から来た言葉。漢字で作られた言葉。",
+      "example": "日本語の中には、昔から使われている漢語がたくさんあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の詩。漢字を使って書かれた詩。",
+      "example": "おじいちゃんが好きな漢詩をよんでくれました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字を書くときの線の数や、その一つ一つの線。",
+      "example": "この漢字は字画が多くて、書くのがむずかしいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表す記号。ひらがなやカタカナ、漢字など。",
+      "example": "世界には、いろいろな文字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
