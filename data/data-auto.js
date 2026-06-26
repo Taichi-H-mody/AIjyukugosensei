@@ -9875,6 +9875,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "費": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われている、中国からきた文字のこと。",
+      "example": "小学生は毎日、漢字の練習をします。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。ひらがなやカタカナ、漢字などがある。",
+      "example": "この本には、大きな文字で書いてあるから読みやすい。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表す文字。１、２、３などのこと。",
+      "example": "時計の数字を読んで、何時か調べました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "きれいな字を書く練習をすること。筆と墨を使うことが多い。",
+      "example": "毎週、習字のじゅぎょうがあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小文字",
+      "reading": "こもじ",
+      "meaning": "ひらがなの「あ」や、英語の「a」のように、小さい書き方の文字。",
+      "example": "英語には、大文字と小文字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
