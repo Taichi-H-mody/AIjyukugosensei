@@ -12113,6 +12113,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "旧": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵がたくさん描いてある本。",
+      "example": "妹は**絵本**を読むのが大好きです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一円",
+      "reading": "いちえん",
+      "meaning": "日本のお金で、一番小さい単位の硬貨。",
+      "example": "お財布に**一円**玉が５枚入っていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅前",
+      "reading": "えきまえ",
+      "meaning": "駅の建物の前の場所。",
+      "example": "**駅前**で友達と待ち合わせをしました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠足",
+      "reading": "えんそく",
+      "meaning": "小学校などで、みんなで少し遠い場所へ行く行事。",
+      "example": "来週の**遠足**がとても楽しみです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水泳",
+      "reading": "すいえい",
+      "meaning": "水の中で体を使って移動すること。",
+      "example": "夏には学校のプールで**水泳**をします。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
