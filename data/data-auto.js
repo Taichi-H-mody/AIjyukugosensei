@@ -9433,6 +9433,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "共": [
+    {
+      "jukugo": "日記",
+      "reading": "にっき",
+      "meaning": "毎日あった出来事などを書き記したもの。",
+      "example": "夏休みに毎日日記をつけたよ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "学校や会社が休みの日。",
+      "example": "休日は家族と公園に行った。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "どんな日も、一日一日。",
+      "example": "毎日学校で友達と遊ぶのが楽しみだ。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日の出",
+      "reading": "ひので",
+      "meaning": "太陽が空に現れること。",
+      "example": "早起きして日の出を見た。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "生まれた日。",
+      "example": "明日は弟の誕生日だから、ケーキを用意しよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
