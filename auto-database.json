@@ -9507,5 +9507,23 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "票": [
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書く数字のこと。",
+      "example": "時計の文字盤には漢数字が使われているものもあるね。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方などがのっている辞書。",
+      "example": "知らない漢字が出てきたら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
