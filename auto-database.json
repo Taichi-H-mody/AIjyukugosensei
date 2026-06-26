@@ -10227,5 +10227,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "識": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語でも使われる表意文字のこと。",
+      "example": "日本語は、ひらがな、カタカナ、漢字を使って書きます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で表す数字のこと。",
+      "example": "テストの点数を漢数字で書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物や動物などを原料とする薬のこと。",
+      "example": "熱が出た時、お医者さんから漢方のお薬をもらいました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "漢字を使って作られた、中国の伝統的な詩のこと。",
+      "example": "図書館で漢詩の本を読んで、昔の中国の文化を学びました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方などを調べるための辞書のこと。",
+      "example": "わからない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
