@@ -10947,6 +10947,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "案": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語の文章で使われる文字。",
+      "example": "日本語の文章には、漢字がたくさん使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号やしるし。",
+      "example": "手紙を書くときは、ていねいな文字で書くようにしましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆などを使って、文字を上手に書く練習。",
+      "example": "学校の習字の時間に、大きな筆で自分の名前を書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族の名前。姓（せい）。",
+      "example": "わたしの名字は鈴木です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方を調べるための本。",
+      "example": "新しい漢字の読み方がわからなかったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
