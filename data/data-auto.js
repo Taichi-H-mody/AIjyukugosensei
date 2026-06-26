@@ -11825,6 +11825,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "因": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語で使われている文字のことです。",
+      "example": "私は新しい漢字を覚えるのが好きです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "漢字を使って作られた言葉のことです。日本語の言葉にはたくさんあります。",
+      "example": "「学校」や「先生」は漢語の例です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で、漢字だけで書かれた文章のことです。",
+      "example": "お寺には、古い漢文が書かれた石碑がありました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔から中国や日本で伝わる、植物などを使って病気を治す方法や薬のことです。",
+      "example": "おばあちゃんは体に優しい漢方薬を飲んでいます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国で、漢字を使って作られた詩のことです。",
+      "example": "歴史の授業で、有名な漢詩について勉強しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
