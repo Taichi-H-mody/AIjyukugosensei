@@ -9645,6 +9645,32 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "紀": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使う、中国から伝わった文字のこと。ひらがなやカタカナとちがって、一つの文字で意味を表すことが多いです。",
+      "example": "わたしは漢字のべんきょうがすきです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "小学校で日本語の読み方や書き方、文の作り方、漢字などを学ぶ時間のこと。",
+      "example": "わたしのいちばんすきなきょうかは、国語です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "ふでを使って字をきれいに書く練習のこと。小学校の授業でもやります。",
+      "example": "きょうの習字の時間で、大きな「山」という字を書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
