@@ -8997,5 +8997,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "像": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の文字の一つです。",
+      "example": "この文にはたくさんの漢字が使われています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "漢字の音読みを組み合わせて作られた言葉です。",
+      "example": "「学校」や「教室」は漢語の例です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように漢字で書く数字のことです。",
+      "example": "算数の宿題で、漢数字を使って答えを書きました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のことです。",
+      "example": "国語の授業で漢文の読み方を勉強しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、草木など自然のものを使った昔ながらの医学や薬のことです。",
+      "example": "体が弱い時、お医者さんから漢方薬をもらいました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
