@@ -11489,6 +11489,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "徳": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、今の日本語でも使われている文字のこと。",
+      "example": "小学生は毎日新しい漢字を習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。",
+      "example": "自分の気持ちを文字で伝えるのは大切です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を書き表すための記号。0、1、2などのこと。",
+      "example": "時計の数字を読んで時間を知ります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "美しい字を書く練習をすること。書写のこと。",
+      "example": "習字の時間は、筆を使ってていねいに字を書きます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活字",
+      "reading": "かつじ",
+      "meaning": "本や新聞などに使われている、印刷するための文字のこと。",
+      "example": "この本は活字が大きくて読みやすいです。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
