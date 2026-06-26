@@ -11445,5 +11445,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "救": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、日本の言葉を表すのに使われます。ひらがなやカタカナと組み合わせて使います。",
+      "example": "算数の時間には数字の漢字を習いました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べるための本です。",
+      "example": "分からない漢字があったので、漢和辞典で意味を調べました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、数字を表す漢字のことです。「アラビア数字」と区別して使われます。",
+      "example": "古い時計の文字盤には漢数字が書かれていました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のことです。読み方を工夫して、日本の言葉のようにして読みます。",
+      "example": "歴史の本で、難しそうな漢文の文章を見つけました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆と墨を使って、文字をきれいに書く練習のことです。",
+      "example": "夏休みの宿題で習字の作品を作りました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
