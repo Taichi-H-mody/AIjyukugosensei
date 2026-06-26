@@ -10751,6 +10751,40 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "型": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われる文字の一つで、中国から伝わったものです。",
+      "example": "小学校で新しい漢字をたくさん勉強します。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書かれる数字のことです。",
+      "example": "時計の文字盤には漢数字が使われているものもあります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方などを調べるための辞書です。",
+      "example": "知らない漢字が出てきたら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国から伝わった考え方にもとづいて作られた薬で、植物や動物などが使われています。",
+      "example": "お医者さんで漢方薬をもらって、風邪を治しました。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
