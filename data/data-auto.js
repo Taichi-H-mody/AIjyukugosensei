@@ -11083,6 +11083,48 @@ const autoData = {
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "久": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、意味と読み方があります。日本の言葉を表すのに使われます。",
+      "example": "私は毎日、学校で新しい漢字を習っています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号のこと。漢字やひらがな、カタカナなどがあります。",
+      "example": "世界にはいろいろな文字があります。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字を書くときの線のこと。線の数や、書く順番を表すときにも使われます。",
+      "example": "漢字の字画を正しく数えるのは、とても大切です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "日本でよく使われる、決まった数の漢字のことです。新聞や本を読むときに必要です。",
+      "example": "小学校で習う漢字は、ほとんどが常用漢字です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方などを調べることができる本です。",
+      "example": "漢字の宿題でわからないことがあったら、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
