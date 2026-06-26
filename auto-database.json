@@ -10623,5 +10623,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "労": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文字としても使われています。",
+      "example": "「漢字をきれいに書く練習をしました。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で書く数字のことです。",
+      "example": "「時計の文字盤には漢数字が使われています。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べる「漢和辞典」という本の名前に使われます。",
+      "example": "「知らない漢字が出てきたら、漢和辞典で調べましょう。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった医学の考え方や、それにもとづく薬のことです。",
+      "example": "「おばあちゃんは漢方のお茶を飲んでいます。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で作られた詩のことです。日本の古典文学にも影響を与えました。",
+      "example": "「国語の時間に、有名な漢詩を読みました。」",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
