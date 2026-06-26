@@ -11697,5 +11697,47 @@
       "addedDate": "2026-06-26",
       "addedBy": "discord-agent"
     }
+  ],
+  "札": [
+    {
+      "jukugo": "小学生",
+      "reading": "しょうがくせい",
+      "meaning": "小学校に通っている子どものこと。",
+      "example": "私は元気な小学生です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で勉強を教えてくれたり、困ったときに助けてくれる人のこと。",
+      "example": "先生のお話をよく聞きましょう。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "生まれた日のこと。お祝いをする日。",
+      "example": "明日は私のお誕生日です。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "命がある動物や植物などのこと。",
+      "example": "公園にはたくさんの生き物がいます。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生野菜",
+      "reading": "なまやさい",
+      "meaning": "火を通していない、そのままの野菜のこと。",
+      "example": "サラダには新鮮な生野菜が入っています。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
   ]
 }
