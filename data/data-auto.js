@@ -9351,7 +9351,48 @@ const autoData = {
     }
   ],
   "勢": [],
-  "益": [],
+  "益": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文章でも使われます。",
+      "example": "学校で漢字をべんきょうするのは、むずかしいけど楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号です。ひらがなやカタカナ、漢字などがあります。",
+      "example": "この絵本は、大きな文字で書かれているので読みやすいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って、字を正しく美しく書く練習のことです。",
+      "example": "習字の時間に、先生に字の書き方を教えてもらいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字引",
+      "reading": "じびき",
+      "meaning": "言葉の意味や使い方を調べるための本で、辞書のことです。",
+      "example": "漢字の意味がわからないときは、字引で調べます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苗字",
+      "reading": "みょうじ",
+      "meaning": "名前の一部で、家族で共通して使う名前です。名字とも書きます。",
+      "example": "わたしの苗字は「田中」です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "型": [
     {
       "jukugo": "漢字",
