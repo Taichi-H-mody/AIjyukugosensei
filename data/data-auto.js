@@ -8902,7 +8902,48 @@ const autoData = {
   "芽": [],
   "必": [],
   "害": [],
-  "機": [],
+  "機": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵がたくさん描いてあって、物語を読んで楽しむ本。",
+      "example": "お母さんが寝る前に絵本を読んでくれた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くときに使う、色がついた材料。",
+      "example": "図工の時間に絵の具で大きな絵を描いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵日記",
+      "reading": "えにっき",
+      "meaning": "毎日の出来事を、絵と短い文で書く日記。",
+      "example": "夏休みは毎日、楽しかったことを絵日記につけている。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵画",
+      "reading": "かいが",
+      "meaning": "絵を描くこと。また、描かれた絵のこと。",
+      "example": "美術館には有名な人の絵画がたくさん飾ってあった。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "油絵",
+      "reading": "あぶらえ",
+      "meaning": "油絵の具を使って描いた絵。色が重なって立体感があるのがとくちょう。",
+      "example": "油絵は、筆のあとが残っていて力強い感じがした。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "英": [],
   "民": [],
   "約": [],
