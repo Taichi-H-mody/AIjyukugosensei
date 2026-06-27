@@ -11669,5 +11669,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "仮": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文字の一つです。",
+      "example": "小学校でたくさんの漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わった言葉のことです。日本語の中には漢語がたくさんあります。",
+      "example": "「学校」や「勉強」は漢語の言葉です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のことです。",
+      "example": "歴史の授業で漢文の読み方を少し習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、草や木など自然のものを材料にした昔ながらの薬や治療法のことです。",
+      "example": "風邪をひいたとき、漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるための辞書のことです。「漢和辞典」と使われます。",
+      "example": "知らない漢字の意味を漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
