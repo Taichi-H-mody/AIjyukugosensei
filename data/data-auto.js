@@ -9087,7 +9087,48 @@ const autoData = {
       "addedBy": "discord-agent"
     }
   ],
-  "可": [],
+  "可": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語を書くときに使います。",
+      "example": "漢字を丁寧に書きましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のことです。",
+      "example": "時計の文字盤に漢数字が使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、書き順などを調べることができる辞書です。",
+      "example": "漢字の宿題でわからない字は、漢和辞典で調べます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や使い方をためす試験のことです。",
+      "example": "私は漢字検定の合格をめざして勉強しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の詩で、漢字を使ってリズムよく書かれています。",
+      "example": "国語の授業で有名な漢詩を読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "官": [],
   "略": [],
   "漁": [],
