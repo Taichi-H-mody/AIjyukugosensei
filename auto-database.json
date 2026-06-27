@@ -9998,5 +9998,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "評": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の文章によく使われます。",
+      "example": "日本語の文章には、ひらがな、カタカナ、そして漢字が使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号のことです。",
+      "example": "お手紙は、きれいな文字で書くように心がけましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表すための記号のことです。",
+      "example": "算数の問題で、数字の書きまちがいをしてしまいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "毛筆を使って字をきれいに書く練習をすることです。",
+      "example": "学校の習字の時間に、筆で自分の名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、昔から中国で使われている数の表し方です。",
+      "example": "時計の文字盤には、漢数字で時間が書かれていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
