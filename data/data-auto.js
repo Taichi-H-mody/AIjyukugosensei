@@ -9482,6 +9482,40 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "卒": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の文字の一つ。中国から伝わった文字で、ひらがなやカタカナと組み合わせて使われるよ。",
+      "example": "小学校では、毎日新しい漢字をべんきょうするね。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一（いち）、二（に）、三（さん）のように、漢字で書く数字のことだよ。",
+      "example": "時計の文字盤には、漢数字が使われているものもあるよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の読み方、書き方、意味などを調べるときに使う本のこと。",
+      "example": "わからない漢字があったら、漢字辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のこと。日本の昔のえらい人も、漢文を読んでべんきょうしたんだ。",
+      "example": "学校ではまだ習わないけど、漢文は昔の中国の文章のことだよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
