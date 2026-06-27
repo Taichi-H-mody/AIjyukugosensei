@@ -12568,6 +12568,32 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "巣": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う文字の一つで、中国から伝わったものです。",
+      "example": "新しい漢字を覚えるのは少し難しいけれど、楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一（いち）、二（に）、三（さん）のように、漢字で書く数字のことです。",
+      "example": "漢数字の「十」と「千」は形が似ています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力をはかるために行われる全国的な試験のことです。",
+      "example": "お兄ちゃんは、漢字検定の五級に合格してとても喜んでいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
