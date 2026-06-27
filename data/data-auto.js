@@ -11755,6 +11755,40 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "単": [
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わった言葉のこと。日本語の言葉の種類のひとつです。",
+      "example": "「電気」や「鉛筆」などは漢語です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のこと。",
+      "example": "歴史の授業で漢文を勉強しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で昔から作られてきた詩のこと。",
+      "example": "有名な漢詩を読んで、その美しさに感動しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べることができる辞書のこと。",
+      "example": "知らない漢字が出てきたら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
