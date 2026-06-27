@@ -9917,6 +9917,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "厚": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う文字で、中国から伝わったものです。",
+      "example": "宿題で漢字をたくさん練習しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字を使って数を表す書き方です。",
+      "example": "小テストで自分の名前を漢数字で書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べる「漢和辞典」という本でよく使われます。",
+      "example": "読めない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物など自然のものを材料にした体に優しい薬や治療法のことです。",
+      "example": "お腹が痛いとき、お母さんが漢方の薬を飲ませてくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢服",
+      "reading": "かんぷく",
+      "meaning": "中国の昔からある伝統的な服のことです。",
+      "example": "テレビで、きれいな漢服を着た人が踊っていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
