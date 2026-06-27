@@ -11627,5 +11627,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "億": [
+    {
+      "jukugo": "水曜日",
+      "reading": "すいようび",
+      "meaning": "１週間の中で火曜日の次の日です。",
+      "example": "来週の水曜日は遠足です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水筒",
+      "reading": "すいとう",
+      "meaning": "飲み物を入れて持ち運ぶための容器です。",
+      "example": "遠足には水筒を持って行きます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海水",
+      "reading": "かいすい",
+      "meaning": "海の中にある、しょっぱい水のことです。",
+      "example": "海の海水はとてもしょっぱいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水道",
+      "reading": "すいどう",
+      "meaning": "家に水を届けるための設備や、蛇口から出る水のことです。",
+      "example": "手を洗うときは水道の水を使いましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水泳",
+      "reading": "すいえい",
+      "meaning": "プールや海で泳ぐことです。",
+      "example": "夏休みは学校のプールで水泳の授業があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
