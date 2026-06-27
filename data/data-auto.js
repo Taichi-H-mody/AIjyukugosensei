@@ -11212,6 +11212,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "雑": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う、中国から伝わった文字。",
+      "example": "漢字の書き順を間違えないように気をつけましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように漢字で書く数字のこと。",
+      "example": "時計の文字盤には、漢数字が書かれているものもあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方などを調べるための辞典。",
+      "example": "漢字が分からなかったので、漢和辞典で調べてみました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のこと。",
+      "example": "歴史の教科書に、昔の中国の漢文がのっていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って体をととのえる医学や薬。",
+      "example": "風邪をひいたとき、お母さんが漢方の薬を飲んでいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
