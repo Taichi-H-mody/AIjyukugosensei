@@ -9357,6 +9357,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "然": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本で使われている文字のこと。",
+      "example": "日本の文章には、ひらがな、カタカナ、漢字が使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すために使う記号。ひらがなやカタカナ、漢字など。",
+      "example": "世界には色々な種類の文字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆（ふで）を使って文字をきれいに書く練習。",
+      "example": "小学校の習字の時間に、筆の正しい持ち方を習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字が組み合わさってできた言葉。",
+      "example": "「運動会」は「運」「動」「会」の三つの漢字からできた熟語です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書。",
+      "example": "知らない漢字が出てきたら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
