@@ -12361,6 +12361,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "枝": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵がたくさん描かれた本。主に子ども向け。",
+      "example": "寝る前に、お母さんが絵本を読んでくれた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くための色つきの材料。",
+      "example": "絵の具を使って、きれいな虹を描いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵画",
+      "reading": "かいが",
+      "meaning": "絵を描いた作品。美術の絵。",
+      "example": "美術館で、有名な画家の絵画を見た。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵描き",
+      "reading": "えかき",
+      "meaning": "絵を描く人。画家。",
+      "example": "将来は絵描きになって、楽しい絵をたくさん描きたい。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵日記",
+      "reading": "えにっき",
+      "meaning": "絵と文章で毎日のできごとを記録する日記。",
+      "example": "夏休みの宿題で、毎日絵日記をつけた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
