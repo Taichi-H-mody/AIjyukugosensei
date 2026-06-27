@@ -8985,7 +8985,49 @@ const autoData = {
   "希": [],
   "側": [],
   "演": [],
-  "司": []
+  "司": [],
+  "特": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われている、中国から伝わった文字。一つの文字に意味があることが多い。",
+      "example": "小学校でたくさんの漢字を勉強します。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。ひらがな、カタカナ、漢字などがある。",
+      "example": "この絵本は、文字が大きくて読みやすいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆と墨を使って、文字をきれいに書く練習をすること。書道ともいう。",
+      "example": "小学校の習字の時間に「空」という字を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で書く数字のこと。",
+      "example": "時計の文字盤には漢数字が使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族で同じものを使う名前。田中さんや佐藤さんの「田中」「佐藤」の部分。",
+      "example": "先生は黒板に自分の名字と名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ]
 };
 for (const k in autoData) {
   if (window.OFFLINE_DB[k]) {
