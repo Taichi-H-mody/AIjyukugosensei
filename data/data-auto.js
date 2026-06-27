@@ -10120,6 +10120,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "布": [
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で教えてくれる人。",
+      "example": "私の学校には、優しい先生がたくさんいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生徒",
+      "reading": "せいと",
+      "meaning": "学校で勉強する子どもたち。",
+      "example": "ぼくは小学生の生徒です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を過ごすこと。",
+      "example": "早寝早起きは、良い生活につながります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "生きて動くもの。動物や植物など。",
+      "example": "公園にはいろいろな生き物がいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "生まれた日。",
+      "example": "明日はお姉ちゃんの誕生日です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
