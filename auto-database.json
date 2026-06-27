@@ -11085,5 +11085,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "酸": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使う文字。",
+      "example": "宿題で漢字をたくさん書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表す記号や記号のかたまり。",
+      "example": "本に書いてある文字を読む。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "きれいな字を書く練習。",
+      "example": "習字の時間に、筆で大きな字を書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で表す数字。",
+      "example": "漢数字の「十」は、たてと横の線でできている。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字の点や線の一つ一つ。また、その書き方。",
+      "example": "この漢字は字画が多いので、書くのが少しむずかしい。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
