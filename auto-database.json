@@ -11973,5 +11973,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "格": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本で使われている文字。",
+      "example": "日本語の文章には、漢字がたくさん使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表す記号。",
+      "example": "黒板に書かれた文字をノートに写しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "毛筆などを使って、文字をきれいに書く練習。",
+      "example": "毎週金曜日は、図工室で習字の授業があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力をためす試験。",
+      "example": "姉は、来月の漢字検定に向けて勉強をがんばっています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字典",
+      "reading": "じてん",
+      "meaning": "漢字の読み方や意味などを調べる本。漢字辞典のこと。",
+      "example": "わからない漢字の読み方は、字典で調べるといいよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
