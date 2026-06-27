@@ -9527,7 +9527,48 @@ const autoData = {
       "addedBy": "discord-agent"
     }
   ],
-  "養": [],
+  "養": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。",
+      "example": "小学校でたくさんの漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すためのしるしです。",
+      "example": "黒板に書かれた文字をノートに写しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って字をきれいに書く練習をすることです。",
+      "example": "毎週金曜日は習字の時間で、筆を使って字を練習します。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族で代々受け継がれる名前のことです。姓とも言います。",
+      "example": "私の名字は田中です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "ローマ字",
+      "reading": "ローマじ",
+      "meaning": "アルファベットを使って日本語の音を表す方法です。",
+      "example": "自分の名前をローマ字で書けるようになりました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "義": [],
   "器": [
     {
