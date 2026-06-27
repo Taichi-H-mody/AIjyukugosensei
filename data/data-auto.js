@@ -11296,6 +11296,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "種": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われる文字の一種。",
+      "example": "日本ごをべんきょうするには、漢字をおぼえることが大切です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、薬草などを使った伝統的な治療法や薬。",
+      "example": "おなかのちょうしがわるい時、おばあちゃんが漢方薬をのませてくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の詩のこと。",
+      "example": "国語のじゅぎょうで、漢詩を音読しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字とその意味、読み方を説明する辞書（漢和辞典）などで使われる言葉。",
+      "example": "漢字のいみが分からないときは、漢和じてんを使って調べます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などの漢字で書く数字のこと。",
+      "example": "かんじテストの日にちを漢数字で書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
