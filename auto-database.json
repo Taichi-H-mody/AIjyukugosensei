@@ -10219,5 +10219,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "財": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文章でも使われています。",
+      "example": "新しい漢字を覚えるのは楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の詩のことです。",
+      "example": "先生が漢詩を読んでくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使った昔ながらの日本の薬や治療法です。",
+      "example": "おばあちゃんは漢方の薬を飲んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から日本に伝わった言葉のことです。例えば「学校」や「勉強」などがあります。",
+      "example": "日本語には和語と漢語があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるために使う辞書の名前によく使われます。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
