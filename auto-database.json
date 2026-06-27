@@ -9103,7 +9103,48 @@
   "労": [],
   "勢": [],
   "益": [],
-  "型": [],
+  "型": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本語でも使われている文字。",
+      "example": "学校で新しい漢字を習った。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国字",
+      "reading": "こくじ",
+      "meaning": "日本で独自に作られた漢字。",
+      "example": "「峠」は日本で作られた国字です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "漢字を使って書かれた中国の詩。",
+      "example": "昔の人は、美しい漢詩をたくさん作りました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の知識や能力をはかる試験（漢字能力検定の略）。",
+      "example": "漢字の勉強のために、漢検に挑戦してみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字を組み合わせてできた言葉。",
+      "example": "「言葉」は「言」と「葉」の二つの漢字でできた熟語です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "令": [],
   "養": [],
   "義": [],
