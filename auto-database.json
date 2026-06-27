@@ -12592,5 +12592,31 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "授": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語の文章に使う、中国から伝わった文字のこと。ひらがなやカタカナと一緒に使われます。",
+      "example": "今日は新しい漢字を十個覚えました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字を使って表す数字のこと。時計の文字盤などで見かけます。",
+      "example": "時計の文字盤には漢数字が使われていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方、意味、書き順などを調べることができる辞書のこと。",
+      "example": "分からない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
