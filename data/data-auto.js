@@ -12319,6 +12319,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "導": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、日本語の文を書くときに使います。",
+      "example": "日本語の文章は、漢字とひらがな、カタカナで書かれます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方などを教えてくれる辞書のこと。（漢和辞典）",
+      "example": "分からない漢字があったら、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "植物などを使って病気を治す、中国から伝わった昔の医学や薬のこと。",
+      "example": "おばあちゃんは、体がだるいときに漢方薬を飲みます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って、字をきれいに書く練習のこと。",
+      "example": "私は毎週、習字教室に通っています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号のこと。",
+      "example": "世界にはいろいろな文字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
