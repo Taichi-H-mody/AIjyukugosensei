@@ -9094,7 +9094,48 @@ const autoData = {
   "欠": [],
   "加": [],
   "紀": [],
-  "挙": [],
+  "挙": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、日本語で使われます。",
+      "example": "小学校でたくさんの漢字を勉強します。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わった言葉や、漢字を組み合わせて作られた言葉のことです。",
+      "example": "「学校」や「勉強」は漢語です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国の古い考え方をもとにした薬や治療の方法です。",
+      "example": "体に優しい漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の詩で、漢字を使って書かれています。",
+      "example": "昔の偉い人が漢詩を読んだり作ったりしました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字と日本語の読み方や意味に関するものです。「漢和辞典」のように使われます。",
+      "example": "漢字の読み方や意味が分からないときは、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "栄": [],
   "覚": [],
   "変": [],
