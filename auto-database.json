@@ -9773,7 +9773,40 @@
     }
   ],
   "好": [],
-  "幹": [],
+  "幹": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使う文字の一つで、中国から伝わったものです。",
+      "example": "宿題でたくさんの漢字を書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "数字を漢字で表したものです。「一、二、三」などがあります。",
+      "example": "遠足の参加人数を漢数字で書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方を調べるための本です。",
+      "example": "知らない漢字があったから、漢和辞典で調べてみた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力がどれくらいあるかをテストすることです。",
+      "example": "今年の目標は、漢字検定に合格することです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "旧": [
     {
       "jukugo": "漢字",
