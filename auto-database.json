@@ -12015,5 +12015,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "河": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われているもの。",
+      "example": "新しい漢字をたくさん覚えるのは楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるための辞典（漢和辞典）のこと。",
+      "example": "分からない漢字は、漢和じてんで調べてみましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の作り方にならって作られた詩のこと。",
+      "example": "国語のじゅぎょうで、昔の漢詩を読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを材料にした薬や治療の方法。",
+      "example": "おなかの調子が悪いとき、お医者さんが漢方薬を出してくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で表す数字のこと。",
+      "example": "この本のページは、漢数字で書いてあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
