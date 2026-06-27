@@ -9019,7 +9019,48 @@
   "幹": [],
   "旧": [],
   "郡": [],
-  "低": [],
+  "低": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる、中国から伝わった文字。",
+      "example": "今日の国語の時間に、新しい漢字を五つ覚えました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。",
+      "example": "大きな文字で、お手紙を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "美しい字を書くための練習。",
+      "example": "習字の時間に、筆を使って自分の名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の言葉や形式で作られた詩。",
+      "example": "図書館で漢詩の絵本を借りて読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字典",
+      "reading": "じてん",
+      "meaning": "文字を集めて、その読み方や意味などを説明した本。",
+      "example": "分からない漢字があったら、字典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "移": [],
   "希": [],
   "側": [],
