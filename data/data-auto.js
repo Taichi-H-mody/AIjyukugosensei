@@ -8881,7 +8881,40 @@ const autoData = {
     }
   ],
   "属": [],
-  "職": [],
+  "職": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文字としても使われています。",
+      "example": "日本語にはひらがな、カタカナ、漢字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字が組み合わさってできた言葉です。",
+      "example": "「小学校」は「小」「学」「校」の三つの漢字からできた熟語です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "漢字を使って表す数字のことです。（例：一、二、三）",
+      "example": "漢数字の「十」は数字の１０と同じ意味です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "日本語を学び、正しく使うための勉強です。漢字も国語の時間に習います。",
+      "example": "国語の授業で新しい漢字を習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "常": [
     {
       "jukugo": "常用漢字",
