@@ -10516,6 +10516,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "提": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵で物語が表現された本。",
+      "example": "寝る前に、お母さんが絵本を読んでくれた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵画",
+      "reading": "かいが",
+      "meaning": "絵を描くこと、またその描かれた絵のこと。",
+      "example": "美術館で有名な絵画を見た。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くための色材。",
+      "example": "図工の時間に絵の具で花を描いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵日記",
+      "reading": "えにっき",
+      "meaning": "絵と文章で日々の出来事を記録する日記。",
+      "example": "夏休みの思い出を絵日記に書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵文字",
+      "reading": "えもじ",
+      "meaning": "感情や物を表す小さな絵の記号。",
+      "example": "友達とのメッセージで、楽しい絵文字を使った。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
