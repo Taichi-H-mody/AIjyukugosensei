@@ -9092,7 +9092,48 @@ const autoData = {
   "略": [],
   "漁": [],
   "織": [],
-  "識": [],
+  "識": [
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "勉強したり友達と遊んだりする場所。",
+      "example": "毎日、学校に行くのが楽しみです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勉強",
+      "reading": "べんきょう",
+      "meaning": "本を読んだり問題を解いたりして知識を学ぶこと。",
+      "example": "夏休みは、宿題の勉強をがんばりました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "仲良しの人。一緒に遊んだり話したりする相手。",
+      "example": "公園で友達とサッカーをしました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食事",
+      "reading": "しょくじ",
+      "meaning": "ご飯を食べること。",
+      "example": "家族みんなで食卓を囲んで食事をします。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "仕事や学校がお休みの日。",
+      "example": "休日は家族と公園へ出かけました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "敗": [],
   "象": [],
   "張": [],
