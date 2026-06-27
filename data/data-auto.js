@@ -10433,6 +10433,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "衛": [
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で勉強を教えてくれる人。",
+      "example": "明日、新しい先生が来るそうです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を過ごすこと。日々の暮らし。",
+      "example": "規則正しい生活を心がけましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "生まれた日のこと。",
+      "example": "来月は私の誕生日です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "命があるもののこと。動物や植物など。",
+      "example": "公園にはたくさんの生き物がいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年生",
+      "reading": "ねんせい",
+      "meaning": "小学校や中学校で、学年を表すときに使う言葉。",
+      "example": "私は小学四年生です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
