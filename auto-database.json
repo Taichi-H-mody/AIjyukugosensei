@@ -11502,5 +11502,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "殺": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の文章で使われます。",
+      "example": "新しい漢字を覚えるのは楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方を調べるときに使う本のことです。",
+      "example": "分からない漢字があったら、漢和辞典で調べましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書く数字のことです。",
+      "example": "時計の文字盤には漢数字が使われているものがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "植物など、自然のものから作られた、昔から伝わる薬です。",
+      "example": "お母さんが風邪のときに漢方薬を飲んでいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の力ためす試験（漢字能力検定）のことです。",
+      "example": "私は今年の漢検に合格できるように頑張ります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
