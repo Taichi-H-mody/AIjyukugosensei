@@ -10263,6 +10263,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "防": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う、中国から伝わった文字のこと。",
+      "example": "今日の国語の授業で、新しい漢字を五つ習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の文章のこと。古典として勉強することがあります。",
+      "example": "お兄さんは中学校で漢文を勉強しているそうです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って体を治す昔ながらの方法や薬のこと。",
+      "example": "おばあちゃんは、風邪をひいたときに漢方を飲んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和漢",
+      "reading": "わかん",
+      "meaning": "日本と中国の両方のこと。または、日本と中国の両方から来たもの。",
+      "example": "昔の日本では、和漢のさまざまな文化が混ざり合っていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きの力をためす試験のこと。略して「漢検」とも言います。",
+      "example": "僕は漢字検定の合格を目指して、毎日練習しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
