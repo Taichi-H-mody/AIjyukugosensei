@@ -9684,7 +9684,48 @@
       "addedBy": "discord-agent"
     }
   ],
-  "郡": [],
+  "郡": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わり、ひらがなやカタカナと共に使われている文字のこと。",
+      "example": "小学校で習う漢字はたくさんあって、覚えるのが大変です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための本。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や能力をはかる試験のこと。",
+      "example": "ぼくは来年の漢字検定に合格するために、毎日練習しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章や、その文章を日本で読む方法。",
+      "example": "歴史の授業で、昔の漢文を少しだけ勉強しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物など自然のものを材料にした薬や治療法。",
+      "example": "おばあちゃんは、体に優しい漢方の薬を飲んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "低": [
     {
       "jukugo": "漢字",
