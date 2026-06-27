@@ -11377,5 +11377,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "祝": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語を書くときに使う文字のこと。",
+      "example": "漢字はむずかしいけど、書けるとかっこいいね。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "ことばを表す記号。ひらがなやカタカナ、漢字も文字だよ。",
+      "example": "テストの前に、小さい文字をたくさん書く練習をしたよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って文字を美しく書く練習をすること。",
+      "example": "習字の時間は、みんなしずかに集中して書いていたよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表す記号。１，２，３などのこと。",
+      "example": "時計の数字が読めるようになって、時間を間違えなくなった。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誤字",
+      "reading": "ごじ",
+      "meaning": "間違って書いた文字のこと。",
+      "example": "提出する前に、誤字がないかよく確認しようね。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
