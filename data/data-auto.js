@@ -9180,7 +9180,48 @@ const autoData = {
   "飯": [],
   "底": [],
   "価": [],
-  "桜": [],
+  "桜": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、日本語の文章で使われます。",
+      "example": "私の名前は漢字で書くと三文字です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」など、漢字で書く数字のことです。",
+      "example": "お店の入り口に、漢数字で「一万円」と書いてありました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "植物や動物の力を使って病気を治す、中国から伝わった昔ながらの薬や治療法のことです。",
+      "example": "熱が出たので、お母さんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方を調べるための辞書のことです。",
+      "example": "漢字の宿題が出たので、漢和辞典で意味を調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で昔から作られてきた詩のことです。",
+      "example": "昔の偉い人が作った漢詩を読んで、感動しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "好": [],
   "幹": [],
   "旧": [],
