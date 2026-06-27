@@ -10349,6 +10349,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "故": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる中国から伝わった文字のこと。",
+      "example": "わたしたちは、国語のじゅぎょうで漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔の中国から伝わった、植物など自然のものを利用して病気を治す方法や薬。",
+      "example": "おなかの調子が悪いとき、お医者さんに漢方薬をもらいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方、使い方などがのっている辞典（漢和辞典）のこと。",
+      "example": "しらない漢字が出てきたら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の言葉で書かれた文章のこと。",
+      "example": "お寺の古いきろくには、漢文で書かれたふだが残っています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国の言葉で作られた詩のこと。",
+      "example": "学校のじゅぎょうで、教科書にのっている有名な漢詩を読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
