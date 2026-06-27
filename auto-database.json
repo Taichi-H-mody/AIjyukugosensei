@@ -9582,7 +9582,48 @@
   "求": [],
   "版": [],
   "札": [],
-  "飛": [],
+  "飛": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、いろいろな意味を表します。",
+      "example": "「漢字」を毎日少しずつ練習しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟語",
+      "reading": "じゅくご",
+      "meaning": "二つ以上の漢字が合わさってできた言葉のことです。",
+      "example": "「学校」や「公園」は「熟語」だよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読み方",
+      "reading": "よみかた",
+      "meaning": "漢字の音や意味を表すための、声を出す方法です。",
+      "example": "新しい漢字の「読み方」を辞書で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書き順",
+      "reading": "かきじゅん",
+      "meaning": "漢字をきれいに正しく書くための、筆を進める順番のことです。",
+      "example": "漢字の「書き順」を覚えると、字がじょうずになるよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意味",
+      "reading": "いみ",
+      "meaning": "言葉や漢字が表す内容のことです。",
+      "example": "漢字の「意味」を考えると、もっと覚えやすいよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "武": [],
   "因": [
     {
