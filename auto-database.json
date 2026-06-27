@@ -9687,7 +9687,48 @@
       "addedBy": "discord-agent"
     }
   ],
-  "録": [],
+  "録": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文章でも使われます。",
+      "example": "「漢字」をきれいに書く練習をしましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で昔から作られてきた詩のこと。",
+      "example": "中国の古い「漢詩」を読んで、昔の人の気持ちを考えてみました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使った昔ながらの薬や治療法。",
+      "example": "風邪をひいたとき、「漢方」の薬を飲むことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞典のこと。",
+      "example": "漢字の読み方が分からないときは、「漢和」辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から日本に伝わって、使われるようになった言葉。",
+      "example": "「小学校」や「先生」のように、二つの漢字でできた言葉は「漢語」が多いです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "径": [],
   "圧": [],
   "歴": [],
