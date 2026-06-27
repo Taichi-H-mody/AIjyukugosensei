@@ -9067,5 +9067,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "粉": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字。日本語の文章で使われます。",
+      "example": "小学校で習う漢字は、たくさんあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べるための辞書（漢和辞典）のこと。",
+      "example": "新しい漢字の意味が知りたかったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の言葉で書かれた文章のこと。日本では特別な読み方をします。",
+      "example": "国語の授業で、昔の漢文を読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔の中国から伝わった、植物などを使って体の調子を整える治療法や薬。",
+      "example": "おばあちゃんは、風邪のときに漢方薬を飲むことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で古くから作られてきた詩のこと。日本の古典でも学びます。",
+      "example": "有名な漢詩を読んで、昔の人の気持ちを想像しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
