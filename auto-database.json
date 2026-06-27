@@ -9649,5 +9649,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "芸": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本で使われている文字のこと。ひらがなやカタカナのもとになりました。",
+      "example": "日本の小学校では、毎日たくさんの漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のこと。",
+      "example": "文章の縦書きでは、漢数字を使うことが多いです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、薬草などを使った昔ながらの治療法や薬のこと。",
+      "example": "風邪をひいたとき、お医者さんが漢方薬を出してくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和",
+      "reading": "かんわ",
+      "meaning": "漢字の意味や読み方を調べる「漢和辞典」のこと。",
+      "example": "わからない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わり、日本語として使われている言葉のこと。",
+      "example": "「学校」や「先生」など、日本語にはたくさんの漢語があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
