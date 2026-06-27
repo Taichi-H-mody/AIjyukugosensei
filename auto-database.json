@@ -10389,5 +10389,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "証": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、ひらがなやカタカナと一緒に日本の言葉を表すのに使われます。",
+      "example": "小学校で新しい漢字をたくさん習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号やしるし。",
+      "example": "この文字は小さくて読みにくいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表すのに使う文字や記号のことです。",
+      "example": "時計の文字盤には、1から12までの数字が書いてあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "文字をきれいに書く練習をすることです。",
+      "example": "習字の時間に、筆で自分の名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族で共通して持っている名前のことです。姓とも言います。",
+      "example": "自分の名字を漢字で書けるようになりました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
