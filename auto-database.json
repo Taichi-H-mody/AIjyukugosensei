@@ -9211,7 +9211,48 @@
       "addedBy": "discord-agent"
     }
   ],
-  "令": [],
+  "令": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の文章でも使われます。",
+      "example": "今日の宿題は、新しい漢字を五つ書くことです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "考えを伝えたり、記録したりするために使うしるし。ひらがなやカタカナ、漢字などがあります。",
+      "example": "この本には、たくさんのきれいな文字が書かれています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "文字を上手に書く練習のこと。特に、筆と墨を使って書くことを言います。",
+      "example": "毎週金曜日は、学校で習字のじかんがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の文章のこと。日本では、これを昔の日本語のように読んで勉強することもあります。",
+      "example": "歴史の授業で、漢文の読み方を少しだけ習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大文字",
+      "reading": "おおもじ",
+      "meaning": "小文字とくらべて、大きく書く文字のこと。アルファベットなどで使われます。",
+      "example": "英語の名前は、最初を大文字で書くきまりがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "養": [],
   "義": [],
   "器": [
