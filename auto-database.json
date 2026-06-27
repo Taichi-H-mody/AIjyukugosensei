@@ -11460,5 +11460,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "兆": [
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "勉強したり遊んだりする場所。",
+      "example": "毎日楽しく学校に通っています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学習",
+      "reading": "がくしゅう",
+      "meaning": "勉強して知識や技能を身につけること。",
+      "example": "算数の学習は楽しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学生",
+      "reading": "がくせい",
+      "meaning": "学校で勉強している人。",
+      "example": "兄は大学生です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "科学",
+      "reading": "かがく",
+      "meaning": "自然のしくみや現象を研究する学問。",
+      "example": "科学の実験はおもしろいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見学",
+      "reading": "けんがく",
+      "meaning": "実際に行って見て学ぶこと。",
+      "example": "工場に見学に行きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
