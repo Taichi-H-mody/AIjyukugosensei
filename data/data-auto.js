@@ -10700,6 +10700,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "断": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる、中国から伝わった文字のこと。",
+      "example": "日本にはひらがな、カタカナ、そして漢字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "ことばを書き表す記号のこと。",
+      "example": "漢字練習帳に、きれいな文字で名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "文字を上手に書く練習のこと。",
+      "example": "学校の習字の時間に、毛筆で大きな漢字を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などの漢字で表す数字のこと。",
+      "example": "時計の文字盤には漢数字が書かれているものもあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字を書くときの線の数や書き順のこと。",
+      "example": "漢字を正しく書くためには、字画の数を数えたり、書き順を守ったりすることが大切です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
