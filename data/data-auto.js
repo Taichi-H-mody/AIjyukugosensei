@@ -11587,6 +11587,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "辺": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。見た目が複雑で、一つ一つの文字に意味があります。",
+      "example": "小学校では毎日、新しい漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、数字を漢字で書いたもののことです。算数で使う「1、2、3」とは違う書き方です。",
+      "example": "お寺の古い建物には、漢数字で建てられた年が書かれていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方などを調べることができる分厚い本のことです。",
+      "example": "漢字の書き順がわからなかったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった医学で、草や木の根など、自然のものを組み合わせて作る薬や治療法のことです。",
+      "example": "風邪をひいたとき、おばあちゃんが漢方のお薬を飲んでいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "昔、中国から日本に伝わって、使われるようになった言葉のことです。「学校」や「勉強」なども漢語です。",
+      "example": "日本の言葉には、昔からある「和語」と、中国から来た「漢語」があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
