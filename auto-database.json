@@ -9773,5 +9773,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "願": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる、中国から伝わった文字。",
+      "example": "学校で「漢字」をきれいに書く練習をしました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の知識や使い方をためす試験のこと。",
+      "example": "「漢字検定」に合格できるように、毎日がんばっています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味、使い方を調べるための本。",
+      "example": "知らない漢字に出会ったら、「漢和辞典」で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表す記号。ひらがなやカタカナ、漢字などがある。",
+      "example": "世界には色々な「文字」があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って、文字をきれいに書く練習のこと。",
+      "example": "「習字」の時間に、大きな紙に自分の名前を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
