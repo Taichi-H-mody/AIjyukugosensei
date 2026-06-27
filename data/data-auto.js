@@ -10060,6 +10060,24 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "銅": [
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の読み方、意味、書き順などを調べることができる本。",
+      "example": "わからない漢字があったら、漢字辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "日本でふだん使う漢字として国が定めた、小学校から中学校で習う基本的な漢字。",
+      "example": "常用漢字をきちんと覚えて、正しく文章を書けるようになりたい。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
