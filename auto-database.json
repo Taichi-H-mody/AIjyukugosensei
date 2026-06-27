@@ -10983,5 +10983,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "制": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の文を書くときに使われるものです。",
+      "example": "きょうは漢字の練習をがんばりました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で書かれた数字のことです。算数で使う「1、2、3」とは違う書き方です。",
+      "example": "日付を漢数字で書いてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるときに使う本です。",
+      "example": "わからない漢字は漢和辞典で調べよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔、中国から伝わった、植物など自然の材料を使った伝統的な薬や治療の方法のことです。",
+      "example": "おばあちゃんが風邪をひいたときに漢方の薬を飲んでいました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の言葉やルールにしたがって作られた詩のことです。日本の国語の授業でも読みます。",
+      "example": "有名な漢詩を声に出して読んでみました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
