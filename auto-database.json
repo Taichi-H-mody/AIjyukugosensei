@@ -8989,7 +8989,48 @@
     }
   ],
   "票": [],
-  "得": [],
+  "得": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。",
+      "example": "漢字をきれいに書く練習をしました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の知識や書き方をためす試験のことです。",
+      "example": "わたしは今年の漢検に合格したいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方をしらべるための本です。",
+      "example": "わからない漢字があったら、漢和辞典でしらべよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使った昔ながらの薬や治療のことです。",
+      "example": "かぜのときに、おばあちゃんが漢方の薬を飲ませてくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で作られたり、中国の作り方で書かれたりした詩のことです。",
+      "example": "学校で、有名な漢詩を音読しました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "欠": [],
   "加": [],
   "紀": [],
