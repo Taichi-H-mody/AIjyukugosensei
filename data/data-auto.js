@@ -9277,7 +9277,48 @@ const autoData = {
       "addedBy": "discord-agent"
     }
   ],
-  "謝": [],
+  "謝": [
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "日本の言葉のこと。小学校の教科の一つ。",
+      "example": "国語の授業で、漢字の書き取りをしました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すためのしるし。",
+      "example": "ひらがな、カタカナ、漢字は、日本の文字です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆などを使って字を上手に書く練習。",
+      "example": "習字の時間に、大きな紙に漢字を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、数を表す漢字。",
+      "example": "時計の文字盤には漢数字が使われているものもあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味を調べるための辞書。",
+      "example": "分からない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "康": [],
   "破": [],
   "喜": [],
