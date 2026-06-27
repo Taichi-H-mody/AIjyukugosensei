@@ -12100,6 +12100,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "規": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の文章を書くときにも使う文字です。",
+      "example": "私たちは毎日「漢字」を書いて勉強しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "もともと中国から伝わった言葉で、たくさんの熟語がこれにあたります。",
+      "example": "日本語には、「漢語」がたくさんあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使った昔ながらの薬や治療法のことです。",
+      "example": "風邪をひいたとき、お医者さんに「漢方」の薬を出してもらったよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国で作られた詩や、漢字を使って作られた詩のことです。",
+      "example": "国語の授業で、昔の人が作った美しい「漢詩」を読みました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のことです。",
+      "example": "歴史の勉強で、昔の「漢文」の文章が出てくることがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
