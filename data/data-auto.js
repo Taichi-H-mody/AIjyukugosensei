@@ -9625,6 +9625,32 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "類": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語で使われる文字の一つです。",
+      "example": "私たちは国語の授業で、たくさんの漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の意味、読み方、書き順などを調べることができる本です。",
+      "example": "わからない漢字が出てきたら、漢字辞典で調べてみましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "画数",
+      "reading": "かくすう",
+      "meaning": "漢字を書くときの線の数のことです。",
+      "example": "「日」という漢字は画数が四つです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
