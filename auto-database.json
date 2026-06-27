@@ -9581,5 +9581,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "折": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わり、日本でも使われている文字。ひらがなやカタカナとはちがう。",
+      "example": "日本語の文章には、漢字とひらがなが使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書きあらわすためのしるし。漢字やひらがな、アルファベットなどがある。",
+      "example": "この本は、大きな文字で書いてあるから読みやすいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数をあらわす記号。1、2、3のようなアラビア数字や、一、二、三のような漢数字がある。",
+      "example": "時計の文字盤には、数字が書いてあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "親子で代々受けつがれる名前。姓（せい）ともいいます。",
+      "example": "山田さんの名字は「やまだ」と読みます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "毛筆で文字をきれいに書く練習。",
+      "example": "小学校の習字の時間に、大きな筆で漢字を書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
