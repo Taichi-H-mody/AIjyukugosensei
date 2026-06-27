@@ -10818,6 +10818,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "団": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる文字の一種で、中国から伝わりました。",
+      "example": "日本で使う文字の一つに漢字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号です。ひらがなやカタカナも文字です。",
+      "example": "読んだり書いたりできる文字はとても大切です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "文字を正しく、美しく書く練習をすることです。",
+      "example": "毎週土曜日に習字教室に通って、字をきれいに書く練習をしています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誤字",
+      "reading": "ごじ",
+      "meaning": "間違って書かれた文字のことです。",
+      "example": "作文を提出する前に、誤字がないかよく見直しましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字を形づくっている、一本一本の線のことです。",
+      "example": "この漢字は字画が多いので、丁寧に書きましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
