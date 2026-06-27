@@ -8922,7 +8922,48 @@ const autoData = {
   "費": [],
   "成": [],
   "府": [],
-  "順": [],
+  "順": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語の表記に用いられる文字のこと。",
+      "example": "日本の小学校では、たくさんの漢字を習います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、中国から伝わった数字の書き方。",
+      "example": "お金の数え方には、算用数字のほかに漢数字も使います。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方を調べるための辞書。",
+      "example": "漢字の書き方がわからなかったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字検定",
+      "reading": "かんじけんてい",
+      "meaning": "漢字の読み書きや意味をどれだけ知っているかをはかる試験。",
+      "example": "私は漢字検定の合格を目指して、毎日勉強しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "中国の古い言葉で書かれた文章のこと。",
+      "example": "国語の授業で、漢文の読み方を習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "可": [],
   "官": [],
   "略": [],
