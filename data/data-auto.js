@@ -9177,7 +9177,48 @@ const autoData = {
   ],
   "敗": [],
   "象": [],
-  "張": [],
+  "張": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語を書くときに使います。",
+      "example": "日本語には漢字、ひらがな、カタカナがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字を使った数字の表し方です。",
+      "example": "テストの答えは、漢数字で書きましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使った体の治療や薬のことです。",
+      "example": "おばあちゃんは体に優しい漢方の薬を飲んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "中国で昔書かれた文章のことです。",
+      "example": "歴史の教科書には、古い漢文の資料が載っていました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の読み方や意味を調べるための辞書です。",
+      "example": "知らない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "謝": [],
   "康": [],
   "破": [],
