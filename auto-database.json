@@ -11906,5 +11906,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "競": [
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号。",
+      "example": "教科書の文字をていねいにノートに写した。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "字をきれいに書く練習をすること。",
+      "example": "習字の時間に、大きな筆で漢字を書いた。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族や家を表す名前。姓(せい)のこと。",
+      "example": "私の名字は、お父さんやお母さんと同じです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表す記号。一、二、三や、１、２、３など。",
+      "example": "時計の数字を読んで、今の時間を知った。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で数を表す書き方。",
+      "example": "テストの答えを漢数字で書きました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
