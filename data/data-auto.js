@@ -11789,6 +11789,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "停": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本で使われている、中国から伝わった文字のことです。",
+      "example": "漢字の書き順をしっかり覚えよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」など、中国から伝わった数字の書き方のことです。アラビア数字（1、2、3）と区別して使うことがあります。",
+      "example": "漢数字の一から十まで書けますか。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、使い方などを調べるための本（辞典）のことです。",
+      "example": "読めない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字の知識や使い方を試すテストのことです。正式には「日本漢字能力検定」と言います。",
+      "example": "漢字検定に向けて、毎日漢字を練習しています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国から伝わった考え方にもとづいて作られた薬のことです。植物などを組み合わせて作られることが多いです。",
+      "example": "お腹が痛いとき、おばあちゃんが漢方薬を飲んでいたよ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
