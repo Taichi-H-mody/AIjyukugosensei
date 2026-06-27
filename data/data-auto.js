@@ -11027,6 +11027,24 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "貿": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の文字で、物の名前や様子を表すのに使われます。",
+      "example": "今日の宿題は、漢字の練習です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字辞典",
+      "reading": "かんじじてん",
+      "meaning": "漢字の読み方、意味、書き方などがたくさん載っている本です。",
+      "example": "わからない漢字があったら、漢字辞典で調べます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
