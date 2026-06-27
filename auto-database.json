@@ -9578,7 +9578,48 @@
   "残": [],
   "編": [],
   "改": [],
-  "液": [],
+  "液": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われている、中国から伝わった文字のこと。",
+      "example": "国語の授業で新しい漢字を習いました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のこと。",
+      "example": "時計の文字盤に漢数字が使われています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物や動物など自然のものを利用する昔ながらの治療法。",
+      "example": "熱が出たとき、お母さんが漢方薬を飲ませてくれました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書。",
+      "example": "漢字の宿題をするときは、漢和辞典で調べます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢服",
+      "reading": "かんぷく",
+      "meaning": "中国で昔から着られている伝統的な衣装。",
+      "example": "テレビで中国の歴史ドラマを見ていたら、きれいな漢服を着た人が出てきました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "質": [
     {
       "jukugo": "漢字",
