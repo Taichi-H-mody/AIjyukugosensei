@@ -12403,6 +12403,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "功": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本の言葉を表すのに使われます。",
+      "example": "日本語には、ひらがな、カタカナ、そして漢字があります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表すための記号のことです。",
+      "example": "きれいな文字を書く練習をしましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名字",
+      "reading": "みょうじ",
+      "meaning": "家族の名前のことです。",
+      "example": "山田さんの名字は「やまだ」です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字引",
+      "reading": "じびき",
+      "meaning": "漢字の意味や読み方を調べる本のことです。辞書とも言います。",
+      "example": "分からない漢字があったら字引で調べよう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "字画",
+      "reading": "じかく",
+      "meaning": "漢字を書くときの線の数や、それぞれの線のことを言います。",
+      "example": "この漢字は字画が多いので、書くのが少し難しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
