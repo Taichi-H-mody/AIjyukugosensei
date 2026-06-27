@@ -11129,6 +11129,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "師": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から伝わった文字で、日本語を書くときに使う文字のこと。ひらがなやカタカナと組み合わせて使います。",
+      "example": "「漢字を覚えるのは大変だけど、たくさんの言葉が書けるようになるよ。」",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "「一、二、三」のように、漢字で表す数字のこと。",
+      "example": "「時計の文字盤には漢数字が使われているものもあるよ。」",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢語",
+      "reading": "かんご",
+      "meaning": "中国から伝わった言葉がもとになっている日本語のこと。例えば、「学校」や「勉強」などが漢語だよ。",
+      "example": "「私たちが普段使う言葉には、漢語がたくさんあります。」",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国で書かれた文章のこと。日本では、これを日本語の読み方に直して勉強することがあります。",
+      "example": "「国語の時間に、有名な漢文を習ったことがあります。」",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国に昔から伝わる医学や、それにもとづいて作られた薬のこと。体全体を考えて治療します。",
+      "example": "「風邪をひいた時に、お医者さんが漢方薬を出してくれたよ。」",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
