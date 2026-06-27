@@ -12215,5 +12215,47 @@
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "隊": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使う文字の一つで、主に中国から伝わりました。ひらがなやカタカナと合わせて使います。",
+      "example": "毎日、新しい漢字を五つずつ覚えています。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三のように、漢字で書く数字のことです。",
+      "example": "おつかいのレシートに漢数字で日付が書いてありました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための、漢字がたくさん載っている本（辞書）です。",
+      "example": "宿題で分からない漢字があったので、漢和辞典で調べました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国や日本で、漢字を使って作られた美しい詩のことです。",
+      "example": "博物館で、昔の人が書いた漢詩の作品を見ました。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "昔から中国や日本で伝わる、植物や動物など自然のものを材料にした体にやさしい薬や治療法のことです。",
+      "example": "おばあちゃんが、体にいいからと漢方のお茶を飲んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
