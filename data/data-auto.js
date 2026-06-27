@@ -10558,6 +10558,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "街": [
+    {
+      "jukugo": "学年",
+      "reading": "がくねん",
+      "meaning": "学校の教育課程における1年間の区切り。",
+      "example": "ぼくは小学一年生で、一学年です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読書",
+      "reading": "どくしょ",
+      "meaning": "本を読むこと。",
+      "example": "寝る前に読書をするのが、わたしの楽しみです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠足",
+      "reading": "えんそく",
+      "meaning": "遠い場所に歩いて遊びに行くこと。",
+      "example": "来月の遠足が待ち遠しいです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "元気",
+      "reading": "げんき",
+      "meaning": "体や心の状態が良く、活発なこと。",
+      "example": "いつも元気いっぱいの明るい子です。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "一日も休まずに続く日。すべての日。",
+      "example": "毎日、学校で友達と楽しく遊んでいます。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
