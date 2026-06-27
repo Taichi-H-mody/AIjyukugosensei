@@ -10943,6 +10943,48 @@ const autoData = {
       "addedDate": "2026-06-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "貧": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "中国から日本に伝わった文字で、ひらがなやカタカナと合わせて使われています。一つ一つの文字に意味があります。",
+      "example": "小学校でたくさんの漢字を勉強します。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "昔から使われている数字の書き方で、「一、二、三」などのことです。",
+      "example": "日本の和時計には漢数字が書かれているものが多いです。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための辞書です。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみましょう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢文",
+      "reading": "かんぶん",
+      "meaning": "昔の中国の文章のことで、日本の国語の授業で学ぶこともあります。",
+      "example": "歴史の教科書で、昔の人が書いた漢文を読むことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って体の調子を整える昔ながらの医学のことです。",
+      "example": "風邪をひいたとき、お医者さんに漢方薬をもらうことがあります。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
