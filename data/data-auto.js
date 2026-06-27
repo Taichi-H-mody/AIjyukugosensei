@@ -9216,7 +9216,48 @@ const autoData = {
   "令": [],
   "養": [],
   "義": [],
-  "器": [],
+  "器": [
+    {
+      "jukugo": "一日",
+      "reading": "いちにち",
+      "meaning": "朝から夜までの時間。24時間。",
+      "example": "今日も一日がんばろう。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "勉強をしたり、友達と遊んだりする場所。",
+      "example": "毎日学校に行くのが楽しみだ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上手",
+      "reading": "じょうず",
+      "meaning": "物事がよくできること。",
+      "example": "ピアノを上手にひけるようになりたい。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大切",
+      "reading": "たいせつ",
+      "meaning": "とても大事なこと。大事にすること。",
+      "example": "家族を大切にする気持ちは大事だ。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "いっしょに遊んだり、話したりする人。",
+      "example": "友達と公園でサッカーをした。",
+      "addedDate": "2026-06-27",
+      "addedBy": "discord-agent"
+    }
+  ],
   "印": [],
   "案": [],
   "位": [],
