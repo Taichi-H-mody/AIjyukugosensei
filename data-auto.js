@@ -14213,6 +14213,32 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "康": [
+    {
+      "jukugo": "健康",
+      "reading": "けんこう",
+      "meaning": "体が丈夫で元気なこと。病気がないこと。",
+      "example": "毎日しっかりご飯を食べて、運動することは、健康な体を作るために大切です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安康",
+      "reading": "あんこう",
+      "meaning": "安全で、体が丈夫なこと。やすらかで元気なこと。",
+      "example": "家族みんなが病気やけがをせず、安康に過ごせるようにお祈りしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小康",
+      "reading": "しょうこう",
+      "meaning": "悪い状態が一時的に落ち着くこと。少しだけ穏やかになること。",
+      "example": "激しく降っていた雨が、一時的に小康状態になり、傘なしで歩けるようになりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
