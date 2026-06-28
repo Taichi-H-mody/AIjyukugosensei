@@ -12009,5 +12009,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "制": [
+    {
+      "jukugo": "制度",
+      "reading": "せいど",
+      "meaning": "物事のきまりや、それを動かす仕組み。",
+      "example": "この学校には、給食当番の制度があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "制作",
+      "reading": "せいさく",
+      "meaning": "物を作り出すこと。",
+      "example": "夏休みの自由研究で、ロボットを制作しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "制限",
+      "reading": "せいげん",
+      "meaning": "範囲や数量をきめること。また、そのきまり。",
+      "example": "ゲームの時間は、一日一時間と制限されています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "制服",
+      "reading": "せいふく",
+      "meaning": "学校や会社などで、みんながおそろいで着る服。",
+      "example": "この学校には、かっこいい制服があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "制覇",
+      "reading": "せいは",
+      "meaning": "競争で勝ち抜いて、一番になること。",
+      "example": "彼は、サッカー大会で全国制覇をめざしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
