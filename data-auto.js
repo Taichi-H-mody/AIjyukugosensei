@@ -15599,6 +15599,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "税": [
+    {
+      "jukugo": "税金",
+      "reading": "ぜいきん",
+      "meaning": "国や地方に納めるお金のこと。みんなの生活を豊かにするために使われます。",
+      "example": "お父さんやお母さんは、国に**税金**を納めています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消費税",
+      "reading": "しょうひぜい",
+      "meaning": "お店で物を買ったり、サービスを利用したりするときに払う税金です。",
+      "example": "お菓子を買うとき、商品のお金と**消費税**をいっしょに払います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "納税",
+      "reading": "のうぜい",
+      "meaning": "国や地方に税金を払うことです。大人になると、みんなで国を支えるために行います。",
+      "example": "大人になったら、みんなが**納税**の義務を果たします。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "減税",
+      "reading": "げんぜい",
+      "meaning": "税金の額を少なくすることです。そうすると、みんなの負担が軽くなります。",
+      "example": "政府は、物を買いやすくするために**減税**を決めました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増税",
+      "reading": "ぞうぜい",
+      "meaning": "税金の額を増やすことです。国が必要なお金を集めるために行われることがあります。",
+      "example": "国の活動にたくさんお金が必要なとき、**増税**されることがあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "飛": [
+    {
+      "jukugo": "飛行",
+      "reading": "ひこう",
+      "meaning": "空を飛ぶこと。",
+      "example": "飛行機が空を飛行する様子はかっこいい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛び出す",
+      "reading": "とびだす",
+      "meaning": "急に外へ出ること。",
+      "example": "ボールを追いかけて、急に道に飛び出すのは危ないよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛魚",
+      "reading": "とびうお",
+      "meaning": "海の上を飛ぶように跳ねる魚。",
+      "example": "船に乗っていたら、海からたくさんの飛魚が飛び出した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛距離",
+      "reading": "ひきょり",
+      "meaning": "物が飛んだ距離。",
+      "example": "野球のバットで打ったボールの飛距離を競った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛石",
+      "reading": "とびいし",
+      "meaning": "庭などに置かれ、飛び飛びに渡るための石。",
+      "example": "庭園にある飛石の上を、バランスを取りながら歩いた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
