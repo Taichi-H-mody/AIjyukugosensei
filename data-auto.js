@@ -9537,6 +9537,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "課": [
+    {
+      "jukugo": "放課後",
+      "reading": "ほうかご",
+      "meaning": "学校の授業が終わった後の時間のこと。",
+      "example": "放課後、友達と公園でサッカーをして遊びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日課",
+      "reading": "にっか",
+      "meaning": "毎日決まって行うことや、決まった仕事。",
+      "example": "ごはんを食べた後に歯みがきをするのが、わたしの毎日の日課です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "課題",
+      "reading": "かだい",
+      "meaning": "解決したり、取り組んだりしなければならない問題や仕事。",
+      "example": "夏休みの自由研究は、ぼくにとって大きな課題です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "課外",
+      "reading": "かがい",
+      "meaning": "学校の授業時間ではない、別の時間に行う活動のこと。",
+      "example": "課外活動で、みんなで校庭の草取りをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
