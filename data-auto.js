@@ -16637,6 +16637,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "必": [
+    {
+      "jukugo": "必須",
+      "reading": "ひっす",
+      "meaning": "なくてはならないこと。必ずいること。",
+      "example": "明日の遠足には水筒が必須です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必死",
+      "reading": "ひっし",
+      "meaning": "全力を尽くして、一生懸命がんばること。",
+      "example": "必死に走って、ゴールまでたどり着いた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必勝",
+      "reading": "ひっしょう",
+      "meaning": "必ず勝つこと。",
+      "example": "チームは必勝を誓って試合にのぞんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必見",
+      "reading": "ひっけん",
+      "meaning": "必ず見なければならないもの。見逃してはいけないもの。",
+      "example": "この新しいアニメは子どもたちにとって必見です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必要",
+      "reading": "ひつよう",
+      "meaning": "なくてはならないこと。いりよう。",
+      "example": "勉強には集中力が必要です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
