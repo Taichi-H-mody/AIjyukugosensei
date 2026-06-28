@@ -11935,6 +11935,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "郡": [
+    {
+      "jukugo": "郡部",
+      "reading": "ぐんぶ",
+      "meaning": "都会（とかい）の中心部（ちゅうしんぶ）ではない、田んぼや山が多い田舎（いなか）の地域のことを言うよ。",
+      "example": "夏休みは、自然がたくさんある**郡部**のおじいちゃんの家へ遊びに行くんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "郡境",
+      "reading": "ぐんざかい",
+      "meaning": "郡（ぐん）と郡（ぐん）の境目（さかいめ）のことだよ。地図を見ると線で示されていることが多いよ。",
+      "example": "この大きな川が、わたしたちの町と隣の町の**郡境**になっているんだね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "郡役所",
+      "reading": "ぐんやくしょ",
+      "meaning": "昔、郡（ぐん）の仕事（しごと）をするためにあった役所（やくしょ）のことだよ。今はもうないんだ。",
+      "example": "歴史の授業で、昔はこのあたりに**郡役所**があったと習ったよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "郡長",
+      "reading": "ぐんちょう",
+      "meaning": "昔、郡（ぐん）で一番（いちばん）えらい人（ひと）だった役職（やくしょく）のことだよ。",
+      "example": "歴史の資料（しりょう）で、昔の**郡長**さんの写真（しゃしん）を見つけたよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
