@@ -15205,6 +15205,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "料": [
+    {
+      "jukugo": "料理",
+      "reading": "りょうり",
+      "meaning": "食べ物を作ること。また、作った食べ物。",
+      "example": "お母さんが得意な料理を作ってくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "材料",
+      "reading": "ざいりょう",
+      "meaning": "何かを作るもとになるもの。",
+      "example": "ケーキを作るために、材料を買いに行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "料金",
+      "reading": "りょうきん",
+      "meaning": "サービスや品物を利用したときにかかるお金。",
+      "example": "バスに乗るための料金を払った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無料",
+      "reading": "むりょう",
+      "meaning": "お金がいらないこと。",
+      "example": "この公園のイベントは無料で参加できる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "お金がかかること。",
+      "example": "博物館の入場は有料です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
