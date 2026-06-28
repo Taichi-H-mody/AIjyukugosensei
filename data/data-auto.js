@@ -8931,6 +8931,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "貯": [
+    {
+      "jukugo": "貯金",
+      "reading": "ちょきん",
+      "meaning": "お金をためること。また、ためたお金。",
+      "example": "お年玉を貯金箱に貯金する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯水",
+      "reading": "ちょすい",
+      "meaning": "水をためておくこと。またはためてある水。",
+      "example": "ダムは雨水を貯水するための大切な施設です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯蔵",
+      "reading": "ちょぞう",
+      "meaning": "品物などをたくわえておくこと。",
+      "example": "倉庫で収穫した野菜を貯蔵しておく。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "将来に備えてお金などをためておくこと。",
+      "example": "お小遣いの一部を将来のために貯蓄する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
