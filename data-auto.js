@@ -10413,6 +10413,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "告": [
+    {
+      "jukugo": "報告",
+      "reading": "ほうこく",
+      "meaning": "わかったことやしたことを、相手に知らせること。",
+      "example": "夏休みの自由研究の結果を、クラスのみんなに**報告**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広告",
+      "reading": "こうこく",
+      "meaning": "商品やサービスなどを、多くの人に広く知らせること。",
+      "example": "テレビで新しいおもちゃの**広告**を見た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予告",
+      "reading": "よこく",
+      "meaning": "あらかじめ前もって知らせること。",
+      "example": "映画が始まる前に、次の映画の**予告**が流れた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "告白",
+      "reading": "こくはく",
+      "meaning": "自分の心の中にあることや、秘密を正直に打ち明けること。",
+      "example": "悪いことをしてしまったので、お母さんに正直に**告白**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "忠告",
+      "reading": "ちゅうこく",
+      "meaning": "相手のためを思って、良くない点を指摘したり、注意したりすること。",
+      "example": "先生は、忘れ物をしないように私に**忠告**してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
