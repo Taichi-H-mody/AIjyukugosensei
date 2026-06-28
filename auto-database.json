@@ -11681,5 +11681,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "約": [
+    {
+      "jukugo": "約束",
+      "reading": "やくそく",
+      "meaning": "人と人との間で、～をしようと決めること。",
+      "example": "友達と公園で遊ぶ約束をした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予約",
+      "reading": "よやく",
+      "meaning": "事前に申し込んで、席や品物などを取っておくこと。",
+      "example": "人気の映画を見るために、チケットを予約した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節約",
+      "reading": "せつやく",
+      "meaning": "無駄をなくして、お金や物、時間などを大切に使うこと。",
+      "example": "電気の消し忘れに気をつけて、節約を心がけよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "約分",
+      "reading": "やくぶん",
+      "meaning": "分数を、分母と分子を同じ数で割って簡単な分数にすること。",
+      "example": "算数の授業で、分数の約分の仕方を習った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "要約",
+      "reading": "ようやく",
+      "meaning": "文章や話の、大切なところだけを短くまとめること。",
+      "example": "長い物語を読んで、内容を要約した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
