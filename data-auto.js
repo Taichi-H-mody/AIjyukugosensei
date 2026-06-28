@@ -15515,6 +15515,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "歴": [
+    {
+      "jukugo": "歴史",
+      "reading": "れきし",
+      "meaning": "昔からの出来事や、人間社会が移り変わってきた様子。",
+      "example": "日本の**歴史**を勉強するのは、とても楽しいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歴代",
+      "reading": "れきだい",
+      "meaning": "これまでのすべての代。代々。",
+      "example": "学校には、**歴代**の校長先生の写真が飾られています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経歴",
+      "reading": "けいれき",
+      "meaning": "これまでに経験してきたことや、たどってきた道筋。",
+      "example": "先生の**経歴**には、いろいろな国で教えてきたと書いてありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歴然",
+      "reading": "れきぜん",
+      "meaning": "はっきりとしていて、だれが見ても疑う余地のない様子。",
+      "example": "彼ががんばった成果は、だれが見ても**歴然**としていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "履歴",
+      "reading": "りれき",
+      "meaning": "これまでのあゆみや記録。特に、学業や仕事の記録。",
+      "example": "古い建物の**履歴**を調べると、昔は何に使われていたかがわかります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
