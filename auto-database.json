@@ -14413,5 +14413,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "得": [
+    {
+      "jukugo": "納得",
+      "reading": "なっとく",
+      "meaning": "事情をよく理解して、その通りだと受け入れること。",
+      "example": "先生の説明を聞いて、みんなが納得した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "心得",
+      "reading": "こころえ",
+      "meaning": "前もって知っておくべきことや、注意すること。",
+      "example": "遠足に行くときは、交通ルールを守るのが大切な心得です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "所得",
+      "reading": "しょとく",
+      "meaning": "仕事などをして得るお金のこと。",
+      "example": "おこづかいは、お手伝いをしたことで得られる私の所得です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "獲得",
+      "reading": "かくとく",
+      "meaning": "努力して何かを手に入れること。",
+      "example": "ゲームで難しいミッションをクリアして、新しいアイテムを獲得した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "買い得",
+      "reading": "かいとく",
+      "meaning": "安くてお得なこと。買って得をすること。",
+      "example": "この本は半額だったので、とても買い得だった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
