@@ -13147,6 +13147,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "舎": [
+    {
+      "jukugo": "校舎",
+      "reading": "こうしゃ",
+      "meaning": "学校の建物。教室や職員室などがある場所。",
+      "example": "わたしたちが毎日勉強する校舎は、とても大きくてきれいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宿舎",
+      "reading": "しゅくしゃ",
+      "meaning": "旅行や研修などで、一時的に泊まるための建物。",
+      "example": "林間学校で泊まった宿舎には、広い食堂がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "畜舎",
+      "reading": "ちくしゃ",
+      "meaning": "牛や豚、鶏などの家畜を飼うための建物。",
+      "example": "牧場には、たくさんの動物が暮らす大きな畜舎がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄宿舎",
+      "reading": "きしゅくしゃ",
+      "meaning": "学校に通う生徒や学生が、そこに住みながら生活する建物。寮(りょう)とも言います。",
+      "example": "遠いところに住んでいるお兄さんは、学校の寄宿舎でみんなと生活しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "庁舎",
+      "reading": "ちょうしゃ",
+      "meaning": "市役所や県庁など、役所の建物。",
+      "example": "市役所の庁舎には、たくさんの人が訪れていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
