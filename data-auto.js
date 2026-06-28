@@ -14659,6 +14659,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "候": [
+    {
+      "jukugo": "天候",
+      "reading": "てんこう",
+      "meaning": "空の様子や天気のこと。",
+      "example": "今日の天候は晴れです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気候",
+      "reading": "きこう",
+      "meaning": "ある土地の気温や雨の量、風など、長い期間にわたる天気の状態のこと。",
+      "example": "日本の気候は四季があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "候補",
+      "reading": "こうほ",
+      "meaning": "選び出される可能性がある人やもののこと。",
+      "example": "クラスの代表の候補が3人います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "候鳥",
+      "reading": "こうちょう",
+      "meaning": "季節によってすみかを変える鳥。渡り鳥のこと。",
+      "example": "冬になると、遠い国からたくさんの候鳥が飛んできます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時候",
+      "reading": "じこう",
+      "meaning": "季節のこと。特定の時期や時期の挨拶に使われることが多い。",
+      "example": "手紙の時候の挨拶で季節の移り変わりを感じます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
