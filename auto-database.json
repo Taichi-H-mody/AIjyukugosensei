@@ -14699,5 +14699,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "適": [
+    {
+      "jukugo": "適切",
+      "reading": "てきせつ",
+      "meaning": "ぴったり合っていること。ふさわしいこと。",
+      "example": "先生は、質問に**適切**な答えを教えてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "適当",
+      "reading": "てきとう",
+      "meaning": "ちょうど良いこと。ふさわしいこと。（いい加減という意味ではなく、ちょうど良いという意味で使う）",
+      "example": "今日の気温に**適当**な服装を選んで出かけた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "適応",
+      "reading": "てきおう",
+      "meaning": "新しい場所や状況にうまく慣れること。合わせること。",
+      "example": "新しい学校の生活に**適応**できるようがんばります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快適",
+      "reading": "かいてき",
+      "meaning": "気持ちが良くて、心地よいこと。",
+      "example": "エアコンのおかげで、部屋の中が**快適**になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最適",
+      "reading": "さいてき",
+      "meaning": "一番良いこと。最もふさわしいこと。",
+      "example": "この道が、学校へ行くのに**最適**な近道だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
