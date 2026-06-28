@@ -12985,5 +12985,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "授": [
+    {
+      "jukugo": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "学校で、先生が勉強を教えたり、みんなで学んだりすること。",
+      "example": "理科の**授業**で、植物が育つ様子を観察しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "授与",
+      "reading": "じゅよ",
+      "meaning": "物や資格、賞状などを、人に与え渡すこと。",
+      "example": "卒業式では、校長先生から卒業証書が**授与**されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝授",
+      "reading": "でんじゅ",
+      "meaning": "昔からの秘密の技や大切な知識などを、次の世代の人に教え伝えること。",
+      "example": "おじいちゃんは、家に代々伝わる漬物の作り方を私に**伝授**してくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "授乳",
+      "reading": "じゅにゅう",
+      "meaning": "お母さんが、生まれたばかりの赤ちゃんにおっぱいを飲ませること。",
+      "example": "お母さんは、赤ちゃんが泣くと優しく**授乳**をしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教授",
+      "reading": "きょうじゅ",
+      "meaning": "知識や技術などを教え導くこと。または、大学の先生の役職名。",
+      "example": "新しい跳び箱の飛び方を、体育の先生が私たちに**教授**してくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
