@@ -14127,5 +14127,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "冷": [
+    {
+      "jukugo": "冷水",
+      "reading": "れいすい",
+      "meaning": "冷たい水のこと。",
+      "example": "のどがかわいたので、コップの**冷水**を飲んだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冷房",
+      "reading": "れいぼう",
+      "meaning": "部屋の温度を下げて涼しくすること。また、そのための機械。",
+      "example": "夏は暑いので、エアコンの**冷房**をつけて部屋を涼しくする。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冷気",
+      "reading": "れいき",
+      "meaning": "冷たい空気。",
+      "example": "冷蔵庫のドアを開けると、中からひんやりとした**冷気**が出てきた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冷静",
+      "reading": "れいせい",
+      "meaning": "落ち着いていて、あわてないこと。",
+      "example": "大きな音がしたけれど、お兄ちゃんは**冷静**に状況を見た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冷菓",
+      "reading": "れいか",
+      "meaning": "アイスクリームやかき氷など、冷やして食べるお菓子のこと。",
+      "example": "暑い日には、つめたい**冷菓**がとてもおいしい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
