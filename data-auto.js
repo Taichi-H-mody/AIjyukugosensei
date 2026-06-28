@@ -13248,6 +13248,14 @@ const autoData = {
       "example": "ジュースを弟と分けたら、僕の分は**半減**してしまった。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "減量",
+      "reading": "げんりょう",
+      "meaning": "物の量を減らすこと。体重を減らすこと。",
+      "example": "健康のために、ご飯の量を少し減量することにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "師": [
