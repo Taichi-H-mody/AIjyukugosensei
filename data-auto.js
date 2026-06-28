@@ -15557,6 +15557,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "的": [
+    {
+      "jukugo": "目的",
+      "reading": "もくてき",
+      "meaning": "何かをしようとするときの、ねらいや最終的なゴール。",
+      "example": "今日の遠足の目的は、動物園の動物たちをよく観察することです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "具体的",
+      "reading": "ぐたいてき",
+      "meaning": "形がはっきりしていて、分かりやすい様子。",
+      "example": "夏休みの宿題について、先生は具体的にもっと詳しく教えてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個人的",
+      "reading": "こじんてき",
+      "meaning": "その人だけのもの、自分だけの様子。",
+      "example": "これは僕の個人的な意見だけど、この本が一番面白いと思う。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基本的",
+      "reading": "きほんてき",
+      "meaning": "物事の土台となる大切な部分。一番もとになること。",
+      "example": "まず、バスケットボールの基本的なルールを覚えよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効果的",
+      "reading": "こうかてき",
+      "meaning": "良い結果や効果がある様子。",
+      "example": "予習は、授業の内容を理解するためにとても効果的な方法です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
