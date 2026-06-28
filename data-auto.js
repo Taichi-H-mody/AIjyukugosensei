@@ -12667,6 +12667,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "賛": [
+    {
+      "jukugo": "賛成",
+      "reading": "さんせい",
+      "meaning": "ある考えや意見を良いと認めて、それに同意すること。",
+      "example": "みんなの意見に**賛成**して、遠足の行き先が決まった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賞賛",
+      "reading": "しょうさん",
+      "meaning": "素晴らしい行いや成果をほめたたえること。",
+      "example": "困難なことに挑戦した勇気を、みんなで**賞賛**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賛美",
+      "reading": "さんび",
+      "meaning": "非常に優れているものや美しいものを、ほめたたえること。",
+      "example": "夕焼けの美しさを**賛美**する歌を歌った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賛同",
+      "reading": "さんどう",
+      "meaning": "他の人の考えや意見に賛成して、同じ考えを持つこと。",
+      "example": "友達の計画に**賛同**して、一緒に準備を始めた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賛歌",
+      "reading": "さんか",
+      "meaning": "素晴らしい人や物、出来事をほめたたえる歌。",
+      "example": "勝利を祝って、チームの**賛歌**をみんなで歌った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
