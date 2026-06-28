@@ -14373,6 +14373,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "財": [
+    {
+      "jukugo": "財布",
+      "reading": "さいふ",
+      "meaning": "お金やカードなどを入れて持ち歩く入れ物。",
+      "example": "私は新しい財布を買ってもらいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "財産",
+      "reading": "ざいさん",
+      "meaning": "個人や会社などが持っているお金や土地、建物、品物など。",
+      "example": "大切な財産は、きちんと管理しなければなりません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文化財",
+      "reading": "ぶんかざい",
+      "meaning": "歴史的、芸術的に大切な価値がある建物や美術品、技術などのこと。",
+      "example": "日本にはたくさんのすばらしい文化財があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "家財",
+      "reading": "かざい",
+      "meaning": "家にある家具や道具、衣服など、生活に必要な品物のこと。",
+      "example": "引っ越しのとき、家財をトラックで運びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "財力",
+      "reading": "ざいりょく",
+      "meaning": "お金を持っている力や、経済的な力のこと。",
+      "example": "その会社は財力があるので、新しい工場を建てることができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
