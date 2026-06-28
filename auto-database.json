@@ -16945,5 +16945,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "刊": [
+    {
+      "jukugo": "刊行",
+      "reading": "かんこう",
+      "meaning": "本や雑誌などを出版すること。発行すること。",
+      "example": "新しい絵本がまもなく刊行される予定だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "週刊",
+      "reading": "しゅうかん",
+      "meaning": "週に一度発行されること。または、週に一度発行される雑誌や新聞などのこと。",
+      "example": "毎週楽しみにしている週刊のマンガ雑誌を買った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月刊",
+      "reading": "げっかん",
+      "meaning": "月に一度発行されること。または、月に一度発行される雑誌などのこと。",
+      "example": "理科の実験がのっている月刊の科学雑誌を読んでいる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日刊",
+      "reading": "にっかん",
+      "meaning": "毎日発行されること。または、毎日発行される新聞などのこと。",
+      "example": "お父さんが毎朝、日刊の新聞を読んでいる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "創刊",
+      "reading": "そうかん",
+      "meaning": "雑誌や新聞などを初めて発行すること。",
+      "example": "この子ども向け雑誌は、10年前に創刊されたと書いてあった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
