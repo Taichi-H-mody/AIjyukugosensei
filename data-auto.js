@@ -17013,6 +17013,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "典": [
+    {
+      "jukugo": "辞典",
+      "reading": "じてん",
+      "meaning": "言葉の意味や使い方などが書いてある本のことだよ。",
+      "example": "知らない言葉があったら、国語**辞典**ですぐに調べてみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古典",
+      "reading": "こてん",
+      "meaning": "昔からずっと大切にされてきた、価値のある物語や絵画などのことだよ。",
+      "example": "昔話の中には、日本の**古典**として読み継がれているものもたくさんあるんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "式典",
+      "reading": "しきてん",
+      "meaning": "お祝いや大切なできごとのために、きまったやり方で行われる催し物のこと。",
+      "example": "入学**式典**では、新しい一年生がみんなの前に並びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祭典",
+      "reading": "さいてん",
+      "meaning": "神様をまつったり、お祝いしたりする大きなお祭りのことだよ。",
+      "example": "地域のお**祭典**では、たくさんの屋台が出てにぎやかだったね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "典型",
+      "reading": "てんけい",
+      "meaning": "その種類の中で、一番「これぞ！」という特徴をよく表しているもの。",
+      "example": "彼のサッカーのプレースタイルは、まさにエース選手の**典型**だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "務": [
+    {
+      "jukugo": "事務",
+      "reading": "じむ",
+      "meaning": "会社や役所などで、書類を作ったり整理したりする仕事のこと。",
+      "example": "お母さんは会社の**事務**の仕事をしている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "義務",
+      "reading": "ぎむ",
+      "meaning": "必ずしなければならないこと、守らなければならないこと。",
+      "example": "困っている人を助けるのは、私たちみんなの**義務**だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "任務",
+      "reading": "にんむ",
+      "meaning": "特別に命じられた大切な仕事や役目のこと。",
+      "example": "探検隊には、新しい島を見つけるという大切な**任務**があった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "業務",
+      "reading": "ぎょうむ",
+      "meaning": "職業として行う仕事や務め。特に、組織の中で行われる仕事。",
+      "example": "先生たちは、授業のほかにたくさんの**業務**をこなしている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職務",
+      "reading": "しょくむ",
+      "meaning": "自分の職業によって定められている仕事や役目のこと。",
+      "example": "警察官は、みんなの安全を守るのが大切な**職務**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
