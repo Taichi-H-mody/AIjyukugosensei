@@ -16721,6 +16721,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "景": [
+    {
+      "jukugo": "景色",
+      "reading": "けしき",
+      "meaning": "まわりのながめ。風景。",
+      "example": "窓から見える山の景色がとてもきれいだね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "風景",
+      "reading": "ふうけい",
+      "meaning": "自然や建物などがおりなす、目の前に広がるながめ。",
+      "example": "旅行先で見た美しい田んぼの風景が心に残っているよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "景品",
+      "reading": "けいひん",
+      "meaning": "福引きなどで、賞としてもらえる品物。",
+      "example": "お祭りのくじ引きで、大きなぬいぐるみが景品として当たったんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "光景",
+      "reading": "こうけい",
+      "meaning": "目の前に広がっているありさまや様子。",
+      "example": "運動会でみんなが一生懸命走る光景は感動的だった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜景",
+      "reading": "やけい",
+      "meaning": "夜のまちのながめ。きらきら光るあかりの景色。",
+      "example": "高いタワーから見た夜景は、まるで宝石箱のようだった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
