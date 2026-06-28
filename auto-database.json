@@ -9089,5 +9089,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "衣": [
+    {
+      "jukugo": "衣服",
+      "reading": "いふく",
+      "meaning": "身につける服のこと。",
+      "example": "冬は暖かい衣服を着て出かけましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "衣類",
+      "reading": "いるい",
+      "meaning": "着物や布製品の総称。洗濯物など。",
+      "example": "洗濯機で汚れた衣類を洗います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "衣食住",
+      "reading": "いしょくじゅう",
+      "meaning": "生活に欠かせない、着るもの（衣）、食べるもの（食）、住むところ（住）のこと。",
+      "example": "人間にとって、衣食住は生きていく上でとても大切です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "浴衣",
+      "reading": "ゆかた",
+      "meaning": "お風呂上がりに着たり、夏祭りなどで着る日本の伝統的な服。",
+      "example": "夏祭りにはきれいな浴衣を着て出かけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "衣替え",
+      "reading": "ころもがえ",
+      "meaning": "季節の変わり目に、夏服と冬服などを入れ替えること。",
+      "example": "来週は衣替えなので、冬服を出しておきましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
