@@ -10051,6 +10051,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "希": [
+    {
+      "jukugo": "希望",
+      "reading": "きぼう",
+      "meaning": "将来こうなりたい、こうなってほしいと願う気持ちや、その願いのこと。",
+      "example": "医者になるという、将来への大きな希望を持っている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "希少",
+      "reading": "きしょう",
+      "meaning": "数がとても少なくて、珍しいこと。",
+      "example": "ジャイアントパンダは、とても希少な動物です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "希有",
+      "reading": "けう",
+      "meaning": "めったにないこと。非常に珍しいこと。",
+      "example": "誰もが成功をあきらめた時、彼だけが成功した。これは希有な例だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "希代",
+      "reading": "きたい",
+      "meaning": "その時代にほとんど見られないほど、とても珍しいこと。",
+      "example": "彼は希代の才能を持つ画家として、多くの人々を感動させた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "希薄",
+      "reading": "きはく",
+      "meaning": "薄いこと。量が少ないこと。気持ちや関心などが乏しいことにも使う。",
+      "example": "山の頂上では、空気が希薄で息苦しく感じることがあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
