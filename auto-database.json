@@ -15513,5 +15513,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "歴": [
+    {
+      "jukugo": "歴史",
+      "reading": "れきし",
+      "meaning": "昔からの出来事や、人間社会が移り変わってきた様子。",
+      "example": "日本の**歴史**を勉強するのは、とても楽しいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歴代",
+      "reading": "れきだい",
+      "meaning": "これまでのすべての代。代々。",
+      "example": "学校には、**歴代**の校長先生の写真が飾られています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経歴",
+      "reading": "けいれき",
+      "meaning": "これまでに経験してきたことや、たどってきた道筋。",
+      "example": "先生の**経歴**には、いろいろな国で教えてきたと書いてありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歴然",
+      "reading": "れきぜん",
+      "meaning": "はっきりとしていて、だれが見ても疑う余地のない様子。",
+      "example": "彼ががんばった成果は、だれが見ても**歴然**としていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "履歴",
+      "reading": "りれき",
+      "meaning": "これまでのあゆみや記録。特に、学業や仕事の記録。",
+      "example": "古い建物の**履歴**を調べると、昔は何に使われていたかがわかります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "的": [
+    {
+      "jukugo": "目的",
+      "reading": "もくてき",
+      "meaning": "何かをしようとするときの、ねらいや最終的なゴール。",
+      "example": "今日の遠足の目的は、動物園の動物たちをよく観察することです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "具体的",
+      "reading": "ぐたいてき",
+      "meaning": "形がはっきりしていて、分かりやすい様子。",
+      "example": "夏休みの宿題について、先生は具体的にもっと詳しく教えてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個人的",
+      "reading": "こじんてき",
+      "meaning": "その人だけのもの、自分だけの様子。",
+      "example": "これは僕の個人的な意見だけど、この本が一番面白いと思う。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基本的",
+      "reading": "きほんてき",
+      "meaning": "物事の土台となる大切な部分。一番もとになること。",
+      "example": "まず、バスケットボールの基本的なルールを覚えよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効果的",
+      "reading": "こうかてき",
+      "meaning": "良い結果や効果がある様子。",
+      "example": "予習は、授業の内容を理解するためにとても効果的な方法です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
