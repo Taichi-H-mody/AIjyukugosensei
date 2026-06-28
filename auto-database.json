@@ -10369,5 +10369,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "鉱": [
+    {
+      "jukugo": "鉱物",
+      "reading": "こうぶつ",
+      "meaning": "地球の地層の中に自然にできた、石のようなかたい物質のこと。宝石や鉄の材料なども鉱物です。",
+      "example": "博物館でキラキラ光るめずらしい鉱物を見ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉱山",
+      "reading": "こうざん",
+      "meaning": "地面の下から、石炭や鉄などの金属の材料を掘り出す場所のこと。",
+      "example": "昔、この町にはたくさんの人が働く大きな鉱山がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉱石",
+      "reading": "こうせき",
+      "meaning": "金属や宝石など、役に立つものを取り出すために、地下から掘り出された石のこと。",
+      "example": "この赤い鉱石からは、鉄を作ることができます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉱泉",
+      "reading": "こうせん",
+      "meaning": "地面の下からわき出てくる、特別な成分がまざった水のこと。温泉の一種です。",
+      "example": "旅行先で、体の疲れがとれると有名な鉱泉に入りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉱業",
+      "reading": "こうぎょう",
+      "meaning": "地面から鉱物や金属の材料などを掘り出したり、それらを加工したりする仕事のこと。",
+      "example": "この国は、昔から鉱業がさかんで、たくさんの資源を産出しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
