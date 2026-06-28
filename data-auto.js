@@ -11515,6 +11515,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "賞": [
+    {
+      "jukugo": "賞状",
+      "reading": "しょうじょう",
+      "meaning": "がんばったことや、すぐれた成績をおさめたことをほめてあたえるふみ。",
+      "example": "うんどうかいのかけっこで、しょうじょうをもらってうれしかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賞品",
+      "reading": "しょうひん",
+      "meaning": "しょうぶやきょうぎなどで、かちぬいた人にあたえられる品物。",
+      "example": "くじびきであたりがでて、おおきなしょうひんをもらったよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受賞",
+      "reading": "じゅしょう",
+      "meaning": "しょうをもらうこと。",
+      "example": "がっこうでかいがのコンクールがあり、ぼくのえがじゅしょうした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "懸賞",
+      "reading": "けんしょう",
+      "meaning": "しょうきんやしょうひんなどをかけて、広くぼしゅうすること。",
+      "example": "おかしのふくろについているけんしょうにはがきでおうぼした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賞金",
+      "reading": "しょうきん",
+      "meaning": "しょうとしてあたえられるお金。",
+      "example": "ゲームたいかいでゆうしょうして、しょうきんをゲットできた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
