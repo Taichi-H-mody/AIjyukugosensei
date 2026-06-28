@@ -13313,5 +13313,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "能": [
+    {
+      "jukugo": "能力",
+      "reading": "のうりょく",
+      "meaning": "何かをすることができる力のこと。",
+      "example": "漢字を覚える能力は、だれでも持っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "可能",
+      "reading": "かのう",
+      "meaning": "できること。やろうと思えばできること。",
+      "example": "この問題は、みんなで協力すれば解決が可能です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "才能",
+      "reading": "さいのう",
+      "meaning": "あることをするのに、特別にすぐれた力やセンスがあること。",
+      "example": "彼女は絵を描く才能があるので、将来が楽しみです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芸能",
+      "reading": "げいのう",
+      "meaning": "歌や踊り、お芝居など、人々を楽しませる技術や活動。",
+      "example": "テレビに出ている人は、芸能人と呼ばれています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有能",
+      "reading": "ゆうのう",
+      "meaning": "能力がすぐれていて、役に立つこと。物事を上手にこなせること。",
+      "example": "彼はクラスで一番有能なリーダーです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
