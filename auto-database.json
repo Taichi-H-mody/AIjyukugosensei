@@ -14917,5 +14917,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "航": [
+    {
+      "jukugo": "航空",
+      "reading": "こうくう",
+      "meaning": "空を飛ぶこと。飛行機やヘリコプターなどで移動すること。",
+      "example": "航空機は空を飛ぶ乗り物です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "航海",
+      "reading": "こうかい",
+      "meaning": "船に乗って海を旅すること。",
+      "example": "昔の探検家たちは大きな船で航海に出ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運航",
+      "reading": "うんこう",
+      "meaning": "飛行機や船が、決められた時間やルートで動くこと。",
+      "example": "悪天候のため、飛行機の運航が中止になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出航",
+      "reading": "しゅっこう",
+      "meaning": "船が港を出て、旅を始めること。",
+      "example": "船が出航する時間が近づいてきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "航路",
+      "reading": "こうろ",
+      "meaning": "船や飛行機が通る、決まった道筋。",
+      "example": "この島と本土を結ぶフェリーの航路があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
