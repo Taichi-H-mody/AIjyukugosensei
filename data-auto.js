@@ -11019,6 +11019,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "功": [
+    {
+      "jukugo": "成功",
+      "reading": "せいこう",
+      "meaning": "物事がうまくいくこと。目的が達成されること。",
+      "example": "みんなで協力して作った劇は、大勢のお客さんの前で大成功だった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "功績",
+      "reading": "こうせき",
+      "meaning": "素晴らしい行いや、人のためになる大きな働き。手柄。",
+      "example": "この地域の発展に大きな功績を残した人が、みんなから感謝されている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "功労",
+      "reading": "こうろう",
+      "meaning": "長く続けてきた努力や、大切な仕事の働き。そのことで認められること。",
+      "example": "長年、町のために働いてきた校長先生に、功労賞が贈られた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "功罪",
+      "reading": "こうざい",
+      "meaning": "ある物事の良い点（功）と悪い点（罪）。メリットとデメリット。",
+      "example": "テレビには、私たちを楽しませる功と、見すぎると勉強がおろそかになる罪がある。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年功",
+      "reading": "ねんこう",
+      "meaning": "長く仕事を続けて積み重ねてきた経験や働き。",
+      "example": "ベテランの職人さんは、年功を積んでいるからどんな難しい修理もできる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
