@@ -16677,5 +16677,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "益": [
+    {
+      "jukugo": "利益",
+      "reading": "りえき",
+      "meaning": "何かをして得られるもうけや、ためになること。",
+      "example": "このお店は、たくさん商品が売れたので大きな利益が出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有益",
+      "reading": "ゆうえき",
+      "meaning": "役に立つこと。ためになること。",
+      "example": "たくさんの本を読むことは、とても有益な時間だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無益",
+      "reading": "むえき",
+      "meaning": "役に立たないこと。むだ。",
+      "example": "意味のない、無益な争いはやめよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "益虫",
+      "reading": "えきちゅう",
+      "meaning": "農作物などを守るために、人間にとって役に立つ虫。",
+      "example": "てんとう虫はアブラムシを食べてくれるので、益虫として知られている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "御利益",
+      "reading": "ごりやく",
+      "meaning": "神様や仏様にお願いして、良い結果や幸せがもたらされること。",
+      "example": "神社にお参りしたら、良い御利益があるかもしれないね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
