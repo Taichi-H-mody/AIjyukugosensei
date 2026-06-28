@@ -14045,6 +14045,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "清": [
+    {
+      "jukugo": "清潔",
+      "reading": "せいけつ",
+      "meaning": "きれいで、よごれていないこと。",
+      "example": "いつも手を清潔にして、病気を防ぎましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "清流",
+      "reading": "せいりゅう",
+      "meaning": "にごりがなく、きれいな水の流れ。",
+      "example": "山奥には、魚がたくさん泳ぐ清流があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "清書",
+      "reading": "せいしょ",
+      "meaning": "書きなおしたり、きれいな字で正式に書いたりすること。",
+      "example": "下書きが終わったら、作文を清書します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "清掃",
+      "reading": "せいそう",
+      "meaning": "ごみを取り除き、きれいにそうじすること。",
+      "example": "放課後、みんなで教室を清掃しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "清涼",
+      "reading": "せいりょう",
+      "meaning": "ひんやりとしていて、気持ちがよいこと。",
+      "example": "暑い夏には、清涼な飲み物がとてもおいしいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
