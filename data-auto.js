@@ -12625,6 +12625,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "幹": [
+    {
+      "jukugo": "幹部",
+      "reading": "かんぶ",
+      "meaning": "組織の中心となる人たち。",
+      "example": "児童会の幹部は、みんなのために一生懸命活動しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幹事",
+      "reading": "かんじ",
+      "meaning": "集まりの世話をする人。",
+      "example": "クラスの係で、遠足の幹事をすることになりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幹線",
+      "reading": "かんせん",
+      "meaning": "主要な交通路や通信路。",
+      "example": "新幹線は、日本の重要な交通の幹線です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "樹幹",
+      "reading": "じゅかん",
+      "meaning": "木の幹のこと。",
+      "example": "森の中の高い木の樹幹は、とても太くてたくましかったです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根幹",
+      "reading": "こんかん",
+      "meaning": "物事の大切なもとになる部分。",
+      "example": "あいさつは、人とのつきあいの根幹となる大切なことです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
