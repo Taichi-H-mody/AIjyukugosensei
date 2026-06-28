@@ -16521,6 +16521,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "述": [
+    {
+      "jukugo": "記述",
+      "reading": "きじゅつ",
+      "meaning": "物事の様子や自分の考えなどを書き記すこと。",
+      "example": "観察日記に、今日の天気を記述しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "口述",
+      "reading": "こうじゅつ",
+      "meaning": "口で話して伝えること。",
+      "example": "先生が、明日の集合場所を口述しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "述語",
+      "reading": "じゅつご",
+      "meaning": "文の中で、主語の動きや様子を表す言葉のこと。「〜する」「〜だ」「〜です」などがこれにあたります。",
+      "example": "「犬が走る」という文の述語は「走る」です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "略述",
+      "reading": "りゃくじゅつ",
+      "meaning": "大事なところだけを選んで簡単に説明すること。",
+      "example": "長い物語のあらすじを略述しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "叙述",
+      "reading": "じょじゅつ",
+      "meaning": "物事を順序よく説明すること。",
+      "example": "作文では、出来事を順番に叙述すると分かりやすいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
