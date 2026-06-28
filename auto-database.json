@@ -11486,6 +11486,22 @@
       "example": "今日の海の漁獲は、とてもたくさんありました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁村",
+      "reading": "ぎょそん",
+      "meaning": "漁業で生活している人が多く住んでいる村のこと。",
+      "example": "夏休みに、海のそばにある小さな漁村へ遊びに行きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁場",
+      "reading": "ぎょじょう",
+      "meaning": "魚がたくさんとれる場所のこと。",
+      "example": "この海は魚がたくさんいるので、良い漁場です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "張": [
