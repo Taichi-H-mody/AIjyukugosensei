@@ -11723,5 +11723,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "灯": [
+    {
+      "jukugo": "電灯",
+      "reading": "でんとう",
+      "meaning": "電気の力で光る明かりのこと。",
+      "example": "部屋の電灯をつけて、本を読み始めた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "街灯",
+      "reading": "がいとう",
+      "meaning": "道や公園、広場などを照らすために立てられた明かりのこと。",
+      "example": "夜になると、道の街灯が明るく光った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "灯台",
+      "reading": "とうだい",
+      "meaning": "船が安全に進めるように、海の上や海岸で明るい光を出して場所を知らせる建物。",
+      "example": "遠くに見える灯台の光が、暗い海を照らしていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信号灯",
+      "reading": "しんごうとう",
+      "meaning": "交通のきまりを守るために、赤や青などの色で進んだり止まったりを知らせる明かり。",
+      "example": "信号灯が赤になったので、車が止まった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提灯",
+      "reading": "ちょうちん",
+      "meaning": "竹の骨組みに紙などをはって作った、持ち運びできる明かり。",
+      "example": "お祭りで、きれいな提灯がたくさん飾られていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
