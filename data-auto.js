@@ -13827,6 +13827,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "競": [
+    {
+      "jukugo": "競争",
+      "reading": "きょうそう",
+      "meaning": "お互いに、どちらが優れているか、どちらが先にできるかをきそい合うこと。",
+      "example": "運動会のリレーで、みんなで力を合わせて競争した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競技",
+      "reading": "きょうぎ",
+      "meaning": "運動の技術や速さなどをきそい合うこと。また、スポーツなどのしゅもく。",
+      "example": "オリンピックには、たくさんの種類の競技がある。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競泳",
+      "reading": "きょうえい",
+      "meaning": "水泳で、速さや技術をきそい合うこと。",
+      "example": "プールで開かれた競泳大会で、新しい記録が出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競走",
+      "reading": "きょうそう",
+      "meaning": "走る速さをきそい合うこと。かけっこ。",
+      "example": "運動会で友達と徒競走をして、一位を目指した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競演",
+      "reading": "きょうえん",
+      "meaning": "複数の人が、それぞれのえんぎや演奏などの技をきそい合うこと。",
+      "example": "ピアノの発表会で、友達と二人で競演する曲を練習した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
