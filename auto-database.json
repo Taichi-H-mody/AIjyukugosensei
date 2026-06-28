@@ -9409,5 +9409,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "加": [
+    {
+      "jukugo": "加算",
+      "reading": "かさん",
+      "meaning": "数を足し合わせること、足し算。",
+      "example": "算数の授業で、先生が加算のやり方を教えてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増加",
+      "reading": "ぞうか",
+      "meaning": "数や量が増えること。",
+      "example": "公園の木の数は、去年よりも増加した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参加",
+      "reading": "さんか",
+      "meaning": "ある活動や集まりに加わること。",
+      "example": "明日の遠足に、みんなで楽しく参加しよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追加",
+      "reading": "ついか",
+      "meaning": "後から付け足すこと。",
+      "example": "もうひとつアイスを追加してもいいですか？",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "加速",
+      "reading": "かそく",
+      "meaning": "速さがさらに速くなること。",
+      "example": "自転車をこいで、坂道を加速した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
