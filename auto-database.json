@@ -14085,5 +14085,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "厚": [
+    {
+      "jukugo": "厚み",
+      "reading": "あつみ",
+      "meaning": "物の厚さのこと。どれくらい厚いかということ。",
+      "example": "この本は、たくさんのページがあってすごい**厚み**があるね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "厚手",
+      "reading": "あつで",
+      "meaning": "布や紙などが厚く作られていること。また、そのもの。",
+      "example": "寒い冬には、**厚手**のセーターを着て温かくするよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "厚着",
+      "reading": "あつぎ",
+      "meaning": "寒いときに、服をたくさん着ること。",
+      "example": "今日はとても寒いから、外に行くときはしっかり**厚着**をしよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "厚底",
+      "reading": "あつぞこ",
+      "meaning": "靴やサンダルなどの底が厚くなっていること。",
+      "example": "お姉ちゃんは、背が高く見える**厚底**のサンダルをはいているよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分厚い",
+      "reading": "ぶあつい",
+      "meaning": "とても厚い様子を表す言葉。",
+      "example": "図書館で、絵がたくさん載っている**分厚い**図鑑を借りてきた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
