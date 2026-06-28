@@ -12880,6 +12880,14 @@
       "example": "昔の戦いでは、多くの歩兵が活躍しました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水兵",
+      "reading": "すいへい",
+      "meaning": "海の軍隊で働く兵士。船に乗って国を守ります。",
+      "example": "港に停まっている船には、たくさんの水兵さんが乗っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "包": [
@@ -14780,6 +14788,48 @@
       "reading": "こうくん",
       "meaning": "学校が教育目標として定める、生徒みんなで守るべき教え。",
       "example": "わたしの小学校の校訓は「強く、正しく、美しく」です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "験": [
+    {
+      "jukugo": "試験",
+      "reading": "しけん",
+      "meaning": "学んだことがどれくらい身についているか、能力があるかどうかを調べるために行うテスト。",
+      "example": "来週、漢字の試験があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経験",
+      "reading": "けいけん",
+      "meaning": "実際に自分でやってみたり、見たりして学んだこと。",
+      "example": "野球の経験があるので、ルールがよく分かります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実験",
+      "reading": "じっけん",
+      "meaning": "決まった方法で何かを試し、結果を調べること。",
+      "example": "理科の授業で、植物を育てる実験をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受験",
+      "reading": "じゅけん",
+      "meaning": "学校などに入るための試験を受けること。",
+      "example": "来年、中学校の受験をする予定です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体験",
+      "reading": "たいけん",
+      "meaning": "実際に自分でやってみたり、感じたりすること。",
+      "example": "夏休みに、農家のお手伝い体験をしました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
