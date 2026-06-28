@@ -10767,6 +10767,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "罪": [
+    {
+      "jukugo": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "自分のした悪いことや失敗を認めて、相手に許しを請うこと。ごめんなさいとあやまること。",
+      "example": "友達にぶつかってしまったので、すぐに謝罪した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "犯罪",
+      "reading": "はんざい",
+      "meaning": "法律で禁止されている悪い行いをすること。社会のルールを破る行為。",
+      "example": "犯罪は絶対に許されないことです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有罪",
+      "reading": "ゆうざい",
+      "meaning": "裁判で、ある人が罪を犯したと正式に認められること。",
+      "example": "たくさんの証拠が見つかり、彼は有罪とされた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無罪",
+      "reading": "むざい",
+      "meaning": "裁判で、ある人が罪を犯していないと正式に認められること。",
+      "example": "新しい証拠が見つかり、その人は無罪になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "罪人",
+      "reading": "ざいにん",
+      "meaning": "法律や道徳に反する悪い行いをした人。",
+      "example": "物語の中の罪人は、自分の過ちを深く反省しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
