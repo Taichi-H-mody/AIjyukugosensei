@@ -8965,6 +8965,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "愛": [
+    {
+      "jukugo": "愛犬",
+      "reading": "あいけん",
+      "meaning": "可愛がって飼っている犬のこと。",
+      "example": "私の愛犬は、毎日元気いっぱいに庭を走り回っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛用",
+      "reading": "あいよう",
+      "meaning": "気に入っていつも使うこと。",
+      "example": "お気に入りの鉛筆を大切に愛用しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛読",
+      "reading": "あいどく",
+      "meaning": "気に入ってよく読むこと。",
+      "example": "私は毎週、少年漫画を愛読しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友愛",
+      "reading": "ゆうあい",
+      "meaning": "友達を大切に思う気持ち。友情。",
+      "example": "クラスのみんなと友愛を深めて、もっと仲良くなりたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛情",
+      "reading": "あいじょう",
+      "meaning": "かわいがったり大切に思ったりする気持ち。",
+      "example": "お母さんの愛情をたくさん感じて、私は幸せです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
