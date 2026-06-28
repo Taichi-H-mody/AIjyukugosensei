@@ -13103,5 +13103,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "師": [
+    {
+      "jukugo": "教師",
+      "reading": "きょうし",
+      "meaning": "学校で子どもたちに勉強や大切なことを教える仕事の人。",
+      "example": "私の将来の夢は、優しい小学校の教師になることです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "医師",
+      "reading": "いし",
+      "meaning": "病気やけがをした人を診て、治すことを仕事にしている人。",
+      "example": "お腹が痛くて病院に行ったら、医師の先生が優しく診てくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁師",
+      "reading": "りょうし",
+      "meaning": "海や川で魚を捕ることを仕事にしている人。",
+      "example": "漁師のおじいさんが、朝早くに船で海へ出かけていきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美容師",
+      "reading": "びようし",
+      "meaning": "人の髪の毛を切ったり、セットしたりして、きれいにする仕事の人。",
+      "example": "美容師さんに、私の好きな髪型にしてもらいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "師匠",
+      "reading": "ししょう",
+      "meaning": "芸事や技術などを弟子に教え導く、尊敬すべき先生。",
+      "example": "私は将来、落語家になって、素晴らしい師匠のもとで学びたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
