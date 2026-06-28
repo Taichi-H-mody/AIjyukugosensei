@@ -14959,5 +14959,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "構": [
+    {
+      "jukugo": "構造",
+      "reading": "こうぞう",
+      "meaning": "物事の組み立てや仕組み。",
+      "example": "このロボットは、複雑な構造をしているね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "構成",
+      "reading": "こうせい",
+      "meaning": "いくつかのものを集めて、一つのものを作り上げること。",
+      "example": "発表の構成を考えて、わかりやすく説明しよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "構内",
+      "reading": "こうない",
+      "meaning": "建物や敷地の内側。",
+      "example": "学校の構内では、静かに歩きましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "構図",
+      "reading": "こうず",
+      "meaning": "絵や写真などで、ものや人をどのように配置するかということ。",
+      "example": "絵を描くときは、まず構図を考えるのが大切だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "構想",
+      "reading": "こうそう",
+      "meaning": "物事の計画や組み立てを頭の中で考えること。",
+      "example": "夏休みの自由研究の構想を練っているよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
