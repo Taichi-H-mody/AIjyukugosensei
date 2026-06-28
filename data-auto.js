@@ -14835,6 +14835,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "情": [
+    {
+      "jukugo": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "友達どうしの親しい気持ち。互いに思いやる心。",
+      "example": "わたしたちのグループは、固い**友情**で結ばれています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛情",
+      "reading": "あいじょう",
+      "meaning": "かわいがったり、大切に思ったりする気持ち。",
+      "example": "お母さんは、いつも私にたくさんの**愛情**を注いでくれる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "感情",
+      "reading": "かんじょう",
+      "meaning": "喜んだり、怒ったり、悲しんだり、楽しいと思ったりする心のもち方。",
+      "example": "自分の嬉しい**感情**を、大きな声で表現しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表情",
+      "reading": "ひょうじょう",
+      "meaning": "喜びや悲しみなどが、顔に表れた様子。",
+      "example": "友達は、楽しそうな**表情**で今日の出来事を話してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "心情",
+      "reading": "しんじょう",
+      "meaning": "心の中にある気持ちや思い。",
+      "example": "物語の登場人物の**心情**を考えて、声に出して読んでみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
