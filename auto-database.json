@@ -14741,5 +14741,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "訓": [
+    {
+      "jukugo": "訓練",
+      "reading": "くんれん",
+      "meaning": "できるようになるまで、繰り返し練習すること。",
+      "example": "運動会に向けて、みんなで組体操の訓練をした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教訓",
+      "reading": "きょうくん",
+      "meaning": "物事から学びとる、大切な教えや心得。",
+      "example": "失敗から、二度と同じ間違いをしないという大切な教訓を得た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特訓",
+      "reading": "とっくん",
+      "meaning": "特別な目的のために、集中して行う訓練。",
+      "example": "かけっこが速くなるように、放課後に先生と特訓した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "訓読み",
+      "reading": "くんよみ",
+      "meaning": "漢字を、その意味にあたる日本語で読むこと。「山」を「やま」と読む場合など。",
+      "example": "漢字には音読みと訓読みがあります。「木」を「き」と読むのは訓読みです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校訓",
+      "reading": "こうくん",
+      "meaning": "学校が教育目標として定める、生徒みんなで守るべき教え。",
+      "example": "わたしの小学校の校訓は「強く、正しく、美しく」です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
