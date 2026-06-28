@@ -14573,5 +14573,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "統": [
+    {
+      "jukugo": "統一",
+      "reading": "とういつ",
+      "meaning": "ばらばらなものを一つにまとめること。そろえること。",
+      "example": "みんなの意見を統一して、遠足に行く場所を決めました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝統",
+      "reading": "でんとう",
+      "meaning": "昔から代々受け継がれてきたしきたりや文化、習慣。",
+      "example": "この地域のお祭りには、長い伝統があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "統計",
+      "reading": "とうけい",
+      "meaning": "たくさんのデータを集めて、その数や傾向を調べること。",
+      "example": "クラスで好きな給食を統計でまとめ、グラフにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "系統",
+      "reading": "けいとう",
+      "meaning": "物事が順序よくつながっているつながり。分類の仕方。",
+      "example": "理科の授業で、動物の系統について学びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大統領",
+      "reading": "だいとうりょう",
+      "meaning": "国の政治のトップに立つ、最も高い地位の人。",
+      "example": "テレビで、外国の大統領が演説をしているのを見ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
