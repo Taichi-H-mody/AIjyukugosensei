@@ -16271,6 +16271,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "静": [
+    {
+      "jukugo": "静止",
+      "reading": "せいし",
+      "meaning": "動きを止めてじっとしていること。",
+      "example": "車が信号の前で静止した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安静",
+      "reading": "あんせい",
+      "meaning": "静かにして、体を休めること。",
+      "example": "熱があるときは、安静にしていよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "平静",
+      "reading": "へいせい",
+      "meaning": "落ち着いていて、穏やかなこと。",
+      "example": "どんなときも平静を保つことが大切だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "静物",
+      "reading": "せいぶつ",
+      "meaning": "動きのない、とまっている物。",
+      "example": "美術の時間に、花瓶の静物画を描いた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "静聴",
+      "reading": "せいちょう",
+      "meaning": "静かに耳を傾けて聞くこと。",
+      "example": "先生のお話は、みんなで静聴しましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
