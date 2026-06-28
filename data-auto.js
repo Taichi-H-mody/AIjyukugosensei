@@ -10009,6 +10009,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "願": [
+    {
+      "jukugo": "願望",
+      "reading": "がんぼう",
+      "meaning": "こうなったらいいなと強く思うこと。",
+      "example": "将来の願望を絵に描いて発表しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "念願",
+      "reading": "ねんがん",
+      "meaning": "長い間心の中で思い続けてきた願い。",
+      "example": "ずっと欲しかったゲーム機が買えて、念願が叶った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "志願",
+      "reading": "しがん",
+      "meaning": "あることをしたいと自ら願い出ること。",
+      "example": "クラスの代表に志願する人が、たくさんいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "願い事",
+      "reading": "ねがいごと",
+      "meaning": "神様や誰かに叶えてほしいと願うこと。",
+      "example": "七夕の短冊に、たくさんの願い事を書きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "願掛け",
+      "reading": "がんかけ",
+      "meaning": "願い事がかなうように、神様にお祈りすること。",
+      "example": "サッカーの試合に勝てるように、神社で願掛けをした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
