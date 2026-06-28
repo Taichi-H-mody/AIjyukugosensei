@@ -12095,6 +12095,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "仲": [
+    {
+      "jukugo": "仲良し",
+      "reading": "なかよし",
+      "meaning": "友達ととても仲が良いこと。",
+      "example": "私はクラスの友達とみんな仲良しです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲間",
+      "reading": "なかま",
+      "meaning": "同じ目的や趣味を持つ人たち。友達。",
+      "example": "サッカークラブの仲間と練習しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "けんかしたりして仲が悪くなった人たちが、また元の仲の良い状態に戻ること。",
+      "example": "けんかした弟と仲直りしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲立ち",
+      "reading": "なかだち",
+      "meaning": "けんかしている人たちの間に入って、仲良くさせること。",
+      "example": "先生がけんかの仲立ちをしてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲違い",
+      "reading": "なかのちがい",
+      "meaning": "仲の良かった人どうしが、けんかなどをして仲が悪くなること。",
+      "example": "ささいなことで友達と仲違いしてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
