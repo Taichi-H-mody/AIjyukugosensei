@@ -15431,6 +15431,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "句": [
+    {
+      "jukugo": "俳句",
+      "reading": "はいく",
+      "meaning": "五・七・五の十七文字で作る短い詩です。季語を入れるのが決まりです。",
+      "example": "国語の授業で、みんなで俳句を作りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文句",
+      "reading": "もんく",
+      "meaning": "不平や不満を言う言葉のことです。",
+      "example": "弟がおもちゃを独り占めするので、思わず文句を言ってしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "句読点",
+      "reading": "くとうてん",
+      "meaning": "文章の区切りを示す点（、）や丸（。）などの記号のことです。",
+      "example": "作文を書くときは、句読点を正しく使うことが大切です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "句集",
+      "reading": "くしゅう",
+      "meaning": "俳句や短歌などを集めて、一冊の本にしたものです。",
+      "example": "祖父は、自分の俳句を集めた句集を大切に持っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一句",
+      "reading": "いっく",
+      "meaning": "俳句や川柳などを数えるときの単位。または、その一つを指します。",
+      "example": "先生が発表した俳句の中から、一番好きな一句を選びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
