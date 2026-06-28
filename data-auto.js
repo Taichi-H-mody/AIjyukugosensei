@@ -9259,6 +9259,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "英": [
+    {
+      "jukugo": "英語",
+      "reading": "えいご",
+      "meaning": "イギリスやアメリカなどで使われている言葉。世界中でたくさんの人が話すよ。",
+      "example": "来年から、小学校でも英語の授業が始まるんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "英国",
+      "reading": "えいこく",
+      "meaning": "ヨーロッパにある「イギリス」という国のこと。",
+      "example": "英国には、有名なサッカーチームがたくさんあるよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "英雄",
+      "reading": "えいゆう",
+      "meaning": "強い力や勇気があって、みんなを助ける、尊敬される人。",
+      "example": "物語に出てくる英雄は、いつも悪者をやっつけるんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "英才",
+      "reading": "えいさい",
+      "meaning": "とてもすぐれた才能。特に、小さい頃からかしこい子に使われることが多いよ。",
+      "example": "彼は算数の英才で、むずかしい問題もすぐに解けるんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "英訳",
+      "reading": "えいやく",
+      "meaning": "日本語を英語に直すこと。",
+      "example": "この日本の歌を、英語に訳して歌ってみよう！",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
