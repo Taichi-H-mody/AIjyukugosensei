@@ -11639,5 +11639,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "念": [
+    {
+      "jukugo": "念願",
+      "reading": "ねんがん",
+      "meaning": "心の中で強く願い続けること。ずっと叶えたいと思っていること。",
+      "example": "ぼくの念願は、いつか宇宙飛行士になることです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記念",
+      "reading": "きねん",
+      "meaning": "何か大切なことや出来事を忘れないように、しるしを残すこと。",
+      "example": "運動会の記念に、みんなで写真をとりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "残念",
+      "reading": "ざんねん",
+      "meaning": "期待していたこととちがって、心残りがあること。残念に思う気持ち。",
+      "example": "雨で遠足が中止になって、とても残念でした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "念入り",
+      "reading": "ねんいり",
+      "meaning": "細かいところまで、よく注意して準備したり行ったりすること。",
+      "example": "発表の前に、念入りに準備をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "念押し",
+      "reading": "ねんおし",
+      "meaning": "忘れないように、もう一度確かめたり注意したりすること。",
+      "example": "先生が明日の持ち物について、みんなに念押ししてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
