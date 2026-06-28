@@ -12791,5 +12791,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "兵": [
+    {
+      "jukugo": "兵士",
+      "reading": "へいし",
+      "meaning": "国を守るために、軍隊に入って訓練する人。兵隊。",
+      "example": "テレビのニュースで、国を守る兵士の姿がえがかれていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兵隊",
+      "reading": "へいたい",
+      "meaning": "国を守るために、軍隊に入って訓練する人。兵士。",
+      "example": "おもちゃの兵隊をならべて、せんそうごっこをした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兵器",
+      "reading": "へいき",
+      "meaning": "たたかうときに使う道具やぶきのこと。",
+      "example": "博物館には、昔の兵器がてんじしてあった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兵糧",
+      "reading": "ひょうろう",
+      "meaning": "たたかう兵隊が持ち運ぶ食べ物や水のこと。",
+      "example": "おしろを守るために、兵糧をたくさんたくわえた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歩兵",
+      "reading": "ほへい",
+      "meaning": "歩いてたたかう兵隊。",
+      "example": "昔の戦いでは、多くの歩兵が活躍しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
