@@ -15884,6 +15884,14 @@
       "example": "お父さんは、新しい会社に**転職**しました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職務",
+      "reading": "しょくむ",
+      "meaning": "仕事として担当している務めや役割。",
+      "example": "警察官は、町のみんなの安全を守る大切な**職務**をしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "続": [
@@ -17092,6 +17100,48 @@
       "reading": "しょくむ",
       "meaning": "自分の職業によって定められている仕事や役目のこと。",
       "example": "警察官は、みんなの安全を守るのが大切な**職務**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "営": [
+    {
+      "jukugo": "経営",
+      "reading": "けいえい",
+      "meaning": "会社やお店などを動かし、利益を出していくこと。",
+      "example": "お父さんは、パン屋さんの経営をしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "営業",
+      "reading": "えいぎょう",
+      "meaning": "お店を開けて、品物を売ったりお客さんの相手をしたりすること。",
+      "example": "このお店の営業時間は、午前10時から午後8時までです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運営",
+      "reading": "うんえい",
+      "meaning": "学校行事や施設などを、計画的に動かしていくこと。",
+      "example": "運動会の運営は、生徒会の人たちが中心になって行いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宿営",
+      "reading": "しゅくえい",
+      "meaning": "野外でテントなどを張って、一時的に泊まること。",
+      "example": "わたしたちは山の中でテントを張って宿営しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自営",
+      "reading": "じえい",
+      "meaning": "会社に雇われずに、自分で仕事やお店をすること。",
+      "example": "祖母は、昔から魚屋さんを自営しています。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
