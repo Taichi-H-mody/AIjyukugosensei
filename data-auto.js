@@ -11229,6 +11229,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "巣": [
+    {
+      "jukugo": "巣箱",
+      "reading": "すばこ",
+      "meaning": "鳥が卵を産んだり、ひなが育ったりするための人工の箱。",
+      "example": "庭に**巣箱**を置いて、鳥たちが来るのを待った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "巣立ち",
+      "reading": "すだち",
+      "meaning": "鳥のひなが成長して、初めて巣から飛び立つこと。転じて、親元を離れて自立すること。",
+      "example": "ひな鳥たちが元気に**巣立ち**をして、空へ飛んでいった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "巣作り",
+      "reading": "すづくり",
+      "meaning": "鳥や動物が、卵を産んだり子育てをしたりするために巣を作る活動。",
+      "example": "ツバメが軒下で一生懸命に**巣作り**をしていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "巣穴",
+      "reading": "すあな",
+      "meaning": "動物が地面や木の中に掘って作った穴の巣。",
+      "example": "リスが木の根元に**巣穴**を掘って、冬に備えていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古巣",
+      "reading": "ふるす",
+      "meaning": "前に住んでいた巣。転じて、以前所属していた場所や組織。",
+      "example": "転校生が夏休みに**古巣**の小学校に遊びに行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
