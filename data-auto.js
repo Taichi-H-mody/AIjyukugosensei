@@ -13273,6 +13273,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "梅": [
+    {
+      "jukugo": "梅雨",
+      "reading": "つゆ",
+      "meaning": "初夏に雨が多く降る期間のことです。",
+      "example": "梅雨の季節は、毎日傘を持って学校に行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "梅干",
+      "reading": "うめぼし",
+      "meaning": "梅の実を塩漬けにして干したものです。酸っぱい味が特徴です。",
+      "example": "おばあちゃんが作った梅干しは、すっぱくてごはんが進みます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "梅林",
+      "reading": "ばいりん",
+      "meaning": "梅の木がたくさん植えられている場所のことです。",
+      "example": "春になると、梅林の梅の花がとてもきれいに咲きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "梅見",
+      "reading": "うめみ",
+      "meaning": "梅の花を見て楽しむことです。",
+      "example": "家族みんなで公園へ梅見に行って、春の訪れを感じました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青梅",
+      "reading": "あおうめ",
+      "meaning": "まだ熟していない、青くてかたい梅の実のことです。",
+      "example": "お母さんが青梅を使って、おいしい梅ジュースを作ってくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
