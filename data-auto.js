@@ -14240,6 +14240,30 @@ const autoData = {
       "example": "図書館で、絵がたくさん載っている**分厚い**図鑑を借りてきた。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "厚紙",
+      "reading": "あつがみ",
+      "meaning": "厚みのあるしっかりした紙。",
+      "example": "工作の時間に、丈夫な厚紙を使って箱を作った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "厚焼き",
+      "reading": "あつやき",
+      "meaning": "厚く焼いた食べ物。",
+      "example": "おばあちゃんが作ってくれた厚焼き卵はとても美味しかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "温厚",
+      "reading": "おんこう",
+      "meaning": "性格がおだやかで、やさしいこと。",
+      "example": "私のクラスの担任の先生は、いつも温厚で優しい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "冷": [
