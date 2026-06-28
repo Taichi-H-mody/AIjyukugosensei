@@ -13229,5 +13229,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "無": [
+    {
+      "jukugo": "無人",
+      "reading": "むじん",
+      "meaning": "人がいないこと。",
+      "example": "だれも住んでいない島を無人島と言います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無料",
+      "reading": "むりょう",
+      "meaning": "お金がかからないこと。ただ。",
+      "example": "この動物園の入場料は、小学生は無料です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無理",
+      "reading": "むり",
+      "meaning": "やろうとしてもできないこと。限度を超えていること。",
+      "example": "そんな重い箱を一人で持つのは無理だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無口",
+      "reading": "むくち",
+      "meaning": "あまりしゃべらないこと。",
+      "example": "うちのクラスにいる転校生は、少し無口な子です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無色",
+      "reading": "むしょく",
+      "meaning": "色がついていないこと。",
+      "example": "きれいな水は、無色でとうめいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
