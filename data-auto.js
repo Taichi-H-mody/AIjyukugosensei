@@ -17339,6 +17339,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "象": [
+    {
+      "jukugo": "印象",
+      "reading": "いんしょう",
+      "meaning": "人や物から受けた感じ。",
+      "example": "新しい先生は、とても明るい印象でした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気象",
+      "reading": "きしょう",
+      "meaning": "大気中で起こる雨や風などの自然の出来事。",
+      "example": "今日の気象情報を調べて、傘を持って出かけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "現象",
+      "reading": "げんしょう",
+      "meaning": "自然界や社会で起こる、目に見える出来事。",
+      "example": "虹は、雨上がりに太陽の光で見られる美しい現象です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "象形文字",
+      "reading": "しょうけいもじ",
+      "meaning": "物や動物の形をまねて作られた漢字。",
+      "example": "「川」という漢字は、水の流れの形からできた象形文字です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
