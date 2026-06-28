@@ -15262,6 +15262,14 @@ const autoData = {
       "example": "博物館の入場は有料です。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食料",
+      "reading": "しょくりょう",
+      "meaning": "人間が食べるための物。食べ物。",
+      "example": "災害にそなえて、水と食料を準備しておきましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "証": [
