@@ -15001,5 +15001,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "似": [
+    {
+      "jukugo": "似顔絵",
+      "reading": "にがおえ",
+      "meaning": "人の顔に似せて描いた絵のこと。",
+      "example": "お父さんの似顔絵を上手に描けました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "類似",
+      "reading": "るいじ",
+      "meaning": "よく似ていること。似ている点。",
+      "example": "その二つのキャラクターは、見た目がとても類似しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "酷似",
+      "reading": "こくじ",
+      "meaning": "そっくり似ていること。非常に似ていること。",
+      "example": "お兄さんと弟は、顔が酷似していて見分けがつきません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "似寄り",
+      "reading": "により",
+      "meaning": "似ていること。似たようなもの。",
+      "example": "このペンと似寄りのものを探しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "類似品",
+      "reading": "るいじひん",
+      "meaning": "他の製品とよく似ている品物のこと。",
+      "example": "有名なお菓子の類似品がたくさん売られています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
