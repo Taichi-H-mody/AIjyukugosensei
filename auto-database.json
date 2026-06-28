@@ -9341,5 +9341,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "塩": [
+    {
+      "jukugo": "塩水",
+      "reading": "しおみず",
+      "meaning": "塩が溶けている水。しょっぱい水。",
+      "example": "海の水は、塩水だからとてもしょっぱい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食塩",
+      "reading": "しょくえん",
+      "meaning": "料理などに使う、食べるための塩。",
+      "example": "ラーメンに食塩を少し入れると、味が引き立つ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "塩分",
+      "reading": "えんぶん",
+      "meaning": "食品などに含まれる、塩の量。",
+      "example": "ポテトチップスには塩分がたくさん入っている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "塩味",
+      "reading": "しおあじ",
+      "meaning": "塩のようなしょっぱい味。",
+      "example": "このせんべいは、塩味がきいていておいしい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "塩焼き",
+      "reading": "しおやき",
+      "meaning": "魚などに塩をふって焼く料理。",
+      "example": "今日の晩ごはんは、サンマの塩焼きだった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
