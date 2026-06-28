@@ -11061,6 +11061,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "団": [
+    {
+      "jukugo": "集団",
+      "reading": "しゅうだん",
+      "meaning": "多くの人や物が集まってできたまとまり。",
+      "example": "みんなで集団行動をします。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "団体",
+      "reading": "だんたい",
+      "meaning": "目的のために集まった人たちのまとまり。",
+      "example": "運動会では、クラスごとの団体競技があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "団らん",
+      "reading": "だんらん",
+      "meaning": "家族などが集まって、楽しく過ごすこと。",
+      "example": "家族みんなで食卓を囲んで団らんしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "団員",
+      "reading": "だんいん",
+      "meaning": "ある団体のメンバー。",
+      "example": "少年野球団の団員になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "団結",
+      "reading": "だんけつ",
+      "meaning": "みんなで心を一つにして力を合わせること。",
+      "example": "クラスが団結して運動会の練習を頑張りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
