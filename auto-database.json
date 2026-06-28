@@ -10326,6 +10326,14 @@
       "example": "運動会でけがをしたときのために、救護テントが用意されていました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救出",
+      "reading": "きゅうしゅつ",
+      "meaning": "危険な場所や悪い状況から、助け出して外へ出すこと。",
+      "example": "地震で家の下に閉じ込められた人々が、消防隊によって無事に救出されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "機": [
@@ -13654,6 +13662,40 @@
       "reading": "へいそつ",
       "meaning": "兵隊さんの中でも、一番下の位の兵士のことです。",
       "example": "プラモデルの兵卒をたくさん集めて、ジオラマを作りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "折": [
+    {
+      "jukugo": "折り紙",
+      "reading": "おりがみ",
+      "meaning": "紙を折って様々な形を作る遊び。また、その作ったもの。",
+      "example": "私は折り紙でかわいい鶴を作ったよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "骨折",
+      "reading": "こっせつ",
+      "meaning": "体の骨が折れたり、ひびが入ったりすること。",
+      "example": "サッカーの練習中に転んで、腕を骨折してしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "折り目",
+      "reading": "おりめ",
+      "meaning": "紙や布などを折った時にできる線。",
+      "example": "本にしおりを挟まずに閉じたので、ページに折り目がついてしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "折り返し",
+      "reading": "おりかえし",
+      "meaning": "いったん戻ること。また、相手から連絡があった後で、こちらから連絡すること。",
+      "example": "友達から電話があったけれど出られなかったので、後で折り返し電話した。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
