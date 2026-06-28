@@ -16232,6 +16232,14 @@ const autoData = {
       "example": "植物は、土の中から養分を吸い上げて大きくなります。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飼養",
+      "reading": "しいよう",
+      "meaning": "動物を飼い育てて、世話をすること。",
+      "example": "この農場では、たくさんの鶏を飼養している。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "泣": [
