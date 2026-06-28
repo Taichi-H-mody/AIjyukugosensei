@@ -14533,6 +14533,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "暴": [
+    {
+      "jukugo": "暴風",
+      "reading": "ぼうふう",
+      "meaning": "台風の時などに吹く、とても強い風のこと。",
+      "example": "台風が近づいて、窓の外では暴風が吹き荒れていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暴力",
+      "reading": "ぼうりょく",
+      "meaning": "人を傷つけたり物を壊したりする、乱暴な力のこと。",
+      "example": "けんかで暴力を使うのは、絶対にやめましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暴走",
+      "reading": "ぼうそう",
+      "meaning": "車などが止まらなくなって、勝手に進んでしまうこと。",
+      "example": "ブレーキが壊れて、車が暴走してしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暴言",
+      "reading": "ぼうげん",
+      "meaning": "相手を傷つけるような、乱暴な言葉のこと。",
+      "example": "友達に暴言を吐いてしまったので、謝りにいきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暴食",
+      "reading": "ぼうしょく",
+      "meaning": "必要以上に食べ物をたくさん食べすぎてしまうこと。",
+      "example": "おいしいからといって暴食すると、お腹を壊してしまいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
