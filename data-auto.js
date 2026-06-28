@@ -15725,6 +15725,132 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "職": [
+    {
+      "jukugo": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "仕事の種類や内容のこと。",
+      "example": "将来は、人の役にたつ**職業**につきたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職場",
+      "reading": "しょくば",
+      "meaning": "仕事をする場所のこと。",
+      "example": "お父さんは毎日、会社にある**職場**へ行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職人",
+      "reading": "しょくにん",
+      "meaning": "とくべつな技術で物を作ったり、仕事をする人のこと。",
+      "example": "この美しいお皿は、**職人**さんがていねいに作ったものです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "学校を卒業して、会社やお店などで仕事につくこと。",
+      "example": "大学を卒業したら、銀行に**就職**したいと考えています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "転職",
+      "reading": "てんしょく",
+      "meaning": "今の仕事をやめて、あたらしい仕事につくこと。",
+      "example": "お父さんは、新しい会社に**転職**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "続": [
+    {
+      "jukugo": "継続",
+      "reading": "けいぞく",
+      "meaning": "やめないで続けること。",
+      "example": "毎日日記を書くことを継続する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連続",
+      "reading": "れんぞく",
+      "meaning": "切れ目なく続くこと。続けて起こること。",
+      "example": "大谷選手は3試合連続でホームランを打った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "続行",
+      "reading": "ぞっこう",
+      "meaning": "やめずに続けること。",
+      "example": "雨が弱まってきたので、試合は続行された。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "続編",
+      "reading": "ぞくへん",
+      "meaning": "前に出た物語や映画の続きの作品。",
+      "example": "あの人気アニメの続編が来月から始まる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "続出",
+      "reading": "ぞくしゅつ",
+      "meaning": "次々と現れたり、起こったりすること。",
+      "example": "テストで間違いが続出した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "型": [
+    {
+      "jukugo": "模型",
+      "reading": "もけい",
+      "meaning": "実物そっくりに小さくしたり、一部だけを抜き出したりして作ったもの。物のかたちをまねて作ったもの。",
+      "example": "プラモデルの飛行機の模型を作った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新型",
+      "reading": "しんがた",
+      "meaning": "新しく作られた形やデザイン。最新のタイプ。",
+      "example": "お店に新型のゲーム機が並んでいた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大型",
+      "reading": "おおがた",
+      "meaning": "分類の中で、大きい種類や形に属するもの。",
+      "example": "動物園で大型のゾウを見た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小型",
+      "reading": "こがた",
+      "meaning": "分類の中で、小さい種類や形に属するもの。",
+      "example": "手のひらに乗る小型のロボットがほしい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "髪型",
+      "reading": "かみがた",
+      "meaning": "髪の毛を整えて作った形やスタイル。",
+      "example": "新しい髪型にして、気分が上がった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
