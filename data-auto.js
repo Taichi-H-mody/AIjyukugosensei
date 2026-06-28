@@ -14457,6 +14457,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "犯": [
+    {
+      "jukugo": "犯罪",
+      "reading": "はんざい",
+      "meaning": "法律に違反する悪い行いのこと。",
+      "example": "泥棒や万引きは、決して許されない**犯罪**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "犯人",
+      "reading": "はんにん",
+      "meaning": "悪い行い（犯罪）をした人のこと。",
+      "example": "警察は、事件の**犯人**を捕まえようと捜査しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "犯行",
+      "reading": "はんこう",
+      "meaning": "悪い行い（犯罪）を行うこと。",
+      "example": "昨夜、銀行で強盗の**犯行**がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "犯則",
+      "reading": "はんそく",
+      "meaning": "決められた規則やルールを破ること。",
+      "example": "スピード違反は**犯則**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
