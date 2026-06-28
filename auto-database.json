@@ -9131,5 +9131,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "位": [
+    {
+      "jukugo": "一位",
+      "reading": "いちい",
+      "meaning": "いちばん上の順位。",
+      "example": "かけっこで、私が一位になったので、みんなにお祝いされた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順位",
+      "reading": "じゅんい",
+      "meaning": "順番の位。何番目か。",
+      "example": "テストの順位が気になって、結果が発表されるのが楽しみだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地位",
+      "reading": "ちい",
+      "meaning": "社会やグループの中での立ち位置や立場。",
+      "example": "社長は会社の中でとても高い地位にいる人だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単位",
+      "reading": "たんい",
+      "meaning": "物や量をはかる基準になるもの。長さのメートルや時間の秒など。",
+      "example": "この定規は、センチメートルという単位で長さをはかることができる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上位",
+      "reading": "じょうい",
+      "meaning": "順位が高いほう。上の方。",
+      "example": "ゲームで上位に入賞するためには、もっと練習が必要だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
