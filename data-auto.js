@@ -12305,6 +12305,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "術": [
+    {
+      "jukugo": "手術",
+      "reading": "しゅじゅつ",
+      "meaning": "病気やけがを治すために、体の中を治療すること。",
+      "example": "お医者さんが、病気の動物の手術をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "物を作ったり、何かをしたりするときの、やり方や能力。",
+      "example": "あのサッカー選手は、ボールをあつかう技術がとても高いです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美術",
+      "reading": "びじゅつ",
+      "meaning": "絵を描いたり、彫刻を作ったりする芸術のこと。小学校の図工でも習うよ。",
+      "example": "図工の時間に、みんなで美術の作品を作りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武術",
+      "reading": "ぶじゅつ",
+      "meaning": "昔の人が敵と戦うために使った、体を使った技や方法。",
+      "example": "漫画の忍者は、すごい武術を使って敵と戦います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "魔術",
+      "reading": "まじゅつ",
+      "meaning": "不思議な力を使って、人を驚かせたり、奇跡を起こしたりする技。",
+      "example": "絵本の中の魔法使いは、杖を使って魔術をかけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
