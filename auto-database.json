@@ -15849,5 +15849,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "陸": [
+    {
+      "jukugo": "陸地",
+      "reading": "りくち",
+      "meaning": "地球の表面で、海以外の地面のこと。",
+      "example": "船に乗って、遠くにやっと目的の**陸地**が見えてきた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "着陸",
+      "reading": "ちゃくりく",
+      "meaning": "飛行機やロケットなどが空から地面に降りること。",
+      "example": "飛行機が無事に空港の滑走路に**着陸**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上陸",
+      "reading": "じょうりく",
+      "meaning": "船に乗って海を渡り、陸に上がること。また、台風などが陸に近づくこと。",
+      "example": "台風が明日、このあたりに**上陸**する予報が出ている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大陸",
+      "reading": "たいりく",
+      "meaning": "海に囲まれたとても広い地面のこと。アジア大陸やアフリカ大陸などがある。",
+      "example": "アフリカ**大陸**には、たくさんのめずらしい動物たちが住んでいる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "陸上",
+      "reading": "りくじょう",
+      "meaning": "陸の上。また、陸で行われるかけっこや跳躍などのスポーツのこと。",
+      "example": "運動会で、**陸上**競技のリレー選手に選ばれてうれしかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "容": [
+    {
+      "jukugo": "内容",
+      "reading": "ないよう",
+      "meaning": "物事の中身。何が書いてあるか、何が入っているか。",
+      "example": "この本の**内容**は、とてもおもしろいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "容器",
+      "reading": "ようき",
+      "meaning": "物や液体を入れるための入れ物や器。",
+      "example": "お弁当の**容器**をきれいに洗いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "容易",
+      "reading": "ようい",
+      "meaning": "むずかしくないこと。たやすいこと。簡単にできること。",
+      "example": "このパズルは**容易**に解くことができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "容量",
+      "reading": "ようりょう",
+      "meaning": "物が入る最大の量。入れ物に入る大きさや量。",
+      "example": "この水筒の**容量**は500ミリリットルです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "容姿",
+      "reading": "ようし",
+      "meaning": "人の顔かたちやからだつき。見た目のすがた。",
+      "example": "美しい**容姿**の人に見とれてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
