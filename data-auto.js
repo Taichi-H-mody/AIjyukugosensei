@@ -10707,6 +10707,24 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "態": [
+    {
+      "jukugo": "状態",
+      "reading": "じょうたい",
+      "meaning": "物事の今のありさまや様子。",
+      "example": "そのおもちゃは、まだきれいに使える**状態**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "態度",
+      "reading": "たいど",
+      "meaning": "人に対する、心の持ち方や行動の表し方。",
+      "example": "先生のお話を聞くときは、正しい**態度**で座りましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
