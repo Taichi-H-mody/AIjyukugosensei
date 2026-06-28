@@ -13783,5 +13783,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "燃": [
+    {
+      "jukugo": "燃焼",
+      "reading": "ねんしょう",
+      "meaning": "物が燃えること。",
+      "example": "マッチをすって、ろうそくの芯に火をつけると、燃焼が始まりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "燃料",
+      "reading": "ねんりょう",
+      "meaning": "燃やして熱や力に変えるための材料。",
+      "example": "車はガソリンを燃料にして動きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "可燃",
+      "reading": "かねん",
+      "meaning": "燃えやすいこと。燃える性質があること。",
+      "example": "紙や木の切れ端は可燃ごみとして出します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不燃",
+      "reading": "ふねん",
+      "meaning": "燃えないこと。燃えにくいこと。",
+      "example": "ガラスや金属は不燃ごみです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完全燃焼",
+      "reading": "かんぜんねんしょう",
+      "meaning": "物が最後まで燃え尽きること。転じて、持っている力を全て出し切ること。",
+      "example": "運動会のリレーで、最後まで力を出し切って完全燃焼しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
