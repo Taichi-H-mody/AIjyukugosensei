@@ -9841,6 +9841,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "官": [
+    {
+      "jukugo": "警察官",
+      "reading": "けいさつかん",
+      "meaning": "人々の安全を守り、事件の解決などをする公務員のこと。",
+      "example": "将来、警察官になって困っている人を助けたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "官邸",
+      "reading": "かんてい",
+      "meaning": "国の大事な仕事をする偉い人が働く建物のこと。特に首相が仕事をする「首相官邸」が有名です。",
+      "example": "テレビのニュースで、首相が官邸で会議をしている様子が流れた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "官庁",
+      "reading": "かんちょう",
+      "meaning": "国や地方の仕事を行う役所やその組織のこと。",
+      "example": "市役所は、私たちの街の大切な官庁の一つです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "官製",
+      "reading": "かんせい",
+      "meaning": "国や役所が作ったり、管理したりしていること。",
+      "example": "おじいちゃんがくれた年賀状は、官製はがきでした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長官",
+      "reading": "ちょうかん",
+      "meaning": "役所や組織の一番偉い人の呼び名。",
+      "example": "警察のトップは、警察庁の長官という役職です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
