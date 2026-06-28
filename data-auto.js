@@ -9007,6 +9007,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "案": [
+    {
+      "jukugo": "答案",
+      "reading": "とうあん",
+      "meaning": "試験や問題に答えた用紙のこと。解答用紙。",
+      "example": "算数のテストの**答案**が返ってきた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提案",
+      "reading": "ていあん",
+      "meaning": "自分の意見や考えをみんなに出して、相談すること。",
+      "example": "クラス会で、遠足の行き先について**提案**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "思案",
+      "reading": "しあん",
+      "meaning": "物事をあれこれ考えること。",
+      "example": "夏休みの自由研究のテーマを**思案**している。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図案",
+      "reading": "ずあん",
+      "meaning": "絵や模様、デザインの下書きやもとになる考え。",
+      "example": "工作の時間に、Tシャツの**図案**を考えた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "原案",
+      "reading": "げんあん",
+      "meaning": "最初に作った計画や文章のもとになるもの。",
+      "example": "みんなの意見を取り入れて、劇の台本の**原案**を書き直した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
