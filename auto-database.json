@@ -17295,5 +17295,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "枝": [
+    {
+      "jukugo": "小枝",
+      "reading": "こえだ",
+      "meaning": "小さいえだ。",
+      "example": "公園で地面に落ちていた小枝を拾いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "枝豆",
+      "reading": "えだまめ",
+      "meaning": "夏にとれる、豆が入ったさやのこと。ゆでて食べることが多い。",
+      "example": "夕ごはんに大好きな枝豆が出ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "枝毛",
+      "reading": "えだげ",
+      "meaning": "髪の毛の先が細かくさけてしまったもの。",
+      "example": "髪の毛をとかしていたら、枝毛を見つけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "枝葉",
+      "reading": "えだは",
+      "meaning": "木のえだと葉っぱのこと。",
+      "example": "台風で、木の枝葉がたくさん落ちていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "枝分かれ",
+      "reading": "えだわかれ",
+      "meaning": "道や川などが、えだのようにいくつかに分かれること。",
+      "example": "山道がここで右と左に枝分かれしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
