@@ -12051,5 +12051,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "績": [
+    {
+      "jukugo": "成績",
+      "reading": "せいせき",
+      "meaning": "学校のテストや運動会など、努力して出した結果や評価のこと。",
+      "example": "今回の算数のテストで、私は良い成績を取ることができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実績",
+      "reading": "じっせき",
+      "meaning": "実際にやってみて得られた成果や、これまでの活動の記録のこと。",
+      "example": "練習をたくさんした実績があったので、自転車の大会で優勝できました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦績",
+      "reading": "せんせき",
+      "meaning": "スポーツの試合やゲームなど、勝負の結果や記録のこと。",
+      "example": "ぼくたちのサッカーチームは、今年の戦績がとても良かったです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "功績",
+      "reading": "こうせき",
+      "meaning": "みんなの役に立つような、素晴らしい働きや大きな手柄のこと。",
+      "example": "地域のために活動した校長先生は、大きな功績を残しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "業績",
+      "reading": "ぎょうせき",
+      "meaning": "仕事や活動で成し遂げた成果や、どれだけ頑張ったかの結果のこと。",
+      "example": "みんなで協力して、文化祭を大成功させ、素晴らしい業績を上げました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
