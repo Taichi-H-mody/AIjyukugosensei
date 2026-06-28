@@ -13189,6 +13189,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "街": [
+    {
+      "jukugo": "街角",
+      "reading": "まちかど",
+      "meaning": "道が曲がり角になっている所。町のすみ。",
+      "example": "街角の花屋さんの前を通ったら、いいにおいがした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商店街",
+      "reading": "しょうてんがい",
+      "meaning": "お店がたくさん並んでいる通り。",
+      "example": "土曜日は商店街がたくさんの人でとてもにぎやかだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市街",
+      "reading": "しがい",
+      "meaning": "町や市の中で、家や建物がたくさん建ち並んでいる所。",
+      "example": "バスは市街を走って、駅に向かった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "街路樹",
+      "reading": "がいろじゅ",
+      "meaning": "道路のわきに植えられている木。",
+      "example": "秋になると、街路樹の葉が赤く色づいてきれいだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "繁華街",
+      "reading": "はんかがい",
+      "meaning": "人や車がたくさん行き交い、にぎやかな所。",
+      "example": "夜になると、繁華街はまぶしいくらいの明かりでいっぱいになる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
