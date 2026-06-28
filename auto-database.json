@@ -10243,5 +10243,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "保": [
+    {
+      "jukugo": "保護",
+      "reading": "ほご",
+      "meaning": "危険や悪いことから守ること。",
+      "example": "動物を大切に保護する活動をしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保存",
+      "reading": "ほぞん",
+      "meaning": "ものがなくならないように、大切にしまっておくこと。",
+      "example": "食べ物を新鮮なまま冷蔵庫で保存します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保温",
+      "reading": "ほおん",
+      "meaning": "もののあたたかさを保つこと。",
+      "example": "水筒は、入れた飲み物を長い時間保温してくれます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保育",
+      "reading": "ほいく",
+      "meaning": "幼い子どもを育て、世話をすること。",
+      "example": "保育園の先生は、毎日子どもたちを保育しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保険",
+      "reading": "ほけん",
+      "meaning": "もしもの時のために、みんなでお金を出し合って助け合う仕組み。",
+      "example": "将来のために、色々な種類の保険があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "救": [
+    {
+      "jukugo": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "危ないところから助け出すこと。",
+      "example": "川でおぼれている人を、勇敢に救助しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救急",
+      "reading": "きゅうきゅう",
+      "meaning": "急いで助けたり、手当てをしたりすること。",
+      "example": "けがをしたので、救急車を呼びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救援",
+      "reading": "きゅうえん",
+      "meaning": "困っている人や場所を助けること。",
+      "example": "災害にあった地域へ、たくさんの救援物資が届けられました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救命",
+      "reading": "きゅうめい",
+      "meaning": "命を助けること。",
+      "example": "船に乗るときは、もしものために救命胴衣をつけます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救護",
+      "reading": "きゅうご",
+      "meaning": "けがや病気で困っている人を助け、世話をすること。",
+      "example": "運動会でけがをしたときのために、救護テントが用意されていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
