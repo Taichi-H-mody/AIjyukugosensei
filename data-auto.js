@@ -12381,6 +12381,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "低": [
+    {
+      "jukugo": "低学年",
+      "reading": "ていがくねん",
+      "meaning": "小学校や中学校で、学年の低い生徒のこと。1年生から3年生くらいを指すことが多い。",
+      "example": "妹はまだ低学年なので、ひらがなを練習しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "低気圧",
+      "reading": "ていきあつ",
+      "meaning": "まわりの空気よりも気圧が低い場所。雨や嵐になりやすい。",
+      "example": "低気圧が近づいているから、今日は雨が降るだろう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "低音",
+      "reading": "ていおん",
+      "meaning": "音の高さが低い音。",
+      "example": "合唱団の中で、僕は低い音を出す低音パートを担当しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "低速",
+      "reading": "ていそく",
+      "meaning": "速さが遅いこと。",
+      "example": "工事現場の近くでは、車は低速で走るように指示されています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最低",
+      "reading": "さいてい",
+      "meaning": "いちばん低いこと。または、これより下はないという限界。",
+      "example": "今日の最低気温は、氷点下3度でした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
