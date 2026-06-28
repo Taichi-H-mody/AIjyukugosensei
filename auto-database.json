@@ -10159,5 +10159,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "往": [
+    {
+      "jukugo": "往復",
+      "reading": "おうふく",
+      "meaning": "行ったり来たりすること。",
+      "example": "家から学校まで、自転車で往復する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "往来",
+      "reading": "おうらい",
+      "meaning": "人や車が行き来すること。",
+      "example": "車がたくさん往来する道では、注意して歩こう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "往診",
+      "reading": "おうしん",
+      "meaning": "医者（いしゃ）が患者（かんじゃ）の家へ行って診察（しんさつ）すること。",
+      "example": "風邪（かぜ）で動けないとき、お医者さんが往診してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "往路",
+      "reading": "おうろ",
+      "meaning": "目的地（もくてきち）へ向かう道、行き道のこと。",
+      "example": "マラソン大会（たいかい）の往路は、上り坂（のぼりざか）が続いて少しきつかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "往時",
+      "reading": "おうじ",
+      "meaning": "過ぎ去った昔（むかし）のこと。",
+      "example": "このあたりは、往時（おうじ）は広い野原（のはら）だったそうだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
