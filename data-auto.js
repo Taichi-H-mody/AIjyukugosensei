@@ -13961,6 +13961,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "境": [
+    {
+      "jukugo": "環境",
+      "reading": "かんきょう",
+      "meaning": "生き物や人間を取りまく自然や社会の状況のこと。",
+      "example": "地球の環境を守るために、ごみをへらす活動に参加した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国境",
+      "reading": "こっきょう",
+      "meaning": "国と国とのさかいめ。",
+      "example": "日本と他の国の国境は海になっていることが多い。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "境目",
+      "reading": "さかいめ",
+      "meaning": "二つの物や場所が接しているところ。区切り。",
+      "example": "道と畑の境目には、小さな石が並べられている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "境界",
+      "reading": "きょうかい",
+      "meaning": "二つの場所や物事のさかいとなる線や場所。",
+      "example": "この線が、わたしの家と隣の家の境界です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "県境",
+      "reading": "けんきょう",
+      "meaning": "県と県とのさかいめ。",
+      "example": "車で県境をこえると、となりの県の町についた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
