@@ -16777,5 +16777,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "余": [
+    {
+      "jukugo": "余り",
+      "reading": "あまり",
+      "meaning": "残ったもの。必要以上にある部分。",
+      "example": "ケーキの余りを冷蔵庫に入れた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "余計",
+      "reading": "よけい",
+      "meaning": "必要のないこと。無駄なこと。",
+      "example": "余計なひと言で、友達を怒らせてしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "余分",
+      "reading": "よぶん",
+      "meaning": "必要な量よりも多くあること。残りの部分。",
+      "example": "お弁当のおかずが余分にあるから、分けてあげよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "余白",
+      "reading": "よはく",
+      "meaning": "書いたり絵を描いたりせずに、わざと残してある白い部分。",
+      "example": "ノートの余白に、今日の出来事をメモした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "余熱",
+      "reading": "よねつ",
+      "meaning": "熱いものが冷めきらずに残っている熱。",
+      "example": "お風呂の余熱で、しばらく体がポカポカしていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
