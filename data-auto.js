@@ -16061,6 +16061,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "桜": [
+    {
+      "jukugo": "桜並木",
+      "reading": "さくらなみき",
+      "meaning": "桜の木が道の両側に並んでいる場所のこと。",
+      "example": "公園の桜並木をみんなでお散歩しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "桜餅",
+      "reading": "さくらもち",
+      "meaning": "桜の葉で包んだ、春に食べる和菓子。",
+      "example": "お花見の時に、おいしい桜餅を食べました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "桜色",
+      "reading": "さくらいろ",
+      "meaning": "桜の花のような、うすい紅色。",
+      "example": "妹が桜色のワンピースを着ていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜桜",
+      "reading": "よざくら",
+      "meaning": "夜に見る桜。",
+      "example": "提灯の明かりで、夜桜がきれいに見えました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山桜",
+      "reading": "やまざくら",
+      "meaning": "山に自然に生えている桜の種類。",
+      "example": "遠くの山に、山桜がたくさん咲いていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "養": [
+    {
+      "jukugo": "栄養",
+      "reading": "えいよう",
+      "meaning": "体が元気に育つために必要な食べ物の成分や、それを取り入れること。",
+      "example": "バランスの取れた食事で、しっかり栄養をとりましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休養",
+      "reading": "きゅうよう",
+      "meaning": "疲れた体や心をゆっくり休めること。",
+      "example": "たくさん遊んで疲れたので、家でゆっくり休養をとりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "養育",
+      "reading": "よういく",
+      "meaning": "子どもを大切に育て、世話をすること。",
+      "example": "親は、子どもの養育に責任を持っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "養護",
+      "reading": "ようご",
+      "meaning": "体の弱い人や困っている人を守り、世話をすること。学校の保健室の先生を「養護教諭」と呼びます。",
+      "example": "保健室の先生は、具合の悪い生徒を養護してくれます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "養分",
+      "reading": "ようぶん",
+      "meaning": "生物が育つために必要な栄養となる成分。",
+      "example": "植物は、土の中から養分を吸い上げて大きくなります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
