@@ -14169,5 +14169,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "興": [
+    {
+      "jukugo": "興味",
+      "reading": "きょうみ",
+      "meaning": "面白いと感じたり、知りたいと思ったりする気持ち。",
+      "example": "わたしは宇宙にとても興味があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "興奮",
+      "reading": "こうふん",
+      "meaning": "気持ちがわくわくして高ぶること。",
+      "example": "試合に勝って、選手たちは興奮していました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "復興",
+      "reading": "ふっこう",
+      "meaning": "一度ダメになったものが、また元通りになること。",
+      "example": "みんなで力を合わせ、町を復興させました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "興行",
+      "reading": "こうぎょう",
+      "meaning": "お芝居やスポーツなどを人に見せること。",
+      "example": "来週、人気の歌手の興行があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "振興",
+      "reading": "しんこう",
+      "meaning": "物事を盛んにしたり、発展させたりすること。",
+      "example": "地域（ちいき）の観光（かんこう）を振興するために、新しいお祭りを開きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
