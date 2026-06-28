@@ -10665,6 +10665,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "協": [
+    {
+      "jukugo": "協力",
+      "reading": "きょうりょく",
+      "meaning": "力を合わせて、一緒に物事をすること。",
+      "example": "みんなで協力して、運動会の準備をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協議",
+      "reading": "きょうぎ",
+      "meaning": "みんなで集まって、話し合い、物事を決めること。",
+      "example": "次の遠足について、先生と生徒で協議しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協会",
+      "reading": "きょうかい",
+      "meaning": "同じ目的を持った人たちが集まって作った団体。",
+      "example": "日本のサッカー協会は、ワールドカップで活躍することを応援しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協定",
+      "reading": "きょうてい",
+      "meaning": "複数の人やグループ、国などが話し合って決めた約束。",
+      "example": "国と国との間で、平和を守るための協定が結ばれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協調",
+      "reading": "きょうちょう",
+      "meaning": "互いに力を合わせたり、気持ちを合わせたりして、うまくやっていくこと。",
+      "example": "クラスの仲間と協調して、合唱コンクールの練習をがんばりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
