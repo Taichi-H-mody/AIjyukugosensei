@@ -10809,6 +10809,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "察": [
+    {
+      "jukugo": "警察",
+      "reading": "けいさつ",
+      "meaning": "人々の安全を守り、事件や事故を解決する仕事の人たち。また、その組織。",
+      "example": "将来、警察官になりたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観察",
+      "reading": "かんさつ",
+      "meaning": "物事を注意深く見て、その様子や変化を詳しく調べること。",
+      "example": "夏休みの自由研究で、アサガオの成長を毎日観察しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "視察",
+      "reading": "しさつ",
+      "meaning": "ある場所に行って、実際の様子を自分の目で見て調べること。",
+      "example": "市長が新しい公園の建設現場を視察しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "察知",
+      "reading": "さっち",
+      "meaning": "まだはっきりと現れていないことや、少しの兆候から、物事の内容や状況を推し量って知ること。",
+      "example": "お母さんは、私が何か隠していることをすぐに察知した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "偵察",
+      "reading": "ていさつ",
+      "meaning": "敵の様子や相手の状況を、こっそり探り調べること。",
+      "example": "チームの代表として、相手チームの作戦を偵察しに行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "準": [
+    {
+      "jukugo": "準備",
+      "reading": "じゅんび",
+      "meaning": "物事を始める前に、必要なものをそろえたり、整えたりすること。",
+      "example": "明日の遠足のために、早く持ち物の準備をしよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "物事の目安や基準となるもの。ふつうの、平均的な状態。",
+      "example": "このカメラは、標準のSDカードが使えます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "準決勝",
+      "reading": "じゅんけっしょう",
+      "meaning": "スポーツの大会などで、決勝戦の一つ前の試合。",
+      "example": "次の試合に勝てば、いよいよ準決勝に進めるよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "準優勝",
+      "reading": "じゅんゆうしょう",
+      "meaning": "競技やコンクールなどで、優勝の次に良い成績をおさめること。",
+      "example": "わたしたちのチームは、バスケットボール大会で準優勝しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基準",
+      "reading": "きじゅん",
+      "meaning": "物事を判断したり、評価したりするときのもととなるもの。目安。",
+      "example": "テストの合格点は、60点という基準があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
