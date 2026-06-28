@@ -10714,6 +10714,14 @@ const autoData = {
       "example": "クラスの仲間と協調して、合唱コンクールの練習をがんばりました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協賛",
+      "reading": "きょうさん",
+      "meaning": "事業や活動に賛成し、お金や物で助けること。",
+      "example": "この夏祭りは、多くのお店が協賛してくれたおかげで開催できた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "態": [
