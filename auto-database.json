@@ -15933,5 +15933,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "程": [
+    {
+      "jukugo": "程度",
+      "reading": "ていど",
+      "meaning": "物事の度合いや、どのくらいかを示す言葉。",
+      "example": "宿題はどの程度の量がありますか？",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日程",
+      "reading": "にってい",
+      "meaning": "ある期間の計画や予定。",
+      "example": "明日の遠足の日程を確認しましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "過程",
+      "reading": "かてい",
+      "meaning": "物事が変化したり、完成したりするまでの順序や道のり。",
+      "example": "算数の問題は、答えだけでなく、解き方の過程も大切です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工程",
+      "reading": "こうてい",
+      "meaning": "物事を進める上での一つ一つの段階や作業。",
+      "example": "このロボットを作るには、たくさんの工程があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旅程",
+      "reading": "りょてい",
+      "meaning": "旅行の道のりや予定。",
+      "example": "修学旅行の旅程が発表されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "牧": [
+    {
+      "jukugo": "牧場",
+      "reading": "ぼくじょう",
+      "meaning": "牛や馬などの家畜を飼い育てる広い場所。",
+      "example": "夏休みに家族で牧場へ行って、牛の乳しぼり体験をした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放牧",
+      "reading": "ほうぼく",
+      "meaning": "家畜を囲いの中に閉じ込めず、広い野原や牧草地で自由に飼うこと。",
+      "example": "暖かい日差しの中、たくさんの羊が牧草地で放牧されていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "牧草",
+      "reading": "ぼくそう",
+      "meaning": "牛や馬などの家畜のえさとして育てる草。",
+      "example": "牧草を食べる牛たちの姿は、とてもおだやかだった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "牧畜",
+      "reading": "ぼくちく",
+      "meaning": "牛や馬、羊などの家畜を飼い育てて、肉や乳、毛などをとること。",
+      "example": "モンゴルでは、昔から牧畜が盛んに行われている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "牧師",
+      "reading": "ぼくし",
+      "meaning": "キリスト教の教会で、お話や祈りをしたり、みんなを導いたりする人。",
+      "example": "日曜日の礼拝で、牧師さんが聖書のお話をしてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
