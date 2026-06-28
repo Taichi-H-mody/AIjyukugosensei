@@ -9721,5 +9721,39 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "各": [
+    {
+      "jukugo": "各々",
+      "reading": "おのおの",
+      "meaning": "それぞれの人や物。めいめい。",
+      "example": "運動会の後、各々が家に帰りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "各人",
+      "reading": "かくじん",
+      "meaning": "一人ひとりの人。それぞれの個人。",
+      "example": "先生は、テスト用紙を各人に配りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "各国",
+      "reading": "かっこく",
+      "meaning": "それぞれの国。たくさんの国。",
+      "example": "オリンピックには、世界中の各国が参加します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "各戸",
+      "reading": "かくこ",
+      "meaning": "それぞれの家。一軒一軒の家。",
+      "example": "町内会からのお知らせが、各戸に届けられました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
