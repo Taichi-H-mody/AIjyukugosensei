@@ -16387,6 +16387,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "求": [
+    {
+      "jukugo": "要求",
+      "reading": "ようきゅう",
+      "meaning": "相手に何かをしてほしいと強く言うこと。",
+      "example": "先生は、宿題を忘れずに提出するように要求した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "請求",
+      "reading": "せいきゅう",
+      "meaning": "代金などを支払うようにお願いすること。",
+      "example": "お父さんが電気代の請求書を見ていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欲求",
+      "reading": "よっきゅう",
+      "meaning": "何かをしたい、手に入れたいという心の気持ち。",
+      "example": "お腹が空いて、食べるという欲求が強くなった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追求",
+      "reading": "ついきゅう",
+      "meaning": "物事の本当のことや責任などを、とことん調べて明らかにしようとすること。",
+      "example": "警察官は、事件の真相を追求した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "探求",
+      "reading": "たんきゅう",
+      "meaning": "物事の真実や意味などを深く探し求めること。",
+      "example": "科学者は、宇宙の謎を探求している。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "笑": [
+    {
+      "jukugo": "笑顔",
+      "reading": "えがお",
+      "meaning": "笑っている顔のこと。",
+      "example": "お母さんの笑顔を見ると、元気が出ます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "笑い声",
+      "reading": "わらいごえ",
+      "meaning": "笑う時に出す声のこと。",
+      "example": "広い公園に子どもたちの楽しそうな笑い声が響きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大笑い",
+      "reading": "おおわらい",
+      "meaning": "大きな声を出して笑うこと。または、そのような笑い。",
+      "example": "友達のおもしろい話に、みんなで大笑いしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "爆笑",
+      "reading": "ばくしょう",
+      "meaning": "多くの人が一度にどっと笑うこと。または、激しく笑うこと。",
+      "example": "テレビのお笑い番組を見て、家族みんなで爆笑しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "微笑",
+      "reading": "びしょう",
+      "meaning": "ほほえむこと。静かにかすかに笑うこと。",
+      "example": "赤ちゃんが私の顔を見て、かわいい微笑を見せてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
