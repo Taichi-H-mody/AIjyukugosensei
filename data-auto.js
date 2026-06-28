@@ -15389,6 +15389,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "招": [
+    {
+      "jukugo": "招待",
+      "reading": "しょうたい",
+      "meaning": "人をまねいて迎えること。",
+      "example": "友達の誕生日会に招待されたので、プレゼントを用意しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "招き猫",
+      "reading": "まねきねこ",
+      "meaning": "手をあげてお客さんや福を呼び寄せるねこの置物。",
+      "example": "お店の入り口に、お客さんを招き猫が置いてありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "招福",
+      "reading": "しょうふく",
+      "meaning": "福や幸せを呼びよせること。",
+      "example": "お正月に、家族みんなの招福を願ってお守りを買いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "招集",
+      "reading": "しょうしゅう",
+      "meaning": "たくさんの人を集めること。",
+      "example": "先生が、体育館に全校生徒を招集しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "招致",
+      "reading": "しょうち",
+      "meaning": "大きなイベントなどを呼びよせること。",
+      "example": "この街にオリンピックを招致しようと、みんなで応援しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
