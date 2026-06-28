@@ -13507,6 +13507,82 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "総": [
+    {
+      "jukugo": "総計",
+      "reading": "そうけい",
+      "meaning": "全部を合計すること。全部でいくつになるか。",
+      "example": "今日の来場者の総計は、百人でした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "総数",
+      "reading": "そうすう",
+      "meaning": "全部でいくつあるかということ。全体の数。",
+      "example": "クラスの生徒の総数は、三十人です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "総合",
+      "reading": "そうごう",
+      "meaning": "いろいろなものを一つにまとめ合わせること。",
+      "example": "みんなの意見を総合して、新しい計画を立てました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "総理",
+      "reading": "そうり",
+      "meaning": "日本で一番えらい人、内閣総理大臣のこと。",
+      "example": "テレビのニュースで、総理が大切なお話をしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "綿": [
+    {
+      "jukugo": "木綿",
+      "reading": "もめん",
+      "meaning": "アオイ科の木からとれる繊維や、それで作った糸・布のこと。肌触りがよく、服によく使われます。",
+      "example": "このTシャツは、やわらかい木綿でできています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "綿毛",
+      "reading": "めんげ",
+      "meaning": "植物の種子などについている、白いふわふわした毛のこと。風に乗って種を遠くまで運びます。",
+      "example": "タンポポの綿毛が風に乗って、空高く飛んでいきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "綿菓子",
+      "reading": "わたがし",
+      "meaning": "砂糖を熱で溶かし、ふわふわの綿のように固めたお菓子のこと。お祭りなどでよく見かけます。",
+      "example": "お祭りで大きな綿菓子を買ってもらい、とても嬉しかったです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "綿棒",
+      "reading": "めんぼう",
+      "meaning": "細い棒の両端に綿が巻いてあるもので、耳掃除や小さなものを塗るときなどに使います。",
+      "example": "お風呂上がりに綿棒で耳をきれいにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "綿入れ",
+      "reading": "わたいれ",
+      "meaning": "服の中に綿をたっぷり入れて、暖かくした着物のこと。冬の寒い日に着ます。",
+      "example": "寒い冬の日に、おばあちゃんが綿入れのちゃんちゃんこを着ていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
