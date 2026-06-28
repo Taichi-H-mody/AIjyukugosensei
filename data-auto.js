@@ -15045,6 +15045,82 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "慣": [
+    {
+      "jukugo": "習慣",
+      "reading": "しゅうかん",
+      "meaning": "長い間同じことを続けていて、それが当たり前のことになっている状態。",
+      "example": "早寝早起きは、体を元気にする良い習慣です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "慣用句",
+      "reading": "かんようく",
+      "meaning": "昔から多くの人に使われている、特別な意味を持つ言葉のこと。「猫の額（ねこのひたい）」や「腕を磨く（うでをみがく）」などがあります。",
+      "example": "国語の授業で、「喉から手が出る」という慣用句の意味を勉強しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "慣性",
+      "reading": "かんせい",
+      "meaning": "止まっているものは止まり続けようとし、動いているものはそのままの速さで動き続けようとする、物体の性質のこと。",
+      "example": "バスが急に止まったとき、体が前に倒れそうになるのは慣性の働きです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "慣習",
+      "reading": "かんしゅう",
+      "meaning": "ある地域や社会の中で、昔から受け継がれて、みんなが行っている決まりや行事。",
+      "example": "この村には、毎年春にお祭りをするという昔からの慣習があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "慣熟",
+      "reading": "かんじゅく",
+      "meaning": "ある物事にすっかり慣れて、それが上手にできるようになること。",
+      "example": "最初は難しかったけん玉も、毎日練習して慣熟してきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "隊": [
+    {
+      "jukugo": "隊長",
+      "reading": "たいちょう",
+      "meaning": "グループやチームのリーダー。",
+      "example": "ぼくが探検隊の隊長になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "探検隊",
+      "reading": "たんけんたい",
+      "meaning": "遠い場所や知らない場所を探しに行くグループ。",
+      "example": "夏休みに、友達と森の探検隊を作って遊んだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消防隊",
+      "reading": "しょうぼうたい",
+      "meaning": "火事を消したり、困っている人を助けたりするグループ。",
+      "example": "消防車に乗った消防隊が、火事の現場へ急いで向かった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救助隊",
+      "reading": "きゅうじょたい",
+      "meaning": "災害などで危険な目にあった人を助け出すグループ。",
+      "example": "地震のあと、たくさんの救助隊が被災地へ助けに向かった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
