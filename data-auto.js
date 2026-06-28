@@ -11355,6 +11355,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "径": [
+    {
+      "jukugo": "直径",
+      "reading": "ちょっけい",
+      "meaning": "円の中心を通って向かい合う二点を結んだ直線、またはその長さ。",
+      "example": "この円の直径は10センチです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半径",
+      "reading": "はんけい",
+      "meaning": "円の中心から円周上の1点までの長さ。直径の半分。",
+      "example": "コンパスで半径3センチの円をかきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小径",
+      "reading": "こみち",
+      "meaning": "細い道。こみち。",
+      "example": "森の奥へ続く小径を歩きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "口径",
+      "reading": "こうけい",
+      "meaning": "筒や穴などの直径。開いている部分のさしわたし。",
+      "example": "ペットボトルの口の口径を測ってみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
