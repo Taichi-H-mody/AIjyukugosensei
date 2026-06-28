@@ -16229,6 +16229,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "例": [
+    {
+      "jukugo": "例外",
+      "reading": "れいがい",
+      "meaning": "ふつうとはちがうこと。あてはまらないこと。",
+      "example": "いつもは公園で遊ぶけれど、雨の日は例外で家で過ごします。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "事例",
+      "reading": "じれい",
+      "meaning": "実際にあったできごとや、具体的な例。",
+      "example": "発表のために、調べたことからおもしろい事例をいくつか選びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "例題",
+      "reading": "れいだい",
+      "meaning": "説明したり練習したりするために出される問題。",
+      "example": "算数のテストの前には、例題を何度もくり返して練習しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "例文",
+      "reading": "れいぶん",
+      "meaning": "言葉の使い方を示すためのお手本になる文。",
+      "example": "新しい漢字を習ったとき、例文を読んで使い方を覚えました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実例",
+      "reading": "じつれい",
+      "meaning": "実際にあったことや、本当の例。",
+      "example": "昔話の中には、昔の人の暮らしがわかる実例がたくさん出てきます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
