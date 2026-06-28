@@ -11187,6 +11187,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "説": [
+    {
+      "jukugo": "説明",
+      "reading": "せつめい",
+      "meaning": "物事のやり方や理由などを、相手にわかるように話すこと。",
+      "example": "先生が宿題のやり方を説明してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小説",
+      "reading": "しょうせつ",
+      "meaning": "想像で作られたお話が書かれた本や文章のこと。",
+      "example": "ぼくは、おもしろい探偵小説を読むのが大好きだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解説",
+      "reading": "かいせつ",
+      "meaning": "むずかしいことや分かりにくいことを、詳しく、分かりやすく教えること。",
+      "example": "テレビで、野球の試合を詳しく解説していた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演説",
+      "reading": "えんぜつ",
+      "meaning": "たくさんの人の前で、自分の考えや意見をみんなに伝えるために話すこと。",
+      "example": "町の代表を決める人が、駅前で熱心に演説をしていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝説",
+      "reading": "でんせつ",
+      "meaning": "昔から人々の間で語り継がれてきた、不思議な話や古い話。",
+      "example": "この山には、大きな龍が住んでいたという伝説がある。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
