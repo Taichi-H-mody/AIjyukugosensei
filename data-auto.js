@@ -10093,6 +10093,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "季": [
+    {
+      "jukugo": "季節",
+      "reading": "きせつ",
+      "meaning": "一年を春、夏、秋、冬などに分けたそれぞれの時期。",
+      "example": "日本の美しい季節は、たくさんの花を咲かせます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四季",
+      "reading": "しき",
+      "meaning": "春、夏、秋、冬の四つの季節のこと。",
+      "example": "日本では、はっきりとした四季の変化を感じることができます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "季語",
+      "reading": "きご",
+      "meaning": "俳句の中で、その季節を表すために使う特別な言葉。",
+      "example": "俳句を作る時は、季節がわかる季語を一つ入れるルールがあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨季",
+      "reading": "うき",
+      "meaning": "一年の中で、特に雨がたくさん降る季節。",
+      "example": "熱帯の国では、雨季の間は毎日スコールが降ります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏季",
+      "reading": "かき",
+      "meaning": "夏の季節のこと。",
+      "example": "夏季オリンピックは、夏の間に開かれる世界的なスポーツ大会です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
