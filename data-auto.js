@@ -10455,6 +10455,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "河": [
+    {
+      "jukugo": "河川",
+      "reading": "かせん",
+      "meaning": "川のこと。水が流れている大きなすじのこと。",
+      "example": "日本の河川は、きれいに保たれています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運河",
+      "reading": "うんが",
+      "meaning": "船が通れるように、人間が人工的につくった川。",
+      "example": "パナマ運河は、大きな船も通れるように作られました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大河",
+      "reading": "たいが",
+      "meaning": "とても大きな川のこと。",
+      "example": "アマゾン川は、世界でも有数の大河です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "河原",
+      "reading": "かわら",
+      "meaning": "川の岸べりにある、石や砂が多い場所。",
+      "example": "夏休みに河原でバーベキューをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "河口",
+      "reading": "かこう",
+      "meaning": "川が海や湖に流れ込む場所のこと。",
+      "example": "この川の河口には、たくさんの魚が集まります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
