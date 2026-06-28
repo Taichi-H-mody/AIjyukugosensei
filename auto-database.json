@@ -9173,5 +9173,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "囲": [
+    {
+      "jukugo": "周囲",
+      "reading": "しゅうい",
+      "meaning": "まわり、あたり。",
+      "example": "学校の**周囲**には、たくさんの木が植えられています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "範囲",
+      "reading": "はんい",
+      "meaning": "ある広がりや限界。",
+      "example": "この本の**範囲**は、小学三年生の漢字までです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包囲",
+      "reading": "ほうい",
+      "meaning": "まわりから取り囲むこと。",
+      "example": "警察官が犯人を**包囲**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "囲碁",
+      "reading": "いご",
+      "meaning": "白と黒の石を使って陣地を取り合うボードゲーム。",
+      "example": "おじいちゃんと一緒に**囲碁**をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "囲障",
+      "reading": "いしょう",
+      "meaning": "垣根や塀など、周りを囲むもの。",
+      "example": "公園のまわりには、低い**囲障**がめぐらされています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
