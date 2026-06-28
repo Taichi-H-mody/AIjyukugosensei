@@ -9451,5 +9451,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "果": [
+    {
+      "jukugo": "果物",
+      "reading": "くだもの",
+      "meaning": "木や草になる、食べられる甘い実のこと。",
+      "example": "デザートにリンゴやミカンなどの**果物**を食べました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結果",
+      "reading": "けっか",
+      "meaning": "あることが終わったあとに出る、最後の様子や状況のこと。",
+      "example": "一生懸命練習した**結果**、マラソン大会で一位になれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "成果",
+      "reading": "せいか",
+      "meaning": "努力したことによって得られた、良い結果のこと。",
+      "example": "みんなで協力した**成果**が出て、運動会で優勝することができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効果",
+      "reading": "こうか",
+      "meaning": "ある働きかけによって現れる、良い変化や役立つこと。",
+      "example": "この薬は、咳（せき）にとても**効果**があるそうです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "果実",
+      "reading": "かじつ",
+      "meaning": "植物が実らせる、種子を含んだ食べられる部分のこと。",
+      "example": "秋には、木にたくさんの甘い**果実**がなっていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
