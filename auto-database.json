@@ -12867,5 +12867,39 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "特": [
+    {
+      "jukugo": "特別",
+      "reading": "とくべつ",
+      "meaning": "ふつうとちがって、たいせつにあつかうこと。",
+      "example": "今日は先生が、特別に長い休み時間を用意してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特急",
+      "reading": "とっきゅう",
+      "meaning": "きまった駅にしか止まらず、とてもはやく走る電車や列車のこと。",
+      "example": "特急電車に乗って、おじいちゃんの家まで遊びに行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特徴",
+      "reading": "とくちょう",
+      "meaning": "ほかのものとくらべて、目立つちがいや個性的な点。",
+      "example": "あの犬の一番の特徴は、とても長いしっぽだよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特売",
+      "reading": "とくばい",
+      "meaning": "商品をいつもより安く売ること。",
+      "example": "スーパーの特売で、お母さんがおいしいお菓子を買ってきてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
