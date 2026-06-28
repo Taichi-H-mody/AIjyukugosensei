@@ -12221,6 +12221,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "副": [
+    {
+      "jukugo": "副社長",
+      "reading": "ふくしゃちょう",
+      "meaning": "会社で社長の次にえらい人で、社長を助けて仕事をする人。",
+      "example": "大きくなったら、会社の副社長になりたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "副校長",
+      "reading": "ふくこうちょう",
+      "meaning": "学校で校長先生の次にえらい先生で、校長先生を助けて学校の仕事をする人。",
+      "example": "新しい副校長先生が、今日の朝礼で紹介されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "副作用",
+      "reading": "ふくさよう",
+      "meaning": "薬を飲んだときに、病気を治すこととは別に、体に起こる良くないこと。",
+      "example": "この薬は熱を下げるけど、眠くなる副作用があるよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "副読本",
+      "reading": "ふくどくほん",
+      "meaning": "教科書とは別に、もっと詳しく勉強するために使う本。",
+      "example": "理科の授業では、教科書と一緒に副読本も使います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "副収入",
+      "reading": "ふくしゅうにゅう",
+      "meaning": "いつもの仕事でもらうお金のほかに、別のことで得るお金。",
+      "example": "夏休みに手伝いをしたら、おこづかいとは別に副収入があった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
