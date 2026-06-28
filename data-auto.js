@@ -10135,6 +10135,32 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "紀": [
+    {
+      "jukugo": "世紀",
+      "reading": "せいき",
+      "meaning": "100年間を一つの区切りとした期間。",
+      "example": "今は21世紀で、宇宙旅行など新しいことがたくさん研究されています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紀行",
+      "reading": "きこう",
+      "meaning": "旅の様子や体験を文章にして書き記すこと。また、その文章。",
+      "example": "夏休みに家族で旅行した思い出を、紀行文にまとめました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紀元",
+      "reading": "きげん",
+      "meaning": "歴史上の年数を数え始める最初の年。物事が始まった時。",
+      "example": "日本では、西暦の紀元を基準に年数を数えています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
