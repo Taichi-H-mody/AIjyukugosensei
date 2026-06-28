@@ -10462,6 +10462,30 @@ const autoData = {
       "example": "先生は、忘れ物をしないように私に**忠告**してくれた。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "告知",
+      "reading": "こくち",
+      "meaning": "多くの人に知らせること。",
+      "example": "先生が来週の遠足について、みんなに**告知**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "警告",
+      "reading": "けいこく",
+      "meaning": "危険なことや悪いことを知らせて、注意をうながすこと。",
+      "example": "危ない場所には「立ち入り禁止」の**警告**がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宣告",
+      "reading": "せんこく",
+      "meaning": "はっきりと決定したことを言い渡すこと。",
+      "example": "運動会で、先生がかけっこの結果を**宣告**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "河": [
@@ -16318,6 +16342,48 @@ const autoData = {
       "reading": "せいちょう",
       "meaning": "静かに耳を傾けて聞くこと。",
       "example": "先生のお話は、みんなで静聴しましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "久": [
+    {
+      "jukugo": "永久",
+      "reading": "えいきゅう",
+      "meaning": "限りなく続くこと。いつまでも変わらないこと。",
+      "example": "地球の豊かな自然を**永久**に守っていきたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耐久",
+      "reading": "たいきゅう",
+      "meaning": "長くもちこたえること。丈夫で長持ちすること。",
+      "example": "このランドセルは**耐久**性に優れているので、長く使えます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "恒久",
+      "reading": "こうきゅう",
+      "meaning": "いつまでも変わらず続くこと。",
+      "example": "世界中の人々が**恒久**の平和を願っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悠久",
+      "reading": "ゆうきゅう",
+      "meaning": "非常に長く続くこと。果てしなく遠い時間のこと。",
+      "example": "古いお城の遺跡からは、この土地の**悠久**の歴史を感じられます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長久",
+      "reading": "ちょうきゅう",
+      "meaning": "長く続くこと。永久に続くこと。",
+      "example": "この伝統的なお祭りが**長久**に受け継がれることを願います。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
