@@ -14615,5 +14615,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "徳": [
+    {
+      "jukugo": "道徳",
+      "reading": "どうとく",
+      "meaning": "人が社会の中で守るべき良い行いや心構えのこと。",
+      "example": "学校の道徳の時間に、友達を大切にする心について学びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美徳",
+      "reading": "びとく",
+      "meaning": "りっぱで美しい行いや心のあり方。",
+      "example": "困っている人を助けるのは、素晴らしい美徳です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徳育",
+      "reading": "とくいく",
+      "meaning": "子どもの良い心を育て、社会のルールを守れるように教えること。道徳教育のこと。",
+      "example": "小学校では、勉強だけでなく徳育にも力を入れています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有徳",
+      "reading": "ゆうとく",
+      "meaning": "人として正しい心や行いを持っていること。",
+      "example": "困っている人をすぐに助ける先生は、本当に有徳な方だと思います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徳行",
+      "reading": "とっこう",
+      "meaning": "人としてりっぱで、ほめたたえられるような良い行い。",
+      "example": "彼は、いつも人のために尽くす徳行を心がけています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
