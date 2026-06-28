@@ -11599,6 +11599,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "欠": [
+    {
+      "jukugo": "欠席",
+      "reading": "けっせき",
+      "meaning": "学校や会合などを休むこと。",
+      "example": "熱が出たので、今日は学校を**欠席**します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠点",
+      "reading": "けってん",
+      "meaning": "悪いところ、足りないところ。",
+      "example": "ぼくの**欠点**は、朝起きるのが苦手なことです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠伸",
+      "reading": "あくび",
+      "meaning": "眠いときや疲れたときに、大きく口を開けて息を吸い込むこと。",
+      "example": "授業中に大きな**欠伸**をしてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠場",
+      "reading": "けつじょう",
+      "meaning": "試合やイベントなどに参加しないこと。",
+      "example": "足をけがしたので、今日の運動会は**欠場**することになりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠番",
+      "reading": "けつばん",
+      "meaning": "番号が途中で抜けていること、使われていない番号。",
+      "example": "このクラスには**欠番**の机が一つあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
