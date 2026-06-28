@@ -9385,6 +9385,32 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "億": [
+    {
+      "jukugo": "一億",
+      "reading": "いちおく",
+      "meaning": "100,000,000（1の後ろに0が8つ）という大きな数。",
+      "example": "日本の人口は**一億**二千万人以上です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "億万",
+      "reading": "おくまん",
+      "meaning": "非常にたくさんの数。数えきれないほど多いこと。",
+      "example": "地球上には**億万**の生き物がくらしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "十億",
+      "reading": "じゅうおく",
+      "meaning": "1億の10倍。1,000,000,000（1の後ろに0が9つ）という大きな数。",
+      "example": "世界の人口は**十億**をはるかにこえています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
