@@ -10539,6 +10539,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "効": [
+    {
+      "jukugo": "効果",
+      "reading": "こうか",
+      "meaning": "あることをした結果、良い結果や影響が出ること。",
+      "example": "たくさん練習したおかげで、サッカーの試合で良い効果が出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有効",
+      "reading": "ゆうこう",
+      "meaning": "役に立つこと。効力があること。",
+      "example": "このクーポンは今日まで有効だから、忘れずに使おうね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効き目",
+      "reading": "ききめ",
+      "meaning": "薬や方法などが、どれくらい効くかということ。",
+      "example": "この薬は、熱を下げるのにすぐ効き目があったよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効能",
+      "reading": "こうのう",
+      "meaning": "薬や食べ物などが持っている、病気を治したり体を良くしたりする力や働き。",
+      "example": "この温泉には、体に良い効能があると言われているよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効力",
+      "reading": "こうりょく",
+      "meaning": "あるものや行動が持つ、ききめや力。",
+      "example": "このルールは、今日から効力があるよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
