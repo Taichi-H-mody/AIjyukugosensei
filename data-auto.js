@@ -13063,6 +13063,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "減": [
+    {
+      "jukugo": "減少",
+      "reading": "げんしょう",
+      "meaning": "減ること、少なくなること。",
+      "example": "最近、この池で泳ぐ魚の数が**減少**しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "減点",
+      "reading": "げんてん",
+      "meaning": "テストや採点などで点数を減らすこと。",
+      "example": "漢字の間違いで、テストの点数が少し**減点**された。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "減速",
+      "reading": "げんそく",
+      "meaning": "スピードを遅くすること。",
+      "example": "急なカーブの手前で、バスはゆっくりと**減速**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増減",
+      "reading": "ぞうげん",
+      "meaning": "増えたり減ったりすること。",
+      "example": "クラスの人数は、転校生によっていつも**増減**する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半減",
+      "reading": "はんげん",
+      "meaning": "半分に減ること。",
+      "example": "ジュースを弟と分けたら、僕の分は**半減**してしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
