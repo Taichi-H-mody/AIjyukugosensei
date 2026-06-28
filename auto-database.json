@@ -12581,5 +12581,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "節": [
+    {
+      "jukugo": "季節",
+      "reading": "きせつ",
+      "meaning": "一年を区切った、それぞれ特徴のある期間。春・夏・秋・冬など。",
+      "example": "日本には美しい四季折々の**季節**があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節約",
+      "reading": "せつやく",
+      "meaning": "無駄遣いをしないこと。大切に使うこと。",
+      "example": "電気や水は大切に、**節約**して使いましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節目",
+      "reading": "ふしめ",
+      "meaning": "物事の区切りや、重要な転換点。",
+      "example": "小学校の卒業は、人生の大きな**節目**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節分",
+      "reading": "せつぶん",
+      "meaning": "立春の前日。豆まきをして鬼を追い払う日本の年中行事。",
+      "example": "2月3日の**節分**には、家族みんなで豆まきをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "調節",
+      "reading": "ちょうせつ",
+      "meaning": "ちょうどよい状態になるように、整えたり加減したりすること。",
+      "example": "エアコンの温度を**調節**して、部屋を快適にしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "幹": [
+    {
+      "jukugo": "幹部",
+      "reading": "かんぶ",
+      "meaning": "組織の中心となる人たち。",
+      "example": "児童会の幹部は、みんなのために一生懸命活動しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幹事",
+      "reading": "かんじ",
+      "meaning": "集まりの世話をする人。",
+      "example": "クラスの係で、遠足の幹事をすることになりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幹線",
+      "reading": "かんせん",
+      "meaning": "主要な交通路や通信路。",
+      "example": "新幹線は、日本の重要な交通の幹線です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "樹幹",
+      "reading": "じゅかん",
+      "meaning": "木の幹のこと。",
+      "example": "森の中の高い木の樹幹は、とても太くてたくましかったです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根幹",
+      "reading": "こんかん",
+      "meaning": "物事の大切なもとになる部分。",
+      "example": "あいさつは、人とのつきあいの根幹となる大切なことです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
