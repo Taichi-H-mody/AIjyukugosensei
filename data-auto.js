@@ -12709,6 +12709,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "孫": [
+    {
+      "jukugo": "子孫",
+      "reading": "しそん",
+      "meaning": "親から生まれた子、そのまた子と、代々続いていくこと。",
+      "example": "わたしたち人間は、地球の美しい自然を大切に次の子孫へ残していくべきです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "孫娘",
+      "reading": "まごむすめ",
+      "meaning": "自分の子どもが産んだ女の子。",
+      "example": "おばあちゃんは、遠くから遊びに来た可愛い孫娘をぎゅっと抱きしめました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "孫息子",
+      "reading": "まごむすこ",
+      "meaning": "自分の子どもが産んだ男の子。",
+      "example": "おじいちゃんは、元気いっぱいの孫息子と一緒に公園でサッカーをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内孫",
+      "reading": "うちまご",
+      "meaning": "同じ家に住んでいる孫や、嫁いだ娘の子どもではなく、家を継ぐ息子の家の子どものこと。",
+      "example": "おじいちゃんとおばあちゃんは、いつもそばにいる内孫と過ごす時間を楽しんでいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外孫",
+      "reading": "そとまご",
+      "meaning": "遠いところに住んでいる孫や、嫁いだ娘の家の子どものこと。",
+      "example": "お正月には、遠く離れた場所に住む外孫が遊びに来るので、おばあちゃんはとても楽しみにしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
