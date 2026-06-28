@@ -17253,5 +17253,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "敗": [
+    {
+      "jukugo": "失敗",
+      "reading": "しっぱい",
+      "meaning": "物事をやりそこなうこと。うまくいかないこと。",
+      "example": "宿題を忘れて先生に怒られて、**失敗**したと思った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "勝つことと負けること。勝ち負け。",
+      "example": "今日の試合は、どちらが**勝敗**を決めるか、みんなドキドキしていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "敗北",
+      "reading": "はいぼく",
+      "meaning": "戦いや競争に負けること。",
+      "example": "チームは強い相手に**敗北**したが、次の試合ではがんばると誓った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "敗戦",
+      "reading": "はいせん",
+      "meaning": "戦争や試合に負けること。",
+      "example": "強いチームとの試合は、まさかの**敗戦**に終わってしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連敗",
+      "reading": "れんぱい",
+      "meaning": "続けて負けること。何度も負けが続くこと。",
+      "example": "僕たちの野球チームは、残念ながら3試合**連敗**してしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
