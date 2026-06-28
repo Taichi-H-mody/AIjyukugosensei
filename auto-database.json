@@ -9299,5 +9299,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "栄": [
+    {
+      "jukugo": "栄養",
+      "reading": "えいよう",
+      "meaning": "体が健康に育つために必要な食べ物の成分。",
+      "example": "好き嫌いなく食べて、しっかり栄養をとろう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栄光",
+      "reading": "えいこう",
+      "meaning": "素晴らしいことを成し遂げて得られる、輝かしい名誉やほまれ。",
+      "example": "チームは努力の末、優勝の栄光を掴んだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "光栄",
+      "reading": "こうえい",
+      "meaning": "とても名誉なこと、うれしいこと。",
+      "example": "みんなの代表に選ばれて、とても光栄です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "繁栄",
+      "reading": "はんえい",
+      "meaning": "にぎやかで、豊かに栄えること。",
+      "example": "町がもっと繁栄するように、みんなで協力しよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共栄",
+      "reading": "きょうえい",
+      "meaning": "みんなが一緒に栄え、共に豊かになること。",
+      "example": "仲間と協力して、お互いが共栄できる道を探そう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
