@@ -9495,6 +9495,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "貨": [
+    {
+      "jukugo": "貨物",
+      "reading": "かもつ",
+      "meaning": "鉄道や船、トラックなどで運ばれる品物。",
+      "example": "貨物列車には、たくさんの荷物が積まれている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雑貨",
+      "reading": "ざっか",
+      "meaning": "日常生活で使うこまごまとした品物。",
+      "example": "あの店には、かわいい雑貨がたくさんあるよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通貨",
+      "reading": "つうか",
+      "meaning": "国で共通に使われているお金のこと。",
+      "example": "日本の通貨は「円」です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金貨",
+      "reading": "きんか",
+      "meaning": "金でできたお金。昔のお話によく出てくる。",
+      "example": "宝の地図には、きらきら光る金貨の絵が描いてあった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "百貨店",
+      "reading": "ひゃっかてん",
+      "meaning": "いろいろな種類の品物を売っている大きなお店。デパート。",
+      "example": "百貨店のおもちゃ売り場は、いつもにぎやかだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
