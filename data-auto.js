@@ -15305,6 +15305,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "旧": [
+    {
+      "jukugo": "旧友",
+      "reading": "きゅうゆう",
+      "meaning": "昔からの友達。",
+      "example": "遠いところに引っ越した旧友に、手紙を書きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旧式",
+      "reading": "きゅうしき",
+      "meaning": "古くなった形ややり方。",
+      "example": "おじいちゃんの家には、ダイヤルを回す旧式の電話があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旧家",
+      "reading": "きゅうか",
+      "meaning": "代々長く続いている家。",
+      "example": "この町には、昔からある立派な旧家がたくさん残っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旧作",
+      "reading": "きゅうさく",
+      "meaning": "以前に作られた作品。",
+      "example": "私は新しいアニメよりも、昔の人気アニメの旧作を見るのが好きです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旧都",
+      "reading": "きゅうと",
+      "meaning": "昔、都（みやこ）だった場所。",
+      "example": "奈良や京都は、日本の旧都として歴史の教科書に出てきます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
