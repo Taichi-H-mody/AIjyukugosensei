@@ -12137,6 +12137,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "達": [
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "いっしょに遊んだり、話をしたりする相手。仲の良い人。",
+      "example": "学校でたくさんの新しい友達ができた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "達成",
+      "reading": "たっせい",
+      "meaning": "めあてや目標を、やりとげること。",
+      "example": "夏休みの宿題をぜんぶ達成できて、うれしかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上達",
+      "reading": "じょうたつ",
+      "meaning": "勉強や習い事が、だんだん上手になること。",
+      "example": "毎日練習したおかげで、ピアノがとても上達した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発達",
+      "reading": "はったつ",
+      "meaning": "体や心、能力などが成長し、進みひらくこと。",
+      "example": "子どもたちは、遊びを通して心と体が発達する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "到達",
+      "reading": "とうたつ",
+      "meaning": "目的地や目標の場所にたどり着くこと。",
+      "example": "みんなで力を合わせて、山のてっぺんに到達した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
