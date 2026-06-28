@@ -11389,6 +11389,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "置": [
+    {
+      "jukugo": "配置",
+      "reading": "はいち",
+      "meaning": "物を決められた場所に並べたり、置いたりすること。",
+      "example": "運動会の準備で、机とイスを**配置**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設置",
+      "reading": "せっち",
+      "meaning": "機械や設備などを新しく設けること。",
+      "example": "公園に新しい遊具が**設置**されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放置",
+      "reading": "ほうち",
+      "meaning": "物をそのままにしておくこと。かまわないでおくこと。",
+      "example": "使ったものを**放置**せず、きちんと片付けましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "位置",
+      "reading": "いち",
+      "meaning": "物や人がいる場所。ある地点。",
+      "example": "地図を見て、自分のいる場所の**位置**を確かめました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "置物",
+      "reading": "おきもの",
+      "meaning": "部屋などを飾るために置くもの。",
+      "example": "棚の上に、お気に入りの動物の**置物**を飾りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
