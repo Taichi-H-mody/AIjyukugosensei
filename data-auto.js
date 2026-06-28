@@ -13911,6 +13911,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "禁": [
+    {
+      "jukugo": "禁止",
+      "reading": "きんし",
+      "meaning": "やってはいけないこと。してはいけないと定めること。",
+      "example": "ここでは走ることが**禁止**されています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁煙",
+      "reading": "きんえん",
+      "meaning": "タバコを吸うことをやめること。または、タバコを吸ってはいけない場所や決まり。",
+      "example": "公園の入り口に「**禁煙**」のマークがありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁酒",
+      "reading": "きんしゅ",
+      "meaning": "お酒を飲むことをやめること。または、お酒を飲んではいけない期間や決まり。",
+      "example": "お医者さんに言われて、お父さんはしばらく**禁酒**することになりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁句",
+      "reading": "きんく",
+      "meaning": "口にしてはいけない言葉。言ってはいけないとされている言葉。",
+      "example": "みんなが悲しくなるような言葉は**禁句**だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁猟",
+      "reading": "きんりょう",
+      "meaning": "狩りをすることを禁止すること。または、狩りが禁止されていること。",
+      "example": "この森は、動物を守るために**禁猟**になっています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
