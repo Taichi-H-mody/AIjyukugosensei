@@ -16571,6 +16571,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "義": [
+    {
+      "jukugo": "正義",
+      "reading": "せいぎ",
+      "meaning": "正しいことや、正しい行い。",
+      "example": "ヒーローは、困っている人を助けるために正義の心で戦います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意義",
+      "reading": "いぎ",
+      "meaning": "その物事が持つ大切な意味や価値。",
+      "example": "学校のそうじをすることは、みんなで使う場所を大切にする大きな意義があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "義務",
+      "reading": "ぎむ",
+      "meaning": "当然しなければならないこと。",
+      "example": "学校の宿題をするのは、小学生の大切な義務の一つです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主義",
+      "reading": "しゅぎ",
+      "meaning": "特定の考え方や、大切な方針。",
+      "example": "みんなで協力し合うことを大切にする「協力主義」の考え方で行動しましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "恩義",
+      "reading": "おんぎ",
+      "meaning": "人から受けた恩（親切や助け）と、それに対する感謝の気持ちや、返すべき思い。",
+      "example": "困っている時に助けてもらった恩義は、決して忘れてはいけません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
