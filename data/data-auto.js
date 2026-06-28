@@ -8923,7 +8923,40 @@ const autoData = {
   "成": [],
   "府": [],
   "順": [],
-  "可": [],
+  "可": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使われる、中国から伝わった文字。",
+      "example": "漢字をていねいに書こう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢数字",
+      "reading": "かんすうじ",
+      "meaning": "一、二、三などの漢字で書かれた数字。",
+      "example": "時計の文字盤に漢数字が使われている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の詩。漢字を使って作られている。",
+      "example": "学校で有名な漢詩を習った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方",
+      "reading": "かんぽう",
+      "meaning": "中国から伝わった、植物などを使って体を治す方法や薬。",
+      "example": "おばあちゃんが漢方薬を飲んでいる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
   "官": [],
   "略": [],
   "漁": [],
