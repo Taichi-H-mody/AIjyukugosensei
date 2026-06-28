@@ -14331,6 +14331,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "固": [
+    {
+      "jukugo": "固定",
+      "reading": "こてい",
+      "meaning": "動かないように、しっかりと決まった場所にとめること。",
+      "example": "机が動かないように、床に固定した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "頑固",
+      "reading": "がんこ",
+      "meaning": "自分の意見をなかなか変えず、意地っ張りなこと。",
+      "example": "頑固なおじいさんは、一度決めたことは曲げない。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "固形",
+      "reading": "こけい",
+      "meaning": "形がしっかりしていて、固まっていること。",
+      "example": "固形の石けんは、泡立ててから使います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "凝固",
+      "reading": "ぎょうこ",
+      "meaning": "液体が冷えたりして、固まること。",
+      "example": "ゼリーの液を冷やすと、凝固して固くなる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強固",
+      "reading": "きょうこ",
+      "meaning": "とても丈夫で、しっかりしていること。",
+      "example": "強固な建物は、地震にも強いです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
