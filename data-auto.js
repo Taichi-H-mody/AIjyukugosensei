@@ -68,24 +68,6 @@ const autoData = {
       "example": "部長の腹芸はすごくて、言いたいことがすぐにはわからないんだ。"
     },
     {
-      "jukugo": "腹積もり",
-      "reading": "はらづもり",
-      "meaning": "心の中で決めている計画や覚悟のこと。",
-      "example": "明日のテスト、満点取る腹積もりで勉強してきたよ！"
-    },
-    {
-      "jukugo": "腹踊り",
-      "reading": "はらおどり",
-      "meaning": "うれしさや悔しさなどを、お腹を揺らしながら大げさに表現すること。",
-      "example": "合格発表を見て、嬉しくて思わず腹踊りをしてしまった。"
-    },
-    {
-      "jukugo": "腹ごなし",
-      "meaning": "「腹ごしらえ」の誤用から生まれた言葉で、満腹になった後、少し歩いて消化を助けること。",
-      "reading": "はらごなし",
-      "example": "美味しいものをたくさん食べたので、食後に公園を散歩して腹ごなしをした。"
-    },
-    {
       "jukugo": "満腹",
       "reading": "まんぷく",
       "meaning": "おなかがいっぱいになること。",
@@ -350,12 +332,6 @@ const autoData = {
     }
   ],
   "暮": [
-    {
-      "jukugo": "日暮れ道",
-      "reading": "ひぐれみち",
-      "meaning": "日が暮れてきた頃に通る道。",
-      "example": "夕食の準備が遅れたので、日暮れ道を急いで帰った。"
-    },
     {
       "jukugo": "灯暮",
       "reading": "とうぼ",
@@ -854,15 +830,6 @@ const autoData = {
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
-    },
-    {
-      "jukugo": "晴れ姿",
-      "reading": "はれすがた",
-      "meaning": "華やかに着飾ったりっぱな姿。",
-      "example": "成人式で晴れ姿を見せる。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
     }
   ],
   "奏": [
@@ -989,12 +956,6 @@ const autoData = {
       "reading": "ちょうおん",
       "meaning": "潮の満ち引きや波が立てる音。",
       "example": "夏の夜、潮音を聞きながら眠りについた。"
-    },
-    {
-      "jukugo": "潮溜まり",
-      "reading": "しおだまり",
-      "meaning": "潮が引いた後に岩や地面にできた、海水が残っている場所。",
-      "example": "潮溜まりには小さな魚やカニがたくさんいた。"
     },
     {
       "jukugo": "潮汐",
@@ -1600,15 +1561,6 @@ const autoData = {
       "addedBy": "force-all"
     },
     {
-      "jukugo": "恩返し",
-      "reading": "おんがえし",
-      "meaning": "受けた恩に報いること。",
-      "example": "鶴の恩返しという昔話を読む。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "恩恵",
       "reading": "おんけい",
       "meaning": "めぐみ。",
@@ -1660,15 +1612,6 @@ const autoData = {
       "reading": "むがむちゅう",
       "meaning": "心を奪われて我を忘れること。",
       "example": "無我夢中で本を読む。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "我が家",
-      "reading": "わがや",
-      "meaning": "自分の家。",
-      "example": "旅行から我が家に帰ってきた。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -1898,15 +1841,6 @@ const autoData = {
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
-    },
-    {
-      "jukugo": "切り株",
-      "reading": "きりかぶ",
-      "meaning": "木を切った後に残る根元の部分。",
-      "example": "森の中で切り株に座って休む。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
     }
   ],
   "干": [
@@ -1915,15 +1849,6 @@ const autoData = {
       "reading": "ひがた",
       "meaning": "潮が引いたときに現れる砂や泥の場所。",
       "example": "干潟で潮干狩りをする。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "干ばつ",
-      "reading": "かんばつ",
-      "meaning": "雨が降らず水がなくなること。",
-      "example": "干ばつで農作物が枯れてしまった。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -2334,15 +2259,6 @@ const autoData = {
   ],
   "供": [
     {
-      "jukugo": "自給自足",
-      "reading": "じきゅうじそく",
-      "meaning": "自分に必要なものを自分で作り出すこと。",
-      "example": "野菜を育てて自給自足の生活をする。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "子供",
       "reading": "こども",
       "meaning": "おさない人。",
@@ -2365,15 +2281,6 @@ const autoData = {
       "reading": "きょうきゅう",
       "meaning": "必要なものを与えること。",
       "example": "町に水を供給する。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "供え物",
-      "reading": "そなえもの",
-      "meaning": "神仏にお供えするもの。",
-      "example": "お墓に供え物をする。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -2412,15 +2319,6 @@ const autoData = {
       "reading": "きょうちゅう",
       "meaning": "心の中。",
       "example": "胸中を打ち明ける。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "胸騒ぎ",
-      "reading": "むなさわぎ",
-      "meaning": "何か起こりそうで心が落ち着かないこと。",
-      "example": "嫌な予感がして胸騒ぎがする。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -2553,15 +2451,6 @@ const autoData = {
       "reading": "てっきん",
       "meaning": "コンクリートの骨組みに使う鉄の棒。",
       "example": "鉄筋コンクリートのマンション。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "筋書き",
-      "reading": "すじがき",
-      "meaning": "劇や小説などの大体のあらすじ。",
-      "example": "映画の筋書きを読んでから見る。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -2781,15 +2670,6 @@ const autoData = {
   ],
   "激": [
     {
-      "jukugo": "激しい",
-      "reading": "はげしい",
-      "meaning": "勢いや程度がとても強い様子。",
-      "example": "激しい雨が降る。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "激怒",
       "reading": "げきど",
       "meaning": "ひどく怒ること。",
@@ -2827,15 +2707,6 @@ const autoData = {
     }
   ],
   "穴": [
-    {
-      "jukugo": "落とし穴",
-      "reading": "おとしあな",
-      "meaning": "人を落とすために掘った穴。",
-      "example": "道端の落とし穴に気をつける。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
     {
       "jukugo": "墓穴",
       "reading": "ぼけつ",
@@ -3063,42 +2934,6 @@ const autoData = {
   ],
   "厳": [
     {
-      "jukugo": "厳しい",
-      "reading": "きびしい",
-      "meaning": "手加減せず、少しのゆるみも許さない様子。",
-      "example": "冬の厳しい寒さに耐える。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "厳格",
-      "reading": "げんかく",
-      "meaning": "規則などを厳重に守ってごまかしを許さないこと。",
-      "example": "厳格な家庭で育つ。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "厳重",
-      "reading": "げんじゅう",
-      "meaning": "いい加減にせず、とても厳しいこと。",
-      "example": "扉の鍵を厳重にかける。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "厳密",
-      "reading": "げんみつ",
-      "meaning": "細かいところまで厳しく正確にすること。",
-      "example": "厳密な検査を行う。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "厳寒",
       "reading": "げんかん",
       "meaning": "非常に厳しい寒さ。",
@@ -3161,15 +2996,6 @@ const autoData = {
       "reading": "こきゅう",
       "meaning": "息を吸ったり吐いたりすること。",
       "example": "深く呼吸をして落ち着く。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "呼び声",
-      "reading": "よびごえ",
-      "meaning": "人を呼ぶ声。世間の評判。",
-      "example": "優勝の呼び声が高いチーム。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -4110,15 +3936,6 @@ const autoData = {
       "reading": "きしゃ",
       "meaning": "寺や困っている人にお金や物を寄付すること。",
       "example": "お寺にたくさんのお金を喜捨する。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "使い捨て",
-      "reading": "つかいすて",
-      "meaning": "一度使っただけで捨てること。",
-      "example": "使い捨てのマスクを使う。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -6382,24 +6199,6 @@ const autoData = {
   ],
   "宙": [
     {
-      "jukugo": "宙吊り",
-      "reading": "ちゅうづり",
-      "meaning": "物を空中に吊り下げた状態にすること。また、その状態。",
-      "example": "美術館には、巨大なオブジェが天井から宙吊りにされていた。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "空中",
-      "reading": "くうちゅう",
-      "meaning": "空の空間。大気中。",
-      "example": "鳥たちが青い空中を自由に飛び回っている。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "宙空",
       "reading": "ちゅうくう",
       "meaning": "空中に広がる何もない空間。空中。",
@@ -6413,15 +6212,6 @@ const autoData = {
       "reading": "うちゅう",
       "meaning": "地球を含む全ての天体、また時間と空間の総体。",
       "example": "宇宙飛行士は、広大な宇宙の神秘に魅せられる。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "宙返り",
-      "reading": "ちゅうがえり",
-      "meaning": "体を逆さまにして一回転する体操技。とんぼ返り。",
-      "example": "運動会の組体操で、友達がみごとな宙返りを披露した。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -6912,15 +6702,6 @@ const autoData = {
       "reading": "とどけしょ",
       "meaning": "届け出のための書類。",
       "example": "婚姻届書に必要事項を記入し、役場へ提出した。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "届け先",
-      "reading": "とどけさき",
-      "meaning": "品物や郵便物などを届ける場所。",
-      "example": "荷物の届け先を確認し、誤りのないように記入してください。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -7892,15 +7673,6 @@ const autoData = {
       "reading": "かなぼう",
       "meaning": "鉄でできた太い棒。重く頑丈で、昔は武器や道具として用いられた。",
       "example": "昔話の鬼は大きな金棒を持っていることが多い。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "棒読み",
-      "reading": "ぼうよみ",
-      "meaning": "文章などを、感情を込めずに抑揚なく単調に読むこと。",
-      "example": "初めての発表で、彼は原稿を棒読みしてしまった。",
       "grade": 6,
       "addedDate": "2026-06-22",
       "addedBy": "force-all"
@@ -9100,19 +8872,97 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "山登り",
-      "reading": "やまのぼり",
-      "meaning": "山に登ること。ハイキング。",
-      "example": "夏休みに友達と山登りをして、頂上まで行った。",
-      "addedDate": "2026-06-22",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "山川",
       "reading": "やまかわ",
       "meaning": "山と川。自然の風景を表す言葉。",
       "example": "日本の山川の景色はとても美しい。",
       "addedDate": "2026-06-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "常": [
+    {
+      "jukugo": "常用漢字",
+      "reading": "じょうようかんじ",
+      "meaning": "よく使われる、国が定めた漢字のこと。",
+      "example": "小学校では、常用漢字を少しずつ習います。",
+      "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "可": [
+    {
+      "jukugo": "可能",
+      "reading": "かのう",
+      "meaning": "できること。また、その能力があること。",
+      "example": "努力すれば、どんなことでも**可能**になります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "許可",
+      "reading": "きょか",
+      "meaning": "願いを聞き入れて、それを許すこと。",
+      "example": "先生に**許可**をもらって、放課後も校庭で遊びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不可",
+      "reading": "ふか",
+      "meaning": "することができないこと。許されないこと。",
+      "example": "危険なので、ここで泳ぐことは**不可**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "可決",
+      "reading": "かけつ",
+      "meaning": "会議などで、提案された議案が承認され、決定すること。",
+      "example": "みんなで話し合った結果、遠足の行き先が**可決**されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "認可",
+      "reading": "にんか",
+      "meaning": "届け出や申請を審査して、それが正しいと認め、許可すること。",
+      "example": "新しいルールを作るために、委員長に**認可**してもらいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "貯": [
+    {
+      "jukugo": "貯金",
+      "reading": "ちょきん",
+      "meaning": "お金をためること。また、ためたお金。",
+      "example": "お年玉を貯金箱に貯金する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯水",
+      "reading": "ちょすい",
+      "meaning": "水をためておくこと。またはためてある水。",
+      "example": "ダムは雨水を貯水するための大切な施設です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯蔵",
+      "reading": "ちょぞう",
+      "meaning": "品物などをたくわえておくこと。",
+      "example": "倉庫で収穫した野菜を貯蔵しておく。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯蓄",
+      "reading": "ちょちく",
+      "meaning": "将来に備えてお金などをためておくこと。",
+      "example": "お小遣いの一部を将来のために貯蓄する。",
+      "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
   ]
