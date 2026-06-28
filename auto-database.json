@@ -10579,5 +10579,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "健": [
+    {
+      "jukugo": "健康",
+      "reading": "けんこう",
+      "meaning": "体が丈夫で病気がないこと。",
+      "example": "毎日運動して、健康な体を作ろう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "健闘",
+      "reading": "けんとう",
+      "meaning": "困難に負けず、力を尽くしてよく戦うこと。",
+      "example": "試合では、みんなが健闘して素晴らしいプレーを見せた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保健",
+      "reading": "ほけん",
+      "meaning": "健康を保ち、病気を予防すること。",
+      "example": "保健の先生が、手洗いの大切さを教えてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "健全",
+      "reading": "けんぜん",
+      "meaning": "心や体が健康で、しっかりしていること。",
+      "example": "健全な心を育てるために、たくさん本を読もう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "健脚",
+      "reading": "けんきゃく",
+      "meaning": "足が丈夫で強いこと。また、その足。",
+      "example": "健脚のおじいちゃんは、いつも長い距離を散歩している。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "技": [
+    {
+      "jukugo": "特技",
+      "reading": "とくぎ",
+      "meaning": "特に得意なことや、人にはない特別な技能のこと。",
+      "example": "私の特技は、だれよりも早く走ることです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演技",
+      "reading": "えんぎ",
+      "meaning": "劇や映画などで、役になりきって表現すること。",
+      "example": "学芸会では、みんなが素晴らしい演技を見せました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "物事をうまく行うための方法や腕前。また、その方法を研究すること。",
+      "example": "コンピューターの技術がどんどん進んで、私たちの生活はとても便利になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競技",
+      "reading": "きょうぎ",
+      "meaning": "勝敗を決めるために、ルールに従って争うこと。",
+      "example": "運動会では、たくさんの楽しい競技が行われました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "裏技",
+      "reading": "うらわざ",
+      "meaning": "人にはあまり知られていない、特別なやり方や便利な方法。",
+      "example": "ゲームの攻略本には、ステージをクリアする裏技がたくさん載っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
