@@ -12093,5 +12093,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "仲": [
+    {
+      "jukugo": "仲良し",
+      "reading": "なかよし",
+      "meaning": "友達ととても仲が良いこと。",
+      "example": "私はクラスの友達とみんな仲良しです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲間",
+      "reading": "なかま",
+      "meaning": "同じ目的や趣味を持つ人たち。友達。",
+      "example": "サッカークラブの仲間と練習しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲直り",
+      "reading": "なかなおり",
+      "meaning": "けんかしたりして仲が悪くなった人たちが、また元の仲の良い状態に戻ること。",
+      "example": "けんかした弟と仲直りしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲立ち",
+      "reading": "なかだち",
+      "meaning": "けんかしている人たちの間に入って、仲良くさせること。",
+      "example": "先生がけんかの仲立ちをしてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲違い",
+      "reading": "なかのちがい",
+      "meaning": "仲の良かった人どうしが、けんかなどをして仲が悪くなること。",
+      "example": "ささいなことで友達と仲違いしてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "達": [
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "いっしょに遊んだり、話をしたりする相手。仲の良い人。",
+      "example": "学校でたくさんの新しい友達ができた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "達成",
+      "reading": "たっせい",
+      "meaning": "めあてや目標を、やりとげること。",
+      "example": "夏休みの宿題をぜんぶ達成できて、うれしかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上達",
+      "reading": "じょうたつ",
+      "meaning": "勉強や習い事が、だんだん上手になること。",
+      "example": "毎日練習したおかげで、ピアノがとても上達した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発達",
+      "reading": "はったつ",
+      "meaning": "体や心、能力などが成長し、進みひらくこと。",
+      "example": "子どもたちは、遊びを通して心と体が発達する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "到達",
+      "reading": "とうたつ",
+      "meaning": "目的地や目標の場所にたどり着くこと。",
+      "example": "みんなで力を合わせて、山のてっぺんに到達した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
