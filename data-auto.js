@@ -12465,6 +12465,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "製": [
+    {
+      "jukugo": "製品",
+      "reading": "せいひん",
+      "meaning": "工場などで作られた品物。",
+      "example": "スーパーにはたくさんの製品が売られています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日本製",
+      "reading": "にほんせい",
+      "meaning": "日本で作られた品物。",
+      "example": "このえんぴつは日本製で、とてもじょうぶです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "製造",
+      "reading": "せいぞう",
+      "meaning": "材料から品物を作り出すこと。",
+      "example": "あの工場では、毎日たくさんの車を製造しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "製菓",
+      "reading": "せいか",
+      "meaning": "お菓子を作ること。",
+      "example": "お母さんは製菓が上手で、おいしいケーキを作ってくれます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
