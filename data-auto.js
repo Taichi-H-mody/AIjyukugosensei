@@ -9967,6 +9967,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "観": [
+    {
+      "jukugo": "観客",
+      "reading": "かんきゃく",
+      "meaning": "スポーツや演劇などを見に来ている人たち。",
+      "example": "たくさんの観客が、サッカーの試合を応援した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観光",
+      "reading": "かんこう",
+      "meaning": "景色や名所などを見物して回ること。旅行。",
+      "example": "夏休みに家族で京都へ観光に行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観察",
+      "reading": "かんさつ",
+      "meaning": "ものを注意深く見て、その様子や変化をよく調べること。",
+      "example": "理科の授業で、アサガオの成長を毎日観察した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観覧車",
+      "reading": "かんらんしゃ",
+      "meaning": "遊園地にある、大きな車輪のように回る乗り物。",
+      "example": "遊園地で大きな観覧車に乗って、高い景色を楽しんだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参観日",
+      "reading": "さんかんび",
+      "meaning": "学校で、保護者（お父さんやお母さん）が授業を見に来る日。",
+      "example": "来週の金曜日は、お父さんが学校に来る参観日だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
