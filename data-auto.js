@@ -17155,6 +17155,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "寄": [
+    {
+      "jukugo": "寄付",
+      "reading": "きふ",
+      "meaning": "お金や品物を贈ること。",
+      "example": "みんなで集めた募金を、災害で困っている人に寄付しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄道",
+      "reading": "よりみち",
+      "meaning": "目的地へ行く途中で、ほかの場所に立ち寄ること。",
+      "example": "学校から家に帰るときに、お店に寄道してしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄席",
+      "reading": "よせ",
+      "meaning": "落語や漫才などを見せる場所。",
+      "example": "夏休みにお父さんと一緒に、初めて寄席に行きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄生",
+      "reading": "きせい",
+      "meaning": "他の生物の体の中や表面にくっついて生活すること。",
+      "example": "植物の中には、他の木に寄生して育つものがあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄宿",
+      "reading": "きしゅく",
+      "meaning": "学校などに付属する寮に泊まって生活すること。",
+      "example": "将来は、海外の学校に寄宿して勉強したいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
