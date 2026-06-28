@@ -15681,5 +15681,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "満": [
+    {
+      "jukugo": "満足",
+      "reading": "まんぞく",
+      "meaning": "心が満たされること。不満がないこと。",
+      "example": "新しいゲームをもらって、とても満足した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満員",
+      "reading": "まんいん",
+      "meaning": "乗り物や会場などに、定員いっぱいの人がいること。",
+      "example": "バスが満員だったので、次のバスを待った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満月",
+      "reading": "まんげつ",
+      "meaning": "丸い形になった月。",
+      "example": "昨夜は空にきれいな満月が浮かんでいた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満点",
+      "reading": "まんてん",
+      "meaning": "問題のすべてに正解して、一番高い点数をもらうこと。",
+      "example": "漢字のテストで満点を取って、嬉しかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満開",
+      "reading": "まんかい",
+      "meaning": "花が全部咲き開くこと。",
+      "example": "公園の桜が満開で、お花見に行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "職": [
+    {
+      "jukugo": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "仕事の種類や内容のこと。",
+      "example": "将来は、人の役にたつ**職業**につきたいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職場",
+      "reading": "しょくば",
+      "meaning": "仕事をする場所のこと。",
+      "example": "お父さんは毎日、会社にある**職場**へ行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職人",
+      "reading": "しょくにん",
+      "meaning": "とくべつな技術で物を作ったり、仕事をする人のこと。",
+      "example": "この美しいお皿は、**職人**さんがていねいに作ったものです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "就職",
+      "reading": "しゅうしょく",
+      "meaning": "学校を卒業して、会社やお店などで仕事につくこと。",
+      "example": "大学を卒業したら、銀行に**就職**したいと考えています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "転職",
+      "reading": "てんしょく",
+      "meaning": "今の仕事をやめて、あたらしい仕事につくこと。",
+      "example": "お父さんは、新しい会社に**転職**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
