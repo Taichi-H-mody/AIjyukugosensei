@@ -11557,6 +11557,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "側": [
+    {
+      "jukugo": "右側",
+      "reading": "みぎがわ",
+      "meaning": "右の方。",
+      "example": "道を歩くときは、右側をよく見て渡りましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左側",
+      "reading": "ひだりがわ",
+      "meaning": "左の方。",
+      "example": "教室の左側に窓があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内側",
+      "reading": "うちがわ",
+      "meaning": "ある物の内部や中の方。",
+      "example": "この箱の内側には、秘密の絵が描いてあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外側",
+      "reading": "そとがわ",
+      "meaning": "ある物の外部や外の方。",
+      "example": "りんごの外側は赤くて、とてもきれいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両側",
+      "reading": "りょうがわ",
+      "meaning": "二つの側、左右や表と裏など。",
+      "example": "道の両側に、きれいな花が咲いています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
