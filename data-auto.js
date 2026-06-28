@@ -12347,6 +12347,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "妻": [
+    {
+      "jukugo": "妻子",
+      "reading": "さいし",
+      "meaning": "妻と子のこと。家族を指す場合もあります。",
+      "example": "お父さんは、妻子（さいし）を守るためにお仕事をがんばっています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新妻",
+      "reading": "にいづま",
+      "meaning": "結婚したばかりの妻。新婚の妻のこと。",
+      "example": "新妻（にいづま）は、おいしい料理をつくろうと毎日練習しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛妻",
+      "reading": "あいさい",
+      "meaning": "自分の妻を大切に思い、かわいがること。また、大切にされている妻。",
+      "example": "お父さんは愛妻（あいさい）のために、休日に花を買ってきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賢妻",
+      "reading": "けんさい",
+      "meaning": "かしこくて、よくできた妻のこと。",
+      "example": "彼は賢妻（けんさい）の支えがあったから、仕事を成功させることができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
