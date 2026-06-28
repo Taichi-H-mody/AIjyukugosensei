@@ -9047,5 +9047,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "以": [
+    {
+      "jukugo": "以上",
+      "reading": "いじょう",
+      "meaning": "ある数量や程度よりも多いこと。これより上。",
+      "example": "宿題を5ページ以上やってきてください。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "以下",
+      "reading": "いか",
+      "meaning": "ある数量や程度よりも少ないこと。これより下。",
+      "example": "このゲームは8歳以下は遊べません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "以前",
+      "reading": "いぜん",
+      "meaning": "ある時より前のこと。",
+      "example": "このおもちゃは、私が小学生だった以前から持っているよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "以後",
+      "reading": "いご",
+      "meaning": "ある時より後のこと。",
+      "example": "今日の宿題は、これ以後出ません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "以外",
+      "reading": "いがい",
+      "meaning": "あるものの範囲から外れること。それ以外のもの。",
+      "example": "私以外に、この問題が解けた人はいますか？",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
