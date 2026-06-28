@@ -17197,6 +17197,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "混": [
+    {
+      "jukugo": "混雑",
+      "reading": "こんざつ",
+      "meaning": "たくさんの人や物がいっぱいになって、ごちゃごちゃしていること。",
+      "example": "休日の遊園地は、たくさんの人でとても**混雑**していた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "混乱",
+      "reading": "こんらん",
+      "meaning": "物事の順序が乱れて、どうしていいかわからない状態になること。",
+      "example": "地震が起きて、みんなが少しの間**混乱**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "混合",
+      "reading": "こんごう",
+      "meaning": "違う種類や性質のものを混ぜ合わせること。",
+      "example": "理科の実験で、二種類の液体を**混合**して色が変わった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "混入",
+      "reading": "こんにゅう",
+      "meaning": "もともとないものが、別のものの中にまじり入ってしまうこと。",
+      "example": "給食にほこりが**混入**していないか、よく見てから食べよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "混同",
+      "reading": "こんどう",
+      "meaning": "違うものを同じものとしてまちがえて扱うこと。",
+      "example": "双子の兄弟は顔がそっくりなので、先生によく**混同**される。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
