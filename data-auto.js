@@ -12179,6 +12179,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "好": [
+    {
+      "jukugo": "好物",
+      "reading": "こうぶつ",
+      "meaning": "好きな食べ物や物のこと。",
+      "example": "私の好物は、甘いチョコレートです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友好",
+      "reading": "ゆうこう",
+      "meaning": "友達として仲が良いこと、親しい関係。",
+      "example": "みんなで仲良く、友好を深めよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "好評",
+      "reading": "こうひょう",
+      "meaning": "みんなから良い評価を受けること。",
+      "example": "新しいゲームは、みんなに好評です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "好調",
+      "reading": "こうちょう",
+      "meaning": "物事の状態が良いこと、うまくいっていること。",
+      "example": "今日は体調が好調で、元気に遊べます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "好意",
+      "reading": "こうい",
+      "meaning": "相手に対して持つ良い気持ちや思いやり。",
+      "example": "困っている友達に、好意で手伝ってあげました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
