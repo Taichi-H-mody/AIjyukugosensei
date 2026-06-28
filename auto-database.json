@@ -14875,5 +14875,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "束": [
+    {
+      "jukugo": "花束",
+      "reading": "はなたば",
+      "meaning": "いくつかの花を一つにまとめて、きれいにかざったもの。",
+      "example": "おたんじょうびのお祝いに、お母さんに花束をプレゼントしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "約束",
+      "reading": "やくそく",
+      "meaning": "人と人との間で、これからすることを前もって決めること。",
+      "example": "友達と「明日公園で遊ぼう」と約束しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結束",
+      "reading": "けっそく",
+      "meaning": "みんなで心を一つにして、力を合わせること。",
+      "example": "クラスのみんなが結束して、運動会の練習をがんばりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一束",
+      "reading": "ひとたば",
+      "meaning": "野菜や花などを、ひとまとめにしたものの数え方。",
+      "example": "おばあちゃんが畑で採れたほうれん草を、一束くれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "束の間",
+      "reading": "つかのま",
+      "meaning": "とても短い時間のこと。",
+      "example": "楽しい休み時間は束の間で、すぐに授業が始まってしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
