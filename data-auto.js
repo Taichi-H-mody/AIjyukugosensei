@@ -12583,6 +12583,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "節": [
+    {
+      "jukugo": "季節",
+      "reading": "きせつ",
+      "meaning": "一年を区切った、それぞれ特徴のある期間。春・夏・秋・冬など。",
+      "example": "日本には美しい四季折々の**季節**があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節約",
+      "reading": "せつやく",
+      "meaning": "無駄遣いをしないこと。大切に使うこと。",
+      "example": "電気や水は大切に、**節約**して使いましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節目",
+      "reading": "ふしめ",
+      "meaning": "物事の区切りや、重要な転換点。",
+      "example": "小学校の卒業は、人生の大きな**節目**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "節分",
+      "reading": "せつぶん",
+      "meaning": "立春の前日。豆まきをして鬼を追い払う日本の年中行事。",
+      "example": "2月3日の**節分**には、家族みんなで豆まきをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "調節",
+      "reading": "ちょうせつ",
+      "meaning": "ちょうどよい状態になるように、整えたり加減したりすること。",
+      "example": "エアコンの温度を**調節**して、部屋を快適にしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
