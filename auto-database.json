@@ -13027,5 +13027,39 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "兆": [
+    {
+      "jukugo": "兆候",
+      "reading": "ちょうこう",
+      "meaning": "何かが起こる前のきざしやしるし。",
+      "example": "風邪の兆候があったので、早めに家で休んだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前兆",
+      "reading": "ぜんちょう",
+      "meaning": "これから起こる出来事のまえぶれとなるきざし。",
+      "example": "地震の前兆なのか、動物たちが落ち着かない様子だった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "吉兆",
+      "reading": "きっちょう",
+      "meaning": "良いことが起こるしるしやきざし。",
+      "example": "空にきれいな虹が出たのは、何か良いことの吉兆かもしれない。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "凶兆",
+      "reading": "きょうちょう",
+      "meaning": "悪いことが起こるしるしやきざし。",
+      "example": "古い物語では、不吉なカラスの鳴き声は凶兆だとされている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
