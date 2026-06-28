@@ -12370,6 +12370,14 @@ const autoData = {
       "example": "絵本の中の魔法使いは、杖を使って魔術をかけました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "美しいものや、人の心を感動させるものを作り出す活動。絵や音楽、ダンスなどがあります。",
+      "example": "音楽や絵を描くことは、すばらしい芸術の一つです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "妻": [
