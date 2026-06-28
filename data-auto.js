@@ -11851,6 +11851,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "史": [
+    {
+      "jukugo": "歴史",
+      "reading": "れきし",
+      "meaning": "昔から今までのできごとや、それを調べた記録のこと。",
+      "example": "日本や世界の長い**歴史**を社会科の授業で勉強します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "史跡",
+      "reading": "しせき",
+      "meaning": "昔の重要なできごとや文化を示す、大切な場所のこと。",
+      "example": "昔のお城の跡は、国の**史跡**として大切にされています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "史料",
+      "reading": "しりょう",
+      "meaning": "昔のできごとを調べるときに使う、古い文書や物などの資料。",
+      "example": "昔の日記や手紙は、当時の生活を知る大切な**史料**になります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "史実",
+      "reading": "しじつ",
+      "meaning": "歴史の中で、本当にあった事実やできごとのこと。",
+      "example": "教科書に書かれていることは、すべて確かな**史実**にもとづいています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦史",
+      "reading": "せんし",
+      "meaning": "戦争に関する歴史や記録のこと。",
+      "example": "図書館で昔の戦争の**戦史**について書かれた本を見つけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
