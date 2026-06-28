@@ -14287,5 +14287,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "法": [
+    {
+      "jukugo": "方法",
+      "reading": "ほうほう",
+      "meaning": "物事をするときのやり方や順序。",
+      "example": "算数の問題を解く新しい**方法**を見つけよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作法",
+      "reading": "さほう",
+      "meaning": "物事を行うときの正しいやり方や礼儀。",
+      "example": "食事の**作法**をきちんと守りましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "法律",
+      "reading": "ほうりつ",
+      "meaning": "国や社会が、みんなが守るように決めたきまり。",
+      "example": "みんなが安全に暮らせるように、たくさんの**法律**があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "用法",
+      "reading": "ようほう",
+      "meaning": "物事の正しい使い方やきまり。",
+      "example": "この薬の**用法**をよく読んでから使いましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "法被",
+      "reading": "はっぴ",
+      "meaning": "お祭りなどで着る、袖（そで）の短い上着。",
+      "example": "夏祭りで、みんなでおそろいのカラフルな**法被**を着た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
