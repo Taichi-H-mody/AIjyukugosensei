@@ -16861,5 +16861,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "序": [
+    {
+      "jukugo": "順序",
+      "reading": "じゅんじょ",
+      "meaning": "物事を行う順番や、並び方のきまり。",
+      "example": "先生の指示通り、背の順に並ぶ**順序**を守りましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "序章",
+      "reading": "じょしょう",
+      "meaning": "物語や本などの、最初の部分や導入の章。",
+      "example": "長い物語の**序章**では、主人公の幼い頃の出来事が描かれていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "序曲",
+      "reading": "じょきょく",
+      "meaning": "オペラや劇が始まる前に演奏される、始まりの音楽。",
+      "example": "舞台の幕が上がる前に、オーケストラが荘厳な**序曲**を奏でた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "序文",
+      "reading": "じょぶん",
+      "meaning": "本や論文などの最初に書かれている、内容の紹介やあいさつの文章。",
+      "example": "この絵本の**序文**には、作者が絵本に込めた思いが書かれていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "秩序",
+      "reading": "ちつじょ",
+      "meaning": "物事がきちんとしていて、乱れていない状態。整然としていること。",
+      "example": "みんながルールを守ることで、学校の**秩序**が保たれている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
