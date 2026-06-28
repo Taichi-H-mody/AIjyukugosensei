@@ -12261,5 +12261,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "耕": [
+    {
+      "jukugo": "耕作",
+      "reading": "こうさく",
+      "meaning": "田畑をたがやして、作物を育てること。",
+      "example": "おじいさんは毎日、畑で野菜を耕作しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農耕",
+      "reading": "のうこう",
+      "meaning": "農業をして、米や野菜などの作物を育てること。",
+      "example": "昔の人々は、農耕によって食料を得ていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耕地",
+      "reading": "こうち",
+      "meaning": "作物を育てている、または育てることができる土地。田んぼや畑のこと。",
+      "example": "この地域には、広い耕地が広がっています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休耕",
+      "reading": "きゅうこう",
+      "meaning": "作物を植えずに、田畑をしばらく休ませること。土を回復させるために行われます。",
+      "example": "今年は土を休ませるために、畑を休耕することにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "春耕",
+      "reading": "しゅんこう",
+      "meaning": "春に、田んぼや畑をたがやすこと。田植えや種まきの準備です。",
+      "example": "農家の人たちは、春耕の準備を始めました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "術": [
+    {
+      "jukugo": "手術",
+      "reading": "しゅじゅつ",
+      "meaning": "病気やけがを治すために、体の中を治療すること。",
+      "example": "お医者さんが、病気の動物の手術をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "技術",
+      "reading": "ぎじゅつ",
+      "meaning": "物を作ったり、何かをしたりするときの、やり方や能力。",
+      "example": "あのサッカー選手は、ボールをあつかう技術がとても高いです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美術",
+      "reading": "びじゅつ",
+      "meaning": "絵を描いたり、彫刻を作ったりする芸術のこと。小学校の図工でも習うよ。",
+      "example": "図工の時間に、みんなで美術の作品を作りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武術",
+      "reading": "ぶじゅつ",
+      "meaning": "昔の人が敵と戦うために使った、体を使った技や方法。",
+      "example": "漫画の忍者は、すごい武術を使って敵と戦います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "魔術",
+      "reading": "まじゅつ",
+      "meaning": "不思議な力を使って、人を驚かせたり、奇跡を起こしたりする技。",
+      "example": "絵本の中の魔法使いは、杖を使って魔術をかけました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
