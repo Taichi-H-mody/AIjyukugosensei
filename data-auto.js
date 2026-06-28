@@ -10497,6 +10497,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "昨": [
+    {
+      "jukugo": "昨日",
+      "reading": "きのう",
+      "meaning": "今日より一つ前の日。前日。",
+      "example": "昨日は、友達と公園で遊びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昨年",
+      "reading": "さくねん",
+      "meaning": "今の年から一つ前の年。去年。",
+      "example": "昨年は、家族旅行で海に行きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昨夜",
+      "reading": "ゆうべ",
+      "meaning": "昨日の夜。今日より一つ前の夜。",
+      "example": "昨夜は、流れ星を見ることができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一昨日",
+      "reading": "おととい",
+      "meaning": "今日の二つ前の日。二日前。",
+      "example": "一昨日は、遠足で動物園に行きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昨今",
+      "reading": "さっこん",
+      "meaning": "最近。この頃。",
+      "example": "昨今、地球の環境について考えることが大切です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
