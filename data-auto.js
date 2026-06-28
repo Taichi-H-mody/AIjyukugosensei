@@ -9757,6 +9757,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "覚": [
+    {
+      "jukugo": "感覚",
+      "reading": "かんかく",
+      "meaning": "物事を心や体で感じること。",
+      "example": "動物はするどい感覚をもっている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "視覚",
+      "reading": "しかく",
+      "meaning": "目で物を見る感覚。",
+      "example": "視覚でとらえられない小さな生き物もいる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "聴覚",
+      "reading": "ちょうかく",
+      "meaning": "耳で音を聞く感覚。",
+      "example": "犬は人間より聴覚がすぐれている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自覚",
+      "reading": "じかく",
+      "meaning": "自分の立場や役割をよく理解すること。",
+      "example": "自分の仕事は自分でするという自覚を持つ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "覚書",
+      "reading": "おぼえがき",
+      "meaning": "大切なことを忘れないように書きとめておくメモ。",
+      "example": "先生のお話を覚書にまとめる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
