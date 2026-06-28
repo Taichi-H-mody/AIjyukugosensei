@@ -12945,6 +12945,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "勇": [
+    {
+      "jukugo": "勇気",
+      "reading": "ゆうき",
+      "meaning": "こわいことにも立ち向かう強い気持ち。",
+      "example": "友達を助けるために、大きな声で「大丈夫？」と**勇気**を出して言いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勇敢",
+      "reading": "ゆうかん",
+      "meaning": "おそれずに、いさましく立ち向かうこと。",
+      "example": "消防士さんは、火事の現場でみんなを助けようと**勇敢**に活動しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勇者",
+      "reading": "ゆうしゃ",
+      "meaning": "勇気があって、みんなのためにたたかう人。",
+      "example": "ゲームに出てくる**勇者**は、いつも悪者を倒して世界を救います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大勇",
+      "reading": "たいゆう",
+      "meaning": "とても大きな勇気。",
+      "example": "困っている人を助けるには、**大勇**が必要です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勇進",
+      "reading": "ゆうしん",
+      "meaning": "勇気を出して、力強く前に進むこと。",
+      "example": "チームのみんなで力を合わせ、ゴールを目指して**勇進**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
