@@ -15247,6 +15247,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "証": [
+    {
+      "jukugo": "証拠",
+      "reading": "しょうこ",
+      "meaning": "何かが正しいことや本当だということを示すもの。",
+      "example": "ぼくがやった証拠はどこにもない。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "証明",
+      "reading": "しょうめい",
+      "meaning": "あることが本当だと、はっきり示すこと。",
+      "example": "宿題をちゃんとやったことをお母さんに証明した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保証",
+      "reading": "ほしょう",
+      "meaning": "品物が壊れても直してくれる約束や、それが確かであることを引き受けること。",
+      "example": "新しいゲーム機には１年間の保証がついていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "免許証",
+      "reading": "めんきょしょう",
+      "meaning": "車を運転する権利など、特別なことをすることを許されていることを示すカードや書類。",
+      "example": "お父さんは車の運転免許証を持っている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学生証",
+      "reading": "がくせいしょう",
+      "meaning": "学校の生徒であることを証明するカード。",
+      "example": "映画館で学生証を見せると、割引になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
