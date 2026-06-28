@@ -15345,5 +15345,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "参": [
+    {
+      "jukugo": "参加",
+      "reading": "さんか",
+      "meaning": "行事や活動に加わること。",
+      "example": "運動会に参加しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参考",
+      "reading": "さんこう",
+      "meaning": "何かを決めたり、考えたりするときの手がかりにすること。",
+      "example": "先生のアドバイスを参考に、作文を書きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参観",
+      "reading": "さんかん",
+      "meaning": "学校の授業などを見学すること。",
+      "example": "今日は、お父さんとお母さんが授業参観に来ます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参拝",
+      "reading": "さんぱい",
+      "meaning": "神社やお寺におまいりすること。",
+      "example": "お正月には、家族で神社に参拝に行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参道",
+      "reading": "さんどう",
+      "meaning": "神社やお寺へ続く道のこと。",
+      "example": "長い参道を歩いて、お寺に着きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
