@@ -11145,6 +11145,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "底": [
+    {
+      "jukugo": "川底",
+      "reading": "かわぞこ",
+      "meaning": "川の一番下の部分。",
+      "example": "透明な水の川底には、きれいな石がたくさん見えた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海底",
+      "reading": "かいてい",
+      "meaning": "海の一番下の部分。",
+      "example": "テレビで、深い海底にすむめずらしい魚の映像を見た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "靴底",
+      "reading": "くつぞこ",
+      "meaning": "靴の裏側で、地面にふれる部分。",
+      "example": "長くはいた運動ぐつは、靴底がすりへってしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "底辺",
+      "reading": "ていへん",
+      "meaning": "三角形や四角形などの図形の一番下の辺。また、物事の基本的な部分。",
+      "example": "算数の問題で、三角形の底辺の長さをはかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "底力",
+      "reading": "そこぢから",
+      "meaning": "普段は目立たないが、いざという時に出すことのできる本当の力。",
+      "example": "試合の最後の最後に、チームの底力が出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
