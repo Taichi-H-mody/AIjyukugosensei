@@ -12901,5 +12901,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "芸": [
+    {
+      "jukugo": "芸術",
+      "reading": "げいじゅつ",
+      "meaning": "絵を描いたり、音楽を演奏したり、物語を作ったりする、美しいものや心を感動させるものを作る活動や作品のこと。",
+      "example": "美術館で美しい芸術作品を見ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芸能",
+      "reading": "げいのう",
+      "meaning": "歌や踊り、演劇など、人を楽しませるための特別な技術や活動のこと。",
+      "example": "将来、芸能界に入って歌を歌いたいな。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芸人",
+      "reading": "げいにん",
+      "meaning": "人を笑わせたり、歌や踊りを見せたりして、楽しませることを仕事にしている人のこと。",
+      "example": "テレビで面白い芸人さんがコントをしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "園芸",
+      "reading": "えんげい",
+      "meaning": "庭や鉢で花や野菜、木などを育てて楽しむこと。",
+      "example": "おばあちゃんは、ベランダでいろいろな花を育てる園芸が趣味です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工芸",
+      "reading": "こうげい",
+      "meaning": "木や土、布などを材料にして、美しくて実用的な物を作る技術や、その作品のこと。",
+      "example": "おじいちゃんは木で美しい工芸品を作るのが得意です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
