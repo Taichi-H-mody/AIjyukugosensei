@@ -11150,6 +11150,30 @@ const autoData = {
       "example": "クラスが団結して運動会の練習を頑張りました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "団地",
+      "reading": "だんち",
+      "meaning": "たくさんの家がまとまって建てられている場所のこと。",
+      "example": "新しい団地の近くに、きれいな公園ができました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "布団",
+      "reading": "ふとん",
+      "meaning": "寝るときに使う、綿などを詰めた厚い敷き具や掛け具。",
+      "example": "寒い冬の夜は、温かい布団にもぐりこみます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "座布団",
+      "reading": "ざぶとん",
+      "meaning": "座るときに使う、綿などを詰めた四角い敷き具。",
+      "example": "おばあちゃんの家では、座布団に座ってお話を聞きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "順": [
