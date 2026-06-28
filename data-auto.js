@@ -10977,6 +10977,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "導": [
+    {
+      "jukugo": "指導",
+      "reading": "しどう",
+      "meaning": "人に教えたり、正しい方向へ導いたりすること。",
+      "example": "先生がなわとびの跳び方を**指導**してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誘導",
+      "reading": "ゆうどう",
+      "meaning": "ある方向へ進むように、うまく教えたり、促したりすること。",
+      "example": "係の人が、会場の入口までみんなを**誘導**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "導入",
+      "reading": "どうにゅう",
+      "meaning": "新しいものや考え方を取り入れること。",
+      "example": "学校に新しいタブレットが**導入**されて、みんなで使っている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先導",
+      "reading": "せんどう",
+      "meaning": "人に先立って進み、道を教えたり、導いたりすること。",
+      "example": "自転車で先生が**先導**してくれ、みんなで公園に向かった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "導火線",
+      "reading": "どうかせん",
+      "meaning": "花火や爆弾などに火を伝えるひものこと。",
+      "example": "花火の**導火線**に火をつけると、大きな音が鳴った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
