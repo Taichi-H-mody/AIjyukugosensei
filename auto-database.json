@@ -9215,5 +9215,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "印": [
+    {
+      "jukugo": "印刷",
+      "reading": "いんさつ",
+      "meaning": "文字や絵などを紙などにうつし出すこと。",
+      "example": "宿題のプリントを印刷する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "印鑑",
+      "reading": "いんかん",
+      "meaning": "文書に署名の代わりに押す印。はんこ。",
+      "example": "大切な書類に印鑑を押す。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目印",
+      "reading": "めじるし",
+      "meaning": "目標や記号としてつけておくもの。",
+      "example": "待ち合わせ場所の目印になる建物がある。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "矢印",
+      "reading": "やじるし",
+      "meaning": "方向を示すための矢の形をしたしるし。",
+      "example": "この矢印の方向に進んでください。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "拇印",
+      "reading": "ぼいん",
+      "meaning": "親指の指紋を押しつけること。またはその痕。",
+      "example": "書類の最後に拇印を押した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
