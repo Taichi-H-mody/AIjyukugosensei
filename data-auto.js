@@ -10893,6 +10893,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "解": [
+    {
+      "jukugo": "解決",
+      "reading": "かいけつ",
+      "meaning": "むずかしい問題などを、うまく処理して、はっきりさせること。",
+      "example": "みんなで話し合って、クラスのルールについての問題を解決しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理解",
+      "reading": "りかい",
+      "meaning": "物事の意味や内容を、きちんとわかって、さとること。",
+      "example": "先生のお話をよく聞いて、算数の宿題を理解できました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解答",
+      "reading": "かいとう",
+      "meaning": "問題に答えること。または、その答え。",
+      "example": "テストの解答欄に、えんぴつで答えを書きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解説",
+      "reading": "かいせつ",
+      "meaning": "物事の意味や、やり方などを、わかりやすく説明すること。",
+      "example": "テレビの番組で、サッカーのルールの解説がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分解",
+      "reading": "ぶんかい",
+      "meaning": "一つになっているものを、いくつかの部分に分けること。",
+      "example": "壊れたおもちゃを分解して、中がどうなっているか調べてみました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "臣": [
+    {
+      "jukugo": "大臣",
+      "reading": "だいじん",
+      "meaning": "国の政治（せいじ）を行う大切な役職（やくしょく）の人。",
+      "example": "国の仕事をする大臣は、国民のために働きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "家臣",
+      "reading": "かしん",
+      "meaning": "昔の時代に、殿様（とのさま）などに仕えていた武士（ぶし）や家来（けらい）のこと。",
+      "example": "お城には、殿様を守るたくさんの家臣がいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "忠臣",
+      "reading": "ちゅうしん",
+      "meaning": "主君（しゅくん）に、まごころを込めて仕える家来のこと。",
+      "example": "忠臣は、どんな時も殿様のために尽くしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "群臣",
+      "reading": "ぐんしん",
+      "meaning": "たくさんの家来や役人（やくにん）たちが集まっている様子。",
+      "example": "王様は、群臣を集めて大切な話をし始めました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "朝臣",
+      "reading": "ちょうしん",
+      "meaning": "昔、天皇（てんのう）がいる朝廷（ちょうてい）で政治を行っていた役人。",
+      "example": "朝廷では、朝臣たちが国のことを話し合っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
