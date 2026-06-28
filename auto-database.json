@@ -15471,5 +15471,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "増": [
+    {
+      "jukugo": "増加",
+      "reading": "ぞうか",
+      "meaning": "数や量がふえること。",
+      "example": "公園に集まる鳥の数が、春になると増加します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増量",
+      "reading": "ぞうりょう",
+      "meaning": "物の量を多くすること。",
+      "example": "お気に入りのポテトチップスが増量パックで売られていたので、買いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増大",
+      "reading": "ぞうだい",
+      "meaning": "大きさや量が、だんだん大きくなること。",
+      "example": "新しいゲームがとても面白くて、みんなの期待が増大しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増減",
+      "reading": "ぞうげん",
+      "meaning": "増えたり減ったりすること。",
+      "example": "クラスの人数は、この一年でほとんど増減がありませんでした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増発",
+      "reading": "ぞうはつ",
+      "meaning": "電車やバスなどの本数を増やすこと。",
+      "example": "大きな花火大会がある日は、駅の電車が増発されて便利です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
