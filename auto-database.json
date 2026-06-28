@@ -9645,5 +9645,39 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "械": [
+    {
+      "jukugo": "機械",
+      "reading": "きかい",
+      "meaning": "動力を使って動く、何かをするための装置や道具のこと。",
+      "example": "工場では、たくさんの**機械**が働いています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "器械",
+      "reading": "きかい",
+      "meaning": "ある目的のために使う道具や装置のこと。特に、細かく作られたものを指すことが多い。",
+      "example": "理科の実験で使う**器械**をていねいに扱った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機械化",
+      "reading": "きかいか",
+      "meaning": "人が手でやっていた作業を、機械を使って行うように変えること。",
+      "example": "農業が**機械化**されて、作業がずいぶん楽になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建設機械",
+      "reading": "けんせつきかい",
+      "meaning": "道路や建物を建てるときに使う、大きな機械（ショベルカーやクレーンなど）のこと。",
+      "example": "工事現場では、大きな**建設機械**が土を掘っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
