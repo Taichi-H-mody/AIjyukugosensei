@@ -11471,5 +11471,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "張": [
+    {
+      "jukugo": "緊張",
+      "reading": "きんちょう",
+      "meaning": "気持ちが引き締まって、ドキドキすること。",
+      "example": "大ぜいの人の前で発表するので、とても緊張しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出張",
+      "reading": "しゅっちょう",
+      "meaning": "会社や学校の仕事で、いつもいる場所ではないところへ行くこと。",
+      "example": "お父さんは、明日から大阪へ出張に行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主張",
+      "reading": "しゅちょう",
+      "meaning": "自分の意見や考えを、はっきりとみんなに伝えること。",
+      "example": "私は、自分の考えを先生にしっかり主張しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "張り紙",
+      "reading": "はりがみ",
+      "meaning": "お知らせなどを書いた紙を、壁やドアに貼ったもの。",
+      "example": "図書館の入り口に、新しい本の紹介の張り紙がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見張り",
+      "reading": "みはり",
+      "meaning": "危ないことがないか、よく注意して見守ること。",
+      "example": "夜中に泥棒が入らないように、警備員さんが見張りをしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
