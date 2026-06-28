@@ -15683,6 +15683,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "満": [
+    {
+      "jukugo": "満足",
+      "reading": "まんぞく",
+      "meaning": "心が満たされること。不満がないこと。",
+      "example": "新しいゲームをもらって、とても満足した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満員",
+      "reading": "まんいん",
+      "meaning": "乗り物や会場などに、定員いっぱいの人がいること。",
+      "example": "バスが満員だったので、次のバスを待った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満月",
+      "reading": "まんげつ",
+      "meaning": "丸い形になった月。",
+      "example": "昨夜は空にきれいな満月が浮かんでいた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満点",
+      "reading": "まんてん",
+      "meaning": "問題のすべてに正解して、一番高い点数をもらうこと。",
+      "example": "漢字のテストで満点を取って、嬉しかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "満開",
+      "reading": "まんかい",
+      "meaning": "花が全部咲き開くこと。",
+      "example": "公園の桜が満開で、お花見に行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
