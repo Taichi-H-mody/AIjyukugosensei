@@ -9881,5 +9881,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "管": [
+    {
+      "jukugo": "管理",
+      "reading": "かんり",
+      "meaning": "物事や人を、乱れないように取りまとめたり、きちんと世話をしたりすること。",
+      "example": "係の人は、教室の道具をしっかりと管理しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水道管",
+      "reading": "すいどうかん",
+      "meaning": "家や街に水を運ぶための管。",
+      "example": "古くなった水道管が交換される工事をしていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "血管",
+      "reading": "けっかん",
+      "meaning": "体の中で、血液が流れる細い管のこと。",
+      "example": "転んで擦りむいたところから、細い血管が切れて血が出ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保管",
+      "reading": "ほかん",
+      "meaning": "大切なものや必要なものを、なくさないように預かっておくこと。",
+      "example": "図書室では、借りた本を大切に保管してください。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "管楽器",
+      "reading": "かんがっき",
+      "meaning": "息を吹き込んで音を出す楽器のこと。（例：リコーダー、トランペットなど）",
+      "example": "音楽会では、フルートやトランペットなどの管楽器の演奏がありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
