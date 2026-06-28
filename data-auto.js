@@ -13743,6 +13743,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "独": [
+    {
+      "jukugo": "独り言",
+      "reading": "ひとりごと",
+      "meaning": "相手がいないのに、自分だけで話すこと。",
+      "example": "考え事をしていると、つい**独り言**を言ってしまいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独り占め",
+      "reading": "ひとりじめ",
+      "meaning": "自分一人だけで、他の人が使えないようにすること。",
+      "example": "弟がお菓子を**独り占め**したので、みんなで分けるように言いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独立",
+      "reading": "どくりつ",
+      "meaning": "他人の助けを借りず、自分の力で立つこと。",
+      "example": "自分で朝ごはんを作るようになり、少し**独立**した気分になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独学",
+      "reading": "どくがく",
+      "meaning": "先生に教わらず、自分一人で勉強すること。",
+      "example": "インターネットを使って、けん玉の技を**独学**で学びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独唱",
+      "reading": "どくしょう",
+      "meaning": "一人だけで歌うこと。",
+      "example": "音楽会で、彼女は美しい歌声を**独唱**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
