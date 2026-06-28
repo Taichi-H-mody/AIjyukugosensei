@@ -9052,7 +9052,49 @@ const autoData = {
   "枝": [],
   "功": [],
   "巣": [],
-  "授": []
+  "授": [],
+  "貯": [
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本語で使う、中国から伝わった文字。",
+      "example": "漢字を書くのは少しむずかしいけど、楽しいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢検",
+      "reading": "かんけん",
+      "meaning": "漢字がどれくらい書けて読めるかをためすテストのこと。",
+      "example": "漢字検定に合格できるように、毎日れんしゅうしています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き方を調べるための本。",
+      "example": "わからない漢字があったら、漢和辞典で調べてみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "中国から伝わった、草などを使って作る昔ながらの薬。",
+      "example": "かぜをひいたとき、おばあちゃんが漢方薬を飲んでいたよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "中国の昔の人が作った詩のこと。",
+      "example": "国語のじゅぎょうで漢詩について少し勉強しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ]
 };
 for (const k in autoData) {
   if (window.OFFLINE_DB[k]) {
