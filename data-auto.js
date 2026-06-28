@@ -12499,6 +12499,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "殺": [
+    {
+      "jukugo": "殺虫",
+      "reading": "さっちゅう",
+      "meaning": "虫を殺すこと。",
+      "example": "夏には、蚊を**殺虫**するスプレーを使います。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "殺菌",
+      "reading": "さっきん",
+      "meaning": "ばい菌を殺すこと。",
+      "example": "石けんで手を洗うと、手についているばい菌を**殺菌**できます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "殺風景",
+      "reading": "さっぷうけい",
+      "meaning": "景色などが寂しくて、面白みがないこと。",
+      "example": "何も飾っていない部屋は、少し**殺風景**に見えます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "殺到",
+      "reading": "さっとう",
+      "meaning": "多くの人や物が、一度に押し寄せること。",
+      "example": "人気のイベントには、たくさんの人が**殺到**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "殺生",
+      "reading": "せっしょう",
+      "meaning": "生き物の命を奪うこと。",
+      "example": "昔から、生き物の命を大切にし、むやみな**殺生**はしないように言われています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "粉": [
+    {
+      "jukugo": "小麦粉",
+      "reading": "こむぎこ",
+      "meaning": "小麦の粒をひいて粉にしたもの。パンやケーキ、うどんなどを作るのに使われます。",
+      "example": "ホットケーキを作るために、棚から**小麦粉**を出しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花粉",
+      "reading": "かふん",
+      "meaning": "植物の花のおしべから出る、とても細かい粉のようなもの。これがめしべにつくと、新しい種ができます。",
+      "example": "春になると、風で**花粉**がたくさん飛んできます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "粉雪",
+      "reading": "こなゆき",
+      "meaning": "水分の少ない、さらさらとした細かい雪のことです。積もっても固まりにくいのが特徴です。",
+      "example": "スキー場では、ふかふかの**粉雪**が降っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "粉々",
+      "reading": "こなごな",
+      "meaning": "物が細かく砕けて、粉のようにばらばらになった状態を表します。",
+      "example": "お皿を落としてしまい、床で**粉々**に割れてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "パン粉",
+      "reading": "パンこ",
+      "meaning": "パンを乾燥させて細かく砕いた粉。揚げ物の衣やハンバーグのつなぎなどに使われます。",
+      "example": "エビフライを作るために、魚屋さんで**パン粉**を買いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
