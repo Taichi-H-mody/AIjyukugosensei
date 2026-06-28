@@ -9799,6 +9799,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "完": [
+    {
+      "jukugo": "完成",
+      "reading": "かんせい",
+      "meaning": "物事ができあがること。",
+      "example": "みんなで協力して、大きなジオラマが完成した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完了",
+      "reading": "かんりょう",
+      "meaning": "物事がすべて終わること。",
+      "example": "夏休みの宿題をすべて完了したので、思いっきり遊べる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完全",
+      "reading": "かんぜん",
+      "meaning": "かけたところがなく、完璧なこと。",
+      "example": "このパズルは、ピースが一つもない完全な状態だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完食",
+      "reading": "かんしょく",
+      "meaning": "出された食べ物を残さず全部食べること。",
+      "example": "きらいなピーマンも、がんばって完食したよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完走",
+      "reading": "かんそう",
+      "meaning": "レースやマラソンなどを最後まで走りぬくこと。",
+      "example": "運動会のリレーで、ぼくは最後までバトンをつなぎ完走できた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
