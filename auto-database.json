@@ -16143,5 +16143,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "泣": [
+    {
+      "jukugo": "泣き虫",
+      "reading": "なきむし",
+      "meaning": "すぐに泣いてしまう人のこと。",
+      "example": "弟は少しのことで泣き虫になります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "泣き顔",
+      "reading": "なきがお",
+      "meaning": "泣いているときの顔。",
+      "example": "転んでしまった子どもの泣き顔を見て、かわいそうになった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "泣き声",
+      "reading": "なきごえ",
+      "meaning": "泣いているときにだす声。",
+      "example": "赤ちゃんの泣き声が遠くから聞こえてきた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "号泣",
+      "reading": "ごうきゅう",
+      "meaning": "声を上げて大声で泣くこと。",
+      "example": "感動的な映画を見て、みんなで号泣した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "泣く泣く",
+      "reading": "なくなく",
+      "meaning": "泣きながら、または泣きたい気持ちで、しぶしぶ物事を行う様子。",
+      "example": "大切なおもちゃを妹にあげることになり、泣く泣く手放した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
