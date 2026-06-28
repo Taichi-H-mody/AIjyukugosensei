@@ -14003,6 +14003,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "堂": [
+    {
+      "jukugo": "食堂",
+      "reading": "しょくどう",
+      "meaning": "学校や会社などで、食事をするための部屋や建物。",
+      "example": "お昼休みには、みんなで学校の**食堂**へご飯を食べに行きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講堂",
+      "reading": "こうどう",
+      "meaning": "講演や集会、式典などを行うための広い部屋や建物。",
+      "example": "入学式は、広くてきれいな**講堂**で行われました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本堂",
+      "reading": "ほんどう",
+      "meaning": "お寺の中で、最も中心となる大切な建物。",
+      "example": "おじいちゃんとおばあちゃんと一緒に、お寺の**本堂**でお参りをしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公会堂",
+      "reading": "こうかいどう",
+      "meaning": "市民が講演会や発表会、集会などに利用する公共の建物。",
+      "example": "町の**公会堂**で、夏休みの自由研究の発表会が開かれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏堂",
+      "reading": "ぶつどう",
+      "meaning": "仏像がまつられていて、人々がお参りをする建物。",
+      "example": "古いお寺には、美しい**仏堂**がたくさんあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
