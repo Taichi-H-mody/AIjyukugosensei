@@ -11807,5 +11807,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "付": [
+    {
+      "jukugo": "日付",
+      "reading": "ひづけ",
+      "meaning": "日にちを書きしるすこと。また、その日にち。",
+      "example": "日記を書くとき、一番最初に今日の**日付**を書きます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受付",
+      "reading": "うけつけ",
+      "meaning": "人の用事を引き受けたり、来客を取り次いだりするところ。",
+      "example": "病院の**受付**で名前を言って、診察を待ちました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "付録",
+      "reading": "ふろく",
+      "meaning": "雑誌や本などにつけて、おまけとして配るもの。",
+      "example": "この子ども向け雑誌には、楽しいおもちゃの**付録**がついています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "添付",
+      "reading": "てんぷ",
+      "meaning": "あるものに、別のものを添えてつけること。",
+      "example": "先生は、プリントに大切なお知らせの紙を**添付**して配りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寄付",
+      "reading": "きふ",
+      "meaning": "お金や品物を、公共の目的のために贈ること。",
+      "example": "町の人たちが、困っている人を助けるために募金箱に**寄付**をしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
