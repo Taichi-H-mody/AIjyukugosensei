@@ -16821,6 +16821,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "眼": [
+    {
+      "jukugo": "眼鏡",
+      "reading": "めがね",
+      "meaning": "視力を助けたり、目を保護したりするために、顔にかける道具。",
+      "example": "視力が悪くなったので、新しい眼鏡を作った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "眼科",
+      "reading": "がんか",
+      "meaning": "目の病気やけがを専門に診てくれるお医者さんのこと。",
+      "example": "目がかゆいので、お母さんと一緒に眼科に行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "近眼",
+      "reading": "きんがん",
+      "meaning": "遠くのものがぼんやりと見えて、近くのものははっきり見える目の状態。",
+      "example": "私は近眼なので、映画館のスクリーンがよく見えません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肉眼",
+      "reading": "にくがん",
+      "meaning": "望遠鏡や顕微鏡などを使わず、自分の目だけで見ること。",
+      "example": "あの星は肉眼でも見えますが、望遠鏡で見るともっとよく見えます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "眼球",
+      "reading": "がんきゅう",
+      "meaning": "目の玉のこと。光を感じて、物を見るための大切な部分。",
+      "example": "眼球はとてもデリケートなので、手で触らないようにしましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
