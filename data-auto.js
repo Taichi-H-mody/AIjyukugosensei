@@ -11103,6 +11103,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "順": [
+    {
+      "jukugo": "順序",
+      "reading": "じゅんじょ",
+      "meaning": "物事の正しい並び方や、こなしていく順番のこと。",
+      "example": "発表の順序を先生が決めてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順番",
+      "reading": "じゅんばん",
+      "meaning": "物事を行う順序や、まわってくる順のこと。",
+      "example": "ブランコの順番を待っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順路",
+      "reading": "じゅんろ",
+      "meaning": "決められた通り道や、道の順序のこと。",
+      "example": "動物園では、順路に沿って進みましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "物事が問題なく、うまく進んでいる様子。",
+      "example": "運動会の準備は順調に進んでいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順位",
+      "reading": "じゅんい",
+      "meaning": "決められた順序での位置のこと。",
+      "example": "かけっこで1位の順位をとった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
