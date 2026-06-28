@@ -13581,5 +13581,81 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "別": [
+    {
+      "jukugo": "特別",
+      "reading": "とくべつ",
+      "meaning": "いつもとはちがって、とくにたいせつなことや、めずらしいこと。",
+      "example": "今日は運動会なので、特別メニューの給食が出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "区別",
+      "reading": "くべつ",
+      "meaning": "二つのもののちがいをはっきりさせること。",
+      "example": "先生は、正しいこととまちがっていることの区別を教えてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "性別",
+      "reading": "せいべつ",
+      "meaning": "おとこの子かおんなの子かのちがい。",
+      "example": "名簿には、名前と性別をかくところがあった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "別々",
+      "reading": "べつべつ",
+      "meaning": "一つ一つばらばらになっていること。",
+      "example": "みんなで持ってきたおかしを別々に分けて食べた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個別",
+      "reading": "こべつ",
+      "meaning": "一人一人、一つ一つ、別々に。",
+      "example": "先生が、分からないところを個別におしえてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "卒": [
+    {
+      "jukugo": "卒業",
+      "reading": "そつぎょう",
+      "meaning": "学校での決められた勉強の課程を終えることです。",
+      "example": "ぼくは来年、小学校を卒業します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "卒園",
+      "reading": "そつえん",
+      "meaning": "幼稚園や保育園での決められた期間を終えることです。",
+      "example": "妹は春に幼稚園を卒園しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "卒業式",
+      "reading": "そつぎょうしき",
+      "meaning": "学校の卒業をお祝いする式典のことです。",
+      "example": "卒業式で、みんなで大きな声で歌を歌いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兵卒",
+      "reading": "へいそつ",
+      "meaning": "兵隊さんの中でも、一番下の位の兵士のことです。",
+      "example": "プラモデルの兵卒をたくさん集めて、ジオラマを作りました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
