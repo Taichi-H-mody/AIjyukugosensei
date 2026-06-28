@@ -14237,5 +14237,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "価": [
+    {
+      "jukugo": "価格",
+      "reading": "かかく",
+      "meaning": "品物のねだん。",
+      "example": "このゲームの**価格**は、お母さんに聞いてみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "定価",
+      "reading": "ていか",
+      "meaning": "本や商品にあらかじめ決められているねだん。",
+      "example": "この本の**定価**は、せん円です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "価値",
+      "reading": "かち",
+      "meaning": "そのものがどれくらい役に立つか、どれくらい大切かということ。",
+      "example": "みんなで協力して作った作品は、大きな**価値**があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "物価",
+      "reading": "ぶっか",
+      "meaning": "お店で売られている品物全体のねだんのこと。",
+      "example": "最近、スーパーの**物価**が少し上がったね、とお母さんが言っていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高価",
+      "reading": "こうか",
+      "meaning": "ねだんが高いこと。",
+      "example": "おじいちゃんがくれた時計は、とても**高価**なものらしい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
