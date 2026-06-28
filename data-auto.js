@@ -16019,6 +16019,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "故": [
+    {
+      "jukugo": "故郷",
+      "reading": "こきょう",
+      "meaning": "自分が生まれ育った場所のこと。なつかしい場所という意味で「ふるさと」と読むこともあります。",
+      "example": "夏休みには、おじいちゃんとおばあちゃんのいる故郷に帰省します。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "事故",
+      "reading": "じこ",
+      "meaning": "思いがけない出来事や、失敗によって起きる良くないこと。特に、乗り物のぶつかり合いなどを指すことが多いです。",
+      "example": "交通事故を起こさないように、信号をしっかり守って歩きましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "故障",
+      "reading": "こしょう",
+      "meaning": "機械や道具などが壊れて動かなくなること。",
+      "example": "大切にしていたおもちゃのロボットが故障してしまい、動かなくなってしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "故人",
+      "reading": "こじん",
+      "meaning": "亡くなった人のこと。",
+      "example": "いつも優しくしてくれた故人のおばあちゃんを思い出して、少しさびしくなりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "故事",
+      "reading": "こじ",
+      "meaning": "昔から伝わる話や出来事。そこから教訓やことわざが生まれることがあります。",
+      "example": "「サルも木から落ちる」ということわざは、古い故事から生まれたそうです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
