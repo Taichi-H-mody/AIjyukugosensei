@@ -9569,5 +9569,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "芽": [
+    {
+      "jukugo": "発芽",
+      "reading": "はつが",
+      "meaning": "種や球根などから芽が出ること。",
+      "example": "暖かくなると、チューリップの球根が発芽した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新芽",
+      "reading": "しんめ",
+      "meaning": "植物から新しく出たばかりの芽。",
+      "example": "春になり、木々がかわいらしい新芽を出し始めた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "若芽",
+      "reading": "わかめ",
+      "meaning": "植物の、出たばかりのやわらかい芽。",
+      "example": "山菜として、ふきのとうなどの若芽を摘んで食べる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芽生え",
+      "reading": "めばえ",
+      "meaning": "植物の芽が出ること。物事が始まりかける様子。",
+      "example": "春の訪れとともに、森には新しい命の芽生えが見られる。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芽吹き",
+      "reading": "めぶき",
+      "meaning": "植物の芽が出始めること。",
+      "example": "桜の木の枝に、小さな芽吹きが見られるようになった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
