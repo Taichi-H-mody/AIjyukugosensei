@@ -12423,6 +12423,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "良": [
+    {
+      "jukugo": "良好",
+      "reading": "りょうこう",
+      "meaning": "状態が良いこと。",
+      "example": "今日の天気は良好なので、外で遊ぼう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "善良",
+      "reading": "ぜんりょう",
+      "meaning": "心が清らかで、良いこと。",
+      "example": "彼はいつもみんなに優しく、とても善良な人だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "優良",
+      "reading": "ゆうりょう",
+      "meaning": "とても優れていて良いこと。",
+      "example": "この工場では、優良な品物だけを作っています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改良",
+      "reading": "かいりょう",
+      "meaning": "悪いところを改めて、もっと良くすること。",
+      "example": "古い機械を改良して、もっと使いやすくした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "良心",
+      "reading": "りょうしん",
+      "meaning": "良いことと悪いことを見分ける心。",
+      "example": "嘘をついてしまい、良心がとがめた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
