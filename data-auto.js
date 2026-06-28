@@ -14491,6 +14491,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "接": [
+    {
+      "jukugo": "接続",
+      "reading": "せつぞく",
+      "meaning": "つながること。つなげること。",
+      "example": "プリンターのケーブルをパソコンに**接続**する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "間に何も挟まないで、じかに。",
+      "example": "先生に**直接**質問したら、すぐに解決した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "接近",
+      "reading": "せっきん",
+      "meaning": "近づくこと。",
+      "example": "台風が日本列島に**接近**しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "接触",
+      "reading": "せっしょく",
+      "meaning": "触れ合うこと。",
+      "example": "サッカーの試合で相手の選手と足が**接触**した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "接続詞",
+      "reading": "せつぞくし",
+      "meaning": "言葉や文をつなぐ働きをする言葉。国語で学習します。",
+      "example": "「しかし」や「だから」は**接続詞**の一つです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
