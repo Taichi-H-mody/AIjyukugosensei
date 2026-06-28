@@ -12749,5 +12749,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "不": [
+    {
+      "jukugo": "不便",
+      "reading": "ふべん",
+      "meaning": "都合が悪くて困ること。便利ではないこと。",
+      "example": "この場所は駅まで遠くて、買い物に行くのが少し不便だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不安",
+      "reading": "ふあん",
+      "meaning": "心配で落ち着かない気持ち。安心できないこと。",
+      "example": "明日のテストが難しくないか、少し不安な気持ちだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不足",
+      "reading": "ふそく",
+      "meaning": "必要なものが足りないこと。",
+      "example": "給食のごはんの量が、今日は少し不足している。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不要",
+      "reading": "ふよう",
+      "meaning": "いらないこと。必要ではないこと。",
+      "example": "この紙はもう使い終わったので、不要になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不注意",
+      "reading": "ふちゅうい",
+      "meaning": "気を付けることが足りないこと。うっかりしていること。",
+      "example": "不注意で足元を見ずに、転んでしまった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
