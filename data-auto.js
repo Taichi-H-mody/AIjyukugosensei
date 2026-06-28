@@ -10329,6 +10329,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "機": [
+    {
+      "jukugo": "機械",
+      "reading": "きかい",
+      "meaning": "物を動かしたり、仕事をするための装置や道具。",
+      "example": "工場にはたくさんの機械が置いてあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機会",
+      "reading": "きかい",
+      "meaning": "何かをするのにちょうど良い時やチャンス。",
+      "example": "発表する機会をもらって、とてもうれしかった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛行機",
+      "reading": "ひこうき",
+      "meaning": "空を飛ぶことができる乗り物。",
+      "example": "夏休みに飛行機に乗って、おばあちゃんの家に行った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洗濯機",
+      "reading": "せんたくき",
+      "meaning": "服などを洗うための機械。",
+      "example": "汚れた服を洗濯機に入れて洗った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機関車",
+      "reading": "きかんしゃ",
+      "meaning": "列車を動かす動力を持った車両。",
+      "example": "大きな蒸気機関車が、もくもくと煙をはきながら走る。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
