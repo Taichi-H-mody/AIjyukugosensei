@@ -9923,5 +9923,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "関": [
+    {
+      "jukugo": "関係",
+      "reading": "かんけい",
+      "meaning": "物と物、人や会社などがつながっていること。",
+      "example": "友達との関係を大切にしましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "玄関",
+      "reading": "げんかん",
+      "meaning": "家や建物に入るための場所。くつをぬぐところ。",
+      "example": "玄関で靴をそろえて脱ぎましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "関心",
+      "reading": "かんしん",
+      "meaning": "あるものごとに興味をもって、心をひかれること。",
+      "example": "宇宙のことに強い関心があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "関西",
+      "reading": "かんさい",
+      "meaning": "日本の西の方にある地域。大阪や京都、神戸などがある場所。",
+      "example": "おばあちゃんの家は関西にあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "関所",
+      "reading": "せきしょ",
+      "meaning": "昔、人や物が通るのをチェックするために、道の途中におかれた場所。",
+      "example": "昔の日本では、関所で旅をする人が調べられました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
