@@ -13701,6 +13701,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "輸": [
+    {
+      "jukugo": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "国内で作られた品物を外国へ送り出すこと。",
+      "example": "日本は車をたくさん外国へ**輸出**しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸入",
+      "reading": "ゆにゅう",
+      "meaning": "外国で作られた品物を国内へ入れること。",
+      "example": "このバナナはフィリピンから**輸入**されたものです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運輸",
+      "reading": "うんゆ",
+      "meaning": "人や物を乗り物で運ぶこと。",
+      "example": "鉄道は人や物を運ぶ大切な**運輸**機関です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸送",
+      "reading": "ゆそう",
+      "meaning": "人や物を船や列車、飛行機などで目的地まで運ぶこと。",
+      "example": "大型トラックが工場からお店へ商品を**輸送**する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸血",
+      "reading": "ゆけつ",
+      "meaning": "病気やけがで血液が足りなくなった人に、別の人の血液を与えること。",
+      "example": "大きな手術の時には、**輸血**が必要になる場合があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
