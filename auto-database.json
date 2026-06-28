@@ -11891,5 +11891,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "限": [
+    {
+      "jukugo": "制限",
+      "reading": "せいげん",
+      "meaning": "これ以上はできない、またはここまでと決めること。",
+      "example": "ゲームは一日一時間までと、親に制限された。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期限",
+      "reading": "きげん",
+      "meaning": "いつまでにしなければならないか、終わりを決めた日や時。",
+      "example": "この牛乳は、今日が賞味期限だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "限界",
+      "reading": "げんかい",
+      "meaning": "これ以上はできない、または進めないという一番最後のところ。",
+      "example": "もうこれ以上は走れない、これが僕の限界だ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無限",
+      "reading": "むげん",
+      "meaning": "終わりがなく、どこまでも続くこと。",
+      "example": "宇宙は無限に広いと言われている。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有限",
+      "reading": "ゆうげん",
+      "meaning": "終わりや限りがあること。",
+      "example": "地球の資源は有限だから、大切に使おう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
