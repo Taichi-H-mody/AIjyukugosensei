@@ -10203,6 +10203,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "識": [
+    {
+      "jukugo": "知識",
+      "reading": "ちしき",
+      "meaning": "物事を学び、知っていること。頭の中にある色々な情報のこと。",
+      "example": "本をたくさん読んで、新しい知識を身につけよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意識",
+      "reading": "いしき",
+      "meaning": "目が覚めていて、物事を考えたり感じたりできる状態。また、あることについて気を配ること。",
+      "example": "発表するときは、聞いている人に伝わるように意識することが大切だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常識",
+      "reading": "じょうしき",
+      "meaning": "多くの人が知っていて、当たり前だと思われている考えや行い。",
+      "example": "人に会ったらあいさつをするのは、みんなが知っている常識だよ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "認識",
+      "reading": "にんしき",
+      "meaning": "物事について、はっきりと理解すること。",
+      "example": "自分の間違いをきちんと認識して、次からは気をつけよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "識別",
+      "reading": "しきべつ",
+      "meaning": "いくつかあるものの中から、正しいものや違うものを見分けること。",
+      "example": "この機械は、声で人を見分けて識別することができます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
