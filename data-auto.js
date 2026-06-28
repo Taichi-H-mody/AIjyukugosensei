@@ -12836,6 +12836,14 @@ const autoData = {
       "example": "勝利を祝って、チームの**賛歌**をみんなで歌った。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶賛",
+      "reading": "ぜっさん",
+      "meaning": "これ以上ないというくらい、とてもすばらしいとほめること。",
+      "example": "私が描いた絵は、先生に絶賛されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "孫": [
