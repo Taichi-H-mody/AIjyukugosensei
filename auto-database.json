@@ -17371,5 +17371,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "築": [
+    {
+      "jukugo": "建築",
+      "reading": "けんちく",
+      "meaning": "建物をつくること。また、つくられた建物。",
+      "example": "将来、大きなビルを建築する仕事がしたい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新築",
+      "reading": "しんちく",
+      "meaning": "新しく建物を建てること。また、新しく建てられた建物。",
+      "example": "近所にピカピカの新築の家が建った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改築",
+      "reading": "かいちく",
+      "meaning": "古い建物をこわして、新しく作り直すこと。",
+      "example": "古くなった校舎が改築されて、きれいになった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増築",
+      "reading": "ぞうちく",
+      "meaning": "今の建物に、新しい部分を付け加えて広くすること。",
+      "example": "部屋が足りなくなったので、家を増築することにした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "築山",
+      "reading": "つきやま",
+      "meaning": "庭や公園に土を盛って作った小さな山。",
+      "example": "公園の築山で、友達と鬼ごっこをして遊んだ。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
