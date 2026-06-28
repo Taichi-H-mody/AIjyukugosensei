@@ -12263,6 +12263,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "耕": [
+    {
+      "jukugo": "耕作",
+      "reading": "こうさく",
+      "meaning": "田畑をたがやして、作物を育てること。",
+      "example": "おじいさんは毎日、畑で野菜を耕作しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農耕",
+      "reading": "のうこう",
+      "meaning": "農業をして、米や野菜などの作物を育てること。",
+      "example": "昔の人々は、農耕によって食料を得ていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耕地",
+      "reading": "こうち",
+      "meaning": "作物を育てている、または育てることができる土地。田んぼや畑のこと。",
+      "example": "この地域には、広い耕地が広がっています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休耕",
+      "reading": "きゅうこう",
+      "meaning": "作物を植えずに、田畑をしばらく休ませること。土を回復させるために行われます。",
+      "example": "今年は土を休ませるために、畑を休耕することにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "春耕",
+      "reading": "しゅんこう",
+      "meaning": "春に、田んぼや畑をたがやすこと。田植えや種まきの準備です。",
+      "example": "農家の人たちは、春耕の準備を始めました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
