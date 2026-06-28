@@ -13699,5 +13699,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "輸": [
+    {
+      "jukugo": "輸出",
+      "reading": "ゆしゅつ",
+      "meaning": "国内で作られた品物を外国へ送り出すこと。",
+      "example": "日本は車をたくさん外国へ**輸出**しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸入",
+      "reading": "ゆにゅう",
+      "meaning": "外国で作られた品物を国内へ入れること。",
+      "example": "このバナナはフィリピンから**輸入**されたものです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運輸",
+      "reading": "うんゆ",
+      "meaning": "人や物を乗り物で運ぶこと。",
+      "example": "鉄道は人や物を運ぶ大切な**運輸**機関です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸送",
+      "reading": "ゆそう",
+      "meaning": "人や物を船や列車、飛行機などで目的地まで運ぶこと。",
+      "example": "大型トラックが工場からお店へ商品を**輸送**する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸血",
+      "reading": "ゆけつ",
+      "meaning": "病気やけがで血液が足りなくなった人に、別の人の血液を与えること。",
+      "example": "大きな手術の時には、**輸血**が必要になる場合があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "独": [
+    {
+      "jukugo": "独り言",
+      "reading": "ひとりごと",
+      "meaning": "相手がいないのに、自分だけで話すこと。",
+      "example": "考え事をしていると、つい**独り言**を言ってしまいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独り占め",
+      "reading": "ひとりじめ",
+      "meaning": "自分一人だけで、他の人が使えないようにすること。",
+      "example": "弟がお菓子を**独り占め**したので、みんなで分けるように言いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独立",
+      "reading": "どくりつ",
+      "meaning": "他人の助けを借りず、自分の力で立つこと。",
+      "example": "自分で朝ごはんを作るようになり、少し**独立**した気分になりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独学",
+      "reading": "どくがく",
+      "meaning": "先生に教わらず、自分一人で勉強すること。",
+      "example": "インターネットを使って、けん玉の技を**独学**で学びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独唱",
+      "reading": "どくしょう",
+      "meaning": "一人だけで歌うこと。",
+      "example": "音楽会で、彼女は美しい歌声を**独唱**しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
