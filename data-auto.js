@@ -11271,6 +11271,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "散": [
+    {
+      "jukugo": "散歩",
+      "reading": "さんぽ",
+      "meaning": "気分転換や健康のために、ぶらぶら歩くこと。",
+      "example": "天気の良い日は、公園を犬と散歩するのが楽しみです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解散",
+      "reading": "かいさん",
+      "meaning": "集まっていた人たちが、ばらばらに分かれること。また、集会などが終わること。",
+      "example": "今日のクラス会は、先生の「解散！」の合図で終わりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "散髪",
+      "reading": "さんぱつ",
+      "meaning": "髪の毛を切ること。",
+      "example": "髪が伸びてきたので、週末に散髪に行く予定です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "散策",
+      "reading": "さんさく",
+      "meaning": "景色を楽しみながら、あちこちをぶらぶらと歩くこと。",
+      "example": "休日に家族で植物園を散策し、きれいな花をたくさん見ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "散布",
+      "reading": "さんぷ",
+      "meaning": "粉や液体などを、あちこちにまき散らすこと。",
+      "example": "庭に花の種を散布して、春にきれいな花が咲くのが待ち遠しいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
