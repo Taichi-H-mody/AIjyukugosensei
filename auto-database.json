@@ -11311,5 +11311,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "熱": [
+    {
+      "jukugo": "熱心",
+      "reading": "ねっしん",
+      "meaning": "一つのことに心をこめて、一生懸命に取り組むこと。",
+      "example": "彼はどんなことにも熱心に取り組むので、いつも先生にほめられます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発熱",
+      "reading": "はつねつ",
+      "meaning": "体が熱くなること。特に、病気で体温が上がること。",
+      "example": "風邪をひいて、だるくて発熱したので、学校を休みました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高熱",
+      "reading": "こうねつ",
+      "meaning": "とても高い熱。体温が非常に上がること。",
+      "example": "インフルエンザにかかって、３９度の高熱が出ました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熱帯",
+      "reading": "ねったい",
+      "meaning": "地球の赤道の近くにある、一年中とても暑い地域のこと。",
+      "example": "熱帯の国々には、バナナやパイナップルがたくさん実ります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "加熱",
+      "reading": "かねつ",
+      "meaning": "物に熱を加えて、温度を上げること。",
+      "example": "電子レンジで牛乳を加熱して、温かいミルクにしました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
