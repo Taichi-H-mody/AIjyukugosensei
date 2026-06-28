@@ -12378,6 +12378,14 @@
       "example": "彼は賢妻（けんさい）の支えがあったから、仕事を成功させることができました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "良妻",
+      "reading": "りょうさい",
+      "meaning": "夫にとって、良い妻のこと。",
+      "example": "おばあちゃんは、おじいちゃんを支える良妻でした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "低": [
@@ -13352,6 +13360,48 @@
       "reading": "ゆうのう",
       "meaning": "能力がすぐれていて、役に立つこと。物事を上手にこなせること。",
       "example": "彼はクラスで一番有能なリーダーです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "比": [
+    {
+      "jukugo": "比較",
+      "reading": "ひかく",
+      "meaning": "二つのものを見比べて、ちがいやにているところを見つけること。",
+      "example": "きょうとあしたのてんきを**比較**してみよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対比",
+      "reading": "たいひ",
+      "meaning": "二つのものを向かい合わせてくらべ、ちがいをはっきりさせること。",
+      "example": "この絵は、明るい色と暗い色を**対比**させているね。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "比例",
+      "reading": "ひれい",
+      "meaning": "一方の量が増えると、もう一方の量も決まった割合で増える関係のこと。",
+      "example": "身長が伸びるのに**比例**して、足のサイズも大きくなった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "比率",
+      "reading": "ひりつ",
+      "meaning": "ある量に対する別の量の割合のこと。",
+      "example": "クラスの男子と女子の**比率**は、およそ半分ずつです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "比重",
+      "reading": "ひじゅう",
+      "meaning": "ものの重さが、同じ体積の水と比べてどれくらいかを示す値。水に浮くか沈むかの目安になる。",
+      "example": "木は水よりも**比重**が軽いので、水に浮きます。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
