@@ -11429,5 +11429,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "漁": [
+    {
+      "jukugo": "漁師",
+      "reading": "りょうし",
+      "meaning": "魚をとることを仕事にしている人。",
+      "example": "おじいちゃんは、毎日海へ出て魚をとる漁師です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁業",
+      "reading": "ぎょぎょう",
+      "meaning": "魚をとったり、海で育てたりして、お金にする仕事。",
+      "example": "日本の大切な産業の一つに漁業があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁船",
+      "reading": "ぎょせん",
+      "meaning": "魚をとるために海に出る船。",
+      "example": "港には、たくさんの漁船がとまっています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁港",
+      "reading": "ぎょこう",
+      "meaning": "漁船が出入りしたり、とれた魚をあげたりする港。",
+      "example": "朝早く漁港に新鮮な魚が運ばれてきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁獲",
+      "reading": "ぎょかく",
+      "meaning": "魚や貝などをとらえること。また、とらえた魚や貝の量。",
+      "example": "今日の海の漁獲は、とてもたくさんありました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
