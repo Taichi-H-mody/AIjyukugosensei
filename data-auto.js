@@ -9681,6 +9681,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "害": [
+    {
+      "jukugo": "公害",
+      "reading": "こうがい",
+      "meaning": "人間の活動によって、自然環境が汚されたり、人の健康や生活に悪い影響が出たりすること。",
+      "example": "工場から出るけむりが、**公害**の原因になることがあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "被害",
+      "reading": "ひがい",
+      "meaning": "悪い出来事によって、損をしたり、苦しんだりすること。",
+      "example": "台風のせいで、たくさんの家が水害の**被害**を受けました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "災害",
+      "reading": "さいがい",
+      "meaning": "地震や津波、洪水など、自然の力で起こる大きなわざわいや、それによって受ける被害のこと。",
+      "example": "日本には、地震や台風などの自然**災害**が多いです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有害",
+      "reading": "ゆうがい",
+      "meaning": "害があること。悪い影響があること。",
+      "example": "タバコの煙は体に**有害**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "危害",
+      "reading": "きがい",
+      "meaning": "危険な害や損害。体や命に悪い影響を与えること。",
+      "example": "知らない人にはついていかないで、自分の身に**危害**が及ばないように気をつけましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
