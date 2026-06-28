@@ -11969,6 +11969,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "造": [
+    {
+      "jukugo": "創造",
+      "reading": "そうぞう",
+      "meaning": "新しいものを初めて作り出すこと。",
+      "example": "想像力を働かせて、自分だけの物語を創造しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "製造",
+      "reading": "せいぞう",
+      "meaning": "材料を使って品物を作り上げること。",
+      "example": "この工場では、毎日たくさんのお菓子が製造されています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改造",
+      "reading": "かいぞう",
+      "meaning": "もとあったものを新しく作り変えること。",
+      "example": "古い自転車を、かっこいいデザインに改造してもらいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "木造",
+      "reading": "もくぞう",
+      "meaning": "木材でできていること。",
+      "example": "昔のお寺には、木造の立派な建物がたくさんあります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "造形",
+      "reading": "ぞうけい",
+      "meaning": "粘土や絵の具などで、形を作り出すこと。",
+      "example": "図工の時間に、粘土で動物を造形するのが楽しかったです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
