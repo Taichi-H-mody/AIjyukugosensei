@@ -13421,5 +13421,89 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "酸": [
+    {
+      "jukugo": "酸素",
+      "reading": "さんそ",
+      "meaning": "空気の中にたくさん含まれていて、生き物が呼吸をするのに必要な気体のこと。",
+      "example": "人間は**酸素**がないと生きていけない。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "炭酸",
+      "reading": "たんさん",
+      "meaning": "水に溶けている二酸化炭素の泡のこと。シュワシュワする飲み物などに含まれている。",
+      "example": "**炭酸**ジュースを飲むと、口の中で泡がシュワシュワする。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "酸性",
+      "reading": "さんせい",
+      "meaning": "物の性質の一つで、すっぱい味がしたり、特定の紙（リトマス紙など）を赤くしたりする性質のこと。",
+      "example": "レモン汁は**酸性**なので、リトマス紙を赤くする。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "酸味",
+      "reading": "さんみ",
+      "meaning": "すっぱい味のこと。レモンや梅干しのような味。",
+      "example": "このフルーツは、甘さの中に少し**酸味**がある。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "酸欠",
+      "reading": "さんけつ",
+      "meaning": "空気中の酸素が足りなくなること。息苦しくなったりする。",
+      "example": "せまい場所にたくさんの人が集まると、**酸欠**になりやすい。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "費": [
+    {
+      "jukugo": "費用",
+      "reading": "ひよう",
+      "meaning": "何かをするために必要なお金のこと。",
+      "example": "遠足に行くには、バスの費用がかかります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学費",
+      "reading": "がくひ",
+      "meaning": "学校で勉強するために必要なお金のこと。",
+      "example": "お父さんとお母さんが学費を払ってくれるおかげで、学校に通えます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食費",
+      "reading": "しょくひ",
+      "meaning": "食べ物を買うためにかかるお金のこと。",
+      "example": "家族みんなの食費は、毎月どのくらいかかっているのかな。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消費",
+      "reading": "しょうひ",
+      "meaning": "物を使ったり、お金を使ったりすること。",
+      "example": "水を出しっぱなしにすると、無駄な水の消費になってしまいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "浪費",
+      "reading": "ろうひ",
+      "meaning": "お金や時間などを無駄に使うこと。",
+      "example": "電気をつけっぱなしにするのは、エネルギーの浪費です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
