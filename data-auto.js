@@ -12882,6 +12882,14 @@ const autoData = {
       "example": "昔の戦いでは、多くの歩兵が活躍しました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水兵",
+      "reading": "すいへい",
+      "meaning": "海の軍隊で働く兵士。船に乗って国を守ります。",
+      "example": "港に停まっている船には、たくさんの水兵さんが乗っていました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "包": [
