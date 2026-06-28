@@ -10570,6 +10570,14 @@ const autoData = {
       "example": "昨今、地球の環境について考えることが大切です。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昨春",
+      "reading": "さくしゅん",
+      "meaning": "今の一つ前の春。去年の春。",
+      "example": "昨春に植えたチューリップの球根が、今年もきれいに咲きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "効": [
@@ -16468,6 +16476,48 @@ const autoData = {
       "reading": "びしょう",
       "meaning": "ほほえむこと。静かにかすかに笑うこと。",
       "example": "赤ちゃんが私の顔を見て、かわいい微笑を見せてくれました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "単": [
+    {
+      "jukugo": "単語",
+      "reading": "たんご",
+      "meaning": "一つ一つの言葉。",
+      "example": "国語の授業で、新しい単語を習いました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単位",
+      "reading": "たんい",
+      "meaning": "ものの量や大きさを表すときに使う基準（きじゅん）のこと。例：メートル、グラム。",
+      "example": "算数の問題で、長さの単位をまちがえないように気をつけます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単独",
+      "reading": "たんどく",
+      "meaning": "ただ一人、またはただ一つでいること。",
+      "example": "弟はまだ小さいので、単独で買い物には行けません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単純",
+      "reading": "たんじゅん",
+      "meaning": "複雑（ふくざつ）でなく、わかりやすいこと。",
+      "example": "このゲームはルールが単純なので、すぐに覚えることができます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単色",
+      "reading": "たんしょく",
+      "meaning": "一種類（いっしゅるい）の色だけを使うこと。",
+      "example": "単色の折り紙で、色々な形を折って遊びました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
