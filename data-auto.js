@@ -13869,6 +13869,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "際": [
+    {
+      "jukugo": "国際",
+      "reading": "こくさい",
+      "meaning": "世界中の国々に関わること。国と国との間。",
+      "example": "日本と外国の文化を学び合うのが、国際交流です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実際",
+      "reading": "じっさい",
+      "meaning": "本当のことや、現実にあること。",
+      "example": "テレビで見たのと、実際に行くのは全然ちがいます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "間際",
+      "reading": "まぎわ",
+      "meaning": "何かが起こる直前。ぎりぎりの時。",
+      "example": "遠足の出発間際に、トイレに行きました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "際限",
+      "reading": "さいげん",
+      "meaning": "終わりや限りがないこと。きりがないこと。",
+      "example": "おなかがすいていて、際限なくお菓子を食べてしまいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交際",
+      "reading": "こうさい",
+      "meaning": "人と人とが付き合うこと。友達になったり、親しくしたりすること。",
+      "example": "けんかをしないで、みんなと仲良く交際しましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
