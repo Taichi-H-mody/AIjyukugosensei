@@ -16911,5 +16911,31 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "浅": [
+    {
+      "jukugo": "浅瀬",
+      "reading": "あさせ",
+      "meaning": "川や海などで、水深が浅くなっている場所。",
+      "example": "川で遊ぶときは、水が浅瀬になっている場所を選びましょう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "浅漬け",
+      "reading": "あさづけ",
+      "meaning": "野菜などを短い時間で軽く漬けた漬物。",
+      "example": "おばあちゃんが作ったきゅうりの浅漬けは、とてもおいしいです。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "浅知恵",
+      "reading": "あさぢえ",
+      "meaning": "経験が少なく、あまり役に立たない、浅はかな考えや知恵。",
+      "example": "浅知恵を働かせても、本当の解決にはなりません。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
