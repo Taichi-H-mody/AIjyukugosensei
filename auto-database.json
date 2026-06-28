@@ -11765,5 +11765,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "輪": [
+    {
+      "jukugo": "輪ゴム",
+      "reading": "わごむ",
+      "meaning": "物を束ねたり、まとめたりするのに使う、ゴムでできた輪っか。",
+      "example": "たくさんのプリントを輪ゴムでひとつにまとめた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指輪",
+      "reading": "ゆびわ",
+      "meaning": "指にはめる飾り物。",
+      "example": "お母さんの指にきれいな指輪が光っていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "車輪",
+      "reading": "しゃりん",
+      "meaning": "ものを転がして動かすための、丸いかたちをした部分。車や自転車などについている。",
+      "example": "自転車の車輪がパンクしてしまい、進まなくなった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花輪",
+      "reading": "はなわ",
+      "meaning": "花を輪の形に並べて作った飾り。お店の開店など、お祝いの時によく飾られる。",
+      "example": "新しいお店の前に、カラフルな花輪がいくつも並んでいた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "三輪車",
+      "reading": "さんりんしゃ",
+      "meaning": "三つの車輪がある乗り物。小さい子どもが乗るものが多い。",
+      "example": "公園で小さい子が三輪車に乗って遊んでいた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
