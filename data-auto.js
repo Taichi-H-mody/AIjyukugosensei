@@ -16187,6 +16187,48 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "示": [
+    {
+      "jukugo": "表示",
+      "reading": "ひょうじ",
+      "meaning": "物事を人に見えるように示すこと。",
+      "example": "駅の電光掲示板に次の電車の時刻が**表示**された。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指示",
+      "reading": "しじ",
+      "meaning": "物事をその通りに行うように命令したり、教えたりすること。",
+      "example": "先生の**指示**に従って、みんなで部屋の掃除をした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "掲示",
+      "reading": "けいじ",
+      "meaning": "人々に知らせるために、壁などに貼り出すこと。",
+      "example": "明日の遠足のお知らせが**掲示**板に貼ってあった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "展示",
+      "reading": "てんじ",
+      "meaning": "人に見せるために品物を並べておくこと。",
+      "example": "博物館で恐竜の化石が**展示**されていた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提示",
+      "reading": "ていじ",
+      "meaning": "意見や物などを相手に差し出して見せること。",
+      "example": "受付でチケットを**提示**して中に入った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
