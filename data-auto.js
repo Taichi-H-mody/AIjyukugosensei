@@ -15121,6 +15121,90 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "治": [
+    {
+      "jukugo": "政治",
+      "reading": "せいじ",
+      "meaning": "国や社会のルールを決めたり、みんなの生活が良くなるように治めたりすること。",
+      "example": "テレビのニュースで、国の政治について話していました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "治療",
+      "reading": "ちりょう",
+      "meaning": "病気やけがを治すこと。",
+      "example": "病院で虫歯の治療をしてもらい、痛みがなくなりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "明治",
+      "reading": "めいじ",
+      "meaning": "日本の昔の時代を表す名前の一つ。",
+      "example": "明治時代には、西洋の新しい文化がたくさん日本に入ってきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "治安",
+      "reading": "ちあん",
+      "meaning": "世の中が安全で平和な状態であること。",
+      "example": "この町の治安はとても良いので、安心して生活できます。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "治水",
+      "reading": "ちすい",
+      "meaning": "川の水をうまく管理して、洪水が起きないようにしたり、水を利用したりすること。",
+      "example": "大昔から、人々は川の治水工事をして、村を守ってきました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "精": [
+    {
+      "jukugo": "精一杯",
+      "reading": "せいいっぱい",
+      "meaning": "できるかぎりのすべての力を出すこと。",
+      "example": "運動会では、精一杯走って一等賞になれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "精神",
+      "reading": "せいしん",
+      "meaning": "心や気持ちのこと。",
+      "example": "チームのみんなで、最後まであきらめない精神を大切にした。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "精進",
+      "reading": "しょうじん",
+      "meaning": "一つのことに集中して、まじめに努力すること。",
+      "example": "毎日、宿題を精進して取り組んだら、苦手な算数が得意になった。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "精算",
+      "reading": "せいさん",
+      "meaning": "お金などを細かく計算して、たりない分やあまっている分を支払ったり受け取ったりすること。",
+      "example": "電車のきっぷがたりなかったので、駅で精算をして改札を出た。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "精米",
+      "reading": "せいまい",
+      "meaning": "玄米のまわりにあるぬかを取りのぞいて、白米にすること。",
+      "example": "おじいちゃんがとれたての玄米を精米して、おいしいご飯を作ってくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
