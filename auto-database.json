@@ -8953,6 +8953,22 @@
       "example": "おばあちゃんが漢方薬を飲んでいる。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢和辞典",
+      "reading": "かんわじてん",
+      "meaning": "漢字の意味や読み方、書き順などを調べるための本。",
+      "example": "わからない漢字があったので、漢和辞典で調べた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢方薬",
+      "reading": "かんぽうやく",
+      "meaning": "日本に古くから伝わる、草や木などの自然な材料から作られた薬のことです。",
+      "example": "風邪のひきはじめに、おばあちゃんが漢方薬を飲んでいました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
     }
   ],
   "官": [],
