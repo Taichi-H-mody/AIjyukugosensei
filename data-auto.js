@@ -9613,6 +9613,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "改": [
+    {
+      "jukugo": "改善",
+      "reading": "かいぜん",
+      "meaning": "悪いところを改めて、より良い状態にすること。",
+      "example": "テストの点数を改善するために、毎日しっかり勉強する。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改札",
+      "reading": "かいさつ",
+      "meaning": "電車に乗るときに切符を調べて、駅のホームに入る場所。または切符を調べること。",
+      "example": "駅の改札を通って、電車に乗る。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改行",
+      "reading": "かいぎょう",
+      "meaning": "文章を書いている途中で、次の新しい行に移ること。",
+      "example": "作文を書くときは、読みやすいように適度なところで改行をしよう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改造",
+      "reading": "かいぞう",
+      "meaning": "何かを作り直したり、手を加えたりして、別のものに変えること。",
+      "example": "おもちゃの車をもっと速く走るように改造した。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
