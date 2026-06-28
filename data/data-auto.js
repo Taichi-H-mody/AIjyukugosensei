@@ -1,4 +1,4 @@
-// 自動生成された追加熟語データ（2026-06-28T21:15:38.260Z 再ビルド）
+// 自動生成された追加熟語データ
 if (!window.OFFLINE_DB) window.OFFLINE_DB = {};
 const autoData = {
   "冊": [
@@ -8887,6 +8887,48 @@ const autoData = {
       "meaning": "よく使われる、国が定めた漢字のこと。",
       "example": "小学校では、常用漢字を少しずつ習います。",
       "addedDate": "2026-06-26",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "可": [
+    {
+      "jukugo": "可能",
+      "reading": "かのう",
+      "meaning": "できること。また、その能力があること。",
+      "example": "努力すれば、どんなことでも**可能**になります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "許可",
+      "reading": "きょか",
+      "meaning": "願いを聞き入れて、それを許すこと。",
+      "example": "先生に**許可**をもらって、放課後も校庭で遊びました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不可",
+      "reading": "ふか",
+      "meaning": "することができないこと。許されないこと。",
+      "example": "危険なので、ここで泳ぐことは**不可**です。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "可決",
+      "reading": "かけつ",
+      "meaning": "会議などで、提案された議案が承認され、決定すること。",
+      "example": "みんなで話し合った結果、遠足の行き先が**可決**されました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "認可",
+      "reading": "にんか",
+      "meaning": "届け出や申請を審査して、それが正しいと認め、許可すること。",
+      "example": "新しいルールを作るために、委員長に**認可**してもらいました。",
+      "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
   ]
