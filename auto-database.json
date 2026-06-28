@@ -10723,5 +10723,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "周": [
+    {
+      "jukugo": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "ある場所のまわり。そのあたり。",
+      "example": "学校の周辺には広い公園があります。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "周囲",
+      "reading": "しゅうい",
+      "meaning": "あるもののまわり。まわりの範囲。",
+      "example": "池の周囲をみんなで歩いてまわりました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一周",
+      "reading": "いっしゅう",
+      "meaning": "ひとまわりすること。",
+      "example": "公園のグラウンドをもう一周走ろう。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "周回",
+      "reading": "しゅうかい",
+      "meaning": "まわりをぐるりと回ること。",
+      "example": "宇宙船が地球のまわりを周回しています。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "円周",
+      "reading": "えんしゅう",
+      "meaning": "円のまわりの長さ。",
+      "example": "算数の時間で円周の長さを計算しました。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
