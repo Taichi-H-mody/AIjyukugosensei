@@ -12835,6 +12835,40 @@ const autoData = {
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "包": [
+    {
+      "jukugo": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "料理で食材を切るための刃物。",
+      "example": "お母さんは包丁で野菜を細かく切った。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包帯",
+      "reading": "ほうたい",
+      "meaning": "けがをした部分を保護したり固定したりするために巻く布。",
+      "example": "転んでできた傷に、先生が包帯を巻いてくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包装",
+      "reading": "ほうそう",
+      "meaning": "品物をきれいに包むこと。また、その包んだもの。",
+      "example": "プレゼントは、店員さんがかわいらしい紙で包装してくれた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包み紙",
+      "reading": "つつみがみ",
+      "meaning": "物を包むための紙。",
+      "example": "お菓子の包み紙を集めて、きれいに並べた。",
+      "addedDate": "2026-06-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
