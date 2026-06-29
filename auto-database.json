@@ -17355,5 +17355,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "任": [
+    {
+      "jukugo": "担任",
+      "reading": "たんにん",
+      "meaning": "クラスを受け持ち、勉強や生活の指導をしてくれる先生のこと。",
+      "example": "新しい学年の担任の先生は、とても明るい人だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "責任",
+      "reading": "せきにん",
+      "meaning": "自分がしなければならないことや、したことの結果をしっかり受け止めること。",
+      "example": "飼育委員として、うさぎの世話をする責任がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "任務",
+      "reading": "にんむ",
+      "meaning": "頼まれたり、自分がするべきだと決めた大切な仕事や役目のこと。",
+      "example": "今日の給食当番は、みんなにおいしいご飯を配る大切な任務だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "任命",
+      "reading": "にんめい",
+      "meaning": "ある役職や仕事をするように、正式に命じること。",
+      "example": "先生にクラスの代表委員に任命されて、嬉しかった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主任",
+      "reading": "しゅにん",
+      "meaning": "あるグループや部門の中で、中心となって仕事をまとめる役職の人。",
+      "example": "学校には、低学年主任の先生や教務主任の先生がいるよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "最": [
+    {
+      "jukugo": "最高",
+      "reading": "さいこう",
+      "meaning": "これ以上ないほど良いこと。一番優れていること。",
+      "example": "今日の天気は最高だね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最近",
+      "reading": "さいきん",
+      "meaning": "今からあまり時間が経っていない頃。この頃。",
+      "example": "最近、縄跳びが上手になったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最後",
+      "reading": "さいご",
+      "meaning": "物事の終わり。一番終わり。",
+      "example": "運動会の最後の種目はリレーです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最初",
+      "reading": "さいしょ",
+      "meaning": "物事の始まり。一番初め。",
+      "example": "物語の最初のページを読んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最大",
+      "reading": "さいだい",
+      "meaning": "一番大きいこと。",
+      "example": "この動物園で最大の動物はゾウです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
