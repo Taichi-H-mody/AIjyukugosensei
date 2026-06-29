@@ -18649,5 +18649,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "複": [
+    {
+      "jukugo": "複写",
+      "reading": "ふくしゃ",
+      "meaning": "もとのものと同じものを写しとること。コピーすること。",
+      "example": "大事な書類を複写して、控えをとっておく。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "複数",
+      "reading": "ふくすう",
+      "meaning": "一つではなく、二つ以上の数のこと。",
+      "example": "公園には複数の種類の鳥がいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "物事が入り組んでいて、簡単ではないこと。",
+      "example": "このパズルはとても複雑で、完成させるのが難しい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "複合",
+      "reading": "ふくごう",
+      "meaning": "いくつかのものが組み合わさって、一つになっていること。",
+      "example": "この複合施設には、図書館と体育館がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重複",
+      "reading": "じゅうふく",
+      "meaning": "同じことが二度以上重なること。",
+      "example": "名簿に名前が二回書いてあり、重複していた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "過": [
+    {
+      "jukugo": "通過",
+      "reading": "つうか",
+      "meaning": "ある場所を通り過ぎること。または、試験などに合格すること。",
+      "example": "電車が駅を高速で通過した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "過去",
+      "reading": "かこ",
+      "meaning": "今より前の時。過ぎ去ったこと。",
+      "example": "過去の出来事を思い出して、友だちと笑った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "超過",
+      "reading": "ちょうか",
+      "meaning": "決められた量や数、時間を超えること。",
+      "example": "テストの制限時間を超過してしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "過半数",
+      "reading": "かはんすう",
+      "meaning": "全体の半分より多い数。",
+      "example": "クラスの過半数が遠足で動物園に行きたいと答えた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "過保護",
+      "reading": "かほご",
+      "meaning": "必要以上に大切にしすぎること。",
+      "example": "妹は親に過保護に育てられている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
