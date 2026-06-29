@@ -19617,6 +19617,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "変": [
+    {
+      "jukugo": "変化",
+      "reading": "へんか",
+      "meaning": "物の様子や状態が変わること。",
+      "example": "季節が変わり、山の木々が赤く変化した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変身",
+      "reading": "へんしん",
+      "meaning": "姿や形が全く別のものに変わること。",
+      "example": "ヒーローが変身して、悪い怪獣と戦った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大変",
+      "reading": "たいへん",
+      "meaning": "とても難しいことや、とてもひどいこと。",
+      "example": "今日の算数の宿題は、とても大変だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変顔",
+      "reading": "へんがお",
+      "meaning": "おもしろくするために、顔の表情を変えること。",
+      "example": "友達が変顔をして、みんなを笑わせた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変更",
+      "reading": "へんこう",
+      "meaning": "決まっていたことや予定の一部を変えること。",
+      "example": "雨が降ったので、遠足の予定が明日に変更になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
