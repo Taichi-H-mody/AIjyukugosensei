@@ -20130,6 +20130,22 @@
       "example": "私たちのチームは、相手チームを圧倒的な強さで破って優勝した。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "圧勝",
+      "reading": "あっしょう",
+      "meaning": "相手に大差をつけて、簡単に勝つこと。",
+      "example": "運動会のかけっこで、田中くんは他の子たちを大きく引き離して圧勝した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "低気圧",
+      "reading": "ていきあつ",
+      "meaning": "周りの空気と比べて、気圧（空気が押す力）が低いところ。雨が降ったり、天気が悪くなることが多い。",
+      "example": "天気予報で「低気圧が近づいてくるので、明日は雨でしょう」と言っていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "唱": [
@@ -22284,6 +22300,48 @@
       "reading": "おうとう",
       "meaning": "呼びかけられたり、質問されたりしたときに、返事をすること。",
       "example": "電話のベルが鳴ったので、急いで応答した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "謝": [
+    {
+      "jukugo": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "ありがたいと思う気持ちを表すこと。また、その気持ち。",
+      "example": "いつも助けてくれる友達に心から感謝する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "悪いことや迷惑をかけたことをわびること。",
+      "example": "おもちゃを壊してしまったので、すぐに謝罪した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝礼",
+      "reading": "しゃれい",
+      "meaning": "助けてくれたり、何かをしてくれたりしたことへのお礼として渡すお金や品物。",
+      "example": "手伝ってくれたお礼に、少しばかりの謝礼を渡した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝意",
+      "reading": "しゃい",
+      "meaning": "感謝の気持ち、お礼の気持ち。",
+      "example": "プレゼントをもらったお礼に、謝意を込めた手紙を書いた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝恩",
+      "reading": "しゃおん",
+      "meaning": "受けた恩（お世話になったこと）に感謝すること。",
+      "example": "小学校を卒業する前に、先生への謝恩会が開かれた。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
