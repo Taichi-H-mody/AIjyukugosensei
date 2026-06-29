@@ -17774,6 +17774,14 @@ const autoData = {
       "example": "実験では、少しの誤差が出ることがある。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "差し引き",
+      "reading": "さしひき",
+      "meaning": "全体から一部を引くこと。また、引いた後に残るもの。",
+      "example": "もらったおこづかいから、使ったお金を差し引きして、残りを貯金しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "個": [
