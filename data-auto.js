@@ -18158,6 +18158,22 @@ const autoData = {
       "example": "公園で、たくさんの松ぼっくりをひろったよ。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "松毬",
+      "reading": "まつぼっくり",
+      "meaning": "松の木の実。地面に落ちているのをよく見かける。",
+      "example": "秋になると、松毬がたくさん落ちています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "松竹梅",
+      "reading": "しょうちくばい",
+      "meaning": "松、竹、梅のこと。日本では、おめでたいことや縁起が良いことの象徴とされている。",
+      "example": "お祝いの席で、お料理のランクが松竹梅と分かれていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "倉": [
