@@ -20154,6 +20154,30 @@ const autoData = {
       "example": "昔話には、遠い道を歩く徒人がよく登場します。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信徒",
+      "reading": "しんと",
+      "meaning": "ある宗教や教えを信じている人のこと。",
+      "example": "教会には、たくさんの信徒が集まっていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "門徒",
+      "reading": "もんと",
+      "meaning": "先生の教えを信じ、そのグループに属する人のこと。弟子という意味でも使われる。",
+      "example": "お寺の住職には、何人かの門徒がいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒弟",
+      "reading": "とてい",
+      "meaning": "職人や先生に弟子入りして、その技術や知識を学ぶ人のこと。",
+      "example": "大工さんの徒弟として、毎日一生懸命に働いています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "損": [
@@ -21152,6 +21176,132 @@ const autoData = {
       "reading": "どうばん",
       "meaning": "銅（どう）という金属（きんぞく）を薄（うす）く板（いた）の形（かたち）にしたもの。屋根（やね）や工芸品（こうげいひん）などに使（つか）われます。",
       "example": "職人（しょくにん）さんが、**銅板**を器用（きよう）に曲（ま）げて作品（さくひん）を作（つく）っていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "貸": [
+    {
+      "jukugo": "貸し出し",
+      "reading": "かしだし",
+      "meaning": "図書館などで、本や物を借りること。",
+      "example": "図書館で、借りたい本を**貸し出し**カウンターに持っていきました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸し借り",
+      "reading": "かしかり",
+      "meaning": "物やお金を、人にあげたり人からもらったりすること。",
+      "example": "友達とのゲームの**貸し借り**は、大切にしようね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸本",
+      "reading": "かしほん",
+      "meaning": "お店でお金を払って借りる本。また、人に貸すための本。",
+      "example": "昔は、色々な本が読める**貸本**屋さんがたくさんありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸家",
+      "reading": "かしや",
+      "meaning": "他の人に住んでもらうために、貸している家。",
+      "example": "わたしの近所には、だれかが住めるように**貸家**になっている家があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸し切り",
+      "reading": "かしきり",
+      "meaning": "バスやお店などを、他の人が使わないように自分たちだけで全部借りること。",
+      "example": "クラスの遠足で、バスを**貸し切り**にしてみんなで出かけました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "破": [
+    {
+      "jukugo": "破片",
+      "reading": "はへん",
+      "meaning": "物が割れたり壊れたりして飛び散ったかけら。",
+      "example": "窓ガラスが割れて、床にたくさんの破片が散らばった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破損",
+      "reading": "はそん",
+      "meaning": "物が壊れたり、傷ついたりすること。",
+      "example": "地震で壁にひびが入り、家の一部が破損した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "突破",
+      "reading": "とっぱ",
+      "meaning": "困難な状況や障害を乗り越えること。",
+      "example": "難しい試験だったけれど、努力して見事合格ラインを突破した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破裂",
+      "reading": "はれつ",
+      "meaning": "物が急に割れたり裂けたりして、中身が飛び出ること。",
+      "example": "古い風船をふくらませすぎたら、大きな音を立てて破裂した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破壊",
+      "reading": "はかい",
+      "meaning": "物をこわしたり、使えなくしたりすること。",
+      "example": "嵐は古い橋を破壊し、交通に大きなえいきょうが出た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "勢": [
+    {
+      "jukugo": "大勢",
+      "reading": "おおぜい",
+      "meaning": "たくさんの人。",
+      "example": "お祭りの会場には、**大勢**の人が集まっていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姿勢",
+      "reading": "しせい",
+      "meaning": "体の構え方や、物事に対する向き合い方。",
+      "example": "良い**姿勢**で椅子に座ると、集中力が上がります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "情勢",
+      "reading": "じょうせい",
+      "meaning": "今の状況や様子。",
+      "example": "ニュースで、世界のいろいろな**情勢**を知ることができます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "態勢",
+      "reading": "たいせい",
+      "meaning": "ある物事を始めるための準備ができた状態。",
+      "example": "運動会のリレーでは、みんながスタートの**態勢**に入りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "優勢",
+      "reading": "ゆうせい",
+      "meaning": "相手よりも有利なこと、優れていること。",
+      "example": "サッカーの試合は、私たちのチームが**優勢**に進めていました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
