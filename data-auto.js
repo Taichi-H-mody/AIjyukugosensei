@@ -18845,6 +18845,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "争": [
+    {
+      "jukugo": "競争",
+      "reading": "きょうそう",
+      "meaning": "互いに優劣や勝敗を競い合うこと。",
+      "example": "運動会の徒競走で友達とゴールまで**競争**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "争奪",
+      "reading": "そうだつ",
+      "meaning": "互いに奪い合うこと。",
+      "example": "限定発売のおもちゃをめぐって、子どもたちが**争奪**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "争点",
+      "reading": "そうてん",
+      "meaning": "議論や対立の中心となる問題。",
+      "example": "どちらが先にゲームをするか、それが家族会議の今日の**争点**になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "論争",
+      "reading": "ろんそう",
+      "meaning": "互いに意見を述べ合い、正しいかどうかを話し合って争うこと。",
+      "example": "クラスで遠足の行き先について、活発な**論争**が起こった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紛争",
+      "reading": "ふんそう",
+      "meaning": "争いごとが起こり、もつれること。もめごと。",
+      "example": "兄と弟の間で、テレビのリモコンの**紛争**が始まった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
