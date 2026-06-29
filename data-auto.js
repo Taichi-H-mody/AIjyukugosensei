@@ -19875,6 +19875,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "圧": [
+    {
+      "jukugo": "圧力",
+      "reading": "あつりょく",
+      "meaning": "物を押し付ける力のこと。",
+      "example": "タイヤの空気の圧力を測った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気圧",
+      "reading": "きあつ",
+      "meaning": "空気の重さによる力のこと。天気予報などで使われます。",
+      "example": "低気圧が近づいていて、明日は雨が降るらしい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "血圧",
+      "reading": "けつあつ",
+      "meaning": "血管の中を流れる血液が血管の壁を押す力のこと。",
+      "example": "おじいちゃんは、健康のために毎日血圧を測っている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高圧",
+      "reading": "こうあつ",
+      "meaning": "とても強い圧力のこと。",
+      "example": "高圧電線は危険なので、絶対に近づいてはいけません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "圧倒",
+      "reading": "あっとう",
+      "meaning": "相手を寄せ付けないほど、非常に優れていること。",
+      "example": "私たちのチームは、相手チームを圧倒的な強さで破って優勝した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
