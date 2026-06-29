@@ -22553,5 +22553,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "提": [
+    {
+      "jukugo": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "宿題や書類などを、相手に差し出すこと。",
+      "example": "先生に明日の宿題を**提出**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提案",
+      "reading": "ていあん",
+      "meaning": "自分の意見や計画などを、みんなに示して相談すること。",
+      "example": "学級会で、新しい遊びのルールを**提案**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提灯",
+      "reading": "ちょうちん",
+      "meaning": "竹ひごなどで作った骨組みに紙などを貼り、中にろうそくや電球を入れて使う持ち運びできる明かり。",
+      "example": "お祭り会場には、色とりどりの**提灯**が飾られていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提供",
+      "reading": "ていきょう",
+      "meaning": "必要なものやサービスを、相手に与えること。",
+      "example": "給食は、栄養のある食事をみんなに**提供**してくれる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手提げ",
+      "reading": "てさげ",
+      "meaning": "手で持って運ぶための袋やカバンのこと。「手提げ袋」のように使うことが多い。",
+      "example": "図書館に行くときは、お気に入りの**手提げ**袋を持っていった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
