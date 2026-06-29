@@ -17194,6 +17194,22 @@
       "example": "その話は初耳だったので、とても驚きました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初夏",
+      "reading": "しょか",
+      "meaning": "夏のはじめごろ。",
+      "example": "初夏の風が気持ちいい季節になりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初詣",
+      "reading": "はつもうで",
+      "meaning": "新年になって、初めて神社やお寺にお参りに行くこと。",
+      "example": "お正月には、家族みんなで初詣に行きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "帯": [
@@ -19548,6 +19564,14 @@
       "reading": "きぐ",
       "meaning": "ある目的のために使う道具。特に、簡単な仕掛けのある道具。",
       "example": "理科の実験で、ガスバーナーなどの**器具**を使った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武器",
+      "reading": "ぶき",
+      "meaning": "敵と戦ったり、自分を守ったりするときに使う道具。",
+      "example": "昔の人が使っていた武器が博物館に飾ってありました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
