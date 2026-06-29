@@ -19013,6 +19013,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "修": [
+    {
+      "jukugo": "修学",
+      "reading": "しゅうがく",
+      "meaning": "学問を修めること。学校で学ぶこと。",
+      "example": "来月は、みんなで京都に修学旅行に行くので、とても楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "修理",
+      "reading": "しゅうり",
+      "meaning": "こわれたものや調子の悪いところを直すこと。",
+      "example": "自転車がパンクしたので、お店で修理してもらいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "修了",
+      "reading": "しゅうりょう",
+      "meaning": "ある課程や学業を終えること。",
+      "example": "小学校の全課程を修了し、中学校に進むことができました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "研修",
+      "reading": "けんしゅう",
+      "meaning": "仕事に必要な知識や技術を学ぶこと。",
+      "example": "先生たちは、新しい授業のやり方について研修会で学びました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "補修",
+      "reading": "ほしゅう",
+      "meaning": "こわれたところや足りないところを直したり、補ったりすること。",
+      "example": "古い校舎の壁にひびが入っていたので、補修工事が行われました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
