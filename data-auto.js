@@ -19457,6 +19457,40 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "働": [
+    {
+      "jukugo": "労働",
+      "reading": "ろうどう",
+      "meaning": "お金をもらうために働くこと。仕事。",
+      "example": "お父さんは、毎日一生懸命に労働しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共働き",
+      "reading": "ともばたらき",
+      "meaning": "夫婦が二人とも仕事をして、お金を稼ぐこと。",
+      "example": "私の家では、お父さんもお母さんも共働きです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "働き者",
+      "reading": "はたらきもの",
+      "meaning": "よく働く人。熱心に仕事をする人。",
+      "example": "彼はクラスの働き者で、いつもみんなのお手伝いをしています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "働き手",
+      "reading": "はたらきて",
+      "meaning": "働く人。特に、家族のために中心となって働く人。",
+      "example": "お父さんは、家族を支える大切な働き手です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
