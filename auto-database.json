@@ -18339,5 +18339,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "省": [
+    {
+      "jukugo": "反省",
+      "reading": "はんせい",
+      "meaning": "自分の言動や行いを振り返り、悪かった点を認めて改めようとすること。",
+      "example": "宿題を忘れて先生に怒られ、僕は深く反省した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "省エネ",
+      "reading": "しょうエネ",
+      "meaning": "エネルギーを節約すること。電力や燃料などを無駄なく使うこと。",
+      "example": "エアコンの設定温度を上げて、みんなで省エネに取り組んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "不必要な部分をはぶいて、短くしたり簡単にしたりすること。",
+      "example": "長い文章は、大切なところだけ残して省略した方が分かりやすい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帰省",
+      "reading": "きせい",
+      "meaning": "故郷や実家へ帰ること。",
+      "example": "夏休みには、おじいちゃんとおばあちゃんのいる田舎に帰省する予定だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自省",
+      "reading": "じせい",
+      "meaning": "自分の考えや行いを、自分自身でよく見つめ直し、反省すること。",
+      "example": "毎日、日記を書くことで、一日を振り返り、自省する時間を作っている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
