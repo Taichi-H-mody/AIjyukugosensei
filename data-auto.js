@@ -22379,6 +22379,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "移": [
+    {
+      "jukugo": "移動",
+      "reading": "いどう",
+      "meaning": "場所を動くこと。ある場所から別の場所へ動くこと。",
+      "example": "学校まで自転車で移動する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "移転",
+      "reading": "いてん",
+      "meaning": "場所を別の所に移し変えること。",
+      "example": "新しいお店が駅前に移転した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "移送",
+      "reading": "いそう",
+      "meaning": "人や物をある場所から別の場所へ移し運ぶこと。",
+      "example": "けが人を安全な場所へ移送する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "移住",
+      "reading": "いじゅう",
+      "meaning": "住む場所を別の土地や国に移すこと。",
+      "example": "将来、自然豊かな場所へ移住したい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "移籍",
+      "reading": "いせき",
+      "meaning": "所属している場所やチーム、会社などを変えること。",
+      "example": "好きなサッカー選手が新しいチームに移籍した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
