@@ -17280,6 +17280,22 @@ const autoData = {
       "example": "自転車で走っていると、強い逆風が吹いてきて、進むのが大変でした。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆流",
+      "reading": "ぎゃくりゅう",
+      "meaning": "ふだんとは逆の方向に流れること。",
+      "example": "川のぎゃくりゅうにさからって、さかながおよいでいる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆戻り",
+      "reading": "ぎゃくもどり",
+      "meaning": "もとあった場所や状態に戻ること。",
+      "example": "道をまちがえてしまい、ずいぶんぎゃくもどりしてしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "潔": [
