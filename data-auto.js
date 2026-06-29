@@ -19138,6 +19138,30 @@ const autoData = {
       "example": "お父さんはパン屋さんの経営をしている。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経路",
+      "reading": "けいろ",
+      "meaning": "ある場所から別の場所へ行くための通り道や道筋。",
+      "example": "学校から家までの安全な経路を確認しよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "神経",
+      "reading": "しんけい",
+      "meaning": "体の中で、脳と体の各部分をつなぎ、情報や命令を伝える働き。また、細かいことに気を配ること。",
+      "example": "難しいパズルを解くのに、神経を使った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経度",
+      "reading": "けいど",
+      "meaning": "地球上のたての位置を表す線。本初子午線を基準にして、東や西に何度離れているかを示す。",
+      "example": "日本の経度は、だいたい東経135度くらいだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "録": [
@@ -21536,6 +21560,48 @@ const autoData = {
       "reading": "ぜっぱん",
       "meaning": "本や雑誌が、もう二度と印刷されなくなり、手に入らなくなること。",
       "example": "昔の探偵小説が**絶版**になっていて、なかなか見つかりません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "編": [
+    {
+      "jukugo": "編集",
+      "reading": "へんしゅう",
+      "meaning": "文章や絵などを集めて、一つの作品にまとめたり、修正したりすること。",
+      "example": "クラス新聞の原稿を**編集**する係になったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "編成",
+      "reading": "へんせい",
+      "meaning": "目的のために、物事を組み合わせたり、組織を作ったりすること。",
+      "example": "新しい学年になって、クラスの**編成**が変わった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長編",
+      "reading": "ちょうへん",
+      "meaning": "物語や映画などで、内容が長い作品のこと。",
+      "example": "この漫画は**長編**シリーズで、読むのがとても楽しい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短編",
+      "reading": "たんぺん",
+      "meaning": "物語や映画などで、内容が短い作品のこと。",
+      "example": "寝る前に、お母さんが**短編**のお話の本を読んでくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前編",
+      "reading": "ぜんぺん",
+      "meaning": "続けて公開される作品の、最初の部分のこと。",
+      "example": "映画の**前編**を見たから、早く後編も見たいな。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
