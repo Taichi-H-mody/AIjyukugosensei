@@ -22245,5 +22245,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "応": [
+    {
+      "jukugo": "応援",
+      "reading": "おうえん",
+      "meaning": "声を出したり拍手をしたりして、がんばっている人を励ますこと。",
+      "example": "運動会で友達を大きな声で応援した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対応",
+      "reading": "たいおう",
+      "meaning": "あることに対して、それに合わせて必要なことをすること。",
+      "example": "先生が質問に分かりやすく対応してくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "反応",
+      "reading": "はんのう",
+      "meaning": "何かをされたり言われたりしたときに、それに対して動きや変化を見せること。",
+      "example": "おもしろい話をすると、友達が笑って反応した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "応募",
+      "reading": "おうぼ",
+      "meaning": "募集（ぼしゅう）されているものに対して、自分から希望を申し込むこと。",
+      "example": "新しい絵のコンテストに、じまんの絵を描いて応募した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "応答",
+      "reading": "おうとう",
+      "meaning": "呼びかけられたり、質問されたりしたときに、返事をすること。",
+      "example": "電話のベルが鳴ったので、急いで応答した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
