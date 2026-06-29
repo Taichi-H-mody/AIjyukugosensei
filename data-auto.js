@@ -23231,6 +23231,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "給": [
+    {
+      "jukugo": "給食",
+      "reading": "きゅうしょく",
+      "meaning": "学校などで、子どもたちに食事を出すこと。また、その食事。",
+      "example": "今日の給食は、みんなが大好きなカレーライスだったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "給水",
+      "reading": "きゅうすい",
+      "meaning": "水を供給すること。水を与えること。",
+      "example": "マラソン大会の途中で、給水ポイントがあったので水を飲んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支給",
+      "reading": "しきゅう",
+      "meaning": "品物やお金などを与えたり、わたしたりすること。",
+      "example": "入学するときに、学校から新しい教科書が支給された。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "給料",
+      "reading": "きゅうりょう",
+      "meaning": "会社などで働いた人に支払われるお金のこと。",
+      "example": "お父さんは、お仕事をがんばった給料で、新しい自転車を買ってくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月給",
+      "reading": "げっきゅう",
+      "meaning": "ひと月ごとに支払われる給料のこと。",
+      "example": "お母さんは、毎月決まった日に月給をもらって生活費にしている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
