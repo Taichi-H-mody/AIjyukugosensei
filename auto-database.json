@@ -22645,5 +22645,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "極": [
+    {
+      "jukugo": "極点",
+      "reading": "きょくてん",
+      "meaning": "地球のいちばん北のさき（北極点）や、いちばん南のさき（南極点）のこと。",
+      "example": "北極点には、白いくまが住んでいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "極地",
+      "reading": "きょくち",
+      "meaning": "地球の北の端や南の端にある、とても寒い地方のこと。",
+      "example": "極地で生きる動物たちは、特別な体をもっています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "積極的",
+      "reading": "せっきょくてき",
+      "meaning": "自分から進んで物事をやろうとする様子。",
+      "example": "新しいことに積極的な気持ちでちょうせんしよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "極度",
+      "reading": "きょくど",
+      "meaning": "最高の程度。これ以上はないというくらいのこと。",
+      "example": "極度の緊張で、足がふるえました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "究極",
+      "reading": "きゅうきょく",
+      "meaning": "物事のいちばん最後に行き着くところ。最終的なこと。",
+      "example": "究極の目標は、世界中の人がしあわせになることです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
