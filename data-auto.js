@@ -17273,6 +17273,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "潔": [
+    {
+      "jukugo": "清潔",
+      "reading": "せいけつ",
+      "meaning": "きれいで、よごれていないこと。",
+      "example": "いつも身の回りを清潔に保ちましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不潔",
+      "reading": "ふけつ",
+      "meaning": "よごれていて、清潔ではないこと。",
+      "example": "手を洗わないと、とても不潔です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "潔白",
+      "reading": "けっぱく",
+      "meaning": "心にやましいところがなく、きよらかなこと。",
+      "example": "彼は自分が潔白であることを証明しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "簡潔",
+      "reading": "かんけつ",
+      "meaning": "むだがなく、手短で分かりやすいこと。",
+      "example": "先生は、要点を簡潔に説明してくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "清潔感",
+      "reading": "せいけつかん",
+      "meaning": "清潔であると感じさせる、見た目の印象。",
+      "example": "きちんとアイロンをかけた服には、清潔感があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "設": [
+    {
+      "jukugo": "設計",
+      "reading": "せっけい",
+      "meaning": "物事の計画を立てて、作り方や形などを具体的に考えること。",
+      "example": "未来の街の設計図をかく。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設備",
+      "reading": "せつび",
+      "meaning": "ある目的のために用意されている機械や道具、施設など。",
+      "example": "この学校には、体育館やプールなどの設備がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設置",
+      "reading": "せっち",
+      "meaning": "機械や物を決まった場所に置くこと。",
+      "example": "公園に新しいベンチが設置された。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建設",
+      "reading": "けんせつ",
+      "meaning": "建物や道路、橋などを作り上げること。",
+      "example": "大きなビルが建設されている工事現場を見た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設定",
+      "reading": "せってい",
+      "meaning": "物事の条件や内容などを決めること。",
+      "example": "ゲームのキャラクターの名前を設定する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
