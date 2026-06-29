@@ -19807,5 +19807,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "夫": [
+    {
+      "jukugo": "夫婦",
+      "reading": "ふうふ",
+      "meaning": "結婚した男性と女性のこと。",
+      "example": "わたしのパパとママは、いつもなかよし夫婦です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主夫",
+      "reading": "しゅふ",
+      "meaning": "家庭の家事や育児を主に担当する男性のこと。",
+      "example": "わたしのいとこのお兄さんは、お料理が得意な主夫です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丈夫",
+      "reading": "じょうぶ",
+      "meaning": "こわれにくくて、しっかりしていること。体が強いこと。",
+      "example": "このつくえはとても丈夫なので、大切に使いましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工夫",
+      "reading": "くふう",
+      "meaning": "物事をより良くするために、色々な方法を考えること。",
+      "example": "夏休みの自由研究で、たくさんの工夫をこらしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農夫",
+      "reading": "のうふ",
+      "meaning": "農業をしている男性のこと。",
+      "example": "あの畑では、たくさんの野菜を育てる農夫さんが働いています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
