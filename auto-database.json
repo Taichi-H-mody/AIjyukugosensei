@@ -22574,6 +22574,22 @@
       "example": "困ったときには、信頼できる友達に相談するのが一番だね。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通信",
+      "reading": "つうしん",
+      "meaning": "たがいに連絡や情報を送り合うこと。",
+      "example": "遠くに住むおじいちゃんやおばあちゃんと、インターネットで**通信**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返信",
+      "reading": "へんしん",
+      "meaning": "送られてきた手紙やメール、連絡などに、返事を送ること。",
+      "example": "先生からの連絡に、すぐに**返信**を送った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "確": [
@@ -23110,6 +23126,48 @@
       "reading": "かいさつ",
       "meaning": "駅などで、切符や定期券が正しいか確かめること。また、その場所。",
       "example": "電車に乗るために、駅の改札を通りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "絶": [
+    {
+      "jukugo": "絶対",
+      "reading": "ぜったい",
+      "meaning": "必ずそうなること。間違いなく。",
+      "example": "明日の遠足は、**絶対**に晴れてほしいな。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶滅",
+      "reading": "ぜつめつ",
+      "meaning": "生き物が、この世界からいなくなってしまうこと。",
+      "example": "大昔にいた恐竜は、もう**絶滅**してしまいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶好",
+      "reading": "ぜっこう",
+      "meaning": "これ以上ないほど良いこと。最高に良いこと。",
+      "example": "今日の天気は、お出かけに**絶好**の日だね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶叫",
+      "reading": "ぜっきょう",
+      "meaning": "とても大きな声で叫ぶこと。",
+      "example": "遊園地のジェットコースターに乗って、思わず**絶叫**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶品",
+      "reading": "ぜっぴん",
+      "meaning": "他にはないくらい、とても素晴らしい品物や食べ物。",
+      "example": "おばあちゃんが作ってくれたクッキーは、**絶品**の味だった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
