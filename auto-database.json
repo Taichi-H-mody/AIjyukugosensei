@@ -20196,6 +20196,14 @@
       "example": "お寺は地震でこわれましたが、みんなの力で再建されました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建造",
+      "reading": "けんぞう",
+      "meaning": "大きな船や飛行機などを作り上げること。",
+      "example": "造船所では、世界一大きな船を建造しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "婦": [
@@ -20766,6 +20774,40 @@
       "reading": "ぼぜん",
       "meaning": "お墓の前。",
       "example": "おばあちゃんのお墓の前に、きれいな花を供えました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "浴": [
+    {
+      "jukugo": "入浴",
+      "reading": "にゅうよく",
+      "meaning": "お風呂に入ること。",
+      "example": "毎日、夕食のあとに入浴します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水浴び",
+      "reading": "みずあび",
+      "meaning": "水を体にかけること。",
+      "example": "暑い日には、庭で水浴びをして涼しくなりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日光浴",
+      "reading": "にっこうよく",
+      "meaning": "日の光を体に浴びること。",
+      "example": "公園のベンチで、おばあさんが日光浴をしていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海水浴",
+      "reading": "かいすいよく",
+      "meaning": "海に入って泳いだり、水遊びをしたりすること。",
+      "example": "夏休みには、家族で海水浴に行きたいです。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
