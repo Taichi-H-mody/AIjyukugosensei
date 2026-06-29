@@ -18003,5 +18003,81 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "松": [
+    {
+      "jukugo": "松林",
+      "reading": "まつばやし",
+      "meaning": "松の木がたくさん生えている林。",
+      "example": "公園の奥には、りっぱな松林が広がっている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "門松",
+      "reading": "かどまつ",
+      "meaning": "お正月に、家の門のわきに飾る松の飾り。",
+      "example": "お正月には、玄関にきれいな門松を飾ります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "松葉",
+      "reading": "まつば",
+      "meaning": "松の木の葉っぱ。",
+      "example": "庭に落ちた松葉をほうきではいた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "松かさ",
+      "reading": "まつかさ",
+      "meaning": "松の木になる実。松ぼっくりともいう。",
+      "example": "リスが松かさの中から実を取り出して食べていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "松ぼっくり",
+      "reading": "まつぼっくり",
+      "meaning": "松の木になる実。松かさともいう。",
+      "example": "公園で、たくさんの松ぼっくりをひろったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "倉": [
+    {
+      "jukugo": "倉庫",
+      "reading": "そうこ",
+      "meaning": "品物などをしまっておく建物。",
+      "example": "工場には大きな倉庫があり、たくさんの製品がしまわれている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "米倉",
+      "reading": "こめぐら",
+      "meaning": "お米をしまっておく倉庫。",
+      "example": "昔、お殿様はたくさんの米倉を持っていて、お米を蓄えていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "穀倉",
+      "reading": "こくそう",
+      "meaning": "穀物（こくもつ）をしまっておく倉庫。また、穀物の生産が盛んな地域のこと。",
+      "example": "この広い平野は、麦や米がたくさんとれる「穀倉地帯」として有名だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "倉荷",
+      "reading": "くらに",
+      "meaning": "倉庫に預けられている品物や荷物。",
+      "example": "港の倉庫には、外国から届いたたくさんの倉荷が運び込まれていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
