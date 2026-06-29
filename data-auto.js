@@ -18929,6 +18929,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "経": [
+    {
+      "jukugo": "経験",
+      "reading": "けいけん",
+      "meaning": "実際に何かをしてみること。それによって得られる知識や技術。",
+      "example": "初めてのキャンプは、とてもいい経験になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経過",
+      "reading": "けいか",
+      "meaning": "時間がたつこと。物事が順に進んでいくこと。",
+      "example": "宿題の進み具合の経過を先生に報告した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経由",
+      "reading": "けいゆ",
+      "meaning": "ある場所を通って別の場所へ行くこと。",
+      "example": "学校から家に帰るとき、友達の家を経由して帰った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経済",
+      "reading": "けいざい",
+      "meaning": "お金や物などが世の中をめぐり、人々の生活や国のしくみを支えていること。",
+      "example": "お小遣いを大切に使うことは、経済を考える第一歩だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経営",
+      "reading": "けいえい",
+      "meaning": "会社やお店などを動かし、うまくいくように工夫すること。",
+      "example": "お父さんはパン屋さんの経営をしている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
