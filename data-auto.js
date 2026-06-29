@@ -19967,6 +19967,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "件": [
+    {
+      "jukugo": "事件",
+      "reading": "じけん",
+      "meaning": "思いがけない出来事や、問題となる事柄。",
+      "example": "探偵が難しい**事件**を解決した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "条件",
+      "reading": "じょうけん",
+      "meaning": "何かをするために必要な決まりや約束事。",
+      "example": "ゲームを始めるには、いくつかの**条件**を満たす必要がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一件",
+      "reading": "いっけん",
+      "meaning": "ひとつの事柄。または、ひとつの出来事。",
+      "example": "警察官が、この**一件**の交通事故について調べている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "案件",
+      "reading": "あんけん",
+      "meaning": "みんなで話し合ったり、決めたりする必要がある事柄。",
+      "example": "クラス会議で、遠足の行き先をどうするかという**案件**が話し合われた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "件名",
+      "reading": "けんめい",
+      "meaning": "手紙やメールの内容を簡単に表した題目や題名。",
+      "example": "メールを送るときは、どんな内容か分かるように**件名**を書こう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "徒": [
+    {
+      "jukugo": "生徒",
+      "reading": "せいと",
+      "meaning": "学校で勉強する子どものこと。",
+      "example": "ぼくは、この小学校の生徒です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒競走",
+      "reading": "ときょうそう",
+      "meaning": "運動会などで、決められたきょりを走って速さをきそうこと。",
+      "example": "運動会で徒競走に出るのが楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒歩",
+      "reading": "とほ",
+      "meaning": "のりものを使わずに、自分の足で歩くこと。",
+      "example": "家から駅まで徒歩で10分かかります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学徒",
+      "reading": "がくと",
+      "meaning": "学校で学ぶ学生や生徒のこと。",
+      "example": "昔の学校には、熱心に学ぶ学徒がたくさんいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒人",
+      "reading": "かちびと",
+      "meaning": "歩いて移動する人のこと。少し昔の言葉。",
+      "example": "昔話には、遠い道を歩く徒人がよく登場します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
