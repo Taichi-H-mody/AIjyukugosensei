@@ -17845,6 +17845,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "旗": [
+    {
+      "jukugo": "国旗",
+      "reading": "こっき",
+      "meaning": "その国のしるしとして使われる旗。",
+      "example": "オリンピックで、日本の国旗が一番高く上がった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校旗",
+      "reading": "こうき",
+      "meaning": "その学校のしるしとして使われる旗。",
+      "example": "入学式で、校長先生が校旗の前で挨拶をした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旗手",
+      "reading": "きしゅ",
+      "meaning": "運動会などの行進で、旗を持って先頭を歩く人。",
+      "example": "運動会の入場行進で、兄が堂々と旗手を務めた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旗日",
+      "reading": "はたび",
+      "meaning": "祝日など、お祝いとして旗を揚げる日。",
+      "example": "今日は旗日なので、家族みんなで国旗をあげた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "白旗",
+      "reading": "しろはた",
+      "meaning": "降参したり、争いをやめたりする合図としてあげる白い旗。",
+      "example": "ゲームに負けそうになったとき、相手チームが白旗を上げた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "居": [
+    {
+      "jukugo": "居間",
+      "reading": "いま",
+      "meaning": "家族がくつろいだり食事をしたりする部屋。リビングルーム。",
+      "example": "家族みんなで居間に集まってテレビを見ました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住居",
+      "reading": "じゅうきょ",
+      "meaning": "住むための家。住んでいる場所。",
+      "example": "私たちは新しい住居に引っ越すことになりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "居場所",
+      "reading": "いばしょ",
+      "meaning": "自分がいる場所。安心できる所。",
+      "example": "学校に自分の居場所があるのは、とても大切なことです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "居眠り",
+      "reading": "いねむり",
+      "meaning": "うっかり眠ってしまうこと。",
+      "example": "昨日の夜遅くまでゲームをしていたので、授業中に居眠りをしてしまいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "居留守",
+      "reading": "いりゅす",
+      "meaning": "家にいるのに、いないふりをすること。",
+      "example": "インターホンが鳴ったけれど、居留守を使って返事をしませんでした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
