@@ -19127,5 +19127,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "令": [
+    {
+      "jukugo": "命令",
+      "reading": "めいれい",
+      "meaning": "人に何かをするように言い聞かせたり、指図したりすること。",
+      "example": "先生の命令を聞いて、みんなでそうじを始めた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "号令",
+      "reading": "ごうれい",
+      "meaning": "大ぜいの人を動かすために、かけ声とともに指示を出すこと。",
+      "example": "体育の先生の号令で、みんなが一斉に走り出した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "法令",
+      "reading": "ほうれい",
+      "meaning": "国や地方が定めた法律やきまりのこと。",
+      "example": "交通法令を守って、安全に道を歩きましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "令和",
+      "reading": "れいわ",
+      "meaning": "日本で使われている元号（年号）の一つ。美しい調和という意味が込められている。",
+      "example": "私たちが生まれた時代は令和です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指令",
+      "reading": "しれい",
+      "meaning": "上役から部下へ、具体的な行動を指示すること。",
+      "example": "校長先生からの指令で、全校生徒は体育館に集まった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
