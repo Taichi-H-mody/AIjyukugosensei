@@ -19415,6 +19415,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "器": [
+    {
+      "jukugo": "食器",
+      "reading": "しょっき",
+      "meaning": "食べ物を盛るための、皿や茶碗などの道具。",
+      "example": "夕食後、使った**食器**をきれいに洗った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "楽器",
+      "reading": "がっき",
+      "meaning": "音を出し、演奏するために使う道具。",
+      "example": "音楽の時間に、いろいろな**楽器**の名前を習った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "容器",
+      "reading": "ようき",
+      "meaning": "液体や粉末など、物を入れておくための入れ物。",
+      "example": "飲み残したジュースを密閉できる**容器**に移した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機器",
+      "reading": "きき",
+      "meaning": "機械や装置の類。電気などで動くことが多い道具。",
+      "example": "私たちの教室には、パソコンなどの情報**機器**が置かれている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "器具",
+      "reading": "きぐ",
+      "meaning": "ある目的のために使う道具。特に、簡単な仕掛けのある道具。",
+      "example": "理科の実験で、ガスバーナーなどの**器具**を使った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
