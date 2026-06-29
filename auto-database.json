@@ -19069,5 +19069,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "査": [
+    {
+      "jukugo": "調査",
+      "reading": "ちょうさ",
+      "meaning": "物事について、詳しく調べてはっきりさせること。",
+      "example": "夏休みの自由研究で、虫の種類を**調査**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "検査",
+      "reading": "けんさ",
+      "meaning": "異常がないか、決まり通りかなどを詳しく調べること。",
+      "example": "学校で、年に一度の健康**検査**があった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "審査",
+      "reading": "しんさ",
+      "meaning": "物事の内容や資格などを調べて、それが正しいか、ふさわしいかを判断すること。",
+      "example": "絵のコンクールで、先生たちが応募作品を**審査**する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "捜査",
+      "reading": "そうさ",
+      "meaning": "警察官が、事件の犯人や証拠などを探し調べること。",
+      "example": "テレビドラマで、警察官が犯人を**捜査**している場面を見た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "巡査",
+      "reading": "じゅんさ",
+      "meaning": "警察官の階級の一つで、交番などで地域の安全を守っている警察官のこと。",
+      "example": "道に迷っていたら、近くの交番の**巡査**さんが道を教えてくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
