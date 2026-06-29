@@ -18186,6 +18186,14 @@ const autoData = {
       "example": "水や空気、石などはすべて物質です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "性質",
+      "reading": "せいしつ",
+      "meaning": "物や人が持っている、生まれつきの特徴や傾向。",
+      "example": "この動物は、おとなしい性質を持っているよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "共": [
