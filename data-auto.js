@@ -21661,6 +21661,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "衛": [
+    {
+      "jukugo": "衛生",
+      "reading": "えいせい",
+      "meaning": "健康を保つために、身の回りや食べ物を清潔にすること。",
+      "example": "手をきれいに洗うことは、病気を防ぐための大切な**衛生**習慣です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防衛",
+      "reading": "ぼうえい",
+      "meaning": "敵や危険から、自分の国や身を守ること。",
+      "example": "身の危険から自分を**防衛**する方法を知っておくことは大切です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "守衛",
+      "reading": "しゅえい",
+      "meaning": "建物や施設を見回り、安全を守る人。",
+      "example": "学校の門には、毎日**守衛**さんが立って見守ってくれています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自衛",
+      "reading": "じえい",
+      "meaning": "自分の身を、自分で守ること。",
+      "example": "災害に備えて、自分の身を**自衛**する方法を家族と話し合っておきましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "衛星",
+      "reading": "えいせい",
+      "meaning": "惑星の周りを回る天体（月など）や、通信などのために打ち上げられた人工の機械。",
+      "example": "夜空に見える月は、地球の**衛星**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
