@@ -18544,6 +18544,22 @@
       "example": "運動会でリレーに勝つために、みんなで**作戦**を立てました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対戦",
+      "reading": "たいせん",
+      "meaning": "相手と試合をしたり、戦ったりすること。",
+      "example": "次のサッカーの試合では、強敵と対戦します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦い",
+      "reading": "たたかい",
+      "meaning": "争うこと。また、試合や競争。",
+      "example": "最後まであきらめない、すばらしい戦いでした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "刷": [
@@ -19650,6 +19666,22 @@
       "reading": "しゅくしょう",
       "meaning": "試合や勝負に勝ったことをお祝いすることです。",
       "example": "運動会で赤組が優勝したので、みんなで祝勝の歌を歌いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝電",
+      "reading": "しゅくでん",
+      "meaning": "お祝いの気持ちを伝えるために送る電報（文字で伝えるメッセージ）。",
+      "example": "卒業式で、遠くにいる人からたくさんの祝電が届きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝辞",
+      "reading": "しゅくじ",
+      "meaning": "お祝いの言葉やあいさつ。",
+      "example": "入学式で、校長先生がお祝いの祝辞を述べました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
