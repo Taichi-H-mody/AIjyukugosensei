@@ -21358,6 +21358,22 @@
       "example": "100円の消しゴムと50円の鉛筆の差額は50円です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "総額",
+      "reading": "そうがく",
+      "meaning": "すべての金額を合わせたもの。",
+      "example": "みんなで協力して集めた募金の総額は1万円だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "定額",
+      "reading": "ていがく",
+      "meaning": "あらかじめ決められている、一定の金額。",
+      "example": "この遊園地の入場料は定額で、子どもも大人も同じ料金です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "銅": [
