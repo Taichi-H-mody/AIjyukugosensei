@@ -21703,6 +21703,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "標": [
+    {
+      "jukugo": "目標",
+      "reading": "もくひょう",
+      "meaning": "めざすものや、とどこうとするところ。",
+      "example": "今日の目標は、漢字を10個覚えることです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "標語",
+      "reading": "ひょうご",
+      "meaning": "みんなに覚えてもらい、行動してもらうために短い言葉で表したもの。",
+      "example": "安全運転の標語を考えましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "標識",
+      "reading": "ひょうしき",
+      "meaning": "何かを知らせるためのしるし。",
+      "example": "道路にある「止まれ」の標識に注意して歩きましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "標本",
+      "reading": "ひょうほん",
+      "meaning": "しらべたり、みんなに見せたりするために、本物の形をそのまま残したもの。",
+      "example": "理科室には、チョウのきれいな標本がならんでいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "標準",
+      "reading": "ひょうじゅん",
+      "meaning": "くらべるためのもとになるもの。ふつうの。",
+      "example": "東京で話されている言葉が標準語です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
