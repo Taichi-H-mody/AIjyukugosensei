@@ -17061,5 +17061,47 @@
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "児": [
+    {
+      "jukugo": "児童",
+      "reading": "じどう",
+      "meaning": "小学校に通う子どもや、幼い子どものこと。",
+      "example": "多くの児童が学校の運動場で元気いっぱいに遊んでいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幼児",
+      "reading": "ようじ",
+      "meaning": "まだ幼い子どものこと。主に小学校に入る前の子どもを指します。",
+      "example": "公園の砂場で、幼児たちが楽しそうに遊んでいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "育児",
+      "reading": "いくじ",
+      "meaning": "子どもを育てたり、世話をしたりすること。",
+      "example": "お母さんは毎日、忙しく育児をしています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新生児",
+      "reading": "しんせいじ",
+      "meaning": "生まれてからまだ日の浅い赤ちゃんのこと。",
+      "example": "病院で、生まれたばかりの新生児に会いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乳児",
+      "reading": "にゅうじ",
+      "meaning": "まだおっぱいを飲んでいるくらいの、幼い赤ちゃんのこと。",
+      "example": "乳児がベッドで気持ちよさそうに眠っています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
