@@ -20132,6 +20132,22 @@ const autoData = {
       "example": "私たちのチームは、相手チームを圧倒的な強さで破って優勝した。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "圧勝",
+      "reading": "あっしょう",
+      "meaning": "相手に大差をつけて、簡単に勝つこと。",
+      "example": "運動会のかけっこで、田中くんは他の子たちを大きく引き離して圧勝した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "低気圧",
+      "reading": "ていきあつ",
+      "meaning": "周りの空気と比べて、気圧（空気が押す力）が低いところ。雨が降ったり、天気が悪くなることが多い。",
+      "example": "天気予報で「低気圧が近づいてくるので、明日は雨でしょう」と言っていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "唱": [
