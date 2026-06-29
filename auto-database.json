@@ -18832,6 +18832,30 @@
       "example": "お祭りの会場には、たくさんの群衆があふれていました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "群生",
+      "reading": "ぐんせい",
+      "meaning": "草や木、花などがたくさん集まって生えること。",
+      "example": "公園の池のまわりには、きれいなユリの花が**群生**していました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "群島",
+      "reading": "ぐんとう",
+      "meaning": "小さな島がいくつも集まってできている地域（ちいき）。",
+      "example": "日本はたくさんの**群島**からなる国です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大群",
+      "reading": "たいぐん",
+      "meaning": "とても大きな群れ。たくさんの動物や人が集まっている様子。",
+      "example": "川にはサケの**大群**が力強く泳いでいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "照": [
