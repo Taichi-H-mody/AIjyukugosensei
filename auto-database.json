@@ -17884,6 +17884,14 @@
       "example": "ゲームに負けそうになったとき、相手チームが白旗を上げた。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手旗",
+      "reading": "てばた",
+      "meaning": "手で持って振る小さな旗。",
+      "example": "応援団が手旗を振って、選手たちを励ました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "居": [
@@ -18076,6 +18084,48 @@
       "reading": "くらに",
       "meaning": "倉庫に預けられている品物や荷物。",
       "example": "港の倉庫には、外国から届いたたくさんの倉荷が運び込まれていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "質": [
+    {
+      "jukugo": "質問",
+      "reading": "しつもん",
+      "meaning": "わからないことをたずねること。疑問に思うことを聞くこと。",
+      "example": "先生に分からないところを質問しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "品質",
+      "reading": "ひんしつ",
+      "meaning": "品物の良し悪し。できばえ。",
+      "example": "このカメラは写真の品質がとても良いです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体質",
+      "reading": "たいしつ",
+      "meaning": "生まれつき持っている体の特徴や性質。",
+      "example": "私は寒さに弱い体質なので、冬は厚着をします。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "材質",
+      "reading": "ざいしつ",
+      "meaning": "ものの材料の種類や性質。",
+      "example": "この机は木の材質でできていて、とても丈夫です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "物質",
+      "reading": "ぶっしつ",
+      "meaning": "形や重さがあるもの。物体。",
+      "example": "水や空気、石などはすべて物質です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
