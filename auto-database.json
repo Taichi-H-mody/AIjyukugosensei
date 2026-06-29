@@ -18801,5 +18801,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "照": [
+    {
+      "jukugo": "照明",
+      "reading": "しょうめい",
+      "meaning": "光を当てて明るくすること。または、そのための道具。",
+      "example": "暗い部屋の照明をつけたら、まわりが明るくなった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対照",
+      "reading": "たいしょう",
+      "meaning": "二つのものを比べたときに、はっきりと違いがわかること。",
+      "example": "白い雪と黒い木の枝が、とても対照的できれいだった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日照",
+      "reading": "にっしょう",
+      "meaning": "太陽の光が地面や物に当たること。または、その時間。",
+      "example": "おいしい野菜を育てるには、十分な日照が必要です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参照",
+      "reading": "さんしょう",
+      "meaning": "何かを調べたり、たしかめたりするために、他のものを見ること。",
+      "example": "わからない言葉は、国語辞典を参照して調べてみよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "照合",
+      "reading": "しょうごう",
+      "meaning": "二つ以上のものを見くらべて、合っているかどうかたしかめること。",
+      "example": "テストの答え合わせで、自分の答えと先生の答えを照合した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "争": [
+    {
+      "jukugo": "競争",
+      "reading": "きょうそう",
+      "meaning": "互いに優劣や勝敗を競い合うこと。",
+      "example": "運動会の徒競走で友達とゴールまで**競争**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "争奪",
+      "reading": "そうだつ",
+      "meaning": "互いに奪い合うこと。",
+      "example": "限定発売のおもちゃをめぐって、子どもたちが**争奪**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "争点",
+      "reading": "そうてん",
+      "meaning": "議論や対立の中心となる問題。",
+      "example": "どちらが先にゲームをするか、それが家族会議の今日の**争点**になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "論争",
+      "reading": "ろんそう",
+      "meaning": "互いに意見を述べ合い、正しいかどうかを話し合って争うこと。",
+      "example": "クラスで遠足の行き先について、活発な**論争**が起こった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紛争",
+      "reading": "ふんそう",
+      "meaning": "争いごとが起こり、もつれること。もめごと。",
+      "example": "兄と弟の間で、テレビのリモコンの**紛争**が始まった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
