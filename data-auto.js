@@ -18299,6 +18299,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "条": [
+    {
+      "jukugo": "条件",
+      "reading": "じょうけん",
+      "meaning": "物事をするときに必要な約束やきまり。",
+      "example": "このゲームには、いくつか合格するための**条件**があるよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "箇条書き",
+      "reading": "かじょうがき",
+      "meaning": "項目を一つずつ分けて、記号などを使って書くこと。",
+      "example": "今日の宿題の内容を、先生に**箇条書き**で教えてもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一条",
+      "reading": "いちじょう",
+      "meaning": "細長いものを数えるときに使う言葉。または、まっすぐな一筋。",
+      "example": "カーテンのすきまから、**一条**の光が部屋に差し込んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "条文",
+      "reading": "じょうぶん",
+      "meaning": "法律や規則などで、項目ごとにまとめられた文章。",
+      "example": "学校のきまりは、いくつかの**条文**に分かれて書かれている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "条約",
+      "reading": "じょうやく",
+      "meaning": "国と国との間でかわされる、大切な約束。",
+      "example": "世界の国々が協力するために、新しい**条約**を結んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
