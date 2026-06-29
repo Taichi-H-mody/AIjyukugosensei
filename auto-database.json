@@ -17927,5 +17927,81 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "祖": [
+    {
+      "jukugo": "祖父",
+      "reading": "そふ",
+      "meaning": "お父さんのお父さん、またはお母さんのお父さんのことです。",
+      "example": "お正月には、遠く離れて暮らす祖父と祖母に会いに行きます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祖母",
+      "reading": "そぼ",
+      "meaning": "お父さんのお母さん、またはお母さんのお母さんのことです。",
+      "example": "祖母が作ってくれる手料理は、いつもとてもおいしいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祖父母",
+      "reading": "そふぼ",
+      "meaning": "おじいさんとおばあさんを合わせた言い方です。",
+      "example": "夏休みは、祖父母の家に遊びに行くのが楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先祖",
+      "reading": "せんぞ",
+      "meaning": "自分たちよりずっと昔に生きていた、同じ家族や血のつながりのある人々のことです。",
+      "example": "お盆には、お墓参りをして先祖に感謝の気持ちを伝えます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祖国",
+      "reading": "そこく",
+      "meaning": "自分が生まれたり育ったりした、大切なふるさとの国のことです。",
+      "example": "わたしたちの祖国は日本です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "喜": [
+    {
+      "jukugo": "歓喜",
+      "reading": "かんき",
+      "meaning": "たいそう喜ぶこと。非常に嬉しいこと。",
+      "example": "運動会で優勝し、みんなで歓喜の声をあげました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "喜劇",
+      "reading": "きげき",
+      "meaning": "人を笑わせ、楽しい気持ちにさせる劇や映画。",
+      "example": "テレビで楽しい喜劇を見て、家族みんなで大笑いしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大喜利",
+      "reading": "おおぎり",
+      "meaning": "テレビ番組などで、出されたお題に対して面白い答えを言い合う芸。",
+      "example": "お正月は、テレビの大喜利を見て家族みんなで盛り上がりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "喜色",
+      "reading": "きしょく",
+      "meaning": "喜んでいる顔つきや表情。嬉しそうな顔。",
+      "example": "テストで良い点数を取ったと聞き、先生が喜色を浮かべました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
