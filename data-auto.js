@@ -19331,6 +19331,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "非": [
+    {
+      "jukugo": "非常",
+      "reading": "ひじょう",
+      "meaning": "ふつうではないこと。とても大切なこと。",
+      "example": "地震が起きたら非常階段を使って逃げましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "非行",
+      "reading": "ひこう",
+      "meaning": "正しくない行い。きまりに反する行い。",
+      "example": "非行はぜったいにしてはいけません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "非公開",
+      "reading": "ひこうかい",
+      "meaning": "だれにも見せないこと。人に見せない状態。",
+      "example": "この部屋は関係者以外は非公開です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "非売品",
+      "reading": "ひばいひん",
+      "meaning": "売り物ではない品物。",
+      "example": "このマンガはお店では買えない非売品です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "非力",
+      "reading": "ひりき",
+      "meaning": "力が弱いこと。力が足りないこと。",
+      "example": "僕はまだ非力だから、この重い箱は運べないよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
