@@ -18718,6 +18718,14 @@
       "example": "駅のホームで、電車が車両を連結する様子を見た。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結び目",
+      "reading": "むすびめ",
+      "meaning": "ひもなどをぎゅっと結んだところ。",
+      "example": "靴ひもの結び目がほどけないように、ぎゅっと結んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "在": [
@@ -21434,6 +21442,48 @@
       "reading": "ろうりょく",
       "meaning": "何かをするときに使う力や手間。",
       "example": "この大きな石を動かすには、みんなでたくさんの労力を合わせる必要があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "易": [
+    {
+      "jukugo": "容易",
+      "reading": "ようい",
+      "meaning": "たやすいこと。やさしいこと。",
+      "example": "この算数の問題は、思ったよりも**容易**に解けました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "国と国との間で、品物などをやりとりすること。",
+      "example": "日本はたくさんの国と**貿易**をして、色々な物を輸入したり輸出したりしています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "簡易",
+      "reading": "かんい",
+      "meaning": "簡単で手間がかからないこと。",
+      "example": "災害時に備えて、**簡易**トイレの使い方も練習しておきましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "難易",
+      "reading": "なんい",
+      "meaning": "難しいか、易しいかということ。むずかしさの度合い。",
+      "example": "このゲームの**難易**度は、子ども向けなのでとても優しいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安易",
+      "reading": "あんい",
+      "meaning": "物事を深く考えず、簡単な方法を選んだり、いい加減に済ませたりすること。",
+      "example": "**安易**な気持ちで決めるのではなく、よく考えてから行動しましょう。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
