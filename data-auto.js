@@ -21148,6 +21148,22 @@ const autoData = {
       "example": "家には、急な病気に備えて常備薬が置いてあります。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "備蓄",
+      "reading": "びちく",
+      "meaning": "将来に備えて、食料品などをたくわえておくこと。",
+      "example": "災害に備えて、水や食べ物を備蓄しておきましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "備品",
+      "reading": "びひん",
+      "meaning": "事務や事業で使う、繰り返し利用できる品物。",
+      "example": "学校の机やいす、ロッカーなどは備品です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "飯": [
