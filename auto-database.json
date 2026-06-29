@@ -17633,5 +17633,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "基": [
+    {
+      "jukugo": "基礎",
+      "reading": "きそ",
+      "meaning": "物事の土台となる大切な部分。",
+      "example": "算数の基礎をしっかり学ぶと、応用問題も解けるようになる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基本",
+      "reading": "きほん",
+      "meaning": "物事のもとになる大切な事柄。",
+      "example": "野球の基本は、キャッチボールとバッティング練習だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基地",
+      "reading": "きち",
+      "meaning": "活動の拠点となる場所。",
+      "example": "友達と力を合わせて、森の中に秘密基地を作った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基準",
+      "reading": "きじゅん",
+      "meaning": "物事を比べたり、判断したりするときの目安。",
+      "example": "鉄棒のテストでは、逆上がりができることが合格の基準だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基盤",
+      "reading": "きばん",
+      "meaning": "物事が成り立つための土台。",
+      "example": "電気や水道は、私たちの生活を支える大切な基盤だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "差": [
+    {
+      "jukugo": "時差",
+      "reading": "じさ",
+      "meaning": "地域によって時刻が違うこと。",
+      "example": "日本とアメリカには時差がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交差点",
+      "reading": "こうさてん",
+      "meaning": "道と道が交わっている場所。",
+      "example": "信号のない交差点では、左右をよく見て渡ろう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "差出人",
+      "reading": "さしだしにん",
+      "meaning": "手紙や荷物を送った人のこと。",
+      "example": "はがきには、差出人の名前と住所を忘れずに書こう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個人差",
+      "reading": "こじんさ",
+      "meaning": "人それぞれに違うこと。",
+      "example": "走る速さには個人差がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誤差",
+      "reading": "ごさ",
+      "meaning": "正しい値と、実際に測ったり計算したりした値とのずれ。",
+      "example": "実験では、少しの誤差が出ることがある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
