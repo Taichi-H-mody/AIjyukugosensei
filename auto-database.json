@@ -20020,6 +20020,14 @@
       "example": "はれて空気がきれいな日は、遠くから富士山が見えるよ。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兵士",
+      "reading": "へいし",
+      "meaning": "軍隊に入り、国を守る仕事をする人。",
+      "example": "歴史の教科書には、昔の兵士の姿がえがかれていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "軍": [
@@ -22918,6 +22926,48 @@
       "reading": "ほうじょう",
       "meaning": "作物が豊かに実ること。",
       "example": "秋には、大地の恵みに感謝して、豊穣を祝うお祭りが行われるんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "略": [
+    {
+      "jukugo": "省略",
+      "reading": "しょうりゃく",
+      "meaning": "いらない部分をはぶいたり、短くしたりすること。",
+      "example": "長い文章を**省略**して書く。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "略図",
+      "reading": "りゃくず",
+      "meaning": "くわしい部分をはぶいて、かんたんに書いた図のこと。",
+      "example": "公園までの道を**略図**で教えてもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "略語",
+      "reading": "りゃくご",
+      "meaning": "言葉を短くしたもののこと。",
+      "example": "「スマホ」は「スマートフォン」の**略語**だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "略称",
+      "reading": "りゃくしょう",
+      "meaning": "正式な名前を短くして呼ぶこと。また、その短い呼び名。",
+      "example": "「NHK」は「日本放送協会」の**略称**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦略",
+      "reading": "せんりゃく",
+      "meaning": "ある目的を達成するために、どうすればよいかを考える全体的な計画や方法。",
+      "example": "試合に勝つための**戦略**をみんなで話し合った。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
