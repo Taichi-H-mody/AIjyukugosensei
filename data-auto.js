@@ -21305,6 +21305,56 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "防": [
+    {
+      "jukugo": "予防",
+      "reading": "よぼう",
+      "meaning": "病気や事故などが起こらないように、前もって防ぐこと。",
+      "example": "風邪の予防のために、うがいと手洗いをしっかりしましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防水",
+      "reading": "ぼうすい",
+      "meaning": "水がしみ込んだり、ぬれたりするのを防ぐこと。",
+      "example": "この時計は防水なので、雨の日でも安心して使えます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防災",
+      "reading": "ぼうさい",
+      "meaning": "地震や台風などの災害が起きないようにしたり、被害を少なくしたりすること。",
+      "example": "学校では、地震が起きたときのために防災訓練を行います。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防犯",
+      "reading": "ぼうはん",
+      "meaning": "泥棒や誘拐などの犯罪から身を守り、被害に遭わないように防ぐこと。",
+      "example": "知らない人に声をかけられたら、防犯ブザーを鳴らして助けを求めましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防火",
+      "reading": "ぼうか",
+      "meaning": "火事が起こるのを防いだり、火が燃え広がるのを防いだりすること。",
+      "example": "火の元に気をつけて、防火を心がけましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "堤防",
+      "reading": "ていぼう",
+      "meaning": "川や海の水のあふれるのを防ぐために、人間が作った土手や壁のこと。",
+      "example": "堤防のおかげで、大雨が降っても川の水があふれません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
