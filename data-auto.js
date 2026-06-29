@@ -18441,6 +18441,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "戦": [
+    {
+      "jukugo": "戦争",
+      "reading": "せんそう",
+      "meaning": "国と国が兵力を使って争うこと。",
+      "example": "二度と**戦争**が起きないように、世界中の人々が平和を願っています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦闘",
+      "reading": "せんとう",
+      "meaning": "兵士が武器を使って戦うこと。たたかい。",
+      "example": "ゲームの中で、ヒーローたちは敵と激しい**戦闘**をくり広げました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "挑戦",
+      "reading": "ちょうせん",
+      "meaning": "新しいことや難しいことに思い切って立ち向かうこと。",
+      "example": "初めてのピアノ発表会に**挑戦**することにしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦車",
+      "reading": "せんしゃ",
+      "meaning": "装甲で覆われ、大砲などを積んだ軍用車両。",
+      "example": "博物館には、昔使われていた大きな**戦車**が展示されていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作戦",
+      "reading": "さくせん",
+      "meaning": "何かを成功させるための計画や考え方。",
+      "example": "運動会でリレーに勝つために、みんなで**作戦**を立てました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
