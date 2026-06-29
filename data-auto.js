@@ -19213,6 +19213,40 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "属": [
+    {
+      "jukugo": "所属",
+      "reading": "しょぞく",
+      "meaning": "ある団体やグループの一員であること。",
+      "example": "私はサッカークラブに**所属**しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金属",
+      "reading": "きんぞく",
+      "meaning": "鉄や銅、金などのように、かたくて光る性質をもつ物質のこと。",
+      "example": "10円玉は**金属**でできています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "付属",
+      "reading": "ふぞく",
+      "meaning": "主となるものに、おまけとして付いていること。",
+      "example": "このゲームには、**付属**のカードがついています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "専属",
+      "reading": "せんぞく",
+      "meaning": "特定の会社や人のためだけに働くこと。他のところでは働かないこと。",
+      "example": "プロのスポーツ選手には、体をケアしてくれる**専属**の人がいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
