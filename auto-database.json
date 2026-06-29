@@ -19723,5 +19723,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "士": [
+    {
+      "jukugo": "武士",
+      "reading": "ぶし",
+      "meaning": "昔、刀を持って戦い、国を守ったり、主人に仕えたりした人のこと。",
+      "example": "テレビの時代劇で、かっこいい武士が刀を持って戦っていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "力士",
+      "reading": "りきし",
+      "meaning": "相撲取りのこと。大きな体で土俵の上で力くらべをする人。",
+      "example": "テレビで見た力士は、とても体が大きくて強そうだった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紳士",
+      "reading": "しんし",
+      "meaning": "礼儀正しく、親切で、行儀の良い男性のこと。",
+      "example": "その紳士は、こまっているお年寄りをやさしく助けてあげた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "騎士",
+      "reading": "きし",
+      "meaning": "昔のヨーロッパで、馬に乗って戦い、お城の王様やお姫様を守っていた人のこと。",
+      "example": "物語に出てくる騎士は、つよい剣とよろいを身につけている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富士山",
+      "reading": "ふじさん",
+      "meaning": "日本で一番高い山の名前。世界いさんにも登録されている。",
+      "example": "はれて空気がきれいな日は、遠くから富士山が見えるよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
