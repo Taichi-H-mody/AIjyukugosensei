@@ -22513,6 +22513,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "確": [
+    {
+      "jukugo": "確認",
+      "reading": "かくにん",
+      "meaning": "確かめて間違いがないか見ること。",
+      "example": "出発前に持ち物の確認をしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "確実",
+      "reading": "かくじつ",
+      "meaning": "間違いがなく、確かなこと。",
+      "example": "明日の遠足は晴れが確実だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正確",
+      "reading": "せいかく",
+      "meaning": "間違いがなく、正しいこと。",
+      "example": "彼はいつも正確な答えを出します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "確保",
+      "reading": "かくほ",
+      "meaning": "必要なものを手に入れたり、場所や時間をとっておいたりすること。",
+      "example": "運動会の良い席を確保しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "確定",
+      "reading": "かくてい",
+      "meaning": "はっきりと決まること。",
+      "example": "夏休みの予定が確定しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
