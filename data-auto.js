@@ -17380,6 +17380,14 @@ const autoData = {
       "example": "ゲームのキャラクターの名前を設定する。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "施設",
+      "reading": "しせつ",
+      "meaning": "ある目的のために作られた建物や場所。",
+      "example": "図書館はみんなが使える公共施設だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "任": [
@@ -20636,6 +20644,48 @@ const autoData = {
       "reading": "しょうしつ",
       "meaning": "消えてなくなること。見えなくなること。",
       "example": "夕焼け空に、雲がだんだんと消失していった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "毒": [
+    {
+      "jukugo": "毒物",
+      "reading": "どくぶつ",
+      "meaning": "体に悪い影響を与えるもの、毒になるもの。",
+      "example": "毒物はぜったいにさわってはいけません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有毒",
+      "reading": "ゆうどく",
+      "meaning": "毒があること。",
+      "example": "このきのこは有毒なので、食べないでください。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "猛毒",
+      "reading": "もうどく",
+      "meaning": "とても強い毒のこと。",
+      "example": "あのヘビは猛毒をもっているので、ちかづかないようにしましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解毒",
+      "reading": "げどく",
+      "meaning": "体に入った毒の害をなくすこと。",
+      "example": "きけんなものを食べてしまっても、解毒すれば元気になります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毒薬",
+      "reading": "どくやく",
+      "meaning": "飲むと体に悪い影響がある薬。",
+      "example": "毒薬は、まちがって飲まないようにきびしく管理されています。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
