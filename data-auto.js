@@ -17189,6 +17189,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "帯": [
+    {
+      "jukugo": "熱帯",
+      "reading": "ねったい",
+      "meaning": "一年中とても暑い、あたたかい地域のことで、たくさんのめずらしい生き物がすんでいます。",
+      "example": "熱帯のジャングルには、色とりどりの鳥がたくさんいるよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "温帯",
+      "reading": "おんたい",
+      "meaning": "暑すぎず寒すぎない、四季の変化がある地域のことで、日本もこの温帯にふくまれます。",
+      "example": "日本は温帯にぞくしているので、春には桜がさき、秋にはもみじがきれいだね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "携帯",
+      "reading": "けいたい",
+      "meaning": "物をいつも身につけて持ち歩くこと。また、持ち歩けるように小さくつくられていること。",
+      "example": "ぼくの家では、いつも緊急のときのために携帯ラジオをじゅんびしているよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包帯",
+      "reading": "ほうたい",
+      "meaning": "けがをしたところをまいて、まもったり、固定したりするための白い布。",
+      "example": "転んでひざをすりむいてしまったので、保健室で包帯をまいてもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地帯",
+      "reading": "ちたい",
+      "meaning": "あるとくちょうをもった広い地域のこと。",
+      "example": "このあたりは、むかしは静かな田んぼの多い地帯だったんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "逆": [
+    {
+      "jukugo": "逆上がり",
+      "reading": "さかあがり",
+      "meaning": "鉄棒などで、体をひっくり返して上に上がる運動。",
+      "example": "体育の時間に、鉄棒で逆上がりができるようになりたいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆さま",
+      "reading": "さかさま",
+      "meaning": "上下や順序がひっくり返っていること。",
+      "example": "コップを逆さまに置いて、水滴をきりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "状況や順位が、それまでと反対になること。不利な状況から有利になること。",
+      "example": "野球の試合で、最後にホームランが出て、試合を逆転しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆立ち",
+      "reading": "さかだち",
+      "meaning": "両手で体を支え、頭を下にして足を上にあげる動き。",
+      "example": "公園で友達が逆立ちを披露して、みんなを驚かせました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆風",
+      "reading": "ぎゃくふう",
+      "meaning": "前から吹いてくる風。向かい風。",
+      "example": "自転車で走っていると、強い逆風が吹いてきて、進むのが大変でした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
