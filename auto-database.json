@@ -20049,5 +20049,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "損": [
+    {
+      "jukugo": "損害",
+      "reading": "そんがい",
+      "meaning": "物が壊れたり、なくなったりして受ける被害のこと。",
+      "example": "台風で窓ガラスが割れて、家に損害が出た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "損得",
+      "reading": "そんとく",
+      "meaning": "得になることと、損になること。良いことか悪いことか。",
+      "example": "おまけがたくさんつくから、このお菓子を買うのは損得で考えると得だね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "損傷",
+      "reading": "そんしょう",
+      "meaning": "物が傷ついたり、一部が壊れたりすること。",
+      "example": "大切な本を落としてしまい、表紙に少し損傷ができてしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大損",
+      "reading": "おおぞん",
+      "meaning": "とてもたくさん損をすること。大きくマイナスになること。",
+      "example": "買ったばかりのゲームをすぐに壊してしまい、大損をしてしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "損失",
+      "reading": "そんしつ",
+      "meaning": "お金や大切な物を失ってしまうこと。",
+      "example": "せっかく集めたカードをなくしてしまい、大きな損失だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
