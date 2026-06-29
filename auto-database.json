@@ -18481,5 +18481,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "刷": [
+    {
+      "jukugo": "印刷",
+      "reading": "いんさつ",
+      "meaning": "文字や絵などを、たくさん紙に写し出すこと。",
+      "example": "夏休みの思い出の写真を、家で印刷した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "刷毛",
+      "reading": "はけ",
+      "meaning": "絵の具やペンキなどを塗るときに使う、毛の束の道具。",
+      "example": "古いイスにペンキを塗るため、太い刷毛を使った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "増刷",
+      "reading": "ぞうさつ",
+      "meaning": "売れ行きがよい本などを、さらにもう一度、同じようにたくさん作ること。",
+      "example": "人気の絵本は、何回も増刷されていった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "刷新",
+      "reading": "さっしん",
+      "meaning": "古い考え方ややり方をやめて、すべて新しくすること。",
+      "example": "みんなで話し合って、クラブの新しいルールに刷新した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "刷り物",
+      "reading": "すりもの",
+      "meaning": "文字や絵が印刷されたもの。チラシやパンフレットなど。",
+      "example": "昔の人が作った貴重な刷り物が、博物館に展示されていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "産": [
+    {
+      "jukugo": "生産",
+      "reading": "せいさん",
+      "meaning": "物を作ること。野菜を育てたり、工場で品物を作ったりすること。",
+      "example": "この工場では、毎日たくさんの自動車を**生産**しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出産",
+      "reading": "しゅっさん",
+      "meaning": "お母さんが赤ちゃんを産むこと。新しい命が生まれること。",
+      "example": "お母さんは、元気な女の子を**出産**しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "産業",
+      "reading": "さんぎょう",
+      "meaning": "人々の生活に役立つ仕事の大きなまとまり。農業や工業、サービス業などいろいろな種類がある。",
+      "example": "この町は、農業がさかんな**産業**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "物産",
+      "reading": "ぶっさん",
+      "meaning": "ある土地でとれる特別な品物。その土地ならではの食べ物やお土産など。",
+      "example": "旅行先で、その土地のめずらしい**物産**を買いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "財産",
+      "reading": "ざいさん",
+      "meaning": "土地や建物、お金など、価値のある大切な持ち物。",
+      "example": "この美しい自然は、私たちの大切な**財産**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
