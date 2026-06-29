@@ -21153,5 +21153,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "貸": [
+    {
+      "jukugo": "貸し出し",
+      "reading": "かしだし",
+      "meaning": "図書館などで、本や物を借りること。",
+      "example": "図書館で、借りたい本を**貸し出し**カウンターに持っていきました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸し借り",
+      "reading": "かしかり",
+      "meaning": "物やお金を、人にあげたり人からもらったりすること。",
+      "example": "友達とのゲームの**貸し借り**は、大切にしようね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸本",
+      "reading": "かしほん",
+      "meaning": "お店でお金を払って借りる本。また、人に貸すための本。",
+      "example": "昔は、色々な本が読める**貸本**屋さんがたくさんありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸家",
+      "reading": "かしや",
+      "meaning": "他の人に住んでもらうために、貸している家。",
+      "example": "わたしの近所には、だれかが住めるように**貸家**になっている家があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貸し切り",
+      "reading": "かしきり",
+      "meaning": "バスやお店などを、他の人が使わないように自分たちだけで全部借りること。",
+      "example": "クラスの遠足で、バスを**貸し切り**にしてみんなで出かけました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "破": [
+    {
+      "jukugo": "破片",
+      "reading": "はへん",
+      "meaning": "物が割れたり壊れたりして飛び散ったかけら。",
+      "example": "窓ガラスが割れて、床にたくさんの破片が散らばった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破損",
+      "reading": "はそん",
+      "meaning": "物が壊れたり、傷ついたりすること。",
+      "example": "地震で壁にひびが入り、家の一部が破損した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "突破",
+      "reading": "とっぱ",
+      "meaning": "困難な状況や障害を乗り越えること。",
+      "example": "難しい試験だったけれど、努力して見事合格ラインを突破した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破裂",
+      "reading": "はれつ",
+      "meaning": "物が急に割れたり裂けたりして、中身が飛び出ること。",
+      "example": "古い風船をふくらませすぎたら、大きな音を立てて破裂した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破壊",
+      "reading": "はかい",
+      "meaning": "物をこわしたり、使えなくしたりすること。",
+      "example": "嵐は古い橋を破壊し、交通に大きなえいきょうが出た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
