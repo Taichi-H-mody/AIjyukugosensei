@@ -21604,6 +21604,14 @@ const autoData = {
       "example": "映画の**前編**を見たから、早く後編も見たいな。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "後編",
+      "reading": "こうへん",
+      "meaning": "二つに分かれている物語や映画などの、後半部分。",
+      "example": "物語の後編がとても楽しみだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ]
 };
