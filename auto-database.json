@@ -22211,5 +22211,39 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "飼": [
+    {
+      "jukugo": "飼育",
+      "reading": "しいく",
+      "meaning": "動物を育てて、お世話をすること。",
+      "example": "動物園では、たくさんの動物を**飼育**しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飼い主",
+      "reading": "かいぬし",
+      "meaning": "ペットとして動物を飼っている人のこと。",
+      "example": "犬の**飼い主**さんは、毎日散歩に連れて行きます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飼い犬",
+      "reading": "かいいぬ",
+      "meaning": "家で飼っている犬のこと。",
+      "example": "ぼくの**飼い犬**は、とても元気でよく遊びます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飼料",
+      "reading": "しりょう",
+      "meaning": "家畜やペットにあたえる、えさのこと。",
+      "example": "牧場では、牛にたくさんの**飼料**を与えています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
