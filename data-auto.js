@@ -18887,6 +18887,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "因": [
+    {
+      "jukugo": "原因",
+      "reading": "げんいん",
+      "meaning": "物事が起こるもとになったこと。どうしてそうなったか、のわけ。",
+      "example": "交通事故の原因を調べました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "要因",
+      "reading": "よういん",
+      "meaning": "あることが起こるために大切な理由やわけ。いくつかある原因の中で、特に大切なもの。",
+      "example": "チームが勝てた一番の要因は、みんなで協力したことです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誘因",
+      "reading": "ゆういん",
+      "meaning": "あることが起こるきっかけになった原因。",
+      "example": "ストレスが病気の誘因になることがあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主因",
+      "reading": "しゅいん",
+      "meaning": "いちばん主な原因。",
+      "example": "失敗の主因は、準備が足りなかったことでした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠因",
+      "reading": "えんいん",
+      "meaning": "直接的ではないけれど、ずっと前にあった原因。",
+      "example": "その問題には、ずいぶん昔からの遠因があるのかもしれません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
