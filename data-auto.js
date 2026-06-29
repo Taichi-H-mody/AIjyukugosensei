@@ -19767,6 +19767,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "軍": [
+    {
+      "jukugo": "軍手",
+      "reading": "ぐんて",
+      "meaning": "作業などで手を保護するために使う丈夫な手袋。",
+      "example": "運動会で使うテントを立てるとき、みんなで軍手をして手伝った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軍人",
+      "reading": "ぐんじん",
+      "meaning": "国を守る仕事をする人。",
+      "example": "歴史の教科書で、有名な軍人の名前を覚えた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軍隊",
+      "reading": "ぐんたい",
+      "meaning": "国を守るために組織された集団。",
+      "example": "テレビのドキュメンタリーで、ある国の軍隊の訓練の様子を見た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軍艦",
+      "reading": "ぐんかん",
+      "meaning": "国を守るための大きな船。",
+      "example": "港に停まっている大きな軍艦の絵を描いた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "陸軍",
+      "reading": "りくぐん",
+      "meaning": "陸の上で国を守る軍隊。",
+      "example": "昔の戦争では、陸軍が重要な役割を果たしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
