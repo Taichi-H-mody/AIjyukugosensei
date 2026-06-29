@@ -22169,5 +22169,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "許": [
+    {
+      "jukugo": "許可",
+      "reading": "きょか",
+      "meaning": "してもよいと認めること。",
+      "example": "先生に公園で遊ぶ許可をもらいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "免許",
+      "reading": "めんきょ",
+      "meaning": "特定のことをしてもよいと、国や団体が正式に認めること。",
+      "example": "将来、車の運転免許を取りたいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特許",
+      "reading": "とっきょ",
+      "meaning": "新しい発明をした人に、それを独占的に使える権利を国が認めること。",
+      "example": "この新しいおもちゃは、特別な技術で特許をとっています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不許可",
+      "reading": "ふきょか",
+      "meaning": "許可しないこと。認めてはいけないこと。",
+      "example": "危険な場所なので、入ることは不許可です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "許容",
+      "reading": "きょよう",
+      "meaning": "受け入れて許すこと。ある程度認めること。",
+      "example": "先生は、少しの失敗なら許容してくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
