@@ -22305,6 +22305,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "謝": [
+    {
+      "jukugo": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "ありがたいと思う気持ちを表すこと。また、その気持ち。",
+      "example": "いつも助けてくれる友達に心から感謝する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝罪",
+      "reading": "しゃざい",
+      "meaning": "悪いことや迷惑をかけたことをわびること。",
+      "example": "おもちゃを壊してしまったので、すぐに謝罪した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝礼",
+      "reading": "しゃれい",
+      "meaning": "助けてくれたり、何かをしてくれたりしたことへのお礼として渡すお金や品物。",
+      "example": "手伝ってくれたお礼に、少しばかりの謝礼を渡した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝意",
+      "reading": "しゃい",
+      "meaning": "感謝の気持ち、お礼の気持ち。",
+      "example": "プレゼントをもらったお礼に、謝意を込めた手紙を書いた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝恩",
+      "reading": "しゃおん",
+      "meaning": "受けた恩（お世話になったこと）に感謝すること。",
+      "example": "小学校を卒業する前に、先生への謝恩会が開かれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
