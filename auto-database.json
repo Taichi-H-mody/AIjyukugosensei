@@ -20152,6 +20152,30 @@
       "example": "昔話には、遠い道を歩く徒人がよく登場します。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信徒",
+      "reading": "しんと",
+      "meaning": "ある宗教や教えを信じている人のこと。",
+      "example": "教会には、たくさんの信徒が集まっていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "門徒",
+      "reading": "もんと",
+      "meaning": "先生の教えを信じ、そのグループに属する人のこと。弟子という意味でも使われる。",
+      "example": "お寺の住職には、何人かの門徒がいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒弟",
+      "reading": "とてい",
+      "meaning": "職人や先生に弟子入りして、その技術や知識を学ぶ人のこと。",
+      "example": "大工さんの徒弟として、毎日一生懸命に働いています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "損": [
@@ -21234,6 +21258,48 @@
       "reading": "はかい",
       "meaning": "物をこわしたり、使えなくしたりすること。",
       "example": "嵐は古い橋を破壊し、交通に大きなえいきょうが出た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "勢": [
+    {
+      "jukugo": "大勢",
+      "reading": "おおぜい",
+      "meaning": "たくさんの人。",
+      "example": "お祭りの会場には、**大勢**の人が集まっていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姿勢",
+      "reading": "しせい",
+      "meaning": "体の構え方や、物事に対する向き合い方。",
+      "example": "良い**姿勢**で椅子に座ると、集中力が上がります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "情勢",
+      "reading": "じょうせい",
+      "meaning": "今の状況や様子。",
+      "example": "ニュースで、世界のいろいろな**情勢**を知ることができます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "態勢",
+      "reading": "たいせい",
+      "meaning": "ある物事を始めるための準備ができた状態。",
+      "example": "運動会のリレーでは、みんながスタートの**態勢**に入りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "優勢",
+      "reading": "ゆうせい",
+      "meaning": "相手よりも有利なこと、優れていること。",
+      "example": "サッカーの試合は、私たちのチームが**優勢**に進めていました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
