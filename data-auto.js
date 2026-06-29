@@ -19171,6 +19171,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "規": [
+    {
+      "jukugo": "規則",
+      "reading": "きそく",
+      "meaning": "みんなで守るべき決まりやルール。",
+      "example": "学校の規則を守って、みんなが気持ちよく過ごしましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "定規",
+      "reading": "じょうぎ",
+      "meaning": "まっすぐな線を引いたり、物の長さを測ったりするのに使う道具。",
+      "example": "定規を使って、図形をきれいに描きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "規定",
+      "reading": "きてい",
+      "meaning": "物事のやり方や内容について、あらかじめ決めておくこと。また、その決まり。",
+      "example": "試合の規定を確認して、正しいルールで遊びましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "規模",
+      "reading": "きぼ",
+      "meaning": "物事の大きさや、広がりの程度。",
+      "example": "今年の運動会は、去年よりも大きな規模で行われました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "規格",
+      "reading": "きかく",
+      "meaning": "物や製品の形、大きさ、質などについて、みんなが同じになるように決めた決まり。",
+      "example": "このおもちゃは、世界の規格に合わせて安全に作られています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
