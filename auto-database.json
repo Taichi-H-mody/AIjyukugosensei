@@ -22971,5 +22971,81 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "講": [
+    {
+      "jukugo": "講義",
+      "reading": "こうぎ",
+      "meaning": "先生が、生徒やたくさんの人の前で、ある事柄について教えたり説明したりすること。",
+      "example": "先生の講義をしっかり聞いて、新しいことを学びました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講演",
+      "reading": "こうえん",
+      "meaning": "多くの人の前で、あるテーマについて話すこと。",
+      "example": "有名な作家が学校で講演をしてくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講堂",
+      "reading": "こうどう",
+      "meaning": "集会や講演など、たくさんの人が集まって話を聞いたりするのに使う、広くて大きな部屋。",
+      "example": "入学式は体育館の隣にある講堂で行われました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講習",
+      "reading": "こうしゅう",
+      "meaning": "短い期間で、ある技術や知識を学ぶこと。",
+      "example": "夏休みには、水泳講習に参加して泳ぎ方を練習しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講座",
+      "reading": "こうざ",
+      "meaning": "あるテーマについて、何回かに分けて学んでいく勉強会や授業のこと。",
+      "example": "図書館で、おもしろい歴史の講座が開かれるので参加したいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "鏡": [
+    {
+      "jukugo": "手鏡",
+      "reading": "てかがみ",
+      "meaning": "手に持って使う小さな鏡のこと。",
+      "example": "お出かけ前に、手鏡で髪の毛を直しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "虫眼鏡",
+      "reading": "むしめがね",
+      "meaning": "小さなものを大きく見せる道具のこと。",
+      "example": "公園で虫眼鏡を使って、アリをじっくり観察しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "眼鏡",
+      "reading": "めがね",
+      "meaning": "目を保護したり、視力を助けたりする道具のこと。",
+      "example": "お父さんは本を読むときに眼鏡をかけます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "遠くのものを近くに見ることができる道具のこと。",
+      "example": "夜、望遠鏡で月や星を観察するのが楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
