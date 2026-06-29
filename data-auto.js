@@ -17105,6 +17105,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "肥": [
+    {
+      "jukugo": "肥満",
+      "reading": "ひまん",
+      "meaning": "太りすぎていること。体の脂肪が増えすぎた状態。",
+      "example": "運動をしないで食べすぎると、肥満になることがあるよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肥料",
+      "reading": "ひりょう",
+      "meaning": "植物が元気に育つために、土に入れる栄養分。",
+      "example": "畑に肥料をまくと、野菜がぐんぐん大きく育つんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肥大",
+      "reading": "ひだい",
+      "meaning": "ものが大きく太ること。膨らむこと。",
+      "example": "この木の根っこは、地面の中で肥大して、とても太くなっているね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肥沃",
+      "reading": "ひよく",
+      "meaning": "土地がとても豊かで、作物がよく育つこと。",
+      "example": "ナイル川のまわりは、毎年、土が肥沃になるので、たくさんの作物がとれるんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肥育",
+      "reading": "ひいく",
+      "meaning": "家畜（牛や豚など）を太らせて大きく育てること。",
+      "example": "牧場では、おいしいお肉のために、牛をじょうずに肥育しているんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
