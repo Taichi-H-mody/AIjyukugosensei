@@ -19925,6 +19925,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "唱": [
+    {
+      "jukugo": "合唱",
+      "reading": "がっしょう",
+      "meaning": "たくさんの人が声を合わせて歌うこと。",
+      "example": "音楽の時間に、みんなで「ふるさと」を合唱しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独唱",
+      "reading": "どくしょう",
+      "meaning": "一人で歌を歌うこと。",
+      "example": "学芸会で、ゆうきさんが素晴らしい独唱をひろうしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "斉唱",
+      "reading": "せいしょう",
+      "meaning": "たくさんの人が同じメロディーを歌うこと。",
+      "example": "入学式で、みんなで校歌を斉唱しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歌唱",
+      "reading": "かしょう",
+      "meaning": "歌を歌うこと。また、その歌い方。",
+      "example": "彼女の歌唱力は、まるでプロ歌手のようです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高唱",
+      "reading": "こうしょう",
+      "meaning": "声を大きくして歌うこと。",
+      "example": "運動会で、応援歌をみんなで高唱しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
