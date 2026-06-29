@@ -19575,6 +19575,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "仮": [
+    {
+      "jukugo": "仮面",
+      "reading": "かめん",
+      "meaning": "顔をおおって、だれかわからないようにしたり、別の姿になったりするためのもの。",
+      "example": "お祭りのとき、おもしろい仮面をつけて遊んだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仮病",
+      "reading": "けびょう",
+      "meaning": "病気ではないのに、病気になったふりをすること。",
+      "example": "学校に行きたくなくて、仮病を使ったことがある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仮装",
+      "reading": "かそう",
+      "meaning": "いつもとちがう服や姿になること。",
+      "example": "ハロウィンの日に、みんなで好きなキャラクターに仮装した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仮名",
+      "reading": "かな",
+      "meaning": "ひらがなやカタカナのこと。漢字の読みを表すときなどにも使う。",
+      "example": "この漢字の読み方を仮名で書きなさい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仮眠",
+      "reading": "かみん",
+      "meaning": "短い時間だけ眠ること。少しの間だけ寝ること。",
+      "example": "疲れたので、休憩時間に机の上で仮眠をとった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
