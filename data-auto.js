@@ -21355,6 +21355,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "議": [
+    {
+      "jukugo": "会議",
+      "reading": "かいぎ",
+      "meaning": "みんなで集まって、あることについて話し合うこと。",
+      "example": "先生とクラスのみんなで、遠足の行き先について会議を開いた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "議会",
+      "reading": "ぎかい",
+      "meaning": "国や市、町などの政治について話し合い、決まりを作る場所や機関。",
+      "example": "市の議会で、新しい図書館を作るかどうかが話し合われた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "議論",
+      "reading": "ぎろん",
+      "meaning": "自分の意見を言ったり、相手の意見を聞いたりして、ある物事について深く話し合うこと。",
+      "example": "クラスで、給食の残りを減らすにはどうしたら良いか、活発に議論した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "議長",
+      "reading": "ぎちょう",
+      "meaning": "会議などで、話し合いがスムーズに進むようにまとめ役をする人。",
+      "example": "クラス会の議長に選ばれて、みんなの意見を上手にまとめた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "議題",
+      "reading": "ぎだい",
+      "meaning": "会議などで話し合うことの中心となる内容。",
+      "example": "今日の会議の議題は、運動会の出し物についてです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "労": [
+    {
+      "jukugo": "労働",
+      "reading": "ろうどう",
+      "meaning": "お金をもらって働くこと。仕事。",
+      "example": "お父さんは、家族のために毎日一生懸命労働しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苦労",
+      "reading": "くろう",
+      "meaning": "つらかったり、大変だったりする経験をすること。",
+      "example": "おばあちゃんは、若い頃にたくさんの苦労をしたと話してくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "疲労",
+      "reading": "ひろう",
+      "meaning": "体がとても疲れること。",
+      "example": "運動会の練習で、体に疲労がたまって、ぐっすり眠りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勤労",
+      "reading": "きんろう",
+      "meaning": "まじめに仕事をしたり、勉強したりすること。",
+      "example": "日本には、働くことに感謝する「勤労感謝の日」という祝日があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "労力",
+      "reading": "ろうりょく",
+      "meaning": "何かをするときに使う力や手間。",
+      "example": "この大きな石を動かすには、みんなでたくさんの労力を合わせる必要があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
