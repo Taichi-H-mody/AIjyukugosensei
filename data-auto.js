@@ -18735,6 +18735,74 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "停": [
+    {
+      "jukugo": "停止",
+      "reading": "ていし",
+      "meaning": "止まること。止めること。",
+      "example": "赤いランプが点いたので、機械が停止した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "停車",
+      "reading": "ていしゃ",
+      "meaning": "電車やバスなどの乗り物が止まること。",
+      "example": "バスは次の停留所に停車します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "停電",
+      "reading": "ていでん",
+      "meaning": "電気が使えなくなること。",
+      "example": "台風で電線が切れて、家が停電になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "停留所",
+      "reading": "ていりゅうじょ",
+      "meaning": "バスが止まって、お客さんを乗せたり降ろしたりする場所。",
+      "example": "学校の前にバスの停留所がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一時停止",
+      "reading": "いちじていし",
+      "meaning": "少しの間だけ止まること。交通ルールで使うことが多いです。",
+      "example": "交差点では、必ず一時停止の標識を守ろう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "群": [
+    {
+      "jukugo": "群読",
+      "reading": "ぐんどく",
+      "meaning": "みんなで声を合わせて文章を読むこと。",
+      "example": "国語の時間に、みんなで大きな声で詩を群読しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "群馬",
+      "reading": "ぐんま",
+      "meaning": "日本の県の名前。関東地方にあるよ。",
+      "example": "群馬県には、温泉がたくさんあることで有名だよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "群衆",
+      "reading": "ぐんしゅう",
+      "meaning": "たくさんの人が集まっていること。",
+      "example": "お祭りの会場には、たくさんの群衆があふれていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
