@@ -20309,5 +20309,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "連": [
+    {
+      "jukugo": "連休",
+      "reading": "れんきゅう",
+      "meaning": "休みの日が何日か続くこと。",
+      "example": "ゴールデンウィークは長い連休なので、家族で旅行に行きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連絡",
+      "reading": "れんらく",
+      "meaning": "相手に情報を伝えること。また、人と人とのつながり。",
+      "example": "今日の宿題は連絡帳に書いてあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連続",
+      "reading": "れんぞく",
+      "meaning": "途切れることなく、続けて起こること。",
+      "example": "テレビで好きなアニメの連続ドラマを見ています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連日",
+      "reading": "れんじつ",
+      "meaning": "何日も続けて。毎日。",
+      "example": "連日暑い日が続いているので、水分補給を忘れないようにしましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連結",
+      "reading": "れんけつ",
+      "meaning": "物と物をつなぎ合わせること。",
+      "example": "電車はたくさんの車両を連結して走っています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
