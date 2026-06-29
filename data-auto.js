@@ -20522,6 +20522,22 @@ const autoData = {
       "example": "運動会の演技に、先生から一言寸評をもらった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "好評",
+      "reading": "こうひょう",
+      "meaning": "多くの人から良い評価を受けること。みんなに良いと思われていること。",
+      "example": "新しい給食のメニューは、みんなに好評だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書評",
+      "reading": "しょひょう",
+      "meaning": "本の内容や読みどころについて、自分の考えや評価を述べること。",
+      "example": "図書館の壁に、おすすめの本の書評がたくさん貼ってあった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "領": [
