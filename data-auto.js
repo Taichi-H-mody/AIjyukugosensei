@@ -18803,6 +18803,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "照": [
+    {
+      "jukugo": "照明",
+      "reading": "しょうめい",
+      "meaning": "光を当てて明るくすること。または、そのための道具。",
+      "example": "暗い部屋の照明をつけたら、まわりが明るくなった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対照",
+      "reading": "たいしょう",
+      "meaning": "二つのものを比べたときに、はっきりと違いがわかること。",
+      "example": "白い雪と黒い木の枝が、とても対照的できれいだった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日照",
+      "reading": "にっしょう",
+      "meaning": "太陽の光が地面や物に当たること。または、その時間。",
+      "example": "おいしい野菜を育てるには、十分な日照が必要です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参照",
+      "reading": "さんしょう",
+      "meaning": "何かを調べたり、たしかめたりするために、他のものを見ること。",
+      "example": "わからない言葉は、国語辞典を参照して調べてみよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "照合",
+      "reading": "しょうごう",
+      "meaning": "二つ以上のものを見くらべて、合っているかどうかたしかめること。",
+      "example": "テストの答え合わせで、自分の答えと先生の答えを照合した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
