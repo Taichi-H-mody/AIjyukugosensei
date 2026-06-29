@@ -22687,5 +22687,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "賀": [
+    {
+      "jukugo": "年賀",
+      "reading": "ねんが",
+      "meaning": "新しい年をお祝いすること。また、そのあいさつ。",
+      "example": "お正月には、遠くのおじいちゃん、おばあちゃんに年賀状を送ります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝賀",
+      "reading": "しゅくが",
+      "meaning": "お祝いをすること。",
+      "example": "卒業式は、みんなの頑張りを祝賀する大切な日です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賀状",
+      "reading": "がじょう",
+      "meaning": "お祝いの言葉を書いた手紙。とくに、お正月のあいさつの手紙を指すことが多い。",
+      "example": "お年玉と一緒に、きれいな絵が描かれた賀状をもらいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賀詞",
+      "reading": "がし",
+      "meaning": "お祝いの言葉。",
+      "example": "年賀状には、「あけましておめでとうございます」という賀詞が書かれています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "慶賀",
+      "reading": "けいが",
+      "meaning": "おめでたいことを喜び、お祝いすること。",
+      "example": "おじいちゃんの誕生日を、家族みんなで慶賀しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
