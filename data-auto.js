@@ -17593,6 +17593,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "責": [
+    {
+      "jukugo": "責任",
+      "reading": "せきにん",
+      "meaning": "自分のすべきことや、結果に対して負うべきこと。",
+      "example": "自分の行動には**責任**を持とう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "叱責",
+      "reading": "しっせき",
+      "meaning": "相手の悪い点を厳しく注意し、叱ること。",
+      "example": "忘れ物が多くて、先生から**叱責**された。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "責務",
+      "reading": "せきむ",
+      "meaning": "責任として果たさなければならない大切な務め。",
+      "example": "班長として、みんなをまとめる**責務**がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自責",
+      "reading": "じせき",
+      "meaning": "自分の失敗や悪い行いを、自分で責めること。",
+      "example": "試合に負けてしまい、**自責**の気持ちでいっぱいになった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "詰責",
+      "reading": "きっせき",
+      "meaning": "相手の過ちを厳しく問い詰めて、責めること。",
+      "example": "隠し事をしていたので、お母さんから**詰責**された。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
