@@ -17759,5 +17759,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "現": [
+    {
+      "jukugo": "現在",
+      "reading": "げんざい",
+      "meaning": "今の時。今。",
+      "example": "現在、わたしは小学校の三年生です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "現金",
+      "reading": "げんきん",
+      "meaning": "お金のこと。紙幣や硬貨のこと。",
+      "example": "お財布には、おこづかいの現金が少し入っていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表現",
+      "reading": "ひょうげん",
+      "meaning": "考えや気持ちなどを、言葉や絵、音楽などで表すこと。",
+      "example": "絵の具を使って、楽しい気持ちを表現しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出現",
+      "reading": "しゅつげん",
+      "meaning": "今までなかったものや見えなかったものが、姿を現すこと。",
+      "example": "めずらしい生き物が、森の中から突然出現しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "現実",
+      "reading": "げんじつ",
+      "meaning": "今、実際に起こっていることや、事実のこと。",
+      "example": "ずっと夢見ていたことが、ついに現実になりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "成": [
+    {
+      "jukugo": "成功",
+      "reading": "せいこう",
+      "meaning": "物事がうまくいくこと。目的を果たすこと。",
+      "example": "逆上がりの練習に成功して、とても嬉しかった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完成",
+      "reading": "かんせい",
+      "meaning": "作りかけのものが、すっかり出来上がること。",
+      "example": "夏休みの自由研究が、ようやく完成した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "成長",
+      "reading": "せいちょう",
+      "meaning": "育って大きくなること。進歩すること。",
+      "example": "去年の自分と比べて、心も体も大きく成長した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "達成",
+      "reading": "たっせい",
+      "meaning": "目標や目的を成し遂げること。",
+      "example": "全員で力を合わせて、クラスの目標を達成した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結成",
+      "reading": "けっせい",
+      "meaning": "グループや団体などを新しく作ること。",
+      "example": "僕たちは、新しい野球チームを結成した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
