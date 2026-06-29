@@ -20141,5 +20141,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "婦": [
+    {
+      "jukugo": "婦人",
+      "reading": "ふじん",
+      "meaning": "おとなの女性のこと。",
+      "example": "駅のホームにたくさんの婦人が並んでいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夫婦",
+      "reading": "ふうふ",
+      "meaning": "結婚した男の人と女の人。夫と妻のこと。",
+      "example": "優しいお父さんとお母さんは、仲の良い夫婦です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主婦",
+      "reading": "しゅふ",
+      "meaning": "主に家庭の仕事（家事や子育てなど）をしている女性。",
+      "example": "私の母は、毎日家族のために働く主婦です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新婦",
+      "reading": "しんぷ",
+      "meaning": "新しく結婚したばかりの女性。花嫁のこと。",
+      "example": "結婚式で、白いドレスを着た新婦がとてもきれいでした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "婦警",
+      "reading": "ふけい",
+      "meaning": "女性の警察官のこと。",
+      "example": "交差点で、婦警さんがみんなの安全を守っていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "評": [
+    {
+      "jukugo": "評価",
+      "reading": "ひょうか",
+      "meaning": "物事の良し悪しや、その価値を判断すること。",
+      "example": "先生が、テストの評価をしてくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "評判",
+      "reading": "ひょうばん",
+      "meaning": "世間の人々が、ある人や物事について良いとか悪いとか言うこと。うわさ。",
+      "example": "あのケーキ屋さんは、おいしいと評判だよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講評",
+      "reading": "こうひょう",
+      "meaning": "作品や発表会などについて、良い点や改善点などを説明すること。",
+      "example": "絵画コンクールの講評で、先生が私の絵の良いところを言ってくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "批評",
+      "reading": "ひひょう",
+      "meaning": "作品や行いなどについて、良い点や悪い点をあげて意見を述べること。",
+      "example": "友だちが書いた物語を、みんなで批評し合った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寸評",
+      "reading": "すんぴょう",
+      "meaning": "短くまとめた評価や意見。",
+      "example": "運動会の演技に、先生から一言寸評をもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
