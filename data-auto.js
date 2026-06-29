@@ -20528,6 +20528,14 @@ const autoData = {
       "example": "電車はたくさんの車両を連結して走っています。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連想",
+      "reading": "れんそう",
+      "meaning": "あるものから別のものを思い浮かべること。",
+      "example": "この歌を聞くと、夏の海を連想する。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "弁": [
