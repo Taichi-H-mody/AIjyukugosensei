@@ -21961,6 +21961,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "断": [
+    {
+      "jukugo": "横断",
+      "reading": "おうだん",
+      "meaning": "道などをよこぎってわたること。",
+      "example": "くるまにきをつけて、おうだんほどうをわたりましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "判断",
+      "reading": "はんだん",
+      "meaning": "物事についてよく考え、それが正しいかまちがっているかを決めること。",
+      "example": "じぶんでよくかんがえて、ただしさはんだんをすることがたいせつだよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "断水",
+      "reading": "だんすい",
+      "meaning": "水道から水が出なくなること。",
+      "example": "こうじのため、あしたはだんすいになるので、みずをためておこう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "診断",
+      "reading": "しんだん",
+      "meaning": "医者さんが、病気かどうかや、どこがわるいかをしらべること。",
+      "example": "ねつがでたので、びょういんでお医者さんにしんだんしてもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "決断",
+      "reading": "けつだん",
+      "meaning": "迷っていたことを、思い切ってきっぱりと決めること。",
+      "example": "どちらの色にするか、最後は自分でけつだんした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "貧": [
+    {
+      "jukugo": "貧乏",
+      "reading": "びんぼう",
+      "meaning": "お金がなくて生活が苦しいこと。",
+      "example": "お財布にお金がないので、私は少し**貧乏**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧困",
+      "reading": "ひんこん",
+      "meaning": "お金や物がなく、生活がとても苦しい状態のこと。",
+      "example": "世界には、**貧困**で苦しむ子どもたちがたくさんいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧弱",
+      "reading": "ひんじゃく",
+      "meaning": "力や量が少ないこと、質が良くないこと。",
+      "example": "毎日運動しないと、体が**貧弱**になってしまいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧相",
+      "reading": "ひんそう",
+      "meaning": "顔つきや見た目が、元気がない、貧しそうに見えること。",
+      "example": "お腹が空きすぎて、彼の顔は少し**貧相**に見えた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧民",
+      "reading": "ひんみん",
+      "meaning": "お金がなくて生活が苦しい人たちのこと。",
+      "example": "昔の日本では、**貧民**が暮らす地域もありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
