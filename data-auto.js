@@ -20403,6 +20403,74 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "試": [
+    {
+      "jukugo": "試験",
+      "reading": "しけん",
+      "meaning": "学力や能力などをためすこと。",
+      "example": "来週、算数の試験があるから、しっかり勉強しよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "試合",
+      "reading": "しあい",
+      "meaning": "技や力をくらべ合って、勝敗を決めること。",
+      "example": "公園で友達とサッカーの試合をした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "試着",
+      "reading": "しちゃく",
+      "meaning": "服などが自分に合うかどうか、着てためしてみること。",
+      "example": "お店で新しいワンピースを試着してみた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "試食",
+      "reading": "ししょく",
+      "meaning": "料理や食べものの味を確かめるために、少し食べること。",
+      "example": "スーパーでぶどうの試食があったから、食べてみたよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "試運転",
+      "reading": "しうんてん",
+      "meaning": "新しい機械などがきちんと動くか、ためしに動かしてみること。",
+      "example": "新しくできた電車が、試運転をしていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "努": [
+    {
+      "jukugo": "努力",
+      "reading": "どりょく",
+      "meaning": "目標を達成するために、一生懸命がんばること。",
+      "example": "漢字テストで百点を取るために、毎日**努力**して練習した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "努力家",
+      "reading": "どりょくか",
+      "meaning": "いつも目標に向かって一生懸命がんばる人のこと。",
+      "example": "彼はサッカーがうまくなるために、毎日れんしゅうする**努力家**だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "努力目標",
+      "reading": "どりょくもくひょう",
+      "meaning": "達成できるようにがんばる目標のこと。",
+      "example": "先生が出した**努力目標**は、毎日宿題を忘れずにやることでした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
