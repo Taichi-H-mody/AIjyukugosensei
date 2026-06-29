@@ -18213,5 +18213,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "雑": [
+    {
+      "jukugo": "雑草",
+      "reading": "ざっそう",
+      "meaning": "畑や庭などに自然に生えてくる、役に立たない草。",
+      "example": "庭に生えた雑草を抜くお手伝いをした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雑巾",
+      "reading": "ぞうきん",
+      "meaning": "床や机などを拭くのに使う布。",
+      "example": "給食のあと、雑巾で机をきれいに拭いた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雑談",
+      "reading": "ざつだん",
+      "meaning": "特に決まった目的もなく、とりとめもなく話すこと。",
+      "example": "休憩時間に友達と楽しい雑談をした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "複雑",
+      "reading": "ふくざつ",
+      "meaning": "物事が込み入っていて、分かりにくいこと。",
+      "example": "このパズルの仕組みは、少し複雑で難しい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雑木林",
+      "reading": "ぞうきばやし",
+      "meaning": "いろいろな種類の木がまじりあって生えている林。",
+      "example": "校庭の裏には、鳥がたくさんいる雑木林がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "政": [
+    {
+      "jukugo": "政治",
+      "reading": "せいじ",
+      "meaning": "国や社会を治め、みんなが暮らしやすいようにするための活動。",
+      "example": "日本の**政治**について、社会の授業で勉強しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "政府",
+      "reading": "せいふ",
+      "meaning": "国の政治を行う組織のこと。内閣など。",
+      "example": "**政府**は、国民の生活を良くするために、さまざまな計画を立てています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "政治家",
+      "reading": "せいじか",
+      "meaning": "国や地域の政治を行う人のこと。",
+      "example": "将来、困っている人を助ける**政治家**になりたいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国政",
+      "reading": "こくせい",
+      "meaning": "国の政治のこと。",
+      "example": "テレビのニュースで、今の**国政**の動きについて解説していました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市政",
+      "reading": "しせい",
+      "meaning": "市の政治のこと。",
+      "example": "私が住んでいる市の**市政**について、市の広報誌で知ることができます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
