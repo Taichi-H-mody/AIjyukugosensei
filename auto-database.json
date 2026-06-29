@@ -17515,5 +17515,81 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "性": [
+    {
+      "jukugo": "特性",
+      "reading": "とくせい",
+      "meaning": "そのものだけが持っている性質や特徴。",
+      "example": "このロボットの特性は、速く走れることです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "性質",
+      "reading": "せいしつ",
+      "meaning": "そのものが生まれつき持っている、他のものとは違う特徴や傾向。",
+      "example": "水は冷やすと凍る性質があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "性格",
+      "reading": "せいかく",
+      "meaning": "人の考え方や行動に表れる、その人なりの特徴。",
+      "example": "わたしの弟はおとなしい性格です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習性",
+      "reading": "しゅうせい",
+      "meaning": "長い間に身についた、習慣となっている性質や行動。特に動物について使うことが多い。",
+      "example": "クマは冬になると冬眠する習性があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安全性",
+      "reading": "あんぜんせい",
+      "meaning": "危険がなく安全であるかどうかということ。",
+      "example": "この公園の遊具は、安全性に優れています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "険": [
+    {
+      "jukugo": "危険",
+      "reading": "きけん",
+      "meaning": "あぶないこと。命にかかわるような悪いことが起こる可能性が高いこと。",
+      "example": "ここは崖（がけ）で**危険**なので、近づかないでください。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冒険",
+      "reading": "ぼうけん",
+      "meaning": "危険をおかして、ふだんしないようなことや、めずらしいことをすること。",
+      "example": "海の向こうには、どんな**冒険**が待っているだろう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "険路",
+      "reading": "けんろ",
+      "meaning": "通るのがむずかしく、危険な道。",
+      "example": "山頂（さんちょう）へ続く道は、ゴツゴツとした岩だらけの**険路**だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "危険物",
+      "reading": "きけんぶつ",
+      "meaning": "火をつけたり、爆発したり、体に害を与えたりするおそれのある、あつかいに注意が必要なもの。",
+      "example": "工場には、**危険物**がたくさん保管されているので、注意が必要です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
