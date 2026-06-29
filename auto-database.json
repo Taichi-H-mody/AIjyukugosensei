@@ -20935,5 +20935,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "票": [
+    {
+      "jukugo": "投票",
+      "reading": "とうひょう",
+      "meaning": "選挙などで、だれを選ぶか、どの意見にするかを自分の考えを書いて選ぶことです。",
+      "example": "クラスの代表を決めるために、みんなで投票をしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一票",
+      "reading": "いっぴょう",
+      "meaning": "投票するときに出す、紙一枚のことです。自分の大切な意見を伝える一枚の票。",
+      "example": "わたしの入れた一票が、クラスの未来を決めるかもしれません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "票数",
+      "reading": "ひょうすう",
+      "meaning": "投票で集まった票の数のことです。どれくらいの人が賛成したか、選んだかがわかる数。",
+      "example": "選挙の結果、Aさんが一番多くの票数を集めて当選しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開票",
+      "reading": "かいひょう",
+      "meaning": "投票箱の中の票を一つ一つ取り出して、誰に何票入っているか数えることです。",
+      "example": "投票が終わった後、先生と委員のみんなで開票作業を始めました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝票",
+      "reading": "でんぴょう",
+      "meaning": "お店で注文したものや買ったものを記録したり、お金を払ったことを証明したりする紙のことです。レシートのようなもの。",
+      "example": "レストランでご飯を食べたら、テーブルに伝票が置いてありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "備": [
+    {
+      "jukugo": "準備",
+      "reading": "じゅんび",
+      "meaning": "物事を行うために、あらかじめ整えておくこと。用意。",
+      "example": "明日の遠足のために、持ち物の準備をしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予備",
+      "reading": "よび",
+      "meaning": "万一の場合に備えて用意しておくこと。また、そのもの。",
+      "example": "鉛筆の芯が折れてもいいように、予備の鉛筆を筆箱に入れました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設備",
+      "reading": "せつび",
+      "meaning": "ある目的のために、機械や装置などを備えつけること。また、備えつけられたもの。",
+      "example": "新しい体育館には、最新の運動設備が整っています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "警備",
+      "reading": "けいび",
+      "meaning": "危険がないように見張って守ること。",
+      "example": "学校の門には、毎日警備員さんが立って安全を守ってくれています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常備",
+      "reading": "じょうび",
+      "meaning": "常に用意しておくこと。いつも備えておくこと。",
+      "example": "家には、急な病気に備えて常備薬が置いてあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
