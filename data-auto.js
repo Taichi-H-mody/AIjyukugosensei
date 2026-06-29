@@ -18391,6 +18391,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "素": [
+    {
+      "jukugo": "素直",
+      "reading": "すなお",
+      "meaning": "ひねくれたり飾ったりせず、ありのままでいること。人の言うことを聞き入れること。",
+      "example": "先生の注意を素直に聞いて、反省しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "素足",
+      "reading": "すあし",
+      "meaning": "くつ下や靴をはいていない足のこと。",
+      "example": "夏休みに海で素足になって遊びました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "素手",
+      "reading": "すで",
+      "meaning": "道具を使わず、自分の手だけを使うこと。",
+      "example": "魚を素手でつかむのは難しかった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "素材",
+      "reading": "そざい",
+      "meaning": "物を作るためのもとになる材料や原料。",
+      "example": "この木材は、家具を作るのに良い素材です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "素朴",
+      "reading": "そぼく",
+      "meaning": "飾り気がなく、ありのままで純粋な様子。ひねくれたところがないこと。",
+      "example": "彼は素朴な人柄で、みんなから好かれています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
