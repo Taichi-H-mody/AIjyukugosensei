@@ -22745,5 +22745,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "老": [
+    {
+      "jukugo": "老人",
+      "reading": "ろうじん",
+      "meaning": "年を取った人。お年寄り。",
+      "example": "バスの中で、困っている老人を見かけたので、席をゆずりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "老後",
+      "reading": "ろうご",
+      "meaning": "年をとってからの人生の時期。",
+      "example": "おじいちゃんは、老後の生活を趣味を楽しみながら過ごしているよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長老",
+      "reading": "ちょうろう",
+      "meaning": "ある団体の中で、一番年上で経験豊かな人。",
+      "example": "村の長老が、昔の面白い話を聞かせてくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "老犬",
+      "reading": "ろうけん",
+      "meaning": "年をとった犬。",
+      "example": "うちの老犬は、一日中ひなたぼっこをして寝ているのが好きです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "老舗",
+      "reading": "しにせ",
+      "meaning": "代々続いていて、歴史と信用のあるお店。",
+      "example": "この町には、何百年も続く老舗の和菓子屋さんがあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
