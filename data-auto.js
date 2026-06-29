@@ -18192,6 +18192,22 @@ const autoData = {
       "example": "港の倉庫には、外国から届いたたくさんの倉荷が運び込まれていた。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "倉入れ",
+      "reading": "くらいれ",
+      "meaning": "倉に物をしまうこと。",
+      "example": "収穫した野菜を、順番に倉入れしていきました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "倉出し",
+      "reading": "くらだし",
+      "meaning": "倉から物を取り出すこと。",
+      "example": "お祭り用の道具を、古い倉から倉出ししました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "質": [
@@ -19244,6 +19260,22 @@ const autoData = {
       "reading": "ほしゅう",
       "meaning": "こわれたところや足りないところを直したり、補ったりすること。",
       "example": "古い校舎の壁にひびが入っていたので、補修工事が行われました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "修学旅行",
+      "reading": "しゅうがくりょこう",
+      "meaning": "小学生や中学生が、先生といっしょに勉強のため各地を見学しに行く旅行のこと。",
+      "example": "来年の修学旅行で、奈良へ行くのが今からとても楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "修行",
+      "reading": "しゅぎょう",
+      "meaning": "むずかしいことをくりかえし練習して、技術や心をみがき上げること。",
+      "example": "剣士は毎日、刀の修行をして、もっと強くなろうと努力しました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
