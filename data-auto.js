@@ -20196,6 +20196,14 @@ const autoData = {
       "example": "せっかく集めたカードをなくしてしまい、大きな損失だった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "破損",
+      "reading": "はそん",
+      "meaning": "物が壊れたり、傷ついたりすること。",
+      "example": "公園で遊んでいる時に、うっかりお気に入りのボールを破損させてしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "建": [
@@ -21018,6 +21026,48 @@ const autoData = {
       "reading": "じょうび",
       "meaning": "常に用意しておくこと。いつも備えておくこと。",
       "example": "家には、急な病気に備えて常備薬が置いてあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "飯": [
+    {
+      "jukugo": "ご飯",
+      "reading": "ごはん",
+      "meaning": "食事のこと。特に、お米を炊いたもの。",
+      "example": "お腹が空いたから、早く**ご飯**を食べたいな。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "朝ご飯",
+      "reading": "あさごはん",
+      "meaning": "朝にとる食事のこと。",
+      "example": "毎朝、お母さんがおいしい**朝ご飯**を作ってくれる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昼ご飯",
+      "reading": "ひるごはん",
+      "meaning": "昼にとる食事のこと。",
+      "example": "学校が終わったら、**昼ご飯**を食べてから遊びに行こう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "晩ご飯",
+      "reading": "ばんごはん",
+      "meaning": "晩（夜）にとる食事のこと。夕食。",
+      "example": "今日の**晩ご飯**はカレーライスだから楽しみだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "炊飯",
+      "reading": "すいはん",
+      "meaning": "お米を炊いてご飯にすること。",
+      "example": "お米を洗って、**炊飯**器のスイッチを押すのが僕のお手伝いだ。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
