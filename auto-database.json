@@ -19287,5 +19287,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "永": [
+    {
+      "jukugo": "永遠",
+      "reading": "えいえん",
+      "meaning": "いつまでも終わらずに続くこと。",
+      "example": "この美しい景色が永遠に続けばいいのに、と思った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永久",
+      "reading": "えいきゅう",
+      "meaning": "ずっと変わらずに続くこと。いつまでも。",
+      "example": "地球の平和が永久に続くことを願っている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永年",
+      "reading": "えいねん",
+      "meaning": "長い年月。長い間。",
+      "example": "永年の夢だったプロ野球選手になることができた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永住",
+      "reading": "えいじゅう",
+      "meaning": "その土地に長く住み続けること。",
+      "example": "おじいちゃんは、自然豊かなこの町に永住したいと言っていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永続",
+      "reading": "えいぞく",
+      "meaning": "長い間、途切れることなく続くこと。",
+      "example": "このキャンプ場が永続できるように、みんなで大切に使おう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
