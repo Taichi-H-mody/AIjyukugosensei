@@ -9124,14 +9124,6 @@ const autoData = {
       "example": "夏祭りにはきれいな浴衣を着て出かけました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "衣替え",
-      "reading": "ころもがえ",
-      "meaning": "季節の変わり目に、夏服と冬服などを入れ替えること。",
-      "example": "来週は衣替えなので、冬服を出しておきましょう。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "位": [
@@ -9376,14 +9368,6 @@ const autoData = {
       "example": "このせんべいは、塩味がきいていておいしい。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "塩焼き",
-      "reading": "しおやき",
-      "meaning": "魚などに塩をふって焼く料理。",
-      "example": "今日の晩ごはんは、サンマの塩焼きだった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "億": [
@@ -9594,22 +9578,6 @@ const autoData = {
       "reading": "わかめ",
       "meaning": "植物の、出たばかりのやわらかい芽。",
       "example": "山菜として、ふきのとうなどの若芽を摘んで食べる。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "芽生え",
-      "reading": "めばえ",
-      "meaning": "植物の芽が出ること。物事が始まりかける様子。",
-      "example": "春の訪れとともに、森には新しい命の芽生えが見られる。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "芽吹き",
-      "reading": "めぶき",
-      "meaning": "植物の芽が出始めること。",
-      "example": "桜の木の枝に、小さな芽吹きが見られるようになった。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -10032,22 +10000,6 @@ const autoData = {
       "reading": "しがん",
       "meaning": "あることをしたいと自ら願い出ること。",
       "example": "クラスの代表に志願する人が、たくさんいました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "願い事",
-      "reading": "ねがいごと",
-      "meaning": "神様や誰かに叶えてほしいと願うこと。",
-      "example": "七夕の短冊に、たくさんの願い事を書きました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "願掛け",
-      "reading": "がんかけ",
-      "meaning": "願い事がかなうように、神様にお祈りすること。",
-      "example": "サッカーの試合に勝てるように、神社で願掛けをした。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -10598,14 +10550,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "効き目",
-      "reading": "ききめ",
-      "meaning": "薬や方法などが、どれくらい効くかということ。",
-      "example": "この薬は、熱を下げるのにすぐ効き目があったよ。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "効能",
       "reading": "こうのう",
       "meaning": "薬や食べ物などが持っている、病気を治したり体を良くしたりする力や働き。",
@@ -11128,14 +11072,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "団らん",
-      "reading": "だんらん",
-      "meaning": "家族などが集まって、楽しく過ごすこと。",
-      "example": "家族みんなで食卓を囲んで団らんしました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "団員",
       "reading": "だんいん",
       "meaning": "ある団体のメンバー。",
@@ -11316,22 +11252,6 @@ const autoData = {
       "reading": "すばこ",
       "meaning": "鳥が卵を産んだり、ひなが育ったりするための人工の箱。",
       "example": "庭に**巣箱**を置いて、鳥たちが来るのを待った。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "巣立ち",
-      "reading": "すだち",
-      "meaning": "鳥のひなが成長して、初めて巣から飛び立つこと。転じて、親元を離れて自立すること。",
-      "example": "ひな鳥たちが元気に**巣立ち**をして、空へ飛んでいった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "巣作り",
-      "reading": "すづくり",
-      "meaning": "鳥や動物が、卵を産んだり子育てをしたりするために巣を作る活動。",
-      "example": "ツバメが軒下で一生懸命に**巣作り**をしていた。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -11594,22 +11514,6 @@ const autoData = {
       "example": "私は、自分の考えを先生にしっかり主張しました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "張り紙",
-      "reading": "はりがみ",
-      "meaning": "お知らせなどを書いた紙を、壁やドアに貼ったもの。",
-      "example": "図書館の入り口に、新しい本の紹介の張り紙がありました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "見張り",
-      "reading": "みはり",
-      "meaning": "危ないことがないか、よく注意して見守ること。",
-      "example": "夜中に泥棒が入らないように、警備員さんが見張りをしていました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "賞": [
@@ -11762,22 +11666,6 @@ const autoData = {
       "example": "雨で遠足が中止になって、とても残念でした。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "念入り",
-      "reading": "ねんいり",
-      "meaning": "細かいところまで、よく注意して準備したり行ったりすること。",
-      "example": "発表の前に、念入りに準備をしました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "念押し",
-      "reading": "ねんおし",
-      "meaning": "忘れないように、もう一度確かめたり注意したりすること。",
-      "example": "先生が明日の持ち物について、みんなに念押ししてくれました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "約": [
@@ -11902,14 +11790,6 @@ const autoData = {
       "reading": "さんりんしゃ",
       "meaning": "三つの車輪がある乗り物。小さい子どもが乗るものが多い。",
       "example": "公園で小さい子が三輪車に乗って遊んでいた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "輪投げ",
-      "reading": "わなげ",
-      "meaning": "輪を投げて棒にかける遊び。",
-      "example": "お祭りで輪投げをして楽しんだ。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -12218,42 +12098,10 @@ const autoData = {
   ],
   "仲": [
     {
-      "jukugo": "仲良し",
-      "reading": "なかよし",
-      "meaning": "友達ととても仲が良いこと。",
-      "example": "私はクラスの友達とみんな仲良しです。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "仲間",
       "reading": "なかま",
       "meaning": "同じ目的や趣味を持つ人たち。友達。",
       "example": "サッカークラブの仲間と練習しました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "仲直り",
-      "reading": "なかなおり",
-      "meaning": "けんかしたりして仲が悪くなった人たちが、また元の仲の良い状態に戻ること。",
-      "example": "けんかした弟と仲直りしました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "仲立ち",
-      "reading": "なかだち",
-      "meaning": "けんかしている人たちの間に入って、仲良くさせること。",
-      "example": "先生がけんかの仲立ちをしてくれました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "仲違い",
-      "reading": "なかのちがい",
-      "meaning": "仲の良かった人どうしが、けんかなどをして仲が悪くなること。",
-      "example": "ささいなことで友達と仲違いしてしまいました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -13012,14 +12860,6 @@ const autoData = {
       "example": "プレゼントは、店員さんがかわいらしい紙で包装してくれた。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "包み紙",
-      "reading": "つつみがみ",
-      "meaning": "物を包むための紙。",
-      "example": "お菓子の包み紙を集めて、きれいに並べた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "特": [
@@ -13710,14 +13550,6 @@ const autoData = {
       "example": "お風呂上がりに綿棒で耳をきれいにしました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "綿入れ",
-      "reading": "わたいれ",
-      "meaning": "服の中に綿をたっぷり入れて、暖かくした着物のこと。冬の寒い日に着ます。",
-      "example": "寒い冬の日に、おばあちゃんが綿入れのちゃんちゃんこを着ていました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "別": [
@@ -13798,34 +13630,10 @@ const autoData = {
   ],
   "折": [
     {
-      "jukugo": "折り紙",
-      "reading": "おりがみ",
-      "meaning": "紙を折って様々な形を作る遊び。また、その作ったもの。",
-      "example": "私は折り紙でかわいい鶴を作ったよ。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "骨折",
       "reading": "こっせつ",
       "meaning": "体の骨が折れたり、ひびが入ったりすること。",
       "example": "サッカーの練習中に転んで、腕を骨折してしまった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "折り目",
-      "reading": "おりめ",
-      "meaning": "紙や布などを折った時にできる線。",
-      "example": "本にしおりを挟まずに閉じたので、ページに折り目がついてしまった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "折り返し",
-      "reading": "おりかえし",
-      "meaning": "いったん戻ること。また、相手から連絡があった後で、こちらから連絡すること。",
-      "example": "友達から電話があったけれど出られなかったので、後で折り返し電話した。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -13873,22 +13681,6 @@ const autoData = {
     }
   ],
   "独": [
-    {
-      "jukugo": "独り言",
-      "reading": "ひとりごと",
-      "meaning": "相手がいないのに、自分だけで話すこと。",
-      "example": "考え事をしていると、つい**独り言**を言ってしまいます。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "独り占め",
-      "reading": "ひとりじめ",
-      "meaning": "自分一人だけで、他の人が使えないようにすること。",
-      "example": "弟がお菓子を**独り占め**したので、みんなで分けるように言いました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "独立",
       "reading": "どくりつ",
@@ -14210,14 +14002,6 @@ const autoData = {
   ],
   "厚": [
     {
-      "jukugo": "厚み",
-      "reading": "あつみ",
-      "meaning": "物の厚さのこと。どれくらい厚いかということ。",
-      "example": "この本は、たくさんのページがあってすごい**厚み**があるね。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "厚手",
       "reading": "あつで",
       "meaning": "布や紙などが厚く作られていること。また、そのもの。",
@@ -14242,26 +14026,10 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "分厚い",
-      "reading": "ぶあつい",
-      "meaning": "とても厚い様子を表す言葉。",
-      "example": "図書館で、絵がたくさん載っている**分厚い**図鑑を借りてきた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "厚紙",
       "reading": "あつがみ",
       "meaning": "厚みのあるしっかりした紙。",
       "example": "工作の時間に、丈夫な厚紙を使って箱を作った。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "厚焼き",
-      "reading": "あつやき",
-      "meaning": "厚く焼いた食べ物。",
-      "example": "おばあちゃんが作ってくれた厚焼き卵はとても美味しかった。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -14584,14 +14352,6 @@ const autoData = {
       "example": "ゲームで難しいミッションをクリアして、新しいアイテムを獲得した。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "買い得",
-      "reading": "かいとく",
-      "meaning": "安くてお得なこと。買って得をすること。",
-      "example": "この本は半額だったので、とても買い得だった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "犯": [
@@ -14906,14 +14666,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "訓読み",
-      "reading": "くんよみ",
-      "meaning": "漢字を、その意味にあたる日本語で読むこと。「山」を「やま」と読む場合など。",
-      "example": "漢字には音読みと訓読みがあります。「木」を「き」と読むのは訓読みです。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "校訓",
       "reading": "こうくん",
       "meaning": "学校が教育目標として定める、生徒みんなで守るべき教え。",
@@ -15038,14 +14790,6 @@ const autoData = {
       "example": "おばあちゃんが畑で採れたほうれん草を、一束くれました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "束の間",
-      "reading": "つかのま",
-      "meaning": "とても短い時間のこと。",
-      "example": "楽しい休み時間は束の間で、すぐに授業が始まってしまいました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
     }
   ],
   "航": [
@@ -15154,14 +14898,6 @@ const autoData = {
       "reading": "こくじ",
       "meaning": "そっくり似ていること。非常に似ていること。",
       "example": "お兄さんと弟は、顔が酷似していて見分けがつきません。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "似寄り",
-      "reading": "により",
-      "meaning": "似ていること。似たようなもの。",
-      "example": "このペンと似寄りのものを探しています。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -15528,14 +15264,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "招き猫",
-      "reading": "まねきねこ",
-      "meaning": "手をあげてお客さんや福を呼び寄せるねこの置物。",
-      "example": "お店の入り口に、お客さんを招き猫が置いてありました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "招福",
       "reading": "しょうふく",
       "meaning": "福や幸せを呼びよせること。",
@@ -15776,14 +15504,6 @@ const autoData = {
       "reading": "ひこう",
       "meaning": "空を飛ぶこと。",
       "example": "飛行機が空を飛行する様子はかっこいい。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "飛び出す",
-      "reading": "とびだす",
-      "meaning": "急に外へ出ること。",
-      "example": "ボールを追いかけて、急に道に飛び出すのは危ないよ。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -16292,42 +16012,10 @@ const autoData = {
   ],
   "泣": [
     {
-      "jukugo": "泣き虫",
-      "reading": "なきむし",
-      "meaning": "すぐに泣いてしまう人のこと。",
-      "example": "弟は少しのことで泣き虫になります。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "泣き顔",
-      "reading": "なきがお",
-      "meaning": "泣いているときの顔。",
-      "example": "転んでしまった子どもの泣き顔を見て、かわいそうになった。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "泣き声",
-      "reading": "なきごえ",
-      "meaning": "泣いているときにだす声。",
-      "example": "赤ちゃんの泣き声が遠くから聞こえてきた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "号泣",
       "reading": "ごうきゅう",
       "meaning": "声を上げて大声で泣くこと。",
       "example": "感動的な映画を見て、みんなで号泣した。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "泣く泣く",
-      "reading": "なくなく",
-      "meaning": "泣きながら、または泣きたい気持ちで、しぶしぶ物事を行う様子。",
-      "example": "大切なおもちゃを妹にあげることになり、泣く泣く手放した。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -16548,22 +16236,6 @@ const autoData = {
       "reading": "えがお",
       "meaning": "笑っている顔のこと。",
       "example": "お母さんの笑顔を見ると、元気が出ます。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "笑い声",
-      "reading": "わらいごえ",
-      "meaning": "笑う時に出す声のこと。",
-      "example": "広い公園に子どもたちの楽しそうな笑い声が響きました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "大笑い",
-      "reading": "おおわらい",
-      "meaning": "大きな声を出して笑うこと。または、そのような笑い。",
-      "example": "友達のおもしろい話に、みんなで大笑いしました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -16854,14 +16526,6 @@ const autoData = {
   ],
   "余": [
     {
-      "jukugo": "余り",
-      "reading": "あまり",
-      "meaning": "残ったもの。必要以上にある部分。",
-      "example": "ケーキの余りを冷蔵庫に入れた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "余計",
       "reading": "よけい",
       "meaning": "必要のないこと。無駄なこと。",
@@ -16984,14 +16648,6 @@ const autoData = {
       "reading": "あさせ",
       "meaning": "川や海などで、水深が浅くなっている場所。",
       "example": "川で遊ぶときは、水が浅瀬になっている場所を選びましょう。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "浅漬け",
-      "reading": "あさづけ",
-      "meaning": "野菜などを短い時間で軽く漬けた漬物。",
-      "example": "おばあちゃんが作ったきゅうりの浅漬けは、とてもおいしいです。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     },
@@ -17328,14 +16984,6 @@ const autoData = {
       "reading": "えだは",
       "meaning": "木のえだと葉っぱのこと。",
       "example": "台風で、木の枝葉がたくさん落ちていました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "枝分かれ",
-      "reading": "えだわかれ",
-      "meaning": "道や川などが、えだのようにいくつかに分かれること。",
-      "example": "山道がここで右と左に枝分かれしていました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
