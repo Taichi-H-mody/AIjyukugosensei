@@ -19906,6 +19906,14 @@ const autoData = {
       "example": "雨が降ったので、遠足の予定が明日に変更になった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変色",
+      "reading": "へんしょく",
+      "meaning": "物の色が変わること。",
+      "example": "古いリンゴが茶色に変色してしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "検": [
@@ -21824,6 +21832,48 @@ const autoData = {
       "reading": "てんさい",
       "meaning": "地震や台風、津波など、自然の力で引き起こされる災害のこと。",
       "example": "台風や地震のような天災は、いつ起こるか分かりません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "則": [
+    {
+      "jukugo": "規則",
+      "reading": "きそく",
+      "meaning": "多くの人が守るように決められたルールやきまり。",
+      "example": "学校の図書室では、本を大切に扱う規則があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校則",
+      "reading": "こうそく",
+      "meaning": "学校の中で生徒が守るべききまり。",
+      "example": "わたしの学校には、廊下を走らないという校則があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "法則",
+      "reading": "ほうそく",
+      "meaning": "いつもそのようになる、きまったことがら。自然の現象や物の間に見られるきまり。",
+      "example": "水は低い方へ流れるのが自然の法則です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "原則",
+      "reading": "げんそく",
+      "meaning": "基本となるきまりや決まり事。普通はそうするというルール。",
+      "example": "約束は守るのが、人として大切な原則です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉄則",
+      "reading": "てっそく",
+      "meaning": "絶対に守らなければならない、かたいきまり。",
+      "example": "試合に勝つためには、チームワークが鉄則です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
