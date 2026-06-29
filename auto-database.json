@@ -21743,5 +21743,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "災": [
+    {
+      "jukugo": "災害",
+      "reading": "さいがい",
+      "meaning": "地震や台風、洪水などで、人や物に大きな被害が出ること。",
+      "example": "大きな災害に備えて、水や食べ物を準備しておきましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防災",
+      "reading": "ぼうさい",
+      "meaning": "災害がおこらないように準備したり、被害を少なくするための工夫や行動。",
+      "example": "学校では年に一度、地震を想定した防災訓練が行われます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火災",
+      "reading": "かさい",
+      "meaning": "火事によって家や建物が燃えてしまうこと。",
+      "example": "火災を防ぐため、火を使うときは周りに注意しましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "災難",
+      "reading": "さいなん",
+      "meaning": "思わぬ悪い出来事や、困ったことがおきてしまうこと。",
+      "example": "お気に入りの傘が風で壊れるなんて、今日は災難な日だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天災",
+      "reading": "てんさい",
+      "meaning": "地震や台風、津波など、自然の力で引き起こされる災害のこと。",
+      "example": "台風や地震のような天災は、いつ起こるか分かりません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
