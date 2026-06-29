@@ -22603,5 +22603,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "留": [
+    {
+      "jukugo": "留守",
+      "reading": "るす",
+      "meaning": "家をあけていること。または、その間。",
+      "example": "お母さんが留守の間、妹と遊んで待っていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "留守番",
+      "reading": "るすばん",
+      "meaning": "家をあけている人の代わりに、家や場所を守ること。",
+      "example": "お母さんが買い物に出かけたので、私がお家で留守番をした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "停留",
+      "reading": "ていりゅう",
+      "meaning": "乗り物などが、一時的に止まること。バス停などは「停留所」という。",
+      "example": "バスが停留所で止まって、たくさんの人が乗り降りした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "留学",
+      "reading": "りゅうがく",
+      "meaning": "自分の国を離れて、外国の学校に行って勉強すること。",
+      "example": "将来、外国に留学して英語を勉強してみたい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保留",
+      "reading": "ほりゅう",
+      "meaning": "物事をすぐに決めずに、しばらくそのままにしておくこと。",
+      "example": "答えが分からなかったので、その問題はいったん保留にした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
