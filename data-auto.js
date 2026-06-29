@@ -20813,6 +20813,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "選": [
+    {
+      "jukugo": "選手",
+      "reading": "せんしゅ",
+      "meaning": "スポーツなどの試合や競技に出る人のこと。",
+      "example": "運動会の選手宣誓は、とても立派でした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "選挙",
+      "reading": "せんきょ",
+      "meaning": "学校の代表や国のリーダーなどを、みんなで投票して選び出すこと。",
+      "example": "小学校の児童会長選挙で、友達が立候補しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "選択",
+      "reading": "せんたく",
+      "meaning": "いくつかあるものの中から、自分の気に入ったものや必要なものを選ぶこと。",
+      "example": "夕ごはんのおかずを、自分で選択しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "当選",
+      "reading": "とうせん",
+      "meaning": "くじ引きや投票などで、見事に選ばれること。",
+      "example": "応募したプレゼントが当選して、とてもうれしかったです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入選",
+      "reading": "にゅうせん",
+      "meaning": "作品などが、審査（しんさ）によって選び出されて、認められること。",
+      "example": "僕の描いた絵が、市の美術展で入選しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "状": [
+    {
+      "jukugo": "状態",
+      "reading": "じょうたい",
+      "meaning": "物事の今のありさまや様子。",
+      "example": "雨が降っていて、グラウンドの**状態**が悪い。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "状況",
+      "reading": "じょうきょう",
+      "meaning": "その時のまわりの様子や、物事がどのように進んでいるか。",
+      "example": "試合の**状況**を見て、作戦を考えた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "形状",
+      "reading": "けいじょう",
+      "meaning": "ものの形や、その様子。",
+      "example": "あの雲はかわった**形状**をしているね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "症状",
+      "reading": "しょうじょう",
+      "meaning": "病気になった時に体にあらわれる様子や具合。",
+      "example": "熱やせきは風邪の**症状**です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "賞状",
+      "reading": "しょうじょう",
+      "meaning": "すぐれた行いや成績をほめて、あたえられる紙の文書。",
+      "example": "運動会で一番になって、りっぱな**賞状**をもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
