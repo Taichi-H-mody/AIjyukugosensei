@@ -22839,6 +22839,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "種": [
+    {
+      "jukugo": "種類",
+      "reading": "しゅるい",
+      "meaning": "仲間やグループに分けた一つ一つのまとまりのこと。",
+      "example": "動物園には、いろいろな種類の動物がいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "種子",
+      "reading": "しゅし",
+      "meaning": "植物が芽を出すもとになる、たねのこと。",
+      "example": "ひまわりの種子をまいたら、大きな花が咲きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "種目",
+      "reading": "しゅもく",
+      "meaning": "競技や運動会などで、それぞれ分けられた種別のこと。",
+      "example": "運動会では、かけっこと玉入れが人気のある種目です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "品種",
+      "reading": "ひんしゅ",
+      "meaning": "同じ種類の作物や動物の中で、少しちがった性質を持つグループのこと。",
+      "example": "このりんごは、甘くておいしい新しい品種です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "種まき",
+      "reading": "たねまき",
+      "meaning": "植物の種を土にまくこと。",
+      "example": "春になると、畑で野菜の種まきをします。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "豊": [
+    {
+      "jukugo": "豊作",
+      "reading": "ほうさく",
+      "meaning": "作物がたくさんとれること。",
+      "example": "今年はリンゴが豊作だったので、たくさんのジャムを作ったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豊富",
+      "reading": "ほうふ",
+      "meaning": "物や種類がたくさんあること。",
+      "example": "スーパーには新鮮な野菜が豊富に並んでいるね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豊漁",
+      "reading": "ほうりょう",
+      "meaning": "魚がたくさんとれること。",
+      "example": "今朝は船がたくさん魚をとってきて、港が豊漁で活気づいたよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豊年",
+      "reading": "ほうねん",
+      "meaning": "作物がたくさんとれる年。",
+      "example": "豊年の年には、みんながおいしいお米を食べられて笑顔になるね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豊穣",
+      "reading": "ほうじょう",
+      "meaning": "作物が豊かに実ること。",
+      "example": "秋には、大地の恵みに感謝して、豊穣を祝うお祭りが行われるんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
