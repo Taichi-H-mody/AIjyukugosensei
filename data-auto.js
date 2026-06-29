@@ -18567,6 +18567,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "結": [
+    {
+      "jukugo": "結果",
+      "reading": "けっか",
+      "meaning": "物事の終わりや、そこから生じる事柄。どうなったか、ということ。",
+      "example": "一生懸命練習した結果、リレーで一位になれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結婚",
+      "reading": "けっこん",
+      "meaning": "男女が夫婦になること。",
+      "example": "わたしの叔父は、来年結婚する予定です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結成",
+      "reading": "けっせい",
+      "meaning": "グループやチームなどを新しく作ること。",
+      "example": "クラスのみんなで合唱団を結成した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結末",
+      "reading": "けつまつ",
+      "meaning": "物語や出来事などの終わりの部分。",
+      "example": "この本の結末は、少し意外だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連結",
+      "reading": "れんけつ",
+      "meaning": "いくつかのものを一つにつなぎ合わせること。",
+      "example": "駅のホームで、電車が車両を連結する様子を見た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "在": [
+    {
+      "jukugo": "現在",
+      "reading": "げんざい",
+      "meaning": "今の時。今。",
+      "example": "現在の時刻は、午後３時です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "存在",
+      "reading": "そんざい",
+      "meaning": "あること。生きていること。",
+      "example": "この森には、めずらしい鳥がたくさん存在します。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "在学",
+      "reading": "ざいがく",
+      "meaning": "学校で学んでいること。",
+      "example": "私は、〇〇小学校に在学しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "在住",
+      "reading": "ざいじゅう",
+      "meaning": "ある場所に住んでいること。",
+      "example": "私の家族は、この町に在住しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "所在",
+      "reading": "しょざい",
+      "meaning": "物の場所。どこにあるか。",
+      "example": "落とし物のえんぴつの所在が、まだ分かっていません。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
