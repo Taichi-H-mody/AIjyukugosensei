@@ -19236,6 +19236,14 @@ const autoData = {
       "example": "このCDには、新しい歌が何曲か収録されています。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記録会",
+      "reading": "きろくかい",
+      "meaning": "運動の記録をとるために行われる集まりや試合。",
+      "example": "来月のマラソン記録会に向けて、毎日練習をがんばっている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "修": [
