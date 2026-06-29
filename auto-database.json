@@ -23355,5 +23355,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "率": [
+    {
+      "jukugo": "確率",
+      "reading": "かくりつ",
+      "meaning": "あることが起こる可能性の割合。",
+      "example": "今日の天気予報では、雨の降る確率は30%だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "効率",
+      "reading": "こうりつ",
+      "meaning": "時間や労力を無駄なく使って、どれだけうまくできるかということ。",
+      "example": "効率よく勉強するために、計画を立てた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "比率",
+      "reading": "ひりつ",
+      "meaning": "二つの数量の割合。",
+      "example": "このクラスの男子と女子の比率は2対1です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝率",
+      "reading": "しょうりつ",
+      "meaning": "試合や勝負で、勝った割合。",
+      "example": "僕たちの野球チームは、今年の勝率が高い。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "率先",
+      "reading": "そっせん",
+      "meaning": "他の人より先に立って物事を始めること。",
+      "example": "クラス委員長は、率先してごみ拾いを始めた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
