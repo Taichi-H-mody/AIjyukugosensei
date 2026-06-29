@@ -17441,6 +17441,82 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "均": [
+    {
+      "jukugo": "平均",
+      "reading": "へいきん",
+      "meaning": "いくつかの数を合計し、その個数で割った値のこと。また、ならすこと。",
+      "example": "クラスの算数のテストの平均点は85点でした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "均等",
+      "reading": "きんとう",
+      "meaning": "みんなが同じになるように、不公平がないようにすること。",
+      "example": "おやつは、みんなで均等に分けましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "均一",
+      "reading": "きんいつ",
+      "meaning": "すべてが同じ種類や質、または同じ値段であること。",
+      "example": "このお店では、どの商品も均一価格の100円です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "均分",
+      "reading": "きんぶん",
+      "meaning": "みんなに同じ量や割合で分けること。",
+      "example": "ケーキを6人で均分して食べました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "均衡",
+      "reading": "きんこう",
+      "meaning": "力や重さなどがつりあって、傾いたり崩れたりしないこと。バランス。",
+      "example": "シーソーの左右に同じ重さの人が乗ると、均衡がとれます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "氏": [
+    {
+      "jukugo": "氏名",
+      "reading": "しめい",
+      "meaning": "姓（名字）と名。自分の名前のこと。",
+      "example": "テスト用紙には、忘れずに氏名を書きましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "氏神",
+      "reading": "うじがみ",
+      "meaning": "その土地や、ある一族を守ってくれる神様。",
+      "example": "町の神社には、わたしたちの氏神様がまつられています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "氏子",
+      "reading": "うじこ",
+      "meaning": "氏神様を信じ、お祭りに参加する地域の人々のこと。",
+      "example": "氏子さんたちが力を合わせて、お祭りを盛り上げました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姓氏",
+      "reading": "せいし",
+      "meaning": "苗字と名前。または、苗字のこと。",
+      "example": "日本の昔の歴史では、姓氏によって家柄がわかることがありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
