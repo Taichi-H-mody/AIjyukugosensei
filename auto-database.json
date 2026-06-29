@@ -19880,6 +19880,14 @@
       "example": "あの畑では、たくさんの野菜を育てる農夫さんが働いています。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁夫",
+      "reading": "ぎょふ",
+      "meaning": "漁業をしている男性のこと。",
+      "example": "漁夫さんは、毎朝早く海へ魚をとりにでかけます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "圧": [
@@ -20088,6 +20096,48 @@
       "reading": "そんしつ",
       "meaning": "お金や大切な物を失ってしまうこと。",
       "example": "せっかく集めたカードをなくしてしまい、大きな損失だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "建": [
+    {
+      "jukugo": "建設",
+      "reading": "けんせつ",
+      "meaning": "建物や道路など、大きなものを作ること。",
+      "example": "新しい駅の建設工事が始まりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建物",
+      "reading": "たてもの",
+      "meaning": "家やビルなど、人が使うために建てられたもの。",
+      "example": "公園の前に、とても大きな建物が建っています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建築",
+      "reading": "けんちく",
+      "meaning": "家やビルなどの建物を、計画して作ること。",
+      "example": "おじさんは、建築の仕事をしていて、いろいろなデザインの家を建てています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "建国",
+      "reading": "けんこく",
+      "meaning": "新しい国をきずき、始めること。",
+      "example": "2月11日は、日本の建国記念日です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再建",
+      "reading": "さいけん",
+      "meaning": "一度こわれたり、なくなったりしたものを、もう一度建て直すこと。",
+      "example": "お寺は地震でこわれましたが、みんなの力で再建されました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
