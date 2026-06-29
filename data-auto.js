@@ -17616,6 +17616,30 @@ const autoData = {
       "example": "工場には、**危険物**がたくさん保管されているので、注意が必要です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保険",
+      "reading": "ほけん",
+      "meaning": "みんなでお金を出し合って、もしもの時に助け合うしくみ。",
+      "example": "病気やけがの時に、保険が役に立ちます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "険悪",
+      "reading": "けんあく",
+      "meaning": "関係や雰囲気が悪く、今にも悪いことが起こりそうな様子。",
+      "example": "お兄ちゃんは怒ると、とても険悪な顔になる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "探険",
+      "reading": "たんけん",
+      "meaning": "まだよく知られていない場所へ行って、いろいろと調べてみること。",
+      "example": "夏休みに、友達と近所の山を探険した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "責": [
