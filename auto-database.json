@@ -19371,5 +19371,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "残": [
+    {
+      "jukugo": "残念",
+      "reading": "ざんねん",
+      "meaning": "期待していたことが実現しなかったり、うまくいかなかったりして、心残りな気持ちになること。残念に思うこと。",
+      "example": "運動会で一等になれなくて、とても残念だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "残飯",
+      "reading": "ざんぱん",
+      "meaning": "食事の後に残ってしまったご飯やおかずのこと。食べ残し。",
+      "example": "給食の残飯を減らすために、好き嫌いせずに食べるようにしよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "残暑",
+      "reading": "ざんしょ",
+      "meaning": "夏が過ぎてもまだ残っている暑さのこと。秋になっても暑い日。",
+      "example": "９月になっても残暑が厳しく、なかなか涼しくならないね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "残雪",
+      "reading": "ざんせつ",
+      "meaning": "春になっても、とけずに山などに残っている雪のこと。",
+      "example": "遠くの山のてっぺんに残雪が見えて、春が来たことを感じた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "残高",
+      "reading": "ざんだか",
+      "meaning": "お金や品物などが、まだ残っている量や金額のこと。",
+      "example": "お小遣い帳で計算したら、今月の残高はあと500円だった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
