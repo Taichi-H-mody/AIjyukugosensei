@@ -19400,6 +19400,14 @@
       "example": "このキャンプ場が永続できるように、みんなで大切に使おう。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永代",
+      "reading": "えいだい",
+      "meaning": "いつまでも続くこと。子や孫の代にわたって。",
+      "example": "この立派な神社は、永代にわたって大切にされるだろう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "非": [
@@ -20684,6 +20692,48 @@
       "reading": "どくやく",
       "meaning": "飲むと体に悪い影響がある薬。",
       "example": "毒薬は、まちがって飲まないようにきびしく管理されています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "墓": [
+    {
+      "jukugo": "墓地",
+      "reading": "ぼち",
+      "meaning": "お墓がたくさん集まっている場所。",
+      "example": "おじいちゃんのお墓は、広いきれいな墓地の中にあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "墓石",
+      "reading": "ぼせき",
+      "meaning": "お墓の上に立てられている石。",
+      "example": "家族みんなで、墓石を丁寧にみがきました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "墓参り",
+      "reading": "はかまいり",
+      "meaning": "お墓に行って、手を合わせたり、お掃除をしたりすること。",
+      "example": "お盆には、家族で一緒にお墓参りに行きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "墓場",
+      "reading": "はかば",
+      "meaning": "お墓のある場所。墓地と同じような意味で使われることがあります。",
+      "example": "物語の中では、月の光がさす静かな墓場に幽霊が現れました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "墓前",
+      "reading": "ぼぜん",
+      "meaning": "お墓の前。",
+      "example": "おばあちゃんのお墓の前に、きれいな花を供えました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
