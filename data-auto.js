@@ -23273,6 +23273,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "辞": [
+    {
+      "jukugo": "辞書",
+      "reading": "じしょ",
+      "meaning": "言葉の意味や使い方を調べる本。",
+      "example": "わからない言葉は、国語**辞書**で調べてみよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "辞退",
+      "reading": "じたい",
+      "meaning": "頼まれたことなどを、ことわること。",
+      "example": "ケガをしてしまったので、運動会のリレー選手を**辞退**した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "お辞儀",
+      "reading": "おじぎ",
+      "meaning": "相手に感謝や敬意を表すために、頭を下げること。",
+      "example": "先生に挨拶するときは、きちんと**お辞儀**をしよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "謝辞",
+      "reading": "しゃじ",
+      "meaning": "感謝の気持ちを伝える言葉。",
+      "example": "卒業式で、代表の生徒が先生方へ**謝辞**を述べた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝辞",
+      "reading": "しゅくじ",
+      "meaning": "お祝いの気持ちを伝える言葉。",
+      "example": "入学式では、校長先生が新入生に**祝辞**を述べた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "焼": [
+    {
+      "jukugo": "焼き肉",
+      "reading": "やきにく",
+      "meaning": "肉を焼いて食べる料理のこと。",
+      "example": "家族で週末にみんなで「焼き肉」を食べに行きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き魚",
+      "reading": "やきざかな",
+      "meaning": "魚を焼いて作った料理のこと。",
+      "example": "今日の晩ごはんのおかずは「焼き魚」でした。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日焼け",
+      "reading": "ひやけ",
+      "meaning": "太陽の光を浴びて、肌が黒くなったり赤くなったりすること。",
+      "example": "夏休みに海でたくさん遊んだら、「日焼け」で体が真っ黒になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼きそば",
+      "reading": "やきそば",
+      "meaning": "中華麺と肉や野菜などを炒めてソースで味付けした料理のこと。",
+      "example": "お祭りの屋台で、おいしい「焼きそば」を買ってもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き芋",
+      "reading": "やきいも",
+      "meaning": "サツマイモを焼いて作った、甘くて温かい食べ物のこと。",
+      "example": "寒い日に食べるホクホクの「焼き芋」はとてもおいしい。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
