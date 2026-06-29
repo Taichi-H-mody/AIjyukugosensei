@@ -23189,6 +23189,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "便": [
+    {
+      "jukugo": "郵便",
+      "reading": "ゆうびん",
+      "meaning": "手紙や荷物を送ること、またはそのしくみ。",
+      "example": "おばあちゃんに手紙を郵便で送りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "便利",
+      "reading": "べんり",
+      "meaning": "役に立って、都合が良いこと。",
+      "example": "この道具は、とても便利です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "便所",
+      "reading": "べんじょ",
+      "meaning": "トイレのこと。",
+      "example": "公園の便所をきれいに使いましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "船便",
+      "reading": "ふなびん",
+      "meaning": "船で手紙や荷物を送ること。",
+      "example": "外国からの荷物は、船便で届くのに時間がかかります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "便箋",
+      "reading": "びんせん",
+      "meaning": "手紙を書くための紙。",
+      "example": "かわいい絵の描いてある便箋で手紙を書きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
