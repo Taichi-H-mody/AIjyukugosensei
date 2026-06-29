@@ -18131,6 +18131,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "共": [
+    {
+      "jukugo": "共通",
+      "reading": "きょうつう",
+      "meaning": "多くのものに当てはまること。みんなに同じであること。",
+      "example": "みんなに**共通**するルールを守って、安全に遊びましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共同",
+      "reading": "きょうどう",
+      "meaning": "何かをするときに、複数の人が力を合わせること。",
+      "example": "クラスみんなで**共同**して、遠足の準備をしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共感",
+      "reading": "きょうかん",
+      "meaning": "他の人の気持ちや考えに、自分も同じように感じること。",
+      "example": "本を読んで、主人公のさびしい気持ちに**共感**しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共有",
+      "reading": "きょうゆう",
+      "meaning": "複数の人が、一つのものを一緒に使ったり、持ったりすること。",
+      "example": "友だちと、お気に入りのゲームを**共有**して遊びました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共生",
+      "reading": "きょうせい",
+      "meaning": "異なる生き物や人たちが、助け合って一緒に暮らすこと。",
+      "example": "自然の中では、いろいろな動物が**共生**しています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "護": [
+    {
+      "jukugo": "保護",
+      "reading": "ほご",
+      "meaning": "危ないことや悪いことから守ること。",
+      "example": "絶滅しそうな動物を**保護**する活動をしているよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "看護",
+      "reading": "かんご",
+      "meaning": "病気の人やけがをした人の世話をすること。",
+      "example": "病院では、お医者さんと**看護**師さんが協力して患者さんを助けてくれる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "介護",
+      "reading": "かいご",
+      "meaning": "お年寄りや体の不自由な人の生活を手助けすること。",
+      "example": "おばあちゃんが病気になった時は、家族みんなで**介護**を手伝ったよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "守護",
+      "reading": "しゅご",
+      "meaning": "危険から守り、見守ること。",
+      "example": "そのお寺には、村のみんなを**守護**する神様がいると言われている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防護",
+      "reading": "ぼうご",
+      "meaning": "危険なものから身を守ること。",
+      "example": "消防士さんは、火事の現場で熱や煙から身を**防護**する服を着て働く。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
