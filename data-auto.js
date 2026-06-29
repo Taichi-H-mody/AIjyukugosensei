@@ -17147,6 +17147,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "初": [
+    {
+      "jukugo": "初日",
+      "reading": "しょにち",
+      "meaning": "物事を始める最初の日。特に、興行やイベントの最初の日。",
+      "example": "映画の公開初日は、たくさんの人で賑わいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最初",
+      "reading": "さいしょ",
+      "meaning": "一番はじめ。物事の始まり。",
+      "example": "物語の最初には、主人公の紹介があります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初雪",
+      "reading": "はつゆき",
+      "meaning": "その冬、初めて降る雪。",
+      "example": "昨日の夜、今年の初雪が降りました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初夢",
+      "reading": "はつゆめ",
+      "meaning": "新年になってから初めて見る夢。",
+      "example": "一富士二鷹三茄子が初夢に出ると縁起が良いと言われています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初耳",
+      "reading": "はつみみ",
+      "meaning": "初めて聞くこと。今まで知らなかったこと。",
+      "example": "その話は初耳だったので、とても驚きました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
