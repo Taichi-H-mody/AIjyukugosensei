@@ -22429,6 +22429,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "脈": [
+    {
+      "jukugo": "脈拍",
+      "reading": "みゃくはく",
+      "meaning": "心臓が血液を送るとき、血管がドクンドクンと動くこと。またはその回数。",
+      "example": "手首に指を当てて、自分の脈拍を測ってみた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山脈",
+      "reading": "さんみゃく",
+      "meaning": "山がいくつも長くつながっている地形。",
+      "example": "日本の真ん中には、高い山が連なる山脈がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "動脈",
+      "reading": "どうみゃく",
+      "meaning": "心臓から体のすみずみへきれいな血液を送るための血管。",
+      "example": "動脈は、体中に酸素を運ぶ大切な血管だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "静脈",
+      "reading": "じょうみゃく",
+      "meaning": "体のすみずみから心臓へ、使い終わった血液を戻すための血管。",
+      "example": "静脈を通って、汚れた血液が心臓へ戻っていく。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "脈動",
+      "reading": "みゃくどう",
+      "meaning": "心臓や血管がドクンドクンと規則正しく動くこと。",
+      "example": "緊張すると、心臓がドキドキと脈動するのがわかる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
