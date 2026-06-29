@@ -22127,5 +22127,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "博": [
+    {
+      "jukugo": "博物館",
+      "reading": "はくぶつかん",
+      "meaning": "昔の物や珍しい物、科学のしくみなどを集めて、みんなに見せてくれる建物。",
+      "example": "遠足で、恐竜の骨がある博物館に行った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "博士",
+      "reading": "はかせ",
+      "meaning": "ある分野について、とても詳しくてえらい人。研究や勉強を深くして、その道のプロになった人。",
+      "example": "将来、ロボットを作る博士になりたいな。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "博愛",
+      "reading": "はくあい",
+      "meaning": "すべての人を公平に、分け隔てなく愛すること。みんなに優しくすること。",
+      "example": "博愛の精神を持って、困っている友達を助けた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "博覧会",
+      "reading": "はくらんかい",
+      "meaning": "たくさんの珍しい物や新しい技術などを集めて、多くの人に見せる大きな催し物。",
+      "example": "来年、宇宙の技術を紹介する博覧会が開かれるそうだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "博学",
+      "reading": "はくがく",
+      "meaning": "いろいろなことを広く知っていること。たくさんの知識があること。",
+      "example": "うちの先生はとても博学だから、どんな質問にも答えてくれる。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
