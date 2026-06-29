@@ -19491,6 +19491,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "夢": [
+    {
+      "jukugo": "夢中",
+      "reading": "むちゅう",
+      "meaning": "一つのことに心を奪われて、他のことを忘れてしまうこと。",
+      "example": "ゲームに夢中で、宿題を忘れてしまった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悪夢",
+      "reading": "あくむ",
+      "meaning": "こわい夢や、いやなできごと。",
+      "example": "ゆうべ、おばけが出てくる悪夢を見た。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初夢",
+      "reading": "はつゆめ",
+      "meaning": "お正月になって、最初にみる夢。",
+      "example": "今年の初夢は、富士山が出てきて、なんだかいいことがありそうだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夢物語",
+      "reading": "ゆめものがたり",
+      "meaning": "現実にはありえないような、ふしぎな話やできごと。",
+      "example": "おじいちゃんが話してくれた昔の冒険は、まるで夢物語のようだった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夢心地",
+      "reading": "ゆめごこち",
+      "meaning": "夢を見ているようにぼんやりとして、とても気持ちのよい状態。",
+      "example": "大好きなおかしをたくさん食べて、夢心地になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
