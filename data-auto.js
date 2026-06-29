@@ -21738,6 +21738,30 @@ const autoData = {
       "example": "昔の探偵小説が**絶版**になっていて、なかなか見つかりません。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "版画",
+      "reading": "はんが",
+      "meaning": "木やゴムなどに絵を彫り、色をつけて紙に刷り取った絵のこと。",
+      "example": "図工の時間に、みんなで楽しい版画を作った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改版",
+      "reading": "かいはん",
+      "meaning": "本などの内容を直したり、新しい情報にしたりして、もう一度出し直すこと。",
+      "example": "来年から使う教科書が、新しく改版された。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "木版",
+      "reading": "もくはん",
+      "meaning": "木を材料にして彫り、印刷するための板。",
+      "example": "昔の日本では、木版を使ってたくさんの本や絵が作られていた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "編": [
@@ -23046,6 +23070,48 @@ const autoData = {
       "reading": "ぼうえんきょう",
       "meaning": "遠くのものを近くに見ることができる道具のこと。",
       "example": "夜、望遠鏡で月や星を観察するのが楽しみです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "札": [
+    {
+      "jukugo": "名札",
+      "reading": "なふだ",
+      "meaning": "名前を書いて、服などにつける札。",
+      "example": "小学校に入学して、新しい名札をもらいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千円札",
+      "reading": "せんえんさつ",
+      "meaning": "千円の価値がある紙のお金（紙幣）。",
+      "example": "お財布の中に千円札が三枚入っていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "荷札",
+      "reading": "にふだ",
+      "meaning": "荷物につけて、送り先の住所などを書く札。",
+      "example": "旅行に行くとき、かばんに荷札をつけました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "値札",
+      "reading": "ねふだ",
+      "meaning": "お店の商品についていて、値段が書いてある札。",
+      "example": "お店でかわいいえんぴつの値札を見て、買ってもらいました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "改札",
+      "reading": "かいさつ",
+      "meaning": "駅などで、切符や定期券が正しいか確かめること。また、その場所。",
+      "example": "電車に乗るために、駅の改札を通りました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
