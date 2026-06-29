@@ -19094,6 +19094,14 @@ const autoData = {
       "example": "兄と弟の間で、テレビのリモコンの**紛争**が始まった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦争",
+      "reading": "せんそう",
+      "meaning": "国と国が武力で争い、戦うこと。",
+      "example": "歴史の授業で、昔の戦争について勉強した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "因": [
@@ -22786,6 +22794,48 @@ const autoData = {
       "reading": "しにせ",
       "meaning": "代々続いていて、歴史と信用のあるお店。",
       "example": "この町には、何百年も続く老舗の和菓子屋さんがあります。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "司": [
+    {
+      "jukugo": "司会",
+      "reading": "しかい",
+      "meaning": "会議やパーティーなどで、話の進行役を務めること。また、その人。",
+      "example": "運動会の開会式では、先生が司会を務めました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "司書",
+      "reading": "ししょ",
+      "meaning": "図書館で本の貸し出しや管理、利用者への手伝いなどをする専門職の人。",
+      "example": "図書館の司書さんが、おすすめの本を教えてくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "司令",
+      "reading": "しれい",
+      "meaning": "命令を出すこと。または、その命令。",
+      "example": "ロボットに「前へ進め」と司令を出しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "司法",
+      "reading": "しほう",
+      "meaning": "法律に基づいて、争いを解決したり、罪を裁いたりする国の仕組み。",
+      "example": "裁判所は、日本の司法を担う大切な場所です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "司祭",
+      "reading": "しさい",
+      "meaning": "キリスト教の教会で、儀式を行ったり信者を導いたりする聖職者。",
+      "example": "教会では、司祭さまがお話をしてくれます。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
