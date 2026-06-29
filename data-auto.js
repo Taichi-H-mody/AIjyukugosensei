@@ -22045,6 +22045,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "民": [
+    {
+      "jukugo": "国民",
+      "reading": "こくみん",
+      "meaning": "その国に住んでいる人々。",
+      "example": "わたしたちは日本国民の一員です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市民",
+      "reading": "しみん",
+      "meaning": "町や市に住んでいる人々。",
+      "example": "この市の市民プールは、夏になるとたくさんの人でにぎわいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住民",
+      "reading": "じゅうみん",
+      "meaning": "ある場所に住んでいる人々。",
+      "example": "アパートの住民みんなで、入り口のそうじをしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "民謡",
+      "reading": "みんよう",
+      "meaning": "昔から人々の間で歌いつがれてきた歌。",
+      "example": "おじいちゃんは、古い民謡を歌うのがとてもじょうずです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人民",
+      "reading": "じんみん",
+      "meaning": "ある国や地域に住む人々。",
+      "example": "昔の王さまは、自分の国の人民を大切にしました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "然": [
+    {
+      "jukugo": "自然",
+      "reading": "しぜん",
+      "meaning": "山や川、木や動物など、人が作ったり変えたりしていない、ありのままの世界のこと。",
+      "example": "休みの日には、家族と自然の中で遊ぶのが好きです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "当然",
+      "reading": "とうぜん",
+      "meaning": "そうなるのがあたりまえであること。",
+      "example": "困っている友達を助けるのは、当然のことです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "偶然",
+      "reading": "ぐうぜん",
+      "meaning": "思いがけず、たまたまそうなったこと。",
+      "example": "学校の帰りに、偶然、先生に会いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "突然",
+      "reading": "とつぜん",
+      "meaning": "急に、思いがけなく何かが起こること。",
+      "example": "空が突然暗くなって、大粒の雨が降り出しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全然",
+      "reading": "ぜんぜん",
+      "meaning": "まったく、少しも。",
+      "example": "宿題は全然難しくなかったので、すぐに終わりました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
