@@ -20471,6 +20471,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "菜": [
+    {
+      "jukugo": "野菜",
+      "reading": "やさい",
+      "meaning": "畑などで作られる、食べるための草や茎、葉、根などの植物。",
+      "example": "今日の給食には、たくさんの野菜が入っていました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青菜",
+      "reading": "あおな",
+      "meaning": "主に葉を食べる野菜の総称。ほうれん草や小松菜など。",
+      "example": "お母さんが青菜のおひたしを作ってくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "菜の花",
+      "reading": "なのはな",
+      "meaning": "春に黄色い花を咲かせるアブラナ科の植物。また、その花や若葉。",
+      "example": "春になると、畑いっぱいに菜の花が咲きます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小松菜",
+      "reading": "こまつな",
+      "meaning": "日本の代表的な葉物野菜の一つ。栄養が豊富で、おひたしや炒め物によく使われる。",
+      "example": "小松菜は、鉄分がたくさん入っていて体に良いです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "白菜",
+      "reading": "はくさい",
+      "meaning": "冬が旬の大きな葉物野菜。鍋物や漬物によく使われる。",
+      "example": "お鍋には白菜をたくさん入れます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "積": [
+    {
+      "jukugo": "積雪",
+      "reading": "せきせつ",
+      "meaning": "積もった雪のこと。",
+      "example": "冬の山にはたくさんの積雪がありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "面積",
+      "reading": "めんせき",
+      "meaning": "平面の広さのこと。",
+      "example": "この部屋の面積はどのくらいですか。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体積",
+      "reading": "たいせき",
+      "meaning": "物の大きさを表す言葉で、かさのこと。",
+      "example": "水槽の体積を計算しましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "積み木",
+      "reading": "つみき",
+      "meaning": "木でできたブロックを積み重ねて遊ぶおもちゃ。",
+      "example": "弟と積み木で高いお城を作って遊びました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "積み荷",
+      "reading": "つみに",
+      "meaning": "船やトラックなどに積んである荷物のこと。",
+      "example": "港には、船から降ろされたたくさんの積み荷がありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
