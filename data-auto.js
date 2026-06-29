@@ -19533,6 +19533,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "祝": [
+    {
+      "jukugo": "祝日",
+      "reading": "しゅくじつ",
+      "meaning": "国で決められた、学校や会社がお休みになる日のことです。",
+      "example": "明日は祝日なので、家族みんなで公園へピクニックに行きます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝福",
+      "reading": "しゅくふく",
+      "meaning": "相手の幸せを願ってお祝いすることです。",
+      "example": "お誕生日会で、みんながぼくの誕生日を祝福してくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝賀",
+      "reading": "しゅくが",
+      "meaning": "お祝いをすることや、そのお祝いの会のことです。",
+      "example": "サッカーチームが試合に勝ったので、祝賀パーティーが開かれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝典",
+      "reading": "しゅくてん",
+      "meaning": "何かをお祝いするための、特別な儀式や式典のことです。",
+      "example": "新しい図書館ができたので、みんなで祝典を行いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祝勝",
+      "reading": "しゅくしょう",
+      "meaning": "試合や勝負に勝ったことをお祝いすることです。",
+      "example": "運動会で赤組が優勝したので、みんなで祝勝の歌を歌いました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
