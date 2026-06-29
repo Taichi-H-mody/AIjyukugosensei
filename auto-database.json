@@ -20553,5 +20553,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "伝": [
+    {
+      "jukugo": "伝言",
+      "reading": "でんごん",
+      "meaning": "ある人から別の人へ言葉を伝えること。また、その言葉。",
+      "example": "お母さんからの伝言を、お兄ちゃんに伝えた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝説",
+      "reading": "でんせつ",
+      "meaning": "昔から語り伝えられてきた、不思議な話や出来事。",
+      "example": "この古いお寺には、鬼が住んでいたという伝説がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝記",
+      "reading": "でんき",
+      "meaning": "ある人の生涯や功績について書かれた物語。",
+      "example": "野口英世の伝記を読んで、医者になりたいと思った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遺伝",
+      "reading": "いでん",
+      "meaning": "親から子へ、体の特徴や性質が受け継がれること。",
+      "example": "目が大きいのは、お父さんからの遺伝だね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宣伝",
+      "reading": "せんでん",
+      "meaning": "商品や考えを多くの人に知らせて、広めること。",
+      "example": "新しいおもちゃの宣伝が、テレビで始まった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "失": [
+    {
+      "jukugo": "失敗",
+      "reading": "しっぱい",
+      "meaning": "物事をやりそこなうこと。思ったようにうまくいかないこと。",
+      "example": "テストで失敗しないように、しっかり勉強しよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "失礼",
+      "reading": "しつれい",
+      "meaning": "礼儀にかなわないこと。相手に迷惑をかけたり、無作法なふるまいをしたりすること。",
+      "example": "人に会ったら、元気にあいさつをするのが失礼のない態度です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紛失",
+      "reading": "ふんしつ",
+      "meaning": "物を見失ってなくしてしまうこと。",
+      "example": "大事な消しゴムを学校で紛失してしまって、困った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "失格",
+      "reading": "しっかく",
+      "meaning": "競技や試験などで、参加する資格や合格の権利を失うこと。",
+      "example": "ルールを破った選手は、試合から失格になった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消失",
+      "reading": "しょうしつ",
+      "meaning": "消えてなくなること。見えなくなること。",
+      "example": "夕焼け空に、雲がだんだんと消失していった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
