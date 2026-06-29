@@ -21875,5 +21875,89 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "席": [
+    {
+      "jukugo": "座席",
+      "reading": "ざせき",
+      "meaning": "座るための場所、いす。",
+      "example": "電車で、お年寄りに座席をゆずった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出席",
+      "reading": "しゅっせき",
+      "meaning": "会や学校などに、その場にいること。",
+      "example": "きょうも学校に、みんな出席しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠席",
+      "reading": "けっせき",
+      "meaning": "会や学校などに、その場にいないこと。",
+      "example": "熱が出たので、学校を欠席しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空席",
+      "reading": "くうせき",
+      "meaning": "まだ人が座っていない、空いている席。",
+      "example": "電車に空席を見つけたので、座ることができた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指定席",
+      "reading": "していせき",
+      "meaning": "あらかじめ座る人が決まっている席。",
+      "example": "新幹線には、指定席と自由席がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "未": [
+    {
+      "jukugo": "未来",
+      "reading": "みらい",
+      "meaning": "これから来る時。先のほうの時。",
+      "example": "夢に向かって、明るい未来を描こう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未満",
+      "reading": "みまん",
+      "meaning": "ある数量や基準に達していないこと。",
+      "example": "１０歳未満の子どもは、入場無料です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未熟",
+      "reading": "みじゅく",
+      "meaning": "まだ十分に成長していないこと。経験が少ないこと。",
+      "example": "この果物はまだ未熟なので、しばらく置いておこう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未完成",
+      "reading": "みかんせい",
+      "meaning": "まだできあがっていないこと。",
+      "example": "僕のプラモデルはまだ未完成だけど、あと少しで完成するよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未定",
+      "reading": "みてい",
+      "meaning": "まだ決まっていないこと。",
+      "example": "運動会の日にちは、まだ未定です。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
