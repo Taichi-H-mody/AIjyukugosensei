@@ -22469,5 +22469,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "信": [
+    {
+      "jukugo": "自信",
+      "reading": "じしん",
+      "meaning": "自分の能力や価値を信じる気持ち。自分はできると思う気持ち。",
+      "example": "発表会では、自信を持って大きな声で話せたよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信用",
+      "reading": "しんよう",
+      "meaning": "人を信じて、その人が言ったことやすることを信じること。",
+      "example": "約束をきちんと守る人は、みんなからの信用が厚いね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信号",
+      "reading": "しんごう",
+      "meaning": "光や音などで、何かを知らせる合図。",
+      "example": "信号が青になったら、手を上げて横断歩道を渡りましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通信簿",
+      "reading": "つうしんぼ",
+      "meaning": "学校で、子どもの成績や様子を保護者に知らせるために渡される書類。",
+      "example": "学期末にもらう通信簿には、先生からのメッセージが書いてあるんだ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "信頼",
+      "reading": "しんらい",
+      "meaning": "相手を信じて頼りにすること。裏切らないと信じること。",
+      "example": "困ったときには、信頼できる友達に相談するのが一番だね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
