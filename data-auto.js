@@ -20227,6 +20227,90 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "領": [
+    {
+      "jukugo": "領土",
+      "reading": "りょうど",
+      "meaning": "ある国が自分のものとして持っている土地のこと。",
+      "example": "日本の領土は、たくさんの島でできています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "領収",
+      "reading": "りょうしゅう",
+      "meaning": "お金を払ったときにもらう、お金を受け取ったという証明の紙やはんこのこと。",
+      "example": "お母さんは、お買い物をすると領収書をもらいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "領海",
+      "reading": "りょうかい",
+      "meaning": "国の周りにある、その国が管理する海のこと。",
+      "example": "船は、日本の領海を安全に進みました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "領空",
+      "reading": "りょうくう",
+      "meaning": "国の地面や海の上の空で、その国が管理する範囲のこと。",
+      "example": "飛行機は日本の領空を通って外国へ向かいます。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "占領",
+      "reading": "せんりょう",
+      "meaning": "ある場所を、自分のものとして一時的に使うこと。",
+      "example": "弟がおもちゃのブロックをたくさん使って、部屋の半分を占領しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "迷": [
+    {
+      "jukugo": "迷子",
+      "reading": "まいご",
+      "meaning": "道に迷って、親や知り合いとはぐれてしまった子ども。",
+      "example": "遊園地で迷子にならないように、お母さんの手から離れないでね。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "迷路",
+      "reading": "めいろ",
+      "meaning": "入り組んでいて、道がわかりにくいように作られた場所。",
+      "example": "お祭り広場の迷路は、なかなかゴールにたどりつけなくて楽しかった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "迷彩",
+      "reading": "めいさい",
+      "meaning": "周りの景色に溶け込むように色や模様を工夫して、見えにくくすること。",
+      "example": "兵隊さんの服は、森の中で目立たないように迷彩柄になっている。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "迷宮",
+      "reading": "めいきゅう",
+      "meaning": "出口がとても見つけにくいほど、複雑に入り組んだ建物や場所。",
+      "example": "ゲームに出てくる地下の迷宮は、たくさんのわながあってスリル満点だ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "迷信",
+      "reading": "めいしん",
+      "meaning": "科学的な根拠はないけれど、昔から信じられていること。",
+      "example": "夜に爪を切ると親の死に目に会えないというのは、ただの迷信だよ。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
