@@ -20351,5 +20351,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "弁": [
+    {
+      "jukugo": "弁護",
+      "reading": "べんご",
+      "meaning": "だれかを守るために、言葉でその人の正しさや立場を説明すること。",
+      "example": "友達がうそつきだと言われたので、私が先生に弁護した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁償",
+      "reading": "べんしょう",
+      "meaning": "人のものをこわしたり、なくしたりしたとき、お金を払ったり、代わりのものを用意したりして償うこと。",
+      "example": "友達のえんぴつを折ってしまったので、新しいものを弁償した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁解",
+      "reading": "べんかい",
+      "meaning": "自分の失敗や悪いことについて、理由を説明すること。言いわけ。",
+      "example": "遅刻した理由を、先生に弁解した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花弁",
+      "reading": "かべん",
+      "meaning": "花びらのこと。",
+      "example": "桜の花弁が風に舞い、とてもきれいだった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁論",
+      "reading": "べんろん",
+      "meaning": "自分の意見や考えを、みんなの前で話して伝えること。",
+      "example": "クラスの代表として、私は全校生徒の前で環境問題についての弁論を行った。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
