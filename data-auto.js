@@ -18452,6 +18452,14 @@ const autoData = {
       "example": "世界の国々が協力するために、新しい**条約**を結んだ。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "条例",
+      "reading": "じょうれい",
+      "meaning": "市や町など、地方の団体が作る、地域のためのきまり。",
+      "example": "公園で夜遅くまで遊ばないようにという**条例**が作られた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "省": [
@@ -21486,6 +21494,48 @@ const autoData = {
       "reading": "あんい",
       "meaning": "物事を深く考えず、簡単な方法を選んだり、いい加減に済ませたりすること。",
       "example": "**安易**な気持ちで決めるのではなく、よく考えてから行動しましょう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "版": [
+    {
+      "jukugo": "出版",
+      "reading": "しゅっぱん",
+      "meaning": "本や雑誌などを印刷して世に出すこと。",
+      "example": "作者は新しい絵本を**出版**しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初版",
+      "reading": "しょはん",
+      "meaning": "最初に作られて、世に出された本や印刷物のこと。",
+      "example": "この漫画は**初版**からとても人気がありました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再版",
+      "reading": "さいはん",
+      "meaning": "一度売り切れた本などを、もう一度印刷して世に出すこと。",
+      "example": "人気だったので、その図鑑はすぐに**再版**されました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "限定版",
+      "reading": "げんていばん",
+      "meaning": "数を少なくして、特別に作られた品物のこと。",
+      "example": "好きなキャラクターのフィギュアが**限定版**で売られています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶版",
+      "reading": "ぜっぱん",
+      "meaning": "本や雑誌が、もう二度と印刷されなくなり、手に入らなくなること。",
+      "example": "昔の探偵小説が**絶版**になっていて、なかなか見つかりません。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
