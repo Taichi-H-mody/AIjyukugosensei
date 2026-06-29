@@ -20666,6 +20666,30 @@ const autoData = {
       "example": "クラスの代表として、私は全校生徒の前で環境問題についての弁論を行った。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁当",
+      "reading": "べんとう",
+      "meaning": "外出先などで食べるために用意された食事。お昼ご飯によく持っていくもの。",
+      "example": "遠足の日は、お母さんがおいしい**弁当**を作ってくれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁護士",
+      "reading": "べんごし",
+      "meaning": "法律の専門家で、裁判などで困っている人の味方になり、代わりに意見を述べたり助言したりする人。",
+      "example": "将来、困っている人を助ける**弁護士**になりたいです。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁明",
+      "reading": "べんめい",
+      "meaning": "誤解されたり、疑われたりしたときに、本当の事情を説明して理解してもらうこと。",
+      "example": "遅刻の理由を先生に正直に**弁明**しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
     }
   ],
   "試": [
