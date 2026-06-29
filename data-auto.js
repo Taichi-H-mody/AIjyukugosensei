@@ -17719,6 +17719,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "個": [
+    {
+      "jukugo": "個人",
+      "reading": "こじん",
+      "meaning": "一人一人の人間。自分自身のこと。",
+      "example": "個人の意見を大切にしよう。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個数",
+      "reading": "こすう",
+      "meaning": "物の数。いくつあるか。",
+      "example": "消しゴムの個数を数える。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一個",
+      "reading": "いっこ",
+      "meaning": "数を数えるときに使う言葉。ひとつ。",
+      "example": "パンを一個買う。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個別",
+      "reading": "こべつ",
+      "meaning": "一つ一つ別々であること。",
+      "example": "先生が個別に指導してくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "個々",
+      "reading": "ここ",
+      "meaning": "一つ一つ。それぞれ。",
+      "example": "みんな個々の目標に向かってがんばった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
