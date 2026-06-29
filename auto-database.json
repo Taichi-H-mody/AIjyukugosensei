@@ -19681,5 +19681,47 @@
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "検": [
+    {
+      "jukugo": "検査",
+      "reading": "けんさ",
+      "meaning": "よく調べて確かめること。",
+      "example": "健康診断で、お医者さんが体を検査してくれた。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "点検",
+      "reading": "てんけん",
+      "meaning": "壊れているところがないか、一つ一つ注意して確かめること。",
+      "example": "自転車に乗る前に、ブレーキがきちんと効くか点検した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "検診",
+      "reading": "けんしん",
+      "meaning": "健康状態や病気がないかを詳しく調べること。",
+      "example": "学校で年に一度、歯の検診がある。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "検算",
+      "reading": "けんざん",
+      "meaning": "計算が合っているか、もう一度確かめること。",
+      "example": "算数のテストが終わったら、答えが合っているか検算した。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "検便",
+      "reading": "けんべん",
+      "meaning": "うんちを調べて、おなかの病気がないか確かめること。",
+      "example": "学校の健康診断で、検便の袋をもらった。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
