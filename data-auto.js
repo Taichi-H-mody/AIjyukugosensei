@@ -18971,6 +18971,48 @@ const autoData = {
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "録": [
+    {
+      "jukugo": "記録",
+      "reading": "きろく",
+      "meaning": "物事を書きとめて残しておくこと。また、その書きとめたもの。",
+      "example": "運動会で、新しい記録が生まれました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "録音",
+      "reading": "ろくおん",
+      "meaning": "音声を機械などでとらえて、後で聞けるようにすること。",
+      "example": "発表会のために、自分の歌声を録音して練習しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "録画",
+      "reading": "ろくが",
+      "meaning": "テレビ番組などの映像を機械などでとらえて、後で見られるようにすること。",
+      "example": "好きなアニメ番組を録画して、後でゆっくり見ました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登録",
+      "reading": "とうろく",
+      "meaning": "名前や情報を正式に書きしるして、公に認められるようにすること。",
+      "example": "図書館で本を借りるために、利用者カードを登録しました。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "収録",
+      "reading": "しゅうろく",
+      "meaning": "本やCD、テレビ番組などに、特定のものを収め入れること。",
+      "example": "このCDには、新しい歌が何曲か収録されています。",
+      "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
