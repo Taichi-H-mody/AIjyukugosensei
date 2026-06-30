@@ -23824,6 +23824,22 @@ const autoData = {
       "example": "強い意志があれば、どんな困難も乗り越えられます。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有志",
+      "reading": "ゆうし",
+      "meaning": "あることをしようと、自分から進んで協力してくれる人たち。",
+      "example": "運動会のそうじは、たくさんの有志が手伝ってくれた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "志向",
+      "reading": "しこう",
+      "meaning": "ある目標や考え方に心が向かっていること。",
+      "example": "彼女はいつも、みんなが楽しくなる方向を志向している。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "採": [
