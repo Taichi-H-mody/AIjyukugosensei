@@ -23414,6 +23414,30 @@
       "example": "待望の新しいゲームが発売された。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "志望",
+      "reading": "しぼう",
+      "meaning": "あることについて、こうしたいと心に決めて望むこと。",
+      "example": "ぼくの志望は、将来、人の役に立つ仕事につくことです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "展望台",
+      "reading": "てんぼうだい",
+      "meaning": "遠くの景色を広く見渡せるように作られた高い場所。",
+      "example": "展望台からは、きれいな夜景がよく見えました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絶望",
+      "reading": "ぜつぼう",
+      "meaning": "希望をなくし、どうすることもできないと思うこと。",
+      "example": "テストで悪い点数をとってしまい、一時は絶望したが、次こそがんばろうと思った。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "借": [
