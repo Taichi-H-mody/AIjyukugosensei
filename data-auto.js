@@ -23268,6 +23268,14 @@ const autoData = {
       "example": "この川は、その町の主要な水源だ。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "要求",
+      "reading": "ようきゅう",
+      "meaning": "相手に何かをしてほしいと求めること。",
+      "example": "弟が新しいゲームを**要求**してきました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ]
 };
