@@ -23490,6 +23490,14 @@
       "example": "僕のお父さんは**貿易会社**で働いていて、外国の人と話すのが得意です。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易船",
+      "reading": "ぼうえきせん",
+      "meaning": "品物を運んで国と国を行き来する大きな船。",
+      "example": "大きな貿易船が港にやってきました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "支": [
@@ -24042,6 +24050,48 @@
       "reading": "おんりょう",
       "meaning": "音の大きさ。",
       "example": "テレビの**音量**が大きすぎて、お母さんにしかられた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "材": [
+    {
+      "jukugo": "木材",
+      "reading": "もくざい",
+      "meaning": "家を建てたり、家具を作ったりするのに使う、切った木や加工した木のこと。",
+      "example": "このいえは、じょうぶな木材でできています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "材料",
+      "reading": "ざいりょう",
+      "meaning": "何かを作るために必要なもの。食べ物の材料や、工作の材料など。",
+      "example": "カレーの材料をかいにいこう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食材",
+      "reading": "しょくざい",
+      "meaning": "食べ物として使う材料のこと。魚や野菜、お肉など。",
+      "example": "おいしいりょうりをつくるには、しんせんな食材がたいせつだ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資材",
+      "reading": "しざい",
+      "meaning": "工事やものづくりなどで使う、道具や材料のこと。",
+      "example": "こうじげんばには、たくさんの資材がおかれている。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人材",
+      "reading": "じんざい",
+      "meaning": "会社や社会にとって、役に立つことができる才能や能力を持った人のこと。",
+      "example": "このかいしゃは、すぐれた人材をさがしている。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
