@@ -24250,6 +24250,14 @@
       "example": "みんなで力を合わせ、一挙に問題を解決した。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快挙",
+      "reading": "かいきょ",
+      "meaning": "とてもりっぱなこと。見事な行い。",
+      "example": "クラス全員で目標を達成できたのは、大きな快挙だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "液": [
@@ -24406,6 +24414,14 @@
       "reading": "すいそく",
       "meaning": "はっきりしないことを、あることから考えて、おしはかること。",
       "example": "彼の表情から気持ちを推測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "測量",
+      "reading": "そくりょう",
+      "meaning": "土地の広さや形、高さを測ること。",
+      "example": "建設現場で、土地の測量が行われていました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
