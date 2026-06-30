@@ -23319,6 +23319,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "望": [
+    {
+      "jukugo": "希望",
+      "reading": "きぼう",
+      "meaning": "こうなってほしいと願うこと。また、その願い。",
+      "example": "将来の夢に希望を持つ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "展望",
+      "reading": "てんぼう",
+      "meaning": "遠くまで見渡すこと。また、これからの見通し。",
+      "example": "山の上から街の展望がひらける。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "望遠鏡",
+      "reading": "ぼうえんきょう",
+      "meaning": "遠くのものを近くに見せるための道具。",
+      "example": "望遠鏡で夜空の星を観察する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠望",
+      "reading": "えんぼう",
+      "meaning": "遠くを見ること。遠くを見渡すこと。",
+      "example": "海岸から水平線を遠望する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "待望",
+      "reading": "たいぼう",
+      "meaning": "待ち望むこと。心待ちにすること。",
+      "example": "待望の新しいゲームが発売された。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
