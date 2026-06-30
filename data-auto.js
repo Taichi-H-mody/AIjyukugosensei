@@ -24186,6 +24186,14 @@ const autoData = {
       "example": "私たちのチームは、サッカーの試合で勝利をおさめた。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "利口",
+      "reading": "りこう",
+      "meaning": "頭がよく、かしこいこと。",
+      "example": "その犬は人の言葉を理解する**利口**な犬だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "挙": [
@@ -24310,6 +24318,122 @@ const autoData = {
       "reading": "ぶじゅつ",
       "meaning": "昔から伝わる、戦うための技や練習方法のことです。体を鍛えたり、武器を使う技術を身につけたりします。",
       "example": "おじいちゃんは昔、いろいろな武術を習っていたと話してくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "測": [
+    {
+      "jukugo": "測定",
+      "reading": "そくてい",
+      "meaning": "長さ、重さ、温度などをはかること。",
+      "example": "身長を測定する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予測",
+      "reading": "よそく",
+      "meaning": "これからどうなるかを前もって考えること。",
+      "example": "天気予報で明日の天気を予測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観測",
+      "reading": "かんそく",
+      "meaning": "自然の様子などをよく見て、調べること。",
+      "example": "星空を観測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計測",
+      "reading": "けいそく",
+      "meaning": "機械などを使って、物の大きさや速さなどをはかること。",
+      "example": "ストップウォッチで時間を計測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "推測",
+      "reading": "すいそく",
+      "meaning": "はっきりしないことを、あることから考えて、おしはかること。",
+      "example": "彼の表情から気持ちを推測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "織": [
+    {
+      "jukugo": "織物",
+      "reading": "おりもの",
+      "meaning": "糸を織って作った布や、その布で作られたもののこと。",
+      "example": "お土産屋さんで、きれいな模様の**織物**のハンカチを買いました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機織",
+      "reading": "はたおり",
+      "meaning": "糸をたてとよこに組み合わせて布を作ること。または、そのための機械。",
+      "example": "昔の人は、手作業でこつこつと**機織**をして布を作りました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "織機",
+      "reading": "しょっき",
+      "meaning": "布を織るための機械のこと。",
+      "example": "工場には、大きな音がするたくさんの**織機**が並んでいました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紡織",
+      "reading": "ぼうしょく",
+      "meaning": "綿や羊毛などを糸にして（紡ぐ）、その糸で布を織ること。",
+      "example": "日本の昔の産業では、綿花の**紡織**がとても盛んでした。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "織女",
+      "reading": "しょくじょ",
+      "meaning": "七夕のお話に出てくる、はた織りが上手な天女（織姫）のこと。",
+      "example": "七夕の夜は、**織女**さまと彦星さまが天の川で会える日です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組織",
+      "reading": "そしき",
+      "meaning": "たくさんのものが集まって、一つのまとまりを作っていること。会社や学校、体の器官などが、それぞれ役割分担をしてまとまっている様子。",
+      "example": "クラスの役割を決めるために、みんなで**組織**を作りました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "機織り",
+      "reading": "はたおり",
+      "meaning": "糸をたてとよこに組み合わせて、布を作る作業のこと。昔から行われている仕事の一つです。",
+      "example": "昔の人は、**機織り**で着る服の布を作っていました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手織り",
+      "reading": "ており",
+      "meaning": "機械を使わず、人の手で一つ一つていねいに織られた布や、その織り方のこと。",
+      "example": "おばあちゃんが**手織り**のマフラーをプレゼントしてくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "織り目",
+      "reading": "おりめ",
+      "meaning": "布の糸がたてとよこに交わっているところに見える、目のこと。布の模様のように見えることもあります。",
+      "example": "この布は**織り目**が細かくて、とても丈夫です。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
