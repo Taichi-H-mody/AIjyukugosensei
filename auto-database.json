@@ -24110,6 +24110,14 @@
       "example": "このかいしゃは、すぐれた人材をさがしている。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教材",
+      "reading": "きょうざい",
+      "meaning": "勉強するために使うもの。教科書やプリントなど。",
+      "example": "先生が新しい教材を配ってくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ]
 }
