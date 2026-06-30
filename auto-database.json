@@ -23456,6 +23456,22 @@
       "example": "公園の場所は、市が個人から借りている借地だ。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借金",
+      "reading": "しゃっきん",
+      "meaning": "人からお金を借りること。また、借りたお金。",
+      "example": "お小遣いが足りなくなって、お母さんに借金しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借主",
+      "reading": "かりぬし",
+      "meaning": "物やお金を借りている人。",
+      "example": "図書館の本の借主は、田中さんのお父さんです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "貿": [
@@ -23754,6 +23770,14 @@
       "reading": "すえっこ",
       "meaning": "兄弟姉妹の中で一番年下の子のことです。",
       "example": "私は三人兄弟の末っ子なので、みんなにかわいがられています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "末尾",
+      "reading": "まつび",
+      "meaning": "物事の一番終わり。最後。",
+      "example": "この本の末尾には、登場人物のリストが載っています。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
