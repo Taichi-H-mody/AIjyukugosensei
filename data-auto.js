@@ -23403,6 +23403,40 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "貿": [
+    {
+      "jukugo": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "国と国の間で、品物やサービスを売り買いすること。",
+      "example": "日本は世界中の国々とたくさんの品物を**貿易**しています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易品",
+      "reading": "ぼうえきひん",
+      "meaning": "貿易でやり取りされる品物のこと。",
+      "example": "車や電化製品は、日本の大切な**貿易品**です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易港",
+      "reading": "ぼうえきこう",
+      "meaning": "貿易を行う船が出入りする港のこと。",
+      "example": "大きな船がたくさん集まる**貿易港**は、いつもにぎやかです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易会社",
+      "reading": "ぼうえきがいしゃ",
+      "meaning": "国と国の間で品物の売買をする仕事をしている会社のこと。",
+      "example": "僕のお父さんは**貿易会社**で働いていて、外国の人と話すのが得意です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
