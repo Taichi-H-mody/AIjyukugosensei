@@ -23478,6 +23478,22 @@ const autoData = {
       "example": "災害で困っている人たちを支援する活動に参加した。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支出",
+      "reading": "ししゅつ",
+      "meaning": "お金を使うこと。使ったお金。",
+      "example": "今月のおこづかいの支出を記録する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支店",
+      "reading": "してん",
+      "meaning": "本社とはべつに、ちがう場所に作られた店や事務所。",
+      "example": "このお店は全国に支店があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ]
 };
