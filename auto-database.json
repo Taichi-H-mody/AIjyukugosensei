@@ -23711,5 +23711,89 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "採": [
+    {
+      "jukugo": "採集",
+      "reading": "さいしゅう",
+      "meaning": "植物や昆虫などを集め取ること。",
+      "example": "夏休みに山へ行って、珍しい昆虫を**採集**した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採点",
+      "reading": "さいてん",
+      "meaning": "テストや答えに点数をつけること。",
+      "example": "先生がみんなのテストをていねいに**採点**してくれた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採用",
+      "reading": "さいよう",
+      "meaning": "選び取って使うこと。",
+      "example": "みんなのアイデアの中から、ぼくの絵がデザインに**採用**された。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採取",
+      "reading": "さいしゅ",
+      "meaning": "必要なものをとること。",
+      "example": "理科の実験で、池の水をペットボトルに**採取**した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採掘",
+      "reading": "さいくつ",
+      "meaning": "地中から石炭や石油などを掘り出すこと。",
+      "example": "大きな機械を使って、地面の奥から石炭を**採掘**する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "演": [
+    {
+      "jukugo": "演説",
+      "reading": "えんぜつ",
+      "meaning": "大勢の人に、自分の考えや意見を話して聞かせること。",
+      "example": "選挙の時、候補者が駅前で演説をしていました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上演",
+      "reading": "じょうえん",
+      "meaning": "劇や音楽などを、舞台などで人に見せること。",
+      "example": "明日の学芸会で、私たちの劇が上演されます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演技",
+      "reading": "えんぎ",
+      "meaning": "劇や映画などで役になりきってふるまうこと。また、スポーツなどで見せる技。",
+      "example": "彼の迫力ある演技に、会場のみんなが感動しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "講演",
+      "reading": "こうえん",
+      "meaning": "多くの人の前で、あるテーマについて話すこと。",
+      "example": "今日は宇宙について、博士の講演がありました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演劇",
+      "reading": "えんげき",
+      "meaning": "舞台の上で役者が台詞を言ったり、演技をしたりして見せる劇のこと。",
+      "example": "私たちは学芸会で、日本の昔話の演劇をしました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
