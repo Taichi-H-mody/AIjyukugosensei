@@ -23437,6 +23437,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "支": [
+    {
+      "jukugo": "支度",
+      "reading": "したく",
+      "meaning": "用意や準備をすること。",
+      "example": "遠足の持ち物の支度をします。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支柱",
+      "reading": "しちゅう",
+      "meaning": "物をささえるための棒や柱。",
+      "example": "朝顔のつるが伸びるように、支柱を立てた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支持",
+      "reading": "しじ",
+      "meaning": "人の意見や行動に賛成して応援すること。",
+      "example": "わたしはAさんの意見を支持します。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支払い",
+      "reading": "しはらい",
+      "meaning": "お金や品物を渡すこと。特に、物の代金などを払うこと。",
+      "example": "お店で買い物をして代金を支払う。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支援",
+      "reading": "しえん",
+      "meaning": "困っている人や活動を助け、力になること。",
+      "example": "災害で困っている人たちを支援する活動に参加した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
