@@ -24278,6 +24278,22 @@ const autoData = {
       "example": "このジュースは、濃い**原液**なので水で薄めて飲みましょう。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "血液",
+      "reading": "けつえき",
+      "meaning": "動物の体を流れる赤い液体で、酸素や栄養を運ぶ。",
+      "example": "けがをして**血液**が出たときは、絆創膏を貼ります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "液状",
+      "reading": "えきじょう",
+      "meaning": "液体のような状態のこと。",
+      "example": "ドロドロのスープは、少し**液状**なので飲みにくいです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "武": [
@@ -24434,6 +24450,48 @@ const autoData = {
       "reading": "おりめ",
       "meaning": "布の糸がたてとよこに交わっているところに見える、目のこと。布の模様のように見えることもあります。",
       "example": "この布は**織り目**が細かくて、とても丈夫です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "像": [
+    {
+      "jukugo": "想像",
+      "reading": "そうぞう",
+      "meaning": "実際にはないことを、頭の中で思い描くこと。",
+      "example": "空を飛ぶ鳥の気持ちを想像してみよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "画像",
+      "reading": "がぞう",
+      "meaning": "写真や絵、コンピューターなどで見ることができる形のこと。",
+      "example": "タブレットで、家族の楽しい画像を見ました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "銅像",
+      "reading": "どうぞう",
+      "meaning": "銅という金属でできた像のこと。昔の偉い人や有名な人の形をしています。",
+      "example": "公園には、昔の偉い人の大きな銅像が立っています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏像",
+      "reading": "ぶつぞう",
+      "meaning": "仏様の姿をかたどった像のこと。お寺などで見ることができます。",
+      "example": "お寺には、たくさんの古い仏像が並んでいました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "映像",
+      "reading": "えいぞう",
+      "meaning": "テレビや映画、動画などで画面に映し出される光景のこと。",
+      "example": "テレビで、きれいな海の映像を見て感動しました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
