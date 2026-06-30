@@ -24184,6 +24184,14 @@
       "example": "私たちのチームは、サッカーの試合で勝利をおさめた。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "利口",
+      "reading": "りこう",
+      "meaning": "頭がよく、かしこいこと。",
+      "example": "その犬は人の言葉を理解する**利口**な犬だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "挙": [
@@ -24308,6 +24316,48 @@
       "reading": "ぶじゅつ",
       "meaning": "昔から伝わる、戦うための技や練習方法のことです。体を鍛えたり、武器を使う技術を身につけたりします。",
       "example": "おじいちゃんは昔、いろいろな武術を習っていたと話してくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "測": [
+    {
+      "jukugo": "測定",
+      "reading": "そくてい",
+      "meaning": "長さ、重さ、温度などをはかること。",
+      "example": "身長を測定する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予測",
+      "reading": "よそく",
+      "meaning": "これからどうなるかを前もって考えること。",
+      "example": "天気予報で明日の天気を予測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観測",
+      "reading": "かんそく",
+      "meaning": "自然の様子などをよく見て、調べること。",
+      "example": "星空を観測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計測",
+      "reading": "けいそく",
+      "meaning": "機械などを使って、物の大きさや速さなどをはかること。",
+      "example": "ストップウォッチで時間を計測する。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "推測",
+      "reading": "すいそく",
+      "meaning": "はっきりしないことを、あることから考えて、おしはかること。",
+      "example": "彼の表情から気持ちを推測する。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
