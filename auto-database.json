@@ -23275,5 +23275,47 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "富": [
+    {
+      "jukugo": "豊富",
+      "reading": "ほうふ",
+      "meaning": "たくさんあってゆたかなこと。十分にそろっていること。",
+      "example": "このお店には、新鮮な野菜が豊富にそろっています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富士山",
+      "reading": "ふじさん",
+      "meaning": "日本で一番高い山で、世界遺産にも登録されています。",
+      "example": "夏休みに家族で富士山のふもとまでドライブに行きました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧富",
+      "reading": "ひんぷ",
+      "meaning": "貧しいことと豊かなこと。お金を持っている人と持っていない人のちがいのこと。",
+      "example": "世界には貧富の差に苦しむ人々がいます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富豪",
+      "reading": "ふごう",
+      "meaning": "とてもたくさんのお金や財産を持っている人のこと。大金持ち。",
+      "example": "あの富豪は、困っている人たちのためにたくさんの寄付をしました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富国",
+      "reading": "ふこく",
+      "meaning": "国を豊かにすること。国の経済を発展させること。",
+      "example": "政府は、新しい技術を開発して富国を目指しています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
