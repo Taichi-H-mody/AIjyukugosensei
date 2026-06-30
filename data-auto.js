@@ -23495,6 +23495,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "判": [
+    {
+      "jukugo": "判断",
+      "reading": "はんだん",
+      "meaning": "物事をよく考えて、それが正しいか、どうするべきかなどを決めること。",
+      "example": "どちらの道に進むか、自分でよく**判断**して決めた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "判子",
+      "reading": "はんこ",
+      "meaning": "名前やしるしを紙などに押すために使う道具。印鑑のこと。",
+      "example": "先生から、宿題をがんばったごほうびに、かわいい**判子**を押してもらった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "評判",
+      "reading": "ひょうばん",
+      "meaning": "ある人や物事について、世間の人がどう思っているか、どう話しているか。",
+      "example": "あのパン屋さんは、おいしいと**評判**だから、行ってみよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "審判",
+      "reading": "しんぱん",
+      "meaning": "スポーツの試合などで、ルールが守られているかを見たり、どちらの点になるかを決めたりする人。また、その仕事。",
+      "example": "サッカーの試合で、**審判**がファウルの笛を吹いた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "裁判",
+      "reading": "さいばん",
+      "meaning": "悪いことをした人がいるときや、もめごとが起きたときに、法律に基づいてどうするべきかを決めること。",
+      "example": "テレビのニュースで、大きな事件の**裁判**の様子が報道されていた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
