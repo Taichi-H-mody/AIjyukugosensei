@@ -24121,6 +24121,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "利": [
+    {
+      "jukugo": "利用",
+      "reading": "りよう",
+      "meaning": "物や人を、役に立つように使うこと。",
+      "example": "図書館の本をたくさん利用しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "便利",
+      "reading": "べんり",
+      "meaning": "都合がよく、使いやすいこと。",
+      "example": "インターネットを使えば、色々なことが便利になります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有利",
+      "reading": "ゆうり",
+      "meaning": "自分にとって都合がよく、得があること。",
+      "example": "かけっこで、スタートダッシュに成功して有利になった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "利益",
+      "reading": "りえき",
+      "meaning": "商売などでもうけたお金や、自分にとってためになること。",
+      "example": "お店がたくさんお菓子を売って、大きな利益が出た。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝利",
+      "reading": "しょうり",
+      "meaning": "試合や競争に勝つこと。",
+      "example": "私たちのチームは、サッカーの試合で勝利をおさめた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
