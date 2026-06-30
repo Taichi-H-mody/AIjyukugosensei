@@ -23536,6 +23536,14 @@ const autoData = {
       "example": "テレビのニュースで、大きな事件の**裁判**の様子が報道されていた。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "判定",
+      "reading": "はんてい",
+      "meaning": "競技の勝敗や、物事の良し悪しなどを決めること。",
+      "example": "スポーツの試合で、審判がオフサイドの判定を下しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "再": [
