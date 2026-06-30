@@ -24042,6 +24042,22 @@ const autoData = {
       "example": "この大会に出るには、特別な参加資格が必要です。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "性格",
+      "reading": "せいかく",
+      "meaning": "その人の考え方や感じ方、行動のしかたの傾向（くせ）。",
+      "example": "私の妹は、いつも元気で明るい性格です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "格好",
+      "reading": "かっこう",
+      "meaning": "身につけている服装や、ものの形や様子。",
+      "example": "遠足には、動きやすい格好で出かけよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "布": [
