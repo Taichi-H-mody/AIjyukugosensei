@@ -23100,6 +23100,38 @@ const autoData = {
       "example": "おやつに、あつあつのたこ焼きを家族で作った。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き肉",
+      "reading": "やきにく",
+      "meaning": "肉を焼いて食べること。",
+      "example": "家族で週末に**焼き肉**を食べに行った。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕焼け",
+      "reading": "ゆうやけ",
+      "meaning": "夕方、日が沈むときに空が赤く染まる現象。",
+      "example": "窓からとてもきれいな**夕焼け**が見えた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き物",
+      "reading": "やきもの",
+      "meaning": "焼いて作った料理のこと。",
+      "example": "お祭りの屋台で、おいしい**焼き物**を食べた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丸焼き",
+      "reading": "まるやき",
+      "meaning": "魚や肉などを、形をそのままにして焼くこと。",
+      "example": "キャンプで釣った魚を**丸焼き**にして食べた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "率": [
@@ -23970,6 +24002,48 @@ const autoData = {
       "reading": "はいふ",
       "meaning": "物（もの）をたくさんの人に配（くば）ること。",
       "example": "先生がプリントをみんなに配布しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "量": [
+    {
+      "jukugo": "数量",
+      "reading": "すうりょう",
+      "meaning": "物の数やかさ。どれくらいの量か。",
+      "example": "箱に入っているあめ玉の**数量**を数えた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分量",
+      "reading": "ぶんりょう",
+      "meaning": "それぞれに割り当てられたり、ちょうどよかったりする量。",
+      "example": "ラーメンのスープの**分量**をまちがえて、しょっぱくなった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重量",
+      "reading": "じゅうりょう",
+      "meaning": "物体の重さ。",
+      "example": "このにもつは**重量**があるので、一人で持つのは大変だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大量",
+      "reading": "たいりょう",
+      "meaning": "とてもたくさんの量。",
+      "example": "お祭りで**大量**のたこ焼きを買って、家族みんなで食べた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音量",
+      "reading": "おんりょう",
+      "meaning": "音の大きさ。",
+      "example": "テレビの**音量**が大きすぎて、お母さんにしかられた。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
