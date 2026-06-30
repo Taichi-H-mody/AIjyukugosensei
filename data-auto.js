@@ -24566,6 +24566,14 @@ const autoData = {
       "example": "テレビで、きれいな海の映像を見て感動しました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "石像",
+      "reading": "せきぞう",
+      "meaning": "石でつくられた人の形や動物の形をしたもの。",
+      "example": "公園には、大きなライオンの石像があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "資": [
