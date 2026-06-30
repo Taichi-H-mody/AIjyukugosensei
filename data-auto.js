@@ -17258,34 +17258,10 @@ const autoData = {
   ],
   "逆": [
     {
-      "jukugo": "逆上がり",
-      "reading": "さかあがり",
-      "meaning": "鉄棒などで、体をひっくり返して上に上がる運動。",
-      "example": "体育の時間に、鉄棒で逆上がりができるようになりたいです。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "逆さま",
-      "reading": "さかさま",
-      "meaning": "上下や順序がひっくり返っていること。",
-      "example": "コップを逆さまに置いて、水滴をきりました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "逆転",
       "reading": "ぎゃくてん",
       "meaning": "状況や順位が、それまでと反対になること。不利な状況から有利になること。",
       "example": "野球の試合で、最後にホームランが出て、試合を逆転しました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "逆立ち",
-      "reading": "さかだち",
-      "meaning": "両手で体を支え、頭を下にして足を上にあげる動き。",
-      "example": "公園で友達が逆立ちを披露して、みんなを驚かせました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     },
@@ -17302,14 +17278,6 @@ const autoData = {
       "reading": "ぎゃくりゅう",
       "meaning": "ふだんとは逆の方向に流れること。",
       "example": "川のぎゃくりゅうにさからって、さかながおよいでいる。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "逆戻り",
-      "reading": "ぎゃくもどり",
-      "meaning": "もとあった場所や状態に戻ること。",
-      "example": "道をまちがえてしまい、ずいぶんぎゃくもどりしてしまった。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -17806,14 +17774,6 @@ const autoData = {
       "example": "実験では、少しの誤差が出ることがある。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "差し引き",
-      "reading": "さしひき",
-      "meaning": "全体から一部を引くこと。また、引いた後に残るもの。",
-      "example": "もらったおこづかいから、使ったお金を差し引きして、残りを貯金しました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
     }
   ],
   "個": [
@@ -18018,14 +17978,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "居眠り",
-      "reading": "いねむり",
-      "meaning": "うっかり眠ってしまうこと。",
-      "example": "昨日の夜遅くまでゲームをしていたので、授業中に居眠りをしてしまいました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "居留守",
       "reading": "いりゅす",
       "meaning": "家にいるのに、いないふりをすること。",
@@ -18144,22 +18096,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "松かさ",
-      "reading": "まつかさ",
-      "meaning": "松の木になる実。松ぼっくりともいう。",
-      "example": "リスが松かさの中から実を取り出して食べていた。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "松ぼっくり",
-      "reading": "まつぼっくり",
-      "meaning": "松の木になる実。松かさともいう。",
-      "example": "公園で、たくさんの松ぼっくりをひろったよ。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "松毬",
       "reading": "まつぼっくり",
       "meaning": "松の木の実。地面に落ちているのをよく見かける。",
@@ -18206,22 +18142,6 @@ const autoData = {
       "reading": "くらに",
       "meaning": "倉庫に預けられている品物や荷物。",
       "example": "港の倉庫には、外国から届いたたくさんの倉荷が運び込まれていた。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "倉入れ",
-      "reading": "くらいれ",
-      "meaning": "倉に物をしまうこと。",
-      "example": "収穫した野菜を、順番に倉入れしていきました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "倉出し",
-      "reading": "くらだし",
-      "meaning": "倉から物を取り出すこと。",
-      "example": "お祭り用の道具を、古い倉から倉出ししました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -18462,14 +18382,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "箇条書き",
-      "reading": "かじょうがき",
-      "meaning": "項目を一つずつ分けて、記号などを使って書くこと。",
-      "example": "今日の宿題の内容を、先生に**箇条書き**で教えてもらった。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "一条",
       "reading": "いちじょう",
       "meaning": "細長いものを数えるときに使う言葉。または、まっすぐな一筋。",
@@ -18634,14 +18546,6 @@ const autoData = {
       "example": "次のサッカーの試合では、強敵と対戦します。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "戦い",
-      "reading": "たたかい",
-      "meaning": "争うこと。また、試合や競争。",
-      "example": "最後まであきらめない、すばらしい戦いでした。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
     }
   ],
   "刷": [
@@ -18674,14 +18578,6 @@ const autoData = {
       "reading": "さっしん",
       "meaning": "古い考え方ややり方をやめて、すべて新しくすること。",
       "example": "みんなで話し合って、クラブの新しいルールに刷新した。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "刷り物",
-      "reading": "すりもの",
-      "meaning": "文字や絵が印刷されたもの。チラシやパンフレットなど。",
-      "example": "昔の人が作った貴重な刷り物が、博物館に展示されていた。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -18766,14 +18662,6 @@ const autoData = {
       "reading": "れんけつ",
       "meaning": "いくつかのものを一つにつなぎ合わせること。",
       "example": "駅のホームで、電車が車両を連結する様子を見た。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "結び目",
-      "reading": "むすびめ",
-      "meaning": "ひもなどをぎゅっと結んだところ。",
-      "example": "靴ひもの結び目がほどけないように、ぎゅっと結んだ。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -19720,30 +19608,6 @@ const autoData = {
       "reading": "ろうどう",
       "meaning": "お金をもらうために働くこと。仕事。",
       "example": "お父さんは、毎日一生懸命に労働しています。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "共働き",
-      "reading": "ともばたらき",
-      "meaning": "夫婦が二人とも仕事をして、お金を稼ぐこと。",
-      "example": "私の家では、お父さんもお母さんも共働きです。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "働き者",
-      "reading": "はたらきもの",
-      "meaning": "よく働く人。熱心に仕事をする人。",
-      "example": "彼はクラスの働き者で、いつもみんなのお手伝いをしています。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "働き手",
-      "reading": "はたらきて",
-      "meaning": "働く人。特に、家族のために中心となって働く人。",
-      "example": "お父さんは、家族を支える大切な働き手です。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -20826,14 +20690,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "菜の花",
-      "reading": "なのはな",
-      "meaning": "春に黄色い花を咲かせるアブラナ科の植物。また、その花や若葉。",
-      "example": "春になると、畑いっぱいに菜の花が咲きます。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "小松菜",
       "reading": "こまつな",
       "meaning": "日本の代表的な葉物野菜の一つ。栄養が豊富で、おひたしや炒め物によく使われる。",
@@ -20872,22 +20728,6 @@ const autoData = {
       "reading": "たいせき",
       "meaning": "物の大きさを表す言葉で、かさのこと。",
       "example": "水槽の体積を計算しましょう。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "積み木",
-      "reading": "つみき",
-      "meaning": "木でできたブロックを積み重ねて遊ぶおもちゃ。",
-      "example": "弟と積み木で高いお城を作って遊びました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "積み荷",
-      "reading": "つみに",
-      "meaning": "船やトラックなどに積んである荷物のこと。",
-      "example": "港には、船から降ろされたたくさんの積み荷がありました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -21036,14 +20876,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "墓参り",
-      "reading": "はかまいり",
-      "meaning": "お墓に行って、手を合わせたり、お掃除をしたりすること。",
-      "example": "お盆には、家族で一緒にお墓参りに行きました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "墓場",
       "reading": "はかば",
       "meaning": "お墓のある場所。墓地と同じような意味で使われることがあります。",
@@ -21066,14 +20898,6 @@ const autoData = {
       "reading": "にゅうよく",
       "meaning": "お風呂に入ること。",
       "example": "毎日、夕食のあとに入浴します。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "水浴び",
-      "reading": "みずあび",
-      "meaning": "水を体にかけること。",
-      "example": "暑い日には、庭で水浴びをして涼しくなりました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     },
@@ -21280,38 +21104,6 @@ const autoData = {
   ],
   "飯": [
     {
-      "jukugo": "ご飯",
-      "reading": "ごはん",
-      "meaning": "食事のこと。特に、お米を炊いたもの。",
-      "example": "お腹が空いたから、早く**ご飯**を食べたいな。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "朝ご飯",
-      "reading": "あさごはん",
-      "meaning": "朝にとる食事のこと。",
-      "example": "毎朝、お母さんがおいしい**朝ご飯**を作ってくれる。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "昼ご飯",
-      "reading": "ひるごはん",
-      "meaning": "昼にとる食事のこと。",
-      "example": "学校が終わったら、**昼ご飯**を食べてから遊びに行こう。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "晩ご飯",
-      "reading": "ばんごはん",
-      "meaning": "晩（夜）にとる食事のこと。夕食。",
-      "example": "今日の**晩ご飯**はカレーライスだから楽しみだ。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "炊飯",
       "reading": "すいはん",
       "meaning": "お米を炊いてご飯にすること。",
@@ -21422,22 +21214,6 @@ const autoData = {
   ],
   "貸": [
     {
-      "jukugo": "貸し出し",
-      "reading": "かしだし",
-      "meaning": "図書館などで、本や物を借りること。",
-      "example": "図書館で、借りたい本を**貸し出し**カウンターに持っていきました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "貸し借り",
-      "reading": "かしかり",
-      "meaning": "物やお金を、人にあげたり人からもらったりすること。",
-      "example": "友達とのゲームの**貸し借り**は、大切にしようね。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "貸本",
       "reading": "かしほん",
       "meaning": "お店でお金を払って借りる本。また、人に貸すための本。",
@@ -21450,14 +21226,6 @@ const autoData = {
       "reading": "かしや",
       "meaning": "他の人に住んでもらうために、貸している家。",
       "example": "わたしの近所には、だれかが住めるように**貸家**になっている家があります。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "貸し切り",
-      "reading": "かしきり",
-      "meaning": "バスやお店などを、他の人が使わないように自分たちだけで全部借りること。",
-      "example": "クラスの遠足で、バスを**貸し切り**にしてみんなで出かけました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     },
@@ -22368,22 +22136,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "飼い主",
-      "reading": "かいぬし",
-      "meaning": "ペットとして動物を飼っている人のこと。",
-      "example": "犬の**飼い主**さんは、毎日散歩に連れて行きます。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "飼い犬",
-      "reading": "かいいぬ",
-      "meaning": "家で飼っている犬のこと。",
-      "example": "ぼくの**飼い犬**は、とても元気でよく遊びます。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "飼料",
       "reading": "しりょう",
       "meaning": "家畜やペットにあたえる、えさのこと。",
@@ -22700,14 +22452,6 @@ const autoData = {
       "example": "給食は、栄養のある食事をみんなに**提供**してくれる。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "手提げ",
-      "reading": "てさげ",
-      "meaning": "手で持って運ぶための袋やカバンのこと。「手提げ袋」のように使うことが多い。",
-      "example": "図書館に行くときは、お気に入りの**手提げ**袋を持っていった。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
     }
   ],
   "留": [
@@ -22950,14 +22694,6 @@ const autoData = {
       "reading": "ひんしゅ",
       "meaning": "同じ種類の作物や動物の中で、少しちがった性質を持つグループのこと。",
       "example": "このりんごは、甘くておいしい新しい品種です。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "種まき",
-      "reading": "たねまき",
-      "meaning": "植物の種を土にまくこと。",
-      "example": "春になると、畑で野菜の種まきをします。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     }
@@ -23308,14 +23044,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "お辞儀",
-      "reading": "おじぎ",
-      "meaning": "相手に感謝や敬意を表すために、頭を下げること。",
-      "example": "先生に挨拶するときは、きちんと**お辞儀**をしよう。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "謝辞",
       "reading": "しゃじ",
       "meaning": "感謝の気持ちを伝える言葉。",
@@ -23332,48 +23060,7 @@ const autoData = {
       "addedBy": "discord-agent"
     }
   ],
-  "焼": [
-    {
-      "jukugo": "焼き肉",
-      "reading": "やきにく",
-      "meaning": "肉を焼いて食べる料理のこと。",
-      "example": "家族で週末にみんなで「焼き肉」を食べに行きました。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き魚",
-      "reading": "やきざかな",
-      "meaning": "魚を焼いて作った料理のこと。",
-      "example": "今日の晩ごはんのおかずは「焼き魚」でした。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "日焼け",
-      "reading": "ひやけ",
-      "meaning": "太陽の光を浴びて、肌が黒くなったり赤くなったりすること。",
-      "example": "夏休みに海でたくさん遊んだら、「日焼け」で体が真っ黒になった。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼きそば",
-      "reading": "やきそば",
-      "meaning": "中華麺と肉や野菜などを炒めてソースで味付けした料理のこと。",
-      "example": "お祭りの屋台で、おいしい「焼きそば」を買ってもらった。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き芋",
-      "reading": "やきいも",
-      "meaning": "サツマイモを焼いて作った、甘くて温かい食べ物のこと。",
-      "example": "寒い日に食べるホクホクの「焼き芋」はとてもおいしい。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    }
-  ],
+  "焼": [],
   "率": [
     {
       "jukugo": "確率",
