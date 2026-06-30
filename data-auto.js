@@ -23884,6 +23884,22 @@ const autoData = {
       "example": "私たちは学芸会で、日本の昔話の演劇をしました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "演奏",
+      "reading": "えんそう",
+      "meaning": "楽器をひいたり、歌ったりすること。",
+      "example": "音楽会でピアノを演奏した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出演",
+      "reading": "しゅつえん",
+      "meaning": "劇やテレビ、映画などに出ること。",
+      "example": "テレビ番組に友達が出演した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "類": [
@@ -24334,6 +24350,22 @@ const autoData = {
       "reading": "ぶじゅつ",
       "meaning": "昔から伝わる、戦うための技や練習方法のことです。体を鍛えたり、武器を使う技術を身につけたりします。",
       "example": "おじいちゃんは昔、いろいろな武術を習っていたと話してくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武器",
+      "reading": "ぶき",
+      "meaning": "戦いや戦いの練習で使う道具。",
+      "example": "テレビゲームで、新しい武器を手に入れてモンスターを倒しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文武",
+      "reading": "ぶんぶ",
+      "meaning": "勉強と、剣道や柔道などの運動（武芸）のこと。",
+      "example": "昔の人は、勉強も運動も両方ができる「文武両道」を目指していました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
