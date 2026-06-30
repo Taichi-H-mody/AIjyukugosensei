@@ -24227,5 +24227,89 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "液": [
+    {
+      "jukugo": "液体",
+      "reading": "えきたい",
+      "meaning": "形がなく、容器に入れると形を変える物質。水や油など。",
+      "example": "水は形が変わる**液体**の一種です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "溶液",
+      "reading": "ようえき",
+      "meaning": "物が水などの液体に溶けてできたもの。例えば、食塩水など。",
+      "example": "塩を水に溶かすと、それは**溶液**になります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体液",
+      "reading": "たいえき",
+      "meaning": "生き物の体の中にある液体。血液や汗など。",
+      "example": "けがをすると、体から赤い**体液**（血液）が出ることがあります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薬液",
+      "reading": "やくえき",
+      "meaning": "薬の成分が水などに溶けている液体。",
+      "example": "病院でけがをした場所に、消毒の**薬液**を塗ってもらいました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "原液",
+      "reading": "げんえき",
+      "meaning": "濃いままの、まだ水で薄めていない液体。",
+      "example": "このジュースは、濃い**原液**なので水で薄めて飲みましょう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "武": [
+    {
+      "jukugo": "武士",
+      "reading": "ぶし",
+      "meaning": "昔、日本の貴族や庶民とは別に、戦いを専門とする身分で、刀などの武器を持って戦いました。忠義を重んじ、名誉を大切にしました。",
+      "example": "日本の歴史では、勇敢な武士たちが活躍しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武道",
+      "reading": "ぶどう",
+      "meaning": "日本の伝統的な練習方法で、心と体を強くするために体を動かします。柔道、剣道、弓道などがあります。",
+      "example": "兄は休みの日に武道の稽古に通っています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武将",
+      "reading": "ぶしょう",
+      "meaning": "昔、多くの兵隊を率いて戦を指揮した、位の高い武士のことです。",
+      "example": "戦国時代の有名な武将たちは、とても賢くて強かったそうです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武者",
+      "reading": "むしゃ",
+      "meaning": "戦いを専門とする人のこと、特に昔の日本の兵士を指します。",
+      "example": "物語に出てくる武者は、いつも強い敵と戦っています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "武術",
+      "reading": "ぶじゅつ",
+      "meaning": "昔から伝わる、戦うための技や練習方法のことです。体を鍛えたり、武器を使う技術を身につけたりします。",
+      "example": "おじいちゃんは昔、いろいろな武術を習っていたと話してくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
