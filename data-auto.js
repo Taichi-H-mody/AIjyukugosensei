@@ -23579,6 +23579,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "仏": [
+    {
+      "jukugo": "仏像",
+      "reading": "ぶつぞう",
+      "meaning": "仏様のかたちを石や木などで作ったものです。お寺などで見ることができます。",
+      "example": "お寺で古い仏像を見ました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏教",
+      "reading": "ぶっきょう",
+      "meaning": "お釈迦様が教えを広めた宗教です。日本をはじめ、世界中で多くの人が信じています。",
+      "example": "日本には昔から仏教の文化があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大仏",
+      "reading": "だいぶつ",
+      "meaning": "とても大きな仏像のことです。奈良や鎌倉が有名です。",
+      "example": "奈良公園で大きな大仏を見学しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏壇",
+      "reading": "ぶつだん",
+      "meaning": "仏様やご先祖様をまつるために、家に置かれる小さなお宮のようなものです。",
+      "example": "おばあちゃんは毎朝、仏壇にお花をお供えしています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏画",
+      "reading": "ぶつが",
+      "meaning": "仏様や仏教の教えなどを題材にして描かれた絵のことです。",
+      "example": "博物館で美しい仏画が展示されていました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
