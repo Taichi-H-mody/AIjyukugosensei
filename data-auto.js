@@ -23361,6 +23361,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "借": [
+    {
+      "jukugo": "借用",
+      "reading": "しゃくよう",
+      "meaning": "借りて使うこと。",
+      "example": "先生から辞書を借用した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借家",
+      "reading": "しゃくや",
+      "meaning": "人から借りて住んでいる家。",
+      "example": "僕の家は、大家さんに家賃を払って借りている借家だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借物",
+      "reading": "かりもの",
+      "meaning": "人から借りたもの。",
+      "example": "これは友達からの借物だから、なくさないように注意しよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借り手",
+      "reading": "かりて",
+      "meaning": "借りる人。",
+      "example": "図書館では、人気のある本はいつも借り手が多い。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借地",
+      "reading": "しゃくち",
+      "meaning": "人から借りている土地。",
+      "example": "公園の場所は、市が個人から借りている借地だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
