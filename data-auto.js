@@ -23621,6 +23621,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "末": [
+    {
+      "jukugo": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "週の終わり。特に土曜日と日曜日のことを指します。",
+      "example": "週末は家族で公園に遊びに行きます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月末",
+      "reading": "げつまつ",
+      "meaning": "月の終わり。その月の最終日のころを指します。",
+      "example": "お小遣いは月末にもらうことが多いです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年末",
+      "reading": "ねんまつ",
+      "meaning": "年の終わり。12月の終わりごろのことです。",
+      "example": "年末には大掃除をして、新しい年を迎える準備をします。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期末",
+      "reading": "きまつ",
+      "meaning": "学期や期間の終わり。学校では「期末テスト」という言葉で使われます。",
+      "example": "期末テストに向けて、毎日一生懸命勉強しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "末っ子",
+      "reading": "すえっこ",
+      "meaning": "兄弟姉妹の中で一番年下の子のことです。",
+      "example": "私は三人兄弟の末っ子なので、みんなにかわいがられています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
