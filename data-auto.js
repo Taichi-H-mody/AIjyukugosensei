@@ -23060,7 +23060,48 @@ const autoData = {
       "addedBy": "discord-agent"
     }
   ],
-  "焼": [],
+  "焼": [
+    {
+      "jukugo": "焼肉",
+      "reading": "やきにく",
+      "meaning": "肉を焼いて食べる料理のこと。",
+      "example": "今日の夜ごはんは、みんなで焼肉を食べよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き鳥",
+      "reading": "やきとり",
+      "meaning": "鶏肉などを串にさして焼いた料理のこと。",
+      "example": "お祭りの屋台で、おいしい焼き鳥を買ってもらった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日焼け",
+      "reading": "ひやけ",
+      "meaning": "太陽の光を浴びて、肌が黒くなったり赤くなったりすること。",
+      "example": "夏休みに海で遊んだら、腕がまっかに日焼けした。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼き芋",
+      "reading": "やきいも",
+      "meaning": "サツマイモを焼いて作った食べ物。",
+      "example": "秋になって寒くなると、温かい焼き芋がおいしいね。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "たこ焼き",
+      "reading": "たこやき",
+      "meaning": "小麦粉の生地にタコなどを入れて丸く焼いた、日本の料理。",
+      "example": "おやつに、あつあつのたこ焼きを家族で作った。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
   "率": [
     {
       "jukugo": "確率",
@@ -23100,6 +23141,48 @@ const autoData = {
       "meaning": "他の人より先に立って物事を始めること。",
       "example": "クラス委員長は、率先してごみ拾いを始めた。",
       "addedDate": "2026-06-29",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "復": [
+    {
+      "jukugo": "回復",
+      "reading": "かいふく",
+      "meaning": "悪くなった状態が、また元に戻ること。",
+      "example": "風邪をひいて寝ていたけれど、薬を飲んで体力が回復した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "一度ならったことを、もう一度学び直すこと。",
+      "example": "明日のテストのために、今日は漢字の復習をがんばった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "往復",
+      "reading": "おうふく",
+      "meaning": "行きと帰りの両方。",
+      "example": "家から学校まで、毎日自転車で往復している。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "復活",
+      "reading": "ふっかつ",
+      "meaning": "一度死んだものが生き返ったり、なくなったものがまた現れたりすること。",
+      "example": "ゲームのキャラクターが倒されたけれど、特別なアイテムで復活した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "復帰",
+      "reading": "ふっき",
+      "meaning": "一度離れた場所や元の状態に、もう一度戻ること。",
+      "example": "けがで休んでいた選手が、練習に復帰した。",
+      "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
   ]
