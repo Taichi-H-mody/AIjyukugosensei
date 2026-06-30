@@ -23577,5 +23577,89 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "仏": [
+    {
+      "jukugo": "仏像",
+      "reading": "ぶつぞう",
+      "meaning": "仏様のかたちを石や木などで作ったものです。お寺などで見ることができます。",
+      "example": "お寺で古い仏像を見ました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏教",
+      "reading": "ぶっきょう",
+      "meaning": "お釈迦様が教えを広めた宗教です。日本をはじめ、世界中で多くの人が信じています。",
+      "example": "日本には昔から仏教の文化があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大仏",
+      "reading": "だいぶつ",
+      "meaning": "とても大きな仏像のことです。奈良や鎌倉が有名です。",
+      "example": "奈良公園で大きな大仏を見学しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏壇",
+      "reading": "ぶつだん",
+      "meaning": "仏様やご先祖様をまつるために、家に置かれる小さなお宮のようなものです。",
+      "example": "おばあちゃんは毎朝、仏壇にお花をお供えしています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏画",
+      "reading": "ぶつが",
+      "meaning": "仏様や仏教の教えなどを題材にして描かれた絵のことです。",
+      "example": "博物館で美しい仏画が展示されていました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "末": [
+    {
+      "jukugo": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "週の終わり。特に土曜日と日曜日のことを指します。",
+      "example": "週末は家族で公園に遊びに行きます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月末",
+      "reading": "げつまつ",
+      "meaning": "月の終わり。その月の最終日のころを指します。",
+      "example": "お小遣いは月末にもらうことが多いです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年末",
+      "reading": "ねんまつ",
+      "meaning": "年の終わり。12月の終わりごろのことです。",
+      "example": "年末には大掃除をして、新しい年を迎える準備をします。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期末",
+      "reading": "きまつ",
+      "meaning": "学期や期間の終わり。学校では「期末テスト」という言葉で使われます。",
+      "example": "期末テストに向けて、毎日一生懸命勉強しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "末っ子",
+      "reading": "すえっこ",
+      "meaning": "兄弟姉妹の中で一番年下の子のことです。",
+      "example": "私は三人兄弟の末っ子なので、みんなにかわいがられています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
