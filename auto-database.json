@@ -24564,6 +24564,56 @@
       "example": "テレビで、きれいな海の映像を見て感動しました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "石像",
+      "reading": "せきぞう",
+      "meaning": "石でつくられた人の形や動物の形をしたもの。",
+      "example": "公園には、大きなライオンの石像があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "資": [
+    {
+      "jukugo": "資料",
+      "reading": "しりょう",
+      "meaning": "何かを調べたり、考えたりするときに役立つ情報や物。",
+      "example": "夏休みの自由研究のために、図書館で資料を探しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資金",
+      "reading": "しきん",
+      "meaning": "目的のために用意するお金。元手となるお金。",
+      "example": "新しい遊び場を作るための資金を集めています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資源",
+      "reading": "しげん",
+      "meaning": "人間が生活や生産に利用できる、自然界にあるもの。例：水、石油、森など。",
+      "example": "地球の資源を大切に使うことが未来につながります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資格",
+      "reading": "しかく",
+      "meaning": "あることをするのに必要な能力や条件。または、それを証明するもの。",
+      "example": "将来、人の役に立つ資格を取りたいです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資材",
+      "reading": "しざい",
+      "meaning": "何かを作るときに使う材料や道具。",
+      "example": "図工の時間に使う資材をみんなで準備しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ]
 }
