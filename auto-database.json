@@ -23669,5 +23669,47 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "志": [
+    {
+      "jukugo": "志望",
+      "reading": "しぼう",
+      "meaning": "ある事をしたいと強く望むこと。特に、進学や職業などで目標とすること。",
+      "example": "私は将来の志望について、作文に書きました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "立志",
+      "reading": "りっし",
+      "meaning": "将来の目標や目的を心に決めること。",
+      "example": "立志式で、みんなが自分の夢を発表しました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "闘志",
+      "reading": "とうし",
+      "meaning": "相手に勝とうとする強い気持ち。困難に立ち向かう意気込み。",
+      "example": "選手たちは闘志を燃やして、試合に挑みました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大志",
+      "reading": "たいし",
+      "meaning": "大きな目標や、立派な目的を持つこと。",
+      "example": "彼は、将来、宇宙飛行士になるという大志を抱いています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意志",
+      "reading": "いし",
+      "meaning": "自分の心で決めたことを、やり遂げようとする気持ち。",
+      "example": "強い意志があれば、どんな困難も乗り越えられます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
