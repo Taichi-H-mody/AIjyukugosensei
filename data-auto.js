@@ -24000,6 +24000,14 @@ const autoData = {
       "example": "ボートがゆっくりと岸辺に近づいていきました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "近辺",
+      "reading": "きんぺん",
+      "meaning": "ある場所の近く。そのあたり。",
+      "example": "この駅の近辺には、大きい公園があります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "格": [
