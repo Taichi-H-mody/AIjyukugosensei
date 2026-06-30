@@ -23185,6 +23185,90 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "報": [
+    {
+      "jukugo": "報告",
+      "reading": "ほうこく",
+      "meaning": "分かったことや調べたことを、相手に知らせること。",
+      "example": "今日の学校での出来事を、お家の人に報告します。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "情報",
+      "reading": "じょうほう",
+      "meaning": "あることについて知らせる内容や知識。",
+      "example": "インターネットで、昆虫についての情報を集めます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予報",
+      "reading": "よほう",
+      "meaning": "これからどうなるか、前もって知らせること。",
+      "example": "明日の天気予報では、雨が降ると言っていました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "速報",
+      "reading": "そくほう",
+      "meaning": "今起こったばかりのできごとを、急いで知らせること。",
+      "example": "テレビのニュースで、試合の速報が流れています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広報",
+      "reading": "こうほう",
+      "meaning": "団体や会社などが、活動内容などを広く知らせること。",
+      "example": "学校から広報誌が配られ、運動会の計画が書いてありました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "要": [
+    {
+      "jukugo": "重要",
+      "reading": "じゅうよう",
+      "meaning": "とても大切なこと。",
+      "example": "この手紙はとても重要だから、無くさないようにしよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必要",
+      "reading": "ひつよう",
+      "meaning": "なくてはならないこと。",
+      "example": "学校に行くには、鉛筆と消しゴムが必要だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "要点",
+      "reading": "ようてん",
+      "meaning": "物事の大切なところ、中心になる点。",
+      "example": "先生がテストの要点を教えてくれた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "要約",
+      "reading": "ようやく",
+      "meaning": "長い話や文章を短くまとめて、大切なところだけを伝えること。",
+      "example": "読んだ本のあらすじを要約して、友達に話した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主要",
+      "reading": "しゅよう",
+      "meaning": "多くのものの中で、特に大切な部分や中心となること。",
+      "example": "この川は、その町の主要な水源だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
