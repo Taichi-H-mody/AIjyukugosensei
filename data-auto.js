@@ -23966,6 +23966,22 @@ const autoData = {
       "example": "国語の授業で、「言う」の類義語を考えた。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "魚類",
+      "reading": "ぎょるい",
+      "meaning": "さかなの仲間全体のことです。",
+      "example": "金魚は、魚類の一種です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鳥類",
+      "reading": "ちょうるい",
+      "meaning": "とりの仲間全体のことです。",
+      "example": "スズメやカラスは、鳥類にふくまれます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "辺": [
