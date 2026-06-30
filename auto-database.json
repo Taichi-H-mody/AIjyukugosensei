@@ -23795,5 +23795,81 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "類": [
+    {
+      "jukugo": "種類",
+      "reading": "しゅるい",
+      "meaning": "分けられた一つ一つのまとまり。",
+      "example": "動物園にはたくさんの種類の動物がいる。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分類",
+      "reading": "ぶんるい",
+      "meaning": "性質や特徴によって仲間分けすること。",
+      "example": "図書館の本を、物語と図鑑に分類して並べた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人類",
+      "reading": "じんるい",
+      "meaning": "人間全体のこと。",
+      "example": "大昔から、人類は道具を使ってきた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "同類",
+      "reading": "どうるい",
+      "meaning": "同じ種類や仲間。",
+      "example": "僕と兄はゲーム好きで、まさに同類だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "類義語",
+      "reading": "るいぎご",
+      "meaning": "意味が似ている言葉。",
+      "example": "国語の授業で、「言う」の類義語を考えた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "辺": [
+    {
+      "jukugo": "周辺",
+      "reading": "しゅうへん",
+      "meaning": "ある場所のまわり、あたり。",
+      "example": "学校の周辺には、公園やお店がたくさんあります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海辺",
+      "reading": "うみべ",
+      "meaning": "海のきわ、海岸。",
+      "example": "夏休みには、家族と海辺へ遊びに行きました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川辺",
+      "reading": "かわべ",
+      "meaning": "川のきわ、川岸。",
+      "example": "夕方、川辺を散歩すると気持ちがいいです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岸辺",
+      "reading": "きしべ",
+      "meaning": "川や湖のきわ、岸。",
+      "example": "ボートがゆっくりと岸辺に近づいていきました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
