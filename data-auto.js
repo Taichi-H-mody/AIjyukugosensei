@@ -23537,6 +23537,48 @@ const autoData = {
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "再": [
+    {
+      "jukugo": "再会",
+      "reading": "さいかい",
+      "meaning": "もう一度会うこと。",
+      "example": "ひさしぶりに友達と再会できて、とてもうれしかった。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再生",
+      "reading": "さいせい",
+      "meaning": "一度使ったものや作ったものを、もう一度生かすこと。また、再び生き返ること。",
+      "example": "古い紙を再生して、新しい紙を作ります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再開",
+      "reading": "さいかい",
+      "meaning": "一度やめていたことを、もう一度始めること。",
+      "example": "雨で中断していた試合が、午後から再開されました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再現",
+      "reading": "さいげん",
+      "meaning": "一度あったことや作ったものを、もう一度その通りに表すこと。",
+      "example": "この絵は、昔の町の様子を見事に再現しています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再読",
+      "reading": "さいどく",
+      "meaning": "もう一度読み返すこと。",
+      "example": "面白い本は、何回も再読したくなる。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
