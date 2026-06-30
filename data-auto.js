@@ -23692,6 +23692,14 @@ const autoData = {
       "example": "博物館で美しい仏画が展示されていました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仏様",
+      "reading": "ほとけさま",
+      "meaning": "仏教の教えを開いたお釈迦様や、亡くなった人のことを、親しみを込めて呼ぶ言い方。",
+      "example": "おじいちゃんが亡くなって、お空で**仏様**になったよ、とママが教えてくれた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "末": [
