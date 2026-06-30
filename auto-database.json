@@ -24010,6 +24010,22 @@
       "example": "先生がプリントをみんなに配布しました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "布地",
+      "reading": "ぬのじ",
+      "meaning": "洋服や小物などを作るための材料となる布。",
+      "example": "このきれいな布地で、お母さんがマスクを作ってくれました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "布製",
+      "reading": "ぬのせい",
+      "meaning": "布でできていること。",
+      "example": "私が持っているペンケースは布製なので、軽くて使いやすいです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "量": [
