@@ -23226,6 +23226,14 @@ const autoData = {
       "example": "学校から広報誌が配られ、運動会の計画が書いてありました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "報道",
+      "reading": "ほうどう",
+      "meaning": "新聞やテレビなどで、起こったことを広く人々に知らせること。",
+      "example": "ニュース番組が新しい事件を報道した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
     }
   ],
   "要": [
@@ -23316,6 +23324,22 @@ const autoData = {
       "reading": "ふこく",
       "meaning": "国を豊かにすること。国の経済を発展させること。",
       "example": "政府は、新しい技術を開発して富国を目指しています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富士",
+      "reading": "ふじ",
+      "meaning": "日本で一番高い山。世界遺産にも登録されている。",
+      "example": "日本で一番高い山は、みんなが知っている**富士山**です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "富山",
+      "reading": "とやま",
+      "meaning": "本州の日本海側にある県の名前。自然が豊かで食べ物もおいしいことで知られる。",
+      "example": "夏休みに家族で**富山県**へ旅行に行きました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
@@ -23870,6 +23894,82 @@ const autoData = {
       "reading": "きしべ",
       "meaning": "川や湖のきわ、岸。",
       "example": "ボートがゆっくりと岸辺に近づいていきました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "格": [
+    {
+      "jukugo": "合格",
+      "reading": "ごうかく",
+      "meaning": "しけんなどに通ること。うまくいくこと。",
+      "example": "一生けんめい勉強して、テストに合格した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "価格",
+      "reading": "かかく",
+      "meaning": "物の値段。いくらで売られているか。",
+      "example": "お菓子の価格をくらべて、安い方を買った。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本格",
+      "reading": "ほんかく",
+      "meaning": "まじめな様子。ちゃんとしていること。",
+      "example": "夏休みに入って、本格的に暑くなってきた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体格",
+      "reading": "たいかく",
+      "meaning": "体の作りや大きさのこと。",
+      "example": "彼は体格がいいので、ラグビーの選手に向いている。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "資格",
+      "reading": "しかく",
+      "meaning": "あることを行うのに必要な能力や権利のこと。",
+      "example": "この大会に出るには、特別な参加資格が必要です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "布": [
+    {
+      "jukugo": "布巾",
+      "reading": "ふきん",
+      "meaning": "台所などで、食器やテーブルを拭くために使う布のこと。",
+      "example": "ごはんを食べた後、きれいな布巾でテーブルを拭きます。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "布団",
+      "reading": "ふとん",
+      "meaning": "寝る時に体を暖めたり、寝心地を良くしたりするための寝具（しんぐ）のこと。",
+      "example": "寒い夜は、あたたかい布団に入ってぐっすり眠ります。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛布",
+      "reading": "もうふ",
+      "meaning": "毛で織られた、主に寝る時に体を暖めるための厚い布のこと。",
+      "example": "冬になると、毛布をかけて寝るととても暖かいです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "配布",
+      "reading": "はいふ",
+      "meaning": "物（もの）をたくさんの人に配（くば）ること。",
+      "example": "先生がプリントをみんなに配布しました。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
