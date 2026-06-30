@@ -23359,5 +23359,81 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "借": [
+    {
+      "jukugo": "借用",
+      "reading": "しゃくよう",
+      "meaning": "借りて使うこと。",
+      "example": "先生から辞書を借用した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借家",
+      "reading": "しゃくや",
+      "meaning": "人から借りて住んでいる家。",
+      "example": "僕の家は、大家さんに家賃を払って借りている借家だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借物",
+      "reading": "かりもの",
+      "meaning": "人から借りたもの。",
+      "example": "これは友達からの借物だから、なくさないように注意しよう。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借り手",
+      "reading": "かりて",
+      "meaning": "借りる人。",
+      "example": "図書館では、人気のある本はいつも借り手が多い。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "借地",
+      "reading": "しゃくち",
+      "meaning": "人から借りている土地。",
+      "example": "公園の場所は、市が個人から借りている借地だ。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "貿": [
+    {
+      "jukugo": "貿易",
+      "reading": "ぼうえき",
+      "meaning": "国と国の間で、品物やサービスを売り買いすること。",
+      "example": "日本は世界中の国々とたくさんの品物を**貿易**しています。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易品",
+      "reading": "ぼうえきひん",
+      "meaning": "貿易でやり取りされる品物のこと。",
+      "example": "車や電化製品は、日本の大切な**貿易品**です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易港",
+      "reading": "ぼうえきこう",
+      "meaning": "貿易を行う船が出入りする港のこと。",
+      "example": "大きな船がたくさん集まる**貿易港**は、いつもにぎやかです。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貿易会社",
+      "reading": "ぼうえきがいしゃ",
+      "meaning": "国と国の間で品物の売買をする仕事をしている会社のこと。",
+      "example": "僕のお父さんは**貿易会社**で働いていて、外国の人と話すのが得意です。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
