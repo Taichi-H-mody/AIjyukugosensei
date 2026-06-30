@@ -24161,5 +24161,47 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "挙": [
+    {
+      "jukugo": "挙手",
+      "reading": "きょしゅ",
+      "meaning": "手を挙げること。",
+      "example": "質問がある人は挙手してください。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "選挙",
+      "reading": "せんきょ",
+      "meaning": "代表者を選ぶこと。",
+      "example": "クラスの委員長を決めるため、選挙が行われました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "挙行",
+      "reading": "きょこう",
+      "meaning": "行事を行うこと。",
+      "example": "運動会が晴天のもと、盛大に挙行されました。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "挙動",
+      "reading": "きょどう",
+      "meaning": "行動や体の動き。",
+      "example": "お兄ちゃんのいつもと違う挙動に、みんな驚いた。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一挙",
+      "reading": "いっきょ",
+      "meaning": "一つの動きや行動。一度に。",
+      "example": "みんなで力を合わせ、一挙に問題を解決した。",
+      "addedDate": "2026-06-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
