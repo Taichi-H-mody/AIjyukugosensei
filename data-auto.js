@@ -26337,6 +26337,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "阪": [
+    {
+      "jukugo": "大阪",
+      "reading": "おおさか",
+      "meaning": "関西地方にある、とても大きな都市の名前です。多くの人が住んでいて、有名な観光地もたくさんあります。",
+      "example": "家族と大阪旅行に行って、ユニバーサル・スタジオ・ジャパンで遊びました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大阪府",
+      "reading": "おおさかふ",
+      "meaning": "日本にある都道府県の一つで、大阪の街がある場所です。",
+      "example": "日本地図で大阪府の場所を探してみよう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "京阪",
+      "reading": "けいはん",
+      "meaning": "京都と大阪を結ぶ地域のことや、その地域を走る電車の名前です。",
+      "example": "京阪電車に乗って、おじいちゃんのいる京都まで行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "阪神",
+      "reading": "はんしん",
+      "meaning": "大阪と神戸を結ぶ地域のことや、その地域の電車の名前、または有名な野球チームの名前です。",
+      "example": "僕のお父さんは阪神タイガースの大ファンで、いつも応援しています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "阪急",
+      "reading": "はんきゅう",
+      "meaning": "大阪を中心に、京都や神戸などいろいろな場所を結ぶ電車の名前です。",
+      "example": "阪急電車に乗って、おばあちゃんの家に遊びに行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
