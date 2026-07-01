@@ -26131,6 +26131,24 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "鹿": [
+    {
+      "jukugo": "子鹿",
+      "reading": "こじか",
+      "meaning": "鹿の赤ちゃんのこと。",
+      "example": "草原で、お母さん鹿と子鹿が遊んでいました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大鹿",
+      "reading": "おおじか",
+      "meaning": "体の大きな種類の鹿や、大きな鹿のこと。",
+      "example": "山で大鹿の親子を見かけました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
