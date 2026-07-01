@@ -26681,6 +26681,56 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "城": [
+    {
+      "jukugo": "城下町",
+      "reading": "じょうかまち",
+      "meaning": "お城を中心に栄えた町のこと。",
+      "example": "昔、お城の周りにはたくさんの城下町が広がっていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "城主",
+      "reading": "じょうしゅ",
+      "meaning": "お城の持ち主や、お城を治めている人のこと。",
+      "example": "そのお城の城主は、とても強い武士でした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "城門",
+      "reading": "じょうもん",
+      "meaning": "お城の出入り口にある門のこと。",
+      "example": "昔のお城には、敵が入ってこないように丈夫な城門がありました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入城",
+      "reading": "にゅうじょう",
+      "meaning": "お城の中に入ること。",
+      "example": "今日は、観光客がたくさんお城に入城していました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落城",
+      "reading": "らくじょう",
+      "meaning": "敵に攻められて、お城が落ちてしまうこと。",
+      "example": "長い戦いの後、ついにそのお城は落城しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "城壁",
+      "reading": "じょうへき",
+      "meaning": "お城のまわりを囲んでいる、敵の攻撃からお城を守るための丈夫な壁。",
+      "example": "お城の城壁は、とても高くて頑丈でした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
