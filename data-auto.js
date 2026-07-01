@@ -25543,6 +25543,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "三": [
+    {
+      "jukugo": "三年生",
+      "reading": "さんねんせい",
+      "meaning": "小学校などで、3番目の学年。小学3年生のこと。",
+      "example": "私の弟は来年、小学校の三年生になります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "三日月",
+      "reading": "みかづき",
+      "meaning": "月の初めごろに見える、弓のように細い月の形。",
+      "example": "夜空に細くて美しい三日月が光っていた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "三人",
+      "reading": "さんにん",
+      "meaning": "人の数が3であること。",
+      "example": "友達と三人で公園に遊びに行った。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "三角形",
+      "reading": "さんかっけい",
+      "meaning": "3つのまっすぐな線で囲まれた形。",
+      "example": "ピザの形は三角形のものが多いね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "三輪車",
+      "reading": "さんりんしゃ",
+      "meaning": "車輪が3つある乗り物。主に小さい子どもが乗る自転車のようなもの。",
+      "example": "弟が新しい三輪車に乗って庭を走り回っている。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
