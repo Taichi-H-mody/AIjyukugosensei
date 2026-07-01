@@ -25709,5 +25709,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "字": [
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "文章を書き表す記号。",
+      "example": "ひらがなの「あ」は、きれいな**文字**だね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢字",
+      "reading": "かんじ",
+      "meaning": "日本の国語で使う、中国から伝わった文字。",
+      "example": "小学校では、毎日新しい**漢字**を習うよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "数を表す記号。",
+      "example": "時計の**数字**は、1から12まであるね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "毛筆で文字を書く練習をすること。",
+      "example": "毎週金曜日は、**習字**の時間があるから、墨を準備するよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活字",
+      "reading": "かつじ",
+      "meaning": "印刷された文字。",
+      "example": "この本の**活字**は大きくて、とても読みやすいね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
