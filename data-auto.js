@@ -25459,6 +25459,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "校": [
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "勉強をしたり、友達と遊んだりする場所です。",
+      "example": "私は毎日、学校へ行きます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校長",
+      "reading": "こうちょう",
+      "meaning": "学校で一番えらい先生のことです。",
+      "example": "校長先生が朝礼でお話しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校庭",
+      "reading": "こうてい",
+      "meaning": "学校の運動場や、みんなが遊ぶ広い場所です。",
+      "example": "休み時間に校庭でサッカーをしました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登校",
+      "reading": "とうこう",
+      "meaning": "学校へ行くことです。",
+      "example": "明日は少し早めに登校しよう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "下校",
+      "reading": "げこう",
+      "meaning": "学校から家に帰ることです。",
+      "example": "下校するときは、気をつけて帰りましょう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
