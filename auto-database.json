@@ -26757,5 +26757,23 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "森": [
+    {
+      "jukugo": "森林",
+      "reading": "しんりん",
+      "meaning": "木がたくさん生えている広い場所。",
+      "example": "地球には、たくさんの木々が生い茂る森林があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "森々",
+      "reading": "しんしん",
+      "meaning": "木々が深く、たくさん生い茂っている様子。また、静かで奥深い様子。",
+      "example": "木々が森々としている中を歩くと、とても静かで心が落ち着きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
