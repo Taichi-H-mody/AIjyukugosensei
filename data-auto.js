@@ -24735,6 +24735,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "円": [
+    {
+      "jukugo": "百円",
+      "reading": "ひゃくえん",
+      "meaning": "日本の通貨単位の一つで、100の価値を持つお金。",
+      "example": "おかしを百円で買いました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一円",
+      "reading": "いちえん",
+      "meaning": "日本の通貨単位の一つで、1の価値を持つお金。",
+      "example": "おさいふに一円玉が何枚か入っていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "円グラフ",
+      "reading": "えんグラフ",
+      "meaning": "全体の割合を円の形で表したグラフ。",
+      "example": "クラスのみんなの好きな色を円グラフで表しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "円形",
+      "reading": "えんけい",
+      "meaning": "円のような形。丸い形。",
+      "example": "運動場でみんなが円形に集まりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
