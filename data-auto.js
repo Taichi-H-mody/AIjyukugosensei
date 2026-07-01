@@ -24937,6 +24937,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "花": [
+    {
+      "jukugo": "花火",
+      "reading": "はなび",
+      "meaning": "火薬を使って空中に打ち上げ、光や音を楽しむもの。",
+      "example": "夏祭りで、たくさんの**花火**が夜空に咲いた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花見",
+      "reading": "はなみ",
+      "meaning": "桜などの花を眺めて楽しむこと。",
+      "example": "家族みんなで公園に**花見**に行った。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花瓶",
+      "reading": "かびん",
+      "meaning": "花を飾るための器。",
+      "example": "庭で摘んだきれいな花を、**花瓶**に生けた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花束",
+      "reading": "はなたば",
+      "meaning": "たくさんの花をまとめて束ねたもの。",
+      "example": "お母さんの誕生日に、きれいな**花束**をプレゼントした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "草花",
+      "reading": "くさばな",
+      "meaning": "道端や野原に生えている小さな花や草。",
+      "example": "公園には、色々な**草花**が咲いていた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
