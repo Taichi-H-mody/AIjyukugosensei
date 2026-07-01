@@ -26515,6 +26515,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "手": [
+    {
+      "jukugo": "手紙",
+      "reading": "てがみ",
+      "meaning": "文字を書いて、人に気持ちを伝えたり、連絡したりするためのもの。",
+      "example": "おばあちゃんにお誕生日の手紙を書きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上手",
+      "reading": "じょうず",
+      "meaning": "物事をうまく行うことができること。技や能力がすぐれていること。",
+      "example": "妹は絵を描くのがとても上手になりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歌手",
+      "reading": "かしゅ",
+      "meaning": "歌を歌うことを仕事にしている人。",
+      "example": "テレビで見た歌手の歌がとても感動的でした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "拍手",
+      "reading": "はくしゅ",
+      "meaning": "手を打ち合わせて、ほめたり、喜びを表したりすること。",
+      "example": "運動会で応援しているみんなに拍手を送りました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "握手",
+      "reading": "あくしゅ",
+      "meaning": "相手と手を握り合って、親しい気持ちや友情を示すこと。",
+      "example": "初めて会う友達と握手をして、仲良くなりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
