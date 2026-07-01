@@ -26251,6 +26251,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "栃": [
+    {
+      "jukugo": "栃木県",
+      "reading": "とちぎけん",
+      "meaning": "日本の関東地方にある県の一つです。日光東照宮や那須高原などが有名です。",
+      "example": "今年の夏休みは、家族で**栃木県**に旅行に行く予定です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栃の木",
+      "reading": "とちのき",
+      "meaning": "大きな葉っぱと、白い花が咲く、日本の山などに生えている木です。秋には実がなります。",
+      "example": "学校の校庭には、背の高い**栃の木**が立っています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栃の実",
+      "reading": "とちのみ",
+      "meaning": "栃の木になる実のことです。昔からお餅などに混ぜて食べられています。",
+      "example": "秋になると、地面にたくさんの**栃の実**が落ちています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "栃餅",
+      "reading": "とちもち",
+      "meaning": "栃の実をすりつぶして、お餅と混ぜて作ったお餅のことです。",
+      "example": "おばあちゃんが、おいしい**栃餅**を作ってくれました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
