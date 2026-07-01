@@ -25897,5 +25897,31 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "潟": [
+    {
+      "jukugo": "干潟",
+      "reading": "ひがた",
+      "meaning": "潮が引いたときに、海辺に現れる砂や泥の平らな場所。たくさんの小さな生き物がすんでいます。",
+      "example": "夏休みに、家族と**干潟**でカニやヤドカリを見つけたよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新潟",
+      "reading": "にいがた",
+      "meaning": "日本の日本海側にある県の名前です。おいしいお米やきれいな水で有名だよ。",
+      "example": "日本地図で**新潟**県はどこにあるか調べてみよう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "潟湖",
+      "reading": "せきこ",
+      "meaning": "砂が積もってできた細長い土地（砂州）などによって、海から切り離されてできた湖のこと。",
+      "example": "鳥が泳ぐ大きな**潟湖**の景色は、とても美しかった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
