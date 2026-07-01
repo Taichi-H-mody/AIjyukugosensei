@@ -26085,5 +26085,31 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "崎": [
+    {
+      "jukugo": "宮崎",
+      "reading": "みやざき",
+      "meaning": "日本の九州地方にある県の名前。日差しが強く、マンゴーなどが有名です。",
+      "example": "家族で宮崎県に旅行に行って、きれいな海で泳ぎました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長崎",
+      "reading": "ながさき",
+      "meaning": "日本の九州地方にある県の名前。昔から外国との交流が盛んで、異国情緒あふれる街です。",
+      "example": "長崎のちゃんぽんは、とてもおいしいと聞きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川崎",
+      "reading": "かわさき",
+      "meaning": "日本の神奈川県にある都市の名前。工場が多く、発展した街です。",
+      "example": "電車に乗って、川崎まで遊びに行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
