@@ -26285,6 +26285,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "奈": [
+    {
+      "jukugo": "奈良",
+      "reading": "なら",
+      "meaning": "日本の地名。古くから都が置かれた場所で、大仏や鹿で有名です。",
+      "example": "家族旅行で**奈良**の大仏を見に行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "奈良時代",
+      "reading": "ならじだい",
+      "meaning": "日本の歴史の時代の一つ。およそ1300年前に奈良に都があった頃で、大きな文化が花開きました。",
+      "example": "日本の古い歴史では、**奈良時代**に立派な大仏が作られました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "奈落",
+      "reading": "ならく",
+      "meaning": "地下の深く底が見えない場所のこと。転じて、どうしようもないほどつらい状況や絶望的な状態も指します。",
+      "example": "この洞窟は深く、まるで**奈落**の底のようだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "神奈川",
+      "reading": "かながわ",
+      "meaning": "日本の都道府県の一つ。東京の南にあり、横浜市などが有名です。",
+      "example": "夏休みに**神奈川**県の海で泳ぎました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "奈良漬",
+      "reading": "ならづけ",
+      "meaning": "ウリやキュウリなどの野菜を酒粕に漬けて作る、奈良地方で有名なお漬物です。",
+      "example": "おばあちゃんが作った**奈良漬**は、ご飯によく合います。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
