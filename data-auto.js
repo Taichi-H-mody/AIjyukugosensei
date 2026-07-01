@@ -25863,6 +25863,16 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "媛": [
+    {
+      "jukugo": "愛媛",
+      "reading": "えひめ",
+      "meaning": "四国地方にある県の名前です。みかんや、おいしい海の幸が有名です。",
+      "example": "愛媛県は、日本でも有数のみかんの産地として知られています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
