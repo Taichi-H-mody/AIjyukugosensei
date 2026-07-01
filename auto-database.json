@@ -24977,5 +24977,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "貝": [
+    {
+      "jukugo": "貝殻",
+      "reading": "かいがら",
+      "meaning": "貝が死んだ後に残る、硬い殻の部分。",
+      "example": "海できれいな貝殻をたくさん拾った。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貝塚",
+      "reading": "かいづか",
+      "meaning": "昔の人が食べた貝の殻や、使っていた道具などが積み重なってできた場所。",
+      "example": "学校の社会科見学で貝塚の跡を見に行った。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貝類",
+      "reading": "かいるい",
+      "meaning": "貝の仲間。貝の種類の総称。",
+      "example": "図鑑で海の貝類を調べた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "巻貝",
+      "reading": "まきがい",
+      "meaning": "貝殻がぐるぐる巻いた形をしている貝。",
+      "example": "ヤドカリは巻貝の殻に隠れて暮らす。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二枚貝",
+      "reading": "にまいがい",
+      "meaning": "貝殻が二枚でできている貝。",
+      "example": "アサリやハマグリは二枚貝の仲間だよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
