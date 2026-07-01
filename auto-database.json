@@ -26715,5 +26715,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "上": [
+    {
+      "jukugo": "上着",
+      "reading": "うわぎ",
+      "meaning": "服の一番上に着るもの。コートやジャケットのこと。",
+      "example": "寒いから、出かけるときは上着をちゃんと着てね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上手",
+      "reading": "じょうず",
+      "meaning": "物事をよくできること。優れていること。",
+      "example": "お兄さんは絵をかくのがとても上手だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上下",
+      "reading": "じょうげ",
+      "meaning": "上と下のこと。",
+      "example": "この箱は、上下を間違えないように置いてください。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "屋上",
+      "reading": "おくじょう",
+      "meaning": "建物のいちばん高いところにある平らな場所。",
+      "example": "学校の屋上から町をながめた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川上",
+      "reading": "かわかみ",
+      "meaning": "川の流れが始まる、高い場所に近い方の部分。",
+      "example": "川上では、水がとてもきれいだった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
