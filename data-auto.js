@@ -25795,6 +25795,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "七": [
+    {
+      "jukugo": "七五三",
+      "reading": "しちごさん",
+      "meaning": "男の子は三歳と五歳、女の子は三歳と七歳になった年の十一月十五日に、子どもの成長を祝い神社などにお参りする行事。",
+      "example": "私は去年の秋に、弟の七五三のお祝いをしました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "七夕",
+      "reading": "たなばた",
+      "meaning": "七月七日の夜に行われる、織姫と彦星をまつり、願いごとをするお祭り。",
+      "example": "七夕の日に、短冊に願い事を書いて笹の葉に飾りました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "七色",
+      "reading": "なないろ",
+      "meaning": "多くの色、特に虹のように七つの色があること。",
+      "example": "雨上がりの空に、きれいな七色の虹がかかりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "七不思議",
+      "reading": "ななふしぎ",
+      "meaning": "説明できない、不思議なことが七つあること。",
+      "example": "学校の七不思議について、みんなで調べて発表しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "週七日",
+      "reading": "しゅうなのか",
+      "meaning": "一週間のすべての曜日、つまり七日間。",
+      "example": "一週間は週七日あり、月曜日から日曜日まであります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
