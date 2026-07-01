@@ -8878,6 +8878,30 @@ const autoData = {
       "example": "日本の山川の景色はとても美しい。",
       "addedDate": "2026-06-22",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山小屋",
+      "reading": "やまごや",
+      "meaning": "登山をする人が休んだり、泊まったりするための小さな家。",
+      "example": "頂上まであと少しのところに、古い山小屋があった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登山",
+      "reading": "とざん",
+      "meaning": "山に登ること。",
+      "example": "夏休みに家族みんなで高い山に登山した。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪山",
+      "reading": "ゆきやま",
+      "meaning": "雪がたくさん積もっている山。",
+      "example": "冬になると、あの雪山にはスキーをする人がたくさん来る。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
     }
   ],
   "常": [
