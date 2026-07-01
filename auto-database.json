@@ -24851,5 +24851,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "下": [
+    {
+      "jukugo": "下校",
+      "reading": "げこう",
+      "meaning": "学校から家に帰ること。",
+      "example": "放課後、友達と元気に下校しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地下",
+      "reading": "ちか",
+      "meaning": "地面より下の部分。",
+      "example": "デパートの地下には、おいしい食べ物屋さんがたくさんあります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上下",
+      "reading": "じょうげ",
+      "meaning": "上と下、または上と下の方向。",
+      "example": "エレベーターが上下に動いて、高い階へ行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年下",
+      "reading": "としした",
+      "meaning": "自分よりも年齢が低いこと。",
+      "example": "私の弟は年下なので、いつも面倒を見てあげています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "下着",
+      "reading": "したぎ",
+      "meaning": "服の下に身につける肌着のこと。",
+      "example": "お風呂から上がったら、きれいな下着に着替えました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
