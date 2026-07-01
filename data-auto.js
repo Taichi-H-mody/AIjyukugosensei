@@ -26379,6 +26379,16 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "阜": [
+    {
+      "jukugo": "阜頭",
+      "reading": "ふとう",
+      "meaning": "丘のてっぺん、一番高いところ。",
+      "example": "丘の阜頭まで登ったら、気持ちの良い風が吹いていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
