@@ -24607,5 +24607,47 @@
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "一": [
+    {
+      "jukugo": "一日",
+      "reading": "いちにち",
+      "meaning": "ひとつの日。24時間のこと。",
+      "example": "夏休みの一日はあっという間に過ぎた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一番",
+      "reading": "いちばん",
+      "meaning": "順序や程度が最も優れていること。最初。",
+      "example": "かけっこで一番になったので、とてもうれしかった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一緒",
+      "reading": "いっしょ",
+      "meaning": "二人以上の人が共に何かをすること。",
+      "example": "友達と一緒にお弁当を食べた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一つ",
+      "reading": "ひとつ",
+      "meaning": "ものの数が一であること。",
+      "example": "りんごを一つください。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一人",
+      "reading": "ひとり",
+      "meaning": "人の数が一であること。",
+      "example": "一人で本を読んだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
