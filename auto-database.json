@@ -25999,5 +25999,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "香": [
+    {
+      "jukugo": "香水",
+      "reading": "こうすい",
+      "meaning": "体に良い香りをつけるための液体。",
+      "example": "母は出かける前に、いつも香水をつけています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "線香",
+      "reading": "せんこう",
+      "meaning": "仏壇などにあげて、良い香りを漂わせる棒状のもの。",
+      "example": "おばあちゃんは、毎日仏壇に線香をあげています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "香料",
+      "reading": "こうりょう",
+      "meaning": "食べ物や飲み物、化粧品などに良い香りをつけるために使う材料。",
+      "example": "このお菓子には、イチゴの香料が入っています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "芳香",
+      "reading": "ほうこう",
+      "meaning": "良い香り。かおり。",
+      "example": "庭にはバラの花が咲き、あたりに芳香がただよっていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "香辛料",
+      "reading": "こうしんりょう",
+      "meaning": "食べ物に香りや辛みをつけるのに使う植物の材料。スパイス。",
+      "example": "カレーには、いろいろな種類の香辛料が入っています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
