@@ -25837,6 +25837,32 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "茨": [
+    {
+      "jukugo": "茨城",
+      "reading": "いばらき",
+      "meaning": "日本の関東地方にある県の一つです。",
+      "example": "茨城には、美しい霞ヶ浦があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "茨城県",
+      "reading": "いばらきけん",
+      "meaning": "日本の県の一つで、水戸市が県庁所在地です。",
+      "example": "茨城県は、納豆やメロンが有名です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野茨",
+      "reading": "のいばら",
+      "meaning": "野原などに自然に生えるバラの仲間で、白や薄ピンク色の花を咲かせます。",
+      "example": "公園のすみっこに野茨の花が咲いていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
