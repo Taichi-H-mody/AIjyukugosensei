@@ -25105,6 +25105,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "九": [
+    {
+      "jukugo": "九月",
+      "reading": "くがつ",
+      "meaning": "一年のうち、九番目の月。秋が始まる月。",
+      "example": "九月は運動会がある月です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "九日",
+      "reading": "ここのか",
+      "meaning": "月の九番目の日。または、九日間。",
+      "example": "来月の九日は、お兄ちゃんの誕生日です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "九九",
+      "reading": "くく",
+      "meaning": "掛け算の答えを覚えるための表。小学校の算数で習います。",
+      "example": "二年生で九九を覚えます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "九州",
+      "reading": "きゅうしゅう",
+      "meaning": "日本の南西部にある大きな島と、その周辺の県を含む地域。",
+      "example": "いつか九州へ旅行に行きたいです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
