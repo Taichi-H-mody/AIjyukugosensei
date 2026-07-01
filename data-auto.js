@@ -25181,6 +25181,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "玉": [
+    {
+      "jukugo": "玉ねぎ",
+      "reading": "たまねぎ",
+      "meaning": "丸い形をした野菜の一つで、料理によく使われます。切ると涙が出ることがあります。",
+      "example": "カレーライスを作るために、お母さんが大きな玉ねぎを切ってくれました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水玉",
+      "reading": "みずたま",
+      "meaning": "水滴（すいてき）のような、丸い模様（もよう）のことです。",
+      "example": "お気に入りのワンピースは、かわいい水玉もようがついています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "ビー玉",
+      "reading": "ビーだま",
+      "meaning": "ガラスでできた小さな丸い玉で、昔から子どもたちの遊び道具として人気があります。",
+      "example": "昔、お兄ちゃんとビー玉を地面に転がして遊んだことを覚えています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "玉手箱",
+      "reading": "たまてばこ",
+      "meaning": "浦島太郎（うらしまたろう）の物語に出てくる、開けると年をとってしまう不思議な箱。転じて、珍しいものや楽しいものがたくさん詰まった箱という意味でも使われます。",
+      "example": "おばあちゃんの家には、昔のおもちゃがたくさん入った玉手箱のような箱があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
