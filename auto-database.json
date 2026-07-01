@@ -26681,5 +26681,39 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "小": [
+    {
+      "jukugo": "小学校",
+      "reading": "しょうがっこう",
+      "meaning": "小学生が勉強する学校のことです。",
+      "example": "私は**小学校**で毎日楽しく勉強しています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小鳥",
+      "reading": "ことり",
+      "meaning": "とても小さな鳥のことです。",
+      "example": "公園の木に**小鳥**がとまっていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小石",
+      "reading": "こいし",
+      "meaning": "小さな石のことです。",
+      "example": "川べりできれいな**小石**を拾いました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小雨",
+      "reading": "こさめ",
+      "meaning": "ほんの少しだけ降る雨のことです。",
+      "example": "外は**小雨**が降っていたので、傘をさして出かけました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
