@@ -25255,5 +25255,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "空": [
+    {
+      "jukugo": "空き地",
+      "reading": "あきち",
+      "meaning": "建物などがなく、何も建っていない土地。",
+      "example": "公園の隣の広い空き地で、友達と鬼ごっこをした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空気",
+      "reading": "くうき",
+      "meaning": "地球を包んでいる、目に見えない気体。息をするときに吸うもの。",
+      "example": "窓を開けたら、新鮮な空気が部屋に入ってきた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空手",
+      "reading": "からて",
+      "meaning": "日本の武道の一つで、武器を使わず、手足を使って身を守る技。",
+      "example": "兄は空手を習っていて、黒帯を持っている。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空っぽ",
+      "reading": "からっぽ",
+      "meaning": "中に何も入っていないこと。",
+      "example": "お菓子の箱を開けたら、もう空っぽだった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青空",
+      "reading": "あおぞら",
+      "meaning": "雲が少なく、青く晴れ渡った空。",
+      "example": "今日は気持ちのいい青空が広がっていて、遠足にぴったりだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
