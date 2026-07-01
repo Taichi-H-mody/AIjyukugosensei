@@ -26645,5 +26645,39 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "梨": [
+    {
+      "jukugo": "梨狩り",
+      "reading": "なしがり",
+      "meaning": "梨の木になっている実を、自分で取って食べる行事。",
+      "example": "秋になったら、家族で梨狩りに行きたいな。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "梨の実",
+      "reading": "なしのみ",
+      "meaning": "梨の木になる、甘くておいしい果物。",
+      "example": "木になっている梨の実は、つやつやしていてとても大きい。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洋梨",
+      "reading": "ようなし",
+      "meaning": "ヨーロッパなどで作られる梨の一種で、日本でよく見る梨とは形や味が少し違う。",
+      "example": "洋梨は、日本の梨と形がちがうね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和梨",
+      "reading": "わなし",
+      "meaning": "日本で昔から作られている梨のこと。シャリシャリした食感が特徴。",
+      "example": "私たちが普段よく食べるのは、甘くてみずみずしい和梨だよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
