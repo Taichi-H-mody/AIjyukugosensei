@@ -26641,6 +26641,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "女": [
+    {
+      "jukugo": "女の子",
+      "reading": "おんなのこ",
+      "meaning": "子どもの女の人。女児。",
+      "example": "公園で、元気な女の子たちが遊んでいる。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女子",
+      "reading": "じょし",
+      "meaning": "女の人。特に、学生や子どもの女の人を指すことが多い。",
+      "example": "運動会で、女子の代表が選手宣誓をした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女性",
+      "reading": "じょせい",
+      "meaning": "おとなの女の人。",
+      "example": "電車には、たくさんの女性が乗っていた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女王",
+      "reading": "じょおう",
+      "meaning": "女の王様。",
+      "example": "おとぎ話に出てくる女王は、とても美しい。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美女",
+      "reading": "びじょ",
+      "meaning": "とても美しい女の人。",
+      "example": "昔々、一人の美女が森に住んでいました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
