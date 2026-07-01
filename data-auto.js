@@ -25585,6 +25585,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "子": [
+    {
+      "jukugo": "子供",
+      "reading": "こども",
+      "meaning": "まだ小さくて、大人になっていない人。",
+      "example": "公園で子供たちが楽しそうに遊んでいます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親子",
+      "reading": "おやこ",
+      "meaning": "親と子のこと。",
+      "example": "動物園で親子パンダが仲良く笹を食べていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "様子",
+      "reading": "ようす",
+      "meaning": "物事のありさまや状況。見た目や状態。",
+      "example": "友達の元気がない様子を見て、心配になりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帽子",
+      "reading": "ぼうし",
+      "meaning": "頭にかぶるもの。日差しや寒さから頭を守ったり、おしゃれのために使ったりする。",
+      "example": "暑い日だったので、日差しから頭を守るために帽子をかぶりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "椅子",
+      "reading": "いす",
+      "meaning": "座るための家具。",
+      "example": "食卓の椅子に座って、ご飯を食べました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
