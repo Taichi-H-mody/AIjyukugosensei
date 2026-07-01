@@ -25499,5 +25499,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "左": [
+    {
+      "jukugo": "左側",
+      "reading": "ひだりがわ",
+      "meaning": "左の方にあること、または左の方。",
+      "example": "学校の門を入って、すぐ左側に体育館があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左手",
+      "reading": "ひだりて",
+      "meaning": "体の左の方にある腕や手。",
+      "example": "私は左手にえんぴつを持って字を書きます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左足",
+      "reading": "ひだりあし",
+      "meaning": "体の左の方にある足。",
+      "example": "サッカーボールを左足で力いっぱいけった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左右",
+      "reading": "さゆう",
+      "meaning": "左と右。まわり。",
+      "example": "道をわたるときは、左右をよく見て安全をたしかめましょう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左折",
+      "reading": "させつ",
+      "meaning": "左に曲がること。",
+      "example": "車は信号のある交差点で左折しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
