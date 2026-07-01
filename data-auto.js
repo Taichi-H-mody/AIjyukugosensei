@@ -24651,6 +24651,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "右": [
+    {
+      "jukugo": "右側",
+      "reading": "みぎがわ",
+      "meaning": "右の方。",
+      "example": "本棚の右側におもちゃが置いてあるよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "右折",
+      "reading": "うせつ",
+      "meaning": "右に曲がること。",
+      "example": "自転車で交差点を右折するときは気をつけてね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "左右",
+      "reading": "さゆう",
+      "meaning": "左と右。また、まわり。",
+      "example": "道を渡る前には、左右をよく確認しよう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "右手",
+      "reading": "みぎて",
+      "meaning": "右の手。",
+      "example": "先生に質問するときは、右手をあげてから話そう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "右目",
+      "reading": "みぎめ",
+      "meaning": "右にある目。",
+      "example": "右目にゴミが入ってしまって、少し痛いよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
