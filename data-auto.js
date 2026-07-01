@@ -25021,6 +25021,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "学": [
+    {
+      "jukugo": "学習",
+      "reading": "がくしゅう",
+      "meaning": "物事を学んで身につけること。",
+      "example": "新しい漢字の学習をがんばる。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学校",
+      "reading": "がっこう",
+      "meaning": "子どもたちが勉強したり遊んだりする場所。",
+      "example": "毎日、学校に行くのが楽しみだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入学",
+      "reading": "にゅうがく",
+      "meaning": "新しく学校に入ること。",
+      "example": "来年、小学校に入学する。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見学",
+      "reading": "けんがく",
+      "meaning": "実際にものを見たり話を聞いたりして、学ぶこと。",
+      "example": "社会科の授業で工場を見学した。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学年",
+      "reading": "がくねん",
+      "meaning": "学校での勉強の区切り。1年間のクラスのまとまり。",
+      "example": "わたしは小学三年生で、今の学年で一番背が高い。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
