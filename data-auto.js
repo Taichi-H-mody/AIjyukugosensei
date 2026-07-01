@@ -26599,6 +26599,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "出": [
+    {
+      "jukugo": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "家や建物から外へ出かけること。",
+      "example": "今日の午後は、家族で公園に外出しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "目的地に向かって出かけること。物事が始まること。",
+      "example": "遠足のバスが、学校を午前9時に出発しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出口",
+      "reading": "でぐち",
+      "meaning": "建物や場所から外へ出るための場所。",
+      "example": "駅の出口はあちらです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "提出",
+      "reading": "ていしゅつ",
+      "meaning": "書類などを相手に渡すこと。",
+      "example": "先生に宿題を提出しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出場",
+      "reading": "しゅつじょう",
+      "meaning": "競技や行事などに出ること。",
+      "example": "運動会で、かけっこに初めて出場します。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
