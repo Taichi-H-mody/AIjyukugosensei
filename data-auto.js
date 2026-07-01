@@ -26389,6 +26389,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "快": [
+    {
+      "jukugo": "快晴",
+      "reading": "かいせい",
+      "meaning": "空が澄み渡って、気持ちよく晴れていること。",
+      "example": "今日は快晴で、遠足にぴったりの日だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快適",
+      "reading": "かいてき",
+      "meaning": "心地よく、気持ちが良いこと。",
+      "example": "エアコンのおかげで、部屋の中がとても快適だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快速",
+      "reading": "かいそく",
+      "meaning": "速く走ること。また、速く走る電車や船。",
+      "example": "快速電車に乗ると、学校まで早く着くことができる。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愉快",
+      "reading": "ゆかい",
+      "meaning": "楽しくて、心がはずむような気持ち。",
+      "example": "友達と遊ぶ時間は、いつも愉快で楽しい。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "爽快",
+      "reading": "そうかい",
+      "meaning": "気分がとてもよく、すっきりすること。",
+      "example": "お風呂上がりの冷たい飲み物は、とても爽快だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
