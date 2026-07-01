@@ -26555,5 +26555,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "十": [
+    {
+      "jukugo": "十日",
+      "reading": "とおか",
+      "meaning": "月の10番目の日。また、10日間。",
+      "example": "今日は十日です。/夏休みまであと十日です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "十人",
+      "reading": "じゅうにん",
+      "meaning": "10人の人。",
+      "example": "教室には十人の友達がいます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "十字",
+      "reading": "じゅうじ",
+      "meaning": "たてとよこに線が交わって、漢字の「十」のような形になること。また、その形。",
+      "example": "紙に十字の線を引きました。/あの十字路を右に曲がってください。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "必要なだけそろっていること。満ち足りていること。",
+      "example": "宿題をする時間は十分にあります。/ご飯は十分に食べました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二十",
+      "reading": "にじゅう",
+      "meaning": "十の二倍の数。20。",
+      "example": "鉛筆が二十本あります。/二十まで数を数えることができます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
