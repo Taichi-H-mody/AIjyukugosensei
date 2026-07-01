@@ -26191,6 +26191,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "井": [
+    {
+      "jukugo": "井戸",
+      "reading": "いど",
+      "meaning": "地面を深く掘って、地下の水をくみ上げる場所。",
+      "example": "昔の家には、生活に使う水をくみ上げるための**井戸**がありました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天井",
+      "reading": "てんじょう",
+      "meaning": "部屋のいちばん上の部分。屋根の裏側にあたる、板や壁のこと。",
+      "example": "部屋の**天井**には、電気のあかりをともすシーリングライトがついています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "井桁",
+      "reading": "いげた",
+      "meaning": "井戸のふちに組まれた木の枠。また、その形や模様のこと。",
+      "example": "お祭りのやぐらには、**井桁**の模様が入った大きなちょうちんが飾られていた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "油井",
+      "reading": "ゆせい",
+      "meaning": "地面を深く掘って、石油をわき出させるための井戸。",
+      "example": "中東の国々には、たくさんの**油井**があって、そこから石油がとれるんだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
