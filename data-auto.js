@@ -26113,6 +26113,24 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "滋": [
+    {
+      "jukugo": "滋養",
+      "reading": "じよう",
+      "meaning": "栄養をとって体を養い、元気にすること。",
+      "example": "かぜを引いたときは、滋養のある食べ物を食べて、早く元気になろう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "滋味",
+      "reading": "じみ",
+      "meaning": "食べ物の味わいが深くておいしいこと。また、奥深い味わいのこと。",
+      "example": "おばあちゃんが作ってくれた野菜スープは、野菜のうまみがとけだした滋味深い味だった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
