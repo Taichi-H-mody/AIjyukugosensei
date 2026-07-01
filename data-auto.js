@@ -25959,6 +25959,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "熊": [
+    {
+      "jukugo": "小熊",
+      "reading": "こぐま",
+      "meaning": "小さいくまのこと。くまのこども。",
+      "example": "動物園で、かわいい小熊が元気に遊んでいたよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "白熊",
+      "reading": "しろくま",
+      "meaning": "北の寒い場所に住んでいる、体が白い大きな熊。",
+      "example": "水族館で、白熊が気持ちよさそうにプールを泳いでいた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熊手",
+      "reading": "くまで",
+      "meaning": "落ち葉などをかき集めるための道具。お祭りでは福をかき集める縁起物としても売られます。",
+      "example": "公園の落ち葉を熊手を使ってきれいに集めたよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熊蜂",
+      "reading": "くまばち",
+      "meaning": "体が大きくて毛がふさふさしている蜂の一種。",
+      "example": "庭に大きな熊蜂が飛んできたけど、おとなしい蜂なんだって。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熊鈴",
+      "reading": "くますず",
+      "meaning": "山で、熊に自分の存在を知らせて驚かせないようにするための鈴。",
+      "example": "山にハイキングに行くときは、熊鈴をつけて行ったほうが安全だよ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
