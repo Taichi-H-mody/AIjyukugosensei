@@ -25139,6 +25139,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "休": [
+    {
+      "jukugo": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "学校や会社が休みの日。",
+      "example": "明日は楽しい休日だから、公園に遊びに行こう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休憩",
+      "reading": "きゅうけい",
+      "meaning": "活動の途中で、一時的に作業などをやめて休むこと。",
+      "example": "たくさん遊んだから、少し休憩しよう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "夏にある、学校の長い休み。",
+      "example": "夏休みには家族と海へ行く予定だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冬休み",
+      "reading": "ふゆやすみ",
+      "meaning": "冬にある、学校の長い休み。",
+      "example": "冬休みにはお年玉をもらってお正月を祝った。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "連休",
+      "reading": "れんきゅう",
+      "meaning": "休みの日が何日か続けてあること。",
+      "example": "ゴールデンウィークは連休なので、遠出をする人が多い。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
