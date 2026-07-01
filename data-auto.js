@@ -26043,6 +26043,16 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "佐": [
+    {
+      "jukugo": "佐賀",
+      "reading": "さが",
+      "meaning": "九州地方にある県の一つ。焼き物で有名です。",
+      "example": "佐賀県では、おいしいお米がたくさん作られています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
