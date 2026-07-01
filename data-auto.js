@@ -24895,6 +24895,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "火": [
+    {
+      "jukugo": "火事",
+      "reading": "かじ",
+      "meaning": "建物や物が燃えてしまうこと。",
+      "example": "夜中に大きな火事がおきて、消防車が何台も来ました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "花火",
+      "reading": "はなび",
+      "meaning": "火薬を使って空中に打ち上げたり、手で持ったりして楽しむ、きれいに光る火。",
+      "example": "夏祭りの夜空に、たくさんの花火が咲きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火山",
+      "reading": "かざん",
+      "meaning": "地下の熱い岩石（マグマ）が噴き出す山。",
+      "example": "富士山は、むかし活動していた火山です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火曜",
+      "reading": "かよう",
+      "meaning": "一週間の曜日の一つで、月曜日の次、水曜日の前の日。",
+      "example": "来週の火曜日は、学校がお休みです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焚き火",
+      "reading": "たきび",
+      "meaning": "屋外で、木や葉っぱなどを燃やすこと。",
+      "example": "キャンプでみんなで焚き火を囲んで歌を歌いました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
