@@ -25925,6 +25925,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "岐": [
+    {
+      "jukugo": "分岐",
+      "reading": "ぶんき",
+      "meaning": "道や川などが、途中で二つ以上に分かれること。",
+      "example": "山道が分岐しているところで、右の道を選びました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岐路",
+      "reading": "きろ",
+      "meaning": "道が分かれている場所。また、人生などで、どちらに進むか迷う大切な時や場面。",
+      "example": "将来の夢を選ぶとき、僕は岐路に立たされていると感じました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多岐",
+      "reading": "たき",
+      "meaning": "多くの方面に分かれていること。たくさんの種類があること。",
+      "example": "先生の話は多岐にわたっていて、とても勉強になりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分岐点",
+      "reading": "ぶんきてん",
+      "meaning": "道や線などが、二つ以上に分かれる場所。",
+      "example": "地図を見て、森の中の分岐点を確認しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
