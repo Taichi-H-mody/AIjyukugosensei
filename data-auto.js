@@ -25873,6 +25873,32 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "岡": [
+    {
+      "jukugo": "岡山",
+      "reading": "おかやま",
+      "meaning": "中国地方にある県の名前。桃やマスカットが有名です。",
+      "example": "ぼくのおじいちゃんは、岡山県に住んでいます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "静岡",
+      "reading": "しずおか",
+      "meaning": "日本のほぼ中央にある県の名前。富士山やおいしいお茶で知られています。",
+      "example": "静岡県には、日本で一番高い富士山があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "福岡",
+      "reading": "ふくおか",
+      "meaning": "九州地方にある県の名前。ラーメンやもつ鍋などの食べ物が有名です。",
+      "example": "今年の夏休みは、福岡県に旅行に行く予定です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
