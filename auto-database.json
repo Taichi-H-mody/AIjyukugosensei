@@ -26471,5 +26471,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "車": [
+    {
+      "jukugo": "自動車",
+      "reading": "じどうしゃ",
+      "meaning": "ガソリンや電気などの力で自分で動く乗り物。",
+      "example": "お父さんの新しい自動車で、家族旅行に出かけました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電車",
+      "reading": "でんしゃ",
+      "meaning": "電気の力でレールの上を走る乗り物。",
+      "example": "毎日、電車に乗って学校に通っています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "人がペダルをこいで動かす二つの車輪がある乗り物。",
+      "example": "公園まで自転車に乗って遊びに行きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "車道",
+      "reading": "しゃどう",
+      "meaning": "道路の中で、車が走る部分のこと。",
+      "example": "車道を歩くときは、車に気をつけましょう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駐車",
+      "reading": "ちゅうしゃ",
+      "meaning": "車を一時的に停めること。",
+      "example": "この場所は、駐車禁止の標識があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
