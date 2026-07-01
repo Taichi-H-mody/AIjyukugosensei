@@ -26431,6 +26431,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "五": [
+    {
+      "jukugo": "五月",
+      "reading": "ごがつ",
+      "meaning": "1年の5番目の月。",
+      "example": "五月は、こいのぼりが空を泳ぐ季節です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "五日",
+      "reading": "いつか",
+      "meaning": "月の5番目の日。または、5日間。",
+      "example": "来週の五日に、みんなでえんそくに行きます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "五分",
+      "reading": "ごふん",
+      "meaning": "5分間の時間。",
+      "example": "休み時間が終わるまで、あと五分です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "五目",
+      "reading": "ごもく",
+      "meaning": "五種類以上の材料をまぜて作る料理のこと。",
+      "example": "お母さんが作ってくれた五目ごはんは、とてもおいしいです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "五線",
+      "reading": "ごせん",
+      "meaning": "音楽の楽譜に音符を書くための5本の平行な線。",
+      "example": "音楽の授業で、五線にドレミの音符を書きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
