@@ -26327,6 +26327,16 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "梨": [
+    {
+      "jukugo": "梨狩り",
+      "reading": "なしがり",
+      "meaning": "梨園などで、熟した梨を自分で摘み取る遊びや行事。",
+      "example": "秋には家族みんなで梨狩りに行って、おいしい梨をたくさん食べました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
