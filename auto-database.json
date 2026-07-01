@@ -25625,5 +25625,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "四": [
+    {
+      "jukugo": "四季",
+      "reading": "しき",
+      "meaning": "春、夏、秋、冬の四つの季節のこと。",
+      "example": "日本には美しい四季があります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四角",
+      "reading": "しかく",
+      "meaning": "辺が四つある形のこと。正方形や長方形など。",
+      "example": "テーブルは四角い形をしています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四月",
+      "reading": "しがつ",
+      "meaning": "1年のうち、春にある4番目の月のこと。",
+      "example": "四月は小学校の入学式がある月です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四年生",
+      "reading": "よねんせい",
+      "meaning": "小学校や中学校で、4学年に在籍する生徒のこと。",
+      "example": "私は今年の四月から四年生になります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四方",
+      "reading": "しほう",
+      "meaning": "東、西、南、北の四つの方向のこと。あちこち。",
+      "example": "お城の四方には高い壁がありました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
