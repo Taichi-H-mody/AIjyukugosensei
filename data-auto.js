@@ -25215,6 +25215,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "金": [
+    {
+      "jukugo": "金曜日",
+      "reading": "きんようび",
+      "meaning": "一週間のうち、木曜日の次の日。",
+      "example": "今週の金曜日は、遠足の日です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯金",
+      "reading": "ちょきん",
+      "meaning": "お金をためること。",
+      "example": "おこづかいを貯金箱に貯金する。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金色",
+      "reading": "きんいろ",
+      "meaning": "金のように、キラキラと輝く黄色。",
+      "example": "夕焼けの空が、金色に輝いている。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金魚",
+      "reading": "きんぎょ",
+      "meaning": "池や水槽で飼われる、きれいで赤い色の魚。",
+      "example": "お祭りで金魚すくいをして、金魚をもらった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金メダル",
+      "reading": "きんめだる",
+      "meaning": "スポーツや競技会で、一番になった人にもらえる金色のメダル。",
+      "example": "運動会で金メダルを目標にがんばる。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
