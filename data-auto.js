@@ -25063,6 +25063,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "気": [
+    {
+      "jukugo": "天気",
+      "reading": "てんき",
+      "meaning": "空の様子や、晴れか雨かなどのこと。",
+      "example": "今日の天気は、とても気持ちのいい晴れです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "元気",
+      "reading": "げんき",
+      "meaning": "体が丈夫で、生き生きしていること。",
+      "example": "みんな、毎日元気に学校に来ましょう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人気",
+      "reading": "にんき",
+      "meaning": "多くの人に好かれていること。",
+      "example": "あのゲームのキャラクターは、子どもたちに大人気です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空気",
+      "reading": "くうき",
+      "meaning": "地球を包んでいる、目に見えないガス。わたしたちは空気を吸って生きています。",
+      "example": "森の空気は、町の中よりもきれいです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気分",
+      "reading": "きぶん",
+      "meaning": "心で感じる気持ちや心の状態。",
+      "example": "今日は気分がいいから、みんなで歌を歌おう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
