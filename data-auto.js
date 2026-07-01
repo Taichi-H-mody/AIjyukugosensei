@@ -25669,6 +25669,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "糸": [
+    {
+      "jukugo": "毛糸",
+      "reading": "けいと",
+      "meaning": "羊などの毛を紡いで作った糸。編み物などに使われます。",
+      "example": "冬休みに**毛糸**でマフラーを編んだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絹糸",
+      "reading": "きぬいと",
+      "meaning": "カイコのまゆからとった、光沢（こうたく）のある丈夫な糸。着物などに使われます。",
+      "example": "お母さんの着物は**絹糸**でできていて、とてもきれいだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "綿糸",
+      "reading": "めんし",
+      "meaning": "綿花（めんか）を紡いで作った糸。Tシャツやタオルなど、肌に触れるものによく使われます。",
+      "example": "Tシャツは**綿糸**でできているから、肌触りがいい。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "縫糸",
+      "reading": "ぬいと",
+      "meaning": "縫い物に使う糸のこと。裁縫（さいほう）で使います。",
+      "example": "ボタンが取れたので、**縫糸**と針で直した。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "細糸",
+      "reading": "ほそいと",
+      "meaning": "細い糸のこと。見えにくい糸や、細かい作業に使う糸などを指します。",
+      "example": "針に**細糸**を通すのは、とても難しい作業だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
