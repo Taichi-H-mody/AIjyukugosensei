@@ -26147,5 +26147,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "縄": [
+    {
+      "jukugo": "縄跳び",
+      "reading": "なわとび",
+      "meaning": "縄を使って跳ぶ運動や遊びのことです。",
+      "example": "体育の時間に、みんなでグラウンドで**縄跳び**をしました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "縄張り",
+      "reading": "なわばり",
+      "meaning": "動物が自分の場所と決めている範囲や、子どもたちが遊び場にしている場所のことです。",
+      "example": "公園の裏山は、ぼくたちの秘密基地がある**縄張り**だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "縄文",
+      "reading": "じょうもん",
+      "meaning": "とても昔の日本の時代のことです。縄のような模様がついた土器（焼き物）が特徴です。",
+      "example": "図書館で、**縄文**土器の写真がたくさん載っている本を見つけました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "縄梯子",
+      "reading": "なわばしご",
+      "meaning": "縄と短い棒などを組み合わせて作った、ゆらゆらするはしごのことです。",
+      "example": "木の上に登るために、お父さんが**縄梯子**を作ってくれた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "縄目",
+      "reading": "なわめ",
+      "meaning": "縄を編んだり、より合わせたりしたときに見える模様のことです。",
+      "example": "古い木の箱には、**縄目**のような飾り彫りがしてあった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
