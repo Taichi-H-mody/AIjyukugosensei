@@ -25375,6 +25375,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "見": [
+    {
+      "jukugo": "見学",
+      "reading": "けんがく",
+      "meaning": "実際にその場所へ行って、ものや様子を見ること。",
+      "example": "来週、社会科の授業で工場へ見学に行く予定だ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発見",
+      "reading": "はっけん",
+      "meaning": "隠れていたものや知られていなかったことを見つけ出すこと。",
+      "example": "公園の地面に珍しい石を発見した。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意見",
+      "reading": "いけん",
+      "meaning": "ある物事について、自分がどう考えているかということ。",
+      "example": "クラスの時間に、自分の意見をしっかり発表した。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見本",
+      "reading": "みほん",
+      "meaning": "商品や作品などの、実際のものを示すための例。手本。",
+      "example": "絵の具の色を選ぶために、見本をよく見た。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見事",
+      "reading": "みごと",
+      "meaning": "素晴らしい様子。立派な様子。",
+      "example": "運動会で友達が見事な逆転ゴールを決めた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
