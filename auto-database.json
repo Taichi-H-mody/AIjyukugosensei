@@ -24767,5 +24767,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "王": [
+    {
+      "jukugo": "国王",
+      "reading": "こくおう",
+      "meaning": "国を治める一番えらい人。",
+      "example": "昔の日本には、国王はいませんでした。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女王",
+      "reading": "じょおう",
+      "meaning": "女性の国王。",
+      "example": "イギリスには昔、女王がいました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "王子",
+      "reading": "おうじ",
+      "meaning": "国王のむすこ。",
+      "example": "おとぎ話には、王子様がよく出てきます。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "王女",
+      "reading": "おうじょ",
+      "meaning": "国王のむすめ。",
+      "example": "ディズニーの物語には、美しい王女が登場します。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "王様",
+      "reading": "おうさま",
+      "meaning": "国を治める人。昔話によく出てくる言葉。",
+      "example": "トランプのカードには、王様の絵が描いてあります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
