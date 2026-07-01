@@ -25753,6 +25753,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "耳": [
+    {
+      "jukugo": "耳鼻科",
+      "reading": "じびか",
+      "meaning": "耳や鼻、のどの病気を診てもらうお医者さんのことです。",
+      "example": "風邪をひいて、耳鼻科に連れて行ってもらいました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耳元",
+      "reading": "みみもと",
+      "meaning": "耳のすぐそばや、とても近い場所のことです。",
+      "example": "お母さんが私の耳元で、明日は早く起きるのよ、とささやいた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耳打ち",
+      "reading": "みみうち",
+      "meaning": "相手の耳に口を近づけて、こっそりと小さな声で話すことです。",
+      "example": "先生に聞かれないように、友達が私に今日の宿題を耳打ちしてくれた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初耳",
+      "reading": "はつみみ",
+      "meaning": "今まで知らなかったことや、初めて聞く情報のことです。",
+      "example": "そのお話は初耳だよ。そんなことがあったんだね！",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空耳",
+      "reading": "そらみみ",
+      "meaning": "実際には何も聞こえていないのに、何か音が聞こえたような気がすることです。",
+      "example": "静かな部屋で、誰かが呼んだ気がしたけれど、たぶん空耳だった。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
