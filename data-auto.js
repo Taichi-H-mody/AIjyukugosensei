@@ -23068,70 +23068,6 @@ const autoData = {
       "example": "今日の夜ごはんは、みんなで焼肉を食べよう。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き鳥",
-      "reading": "やきとり",
-      "meaning": "鶏肉などを串にさして焼いた料理のこと。",
-      "example": "お祭りの屋台で、おいしい焼き鳥を買ってもらった。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "日焼け",
-      "reading": "ひやけ",
-      "meaning": "太陽の光を浴びて、肌が黒くなったり赤くなったりすること。",
-      "example": "夏休みに海で遊んだら、腕がまっかに日焼けした。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き芋",
-      "reading": "やきいも",
-      "meaning": "サツマイモを焼いて作った食べ物。",
-      "example": "秋になって寒くなると、温かい焼き芋がおいしいね。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "たこ焼き",
-      "reading": "たこやき",
-      "meaning": "小麦粉の生地にタコなどを入れて丸く焼いた、日本の料理。",
-      "example": "おやつに、あつあつのたこ焼きを家族で作った。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き肉",
-      "reading": "やきにく",
-      "meaning": "肉を焼いて食べること。",
-      "example": "家族で週末に**焼き肉**を食べに行った。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "夕焼け",
-      "reading": "ゆうやけ",
-      "meaning": "夕方、日が沈むときに空が赤く染まる現象。",
-      "example": "窓からとてもきれいな**夕焼け**が見えた。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焼き物",
-      "reading": "やきもの",
-      "meaning": "焼いて作った料理のこと。",
-      "example": "お祭りの屋台で、おいしい**焼き物**を食べた。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "丸焼き",
-      "reading": "まるやき",
-      "meaning": "魚や肉などを、形をそのままにして焼くこと。",
-      "example": "キャンプで釣った魚を**丸焼き**にして食べた。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
     }
   ],
   "率": [
@@ -23468,14 +23404,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "借り手",
-      "reading": "かりて",
-      "meaning": "借りる人。",
-      "example": "図書館では、人気のある本はいつも借り手が多い。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "借地",
       "reading": "しゃくち",
       "meaning": "人から借りている土地。",
@@ -23564,14 +23492,6 @@ const autoData = {
       "reading": "しじ",
       "meaning": "人の意見や行動に賛成して応援すること。",
       "example": "わたしはAさんの意見を支持します。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "支払い",
-      "reading": "しはらい",
-      "meaning": "お金や品物を渡すこと。特に、物の代金などを払うこと。",
-      "example": "お店で買い物をして代金を支払う。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     },
@@ -23788,14 +23708,6 @@ const autoData = {
       "reading": "きまつ",
       "meaning": "学期や期間の終わり。学校では「期末テスト」という言葉で使われます。",
       "example": "期末テストに向けて、毎日一生懸命勉強しました。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "末っ子",
-      "reading": "すえっこ",
-      "meaning": "兄弟姉妹の中で一番年下の子のことです。",
-      "example": "私は三人兄弟の末っ子なので、みんなにかわいがられています。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     },
@@ -24578,30 +24490,6 @@ const autoData = {
       "reading": "そしき",
       "meaning": "たくさんのものが集まって、一つのまとまりを作っていること。会社や学校、体の器官などが、それぞれ役割分担をしてまとまっている様子。",
       "example": "クラスの役割を決めるために、みんなで**組織**を作りました。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "機織り",
-      "reading": "はたおり",
-      "meaning": "糸をたてとよこに組み合わせて、布を作る作業のこと。昔から行われている仕事の一つです。",
-      "example": "昔の人は、**機織り**で着る服の布を作っていました。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "手織り",
-      "reading": "ており",
-      "meaning": "機械を使わず、人の手で一つ一つていねいに織られた布や、その織り方のこと。",
-      "example": "おばあちゃんが**手織り**のマフラーをプレゼントしてくれました。",
-      "addedDate": "2026-06-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "織り目",
-      "reading": "おりめ",
-      "meaning": "布の糸がたてとよこに交わっているところに見える、目のこと。布の模様のように見えることもあります。",
-      "example": "この布は**織り目**が細かくて、とても丈夫です。",
       "addedDate": "2026-06-30",
       "addedBy": "discord-agent"
     }
