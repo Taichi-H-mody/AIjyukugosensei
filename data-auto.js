@@ -26053,6 +26053,40 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "埼": [
+    {
+      "jukugo": "埼玉",
+      "reading": "さいたま",
+      "meaning": "日本の関東地方にある県の名前です。",
+      "example": "私の住んでいる場所は、**埼玉**県です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "埼玉県",
+      "reading": "さいたまけん",
+      "meaning": "日本の関東地方にある県の一つです。",
+      "example": "来週、**埼玉県**へ遠足に行く予定です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "埼京線",
+      "reading": "さいきょうせん",
+      "meaning": "東京都と埼玉県を結ぶ、JRの電車の路線名です。",
+      "example": "おばあちゃんの家に行くには、**埼京線**に乗ります。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "埼玉大学",
+      "reading": "さいたまだいがく",
+      "meaning": "埼玉県さいたま市にある国立の大学です。",
+      "example": "兄は将来、**埼玉大学**で勉強したいと言っています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
