@@ -25417,6 +25417,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "口": [
+    {
+      "jukugo": "入口",
+      "reading": "いりぐち",
+      "meaning": "建物などに入る場所。",
+      "example": "学校の入口には、たくさんの生徒が集まっていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出口",
+      "reading": "でぐち",
+      "meaning": "建物などから出る場所。",
+      "example": "迷路の出口を見つけて、みんなで喜びました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人口",
+      "reading": "じんこう",
+      "meaning": "ある場所に住んでいる人の数。",
+      "example": "この街の人口は、百万人を超えています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "口笛",
+      "reading": "くちぶえ",
+      "meaning": "口をすぼめて出す、ひゅうという音。",
+      "example": "友達が楽しそうに口笛を吹いていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "口癖",
+      "reading": "くちぐせ",
+      "meaning": "いつも無意識に言ってしまう言葉や言い方。",
+      "example": "私の口癖は「がんばるぞ」です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
