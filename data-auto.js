@@ -24811,6 +24811,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "音": [
+    {
+      "jukugo": "音楽",
+      "reading": "おんがく",
+      "meaning": "歌や楽器の演奏など、耳に心地よい音のこと。",
+      "example": "私は音楽を聴くのが大好きです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "足音",
+      "reading": "あしおと",
+      "meaning": "歩くときに出る音。",
+      "example": "静かな廊下に、誰かの足音が響きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "物音",
+      "reading": "ものおと",
+      "meaning": "何かが動いたり、ぶつかったりして出る音。",
+      "example": "夜中に変な物音がして、少し怖かったです。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音読",
+      "reading": "おんどく",
+      "meaning": "声に出して文章を読むこと。",
+      "example": "国語の授業で、みんなで教科書を音読しました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "録音",
+      "reading": "ろくおん",
+      "meaning": "音を機械で記録すること。",
+      "example": "発表会の歌を録音して、家で聞きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
