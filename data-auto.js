@@ -24693,6 +24693,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "雨": [
+    {
+      "jukugo": "雨天",
+      "reading": "うてん",
+      "meaning": "雨が降っている天気のこと。",
+      "example": "雨天のため、運動会は来週に延期になりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨具",
+      "reading": "あまぐ",
+      "meaning": "雨を防ぐために使う道具のこと。（傘やレインコートなど）",
+      "example": "学校に行くときは、忘れずに雨具を持って行きましょう。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大雨",
+      "reading": "おおあめ",
+      "meaning": "たくさん降る強い雨のこと。",
+      "example": "大雨が降って、道路が川のようになりました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小雨",
+      "reading": "こさめ",
+      "meaning": "少しだけ降る弱い雨のこと。",
+      "example": "小雨が降っていたけれど、傘をささずに外で遊んだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨上がり",
+      "reading": "あめあがり",
+      "meaning": "雨が降るのが止んだばかりの時。",
+      "example": "雨上がりの空には、きれいな虹が出ていました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
