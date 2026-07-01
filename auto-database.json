@@ -25331,5 +25331,47 @@
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "犬": [
+    {
+      "jukugo": "犬小屋",
+      "reading": "いぬごや",
+      "meaning": "犬が住むための、小さな家。",
+      "example": "新しい犬小屋を建ててあげたら、うちの犬はとても喜んだ。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "番犬",
+      "reading": "ばんけん",
+      "meaning": "泥棒などが入ってこないように、家や敷地を見張る犬。",
+      "example": "おじいさんの家には、夜中に家を守ってくれる立派な番犬がいる。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "愛犬",
+      "reading": "あいけん",
+      "meaning": "かわいがっている自分の犬。",
+      "example": "毎日、愛犬と近くの公園を散歩するのが私の日課です。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "子犬",
+      "reading": "こいぬ",
+      "meaning": "生まれたばかりの、小さい犬。",
+      "example": "ペットショップで、手のひらに乗るくらい小さな子犬を見つけた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "盲導犬",
+      "reading": "もうどうけん",
+      "meaning": "目の見えない人が安全に歩けるように案内する訓練された犬。",
+      "example": "盲導犬は、目の不自由な人の大切なパートナーとして活躍しています。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 }
