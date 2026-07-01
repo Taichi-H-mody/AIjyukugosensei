@@ -26225,6 +26225,32 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "沖": [
+    {
+      "jukugo": "沖合",
+      "reading": "おきあい",
+      "meaning": "陸から少し離れた海の上の方。",
+      "example": "漁船が沖合へ向かって進んでいく。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "沖釣り",
+      "reading": "おきづり",
+      "meaning": "陸から遠く離れた海の場所で魚を釣ること。",
+      "example": "夏休みに家族と沖釣りに出かけた。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "沖波",
+      "reading": "おきなみ",
+      "meaning": "陸から遠い沖の方で立つ波。",
+      "example": "沖波が高い日は、海が荒れることがある。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
