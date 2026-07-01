@@ -24636,14 +24636,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "一つ",
-      "reading": "ひとつ",
-      "meaning": "ものの数が一であること。",
-      "example": "りんごを一つください。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "一人",
       "reading": "ひとり",
       "meaning": "人の数が一であること。",
@@ -24724,14 +24716,6 @@ const autoData = {
       "reading": "こさめ",
       "meaning": "少しだけ降る弱い雨のこと。",
       "example": "小雨が降っていたけれど、傘をささずに外で遊んだ。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "雨上がり",
-      "reading": "あめあがり",
-      "meaning": "雨が降るのが止んだばかりの時。",
-      "example": "雨上がりの空には、きれいな虹が出ていました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
@@ -24926,14 +24910,6 @@ const autoData = {
       "reading": "かよう",
       "meaning": "一週間の曜日の一つで、月曜日の次、水曜日の前の日。",
       "example": "来週の火曜日は、学校がお休みです。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "焚き火",
-      "reading": "たきび",
-      "meaning": "屋外で、木や葉っぱなどを燃やすこと。",
-      "example": "キャンプでみんなで焚き火を囲んで歌を歌いました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
@@ -25158,22 +25134,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "夏休み",
-      "reading": "なつやすみ",
-      "meaning": "夏にある、学校の長い休み。",
-      "example": "夏休みには家族と海へ行く予定だ。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "冬休み",
-      "reading": "ふゆやすみ",
-      "meaning": "冬にある、学校の長い休み。",
-      "example": "冬休みにはお年玉をもらってお正月を祝った。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "連休",
       "reading": "れんきゅう",
       "meaning": "休みの日が何日か続けてあること。",
@@ -25183,14 +25143,6 @@ const autoData = {
     }
   ],
   "玉": [
-    {
-      "jukugo": "玉ねぎ",
-      "reading": "たまねぎ",
-      "meaning": "丸い形をした野菜の一つで、料理によく使われます。切ると涙が出ることがあります。",
-      "example": "カレーライスを作るために、お母さんが大きな玉ねぎを切ってくれました。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "水玉",
       "reading": "みずたま",
@@ -25260,14 +25212,6 @@ const autoData = {
   ],
   "空": [
     {
-      "jukugo": "空き地",
-      "reading": "あきち",
-      "meaning": "建物などがなく、何も建っていない土地。",
-      "example": "公園の隣の広い空き地で、友達と鬼ごっこをした。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "空気",
       "reading": "くうき",
       "meaning": "地球を包んでいる、目に見えない気体。息をするときに吸うもの。",
@@ -25280,14 +25224,6 @@ const autoData = {
       "reading": "からて",
       "meaning": "日本の武道の一つで、武器を使わず、手足を使って身を守る技。",
       "example": "兄は空手を習っていて、黒帯を持っている。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "空っぽ",
-      "reading": "からっぽ",
-      "meaning": "中に何も入っていないこと。",
-      "example": "お菓子の箱を開けたら、もう空っぽだった。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     },
@@ -25772,14 +25708,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "耳打ち",
-      "reading": "みみうち",
-      "meaning": "相手の耳に口を近づけて、こっそりと小さな声で話すことです。",
-      "example": "先生に聞かれないように、友達が私に今日の宿題を耳打ちしてくれた。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "初耳",
       "reading": "はつみみ",
       "meaning": "今まで知らなかったことや、初めて聞く情報のことです。",
@@ -26152,22 +26080,6 @@ const autoData = {
   ],
   "縄": [
     {
-      "jukugo": "縄跳び",
-      "reading": "なわとび",
-      "meaning": "縄を使って跳ぶ運動や遊びのことです。",
-      "example": "体育の時間に、みんなでグラウンドで**縄跳び**をしました。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "縄張り",
-      "reading": "なわばり",
-      "meaning": "動物が自分の場所と決めている範囲や、子どもたちが遊び場にしている場所のことです。",
-      "example": "公園の裏山は、ぼくたちの秘密基地がある**縄張り**だ。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "縄文",
       "reading": "じょうもん",
       "meaning": "とても昔の日本の時代のことです。縄のような模様がついた土器（焼き物）が特徴です。",
@@ -26236,14 +26148,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "沖釣り",
-      "reading": "おきづり",
-      "meaning": "陸から遠く離れた海の場所で魚を釣ること。",
-      "example": "夏休みに家族と沖釣りに出かけた。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "沖波",
       "reading": "おきなみ",
       "meaning": "陸から遠い沖の方で立つ波。",
@@ -26258,22 +26162,6 @@ const autoData = {
       "reading": "とちぎけん",
       "meaning": "日本の関東地方にある県の一つです。日光東照宮や那須高原などが有名です。",
       "example": "今年の夏休みは、家族で**栃木県**に旅行に行く予定です。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "栃の木",
-      "reading": "とちのき",
-      "meaning": "大きな葉っぱと、白い花が咲く、日本の山などに生えている木です。秋には実がなります。",
-      "example": "学校の校庭には、背の高い**栃の木**が立っています。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "栃の実",
-      "reading": "とちのみ",
-      "meaning": "栃の木になる実のことです。昔からお餅などに混ぜて食べられています。",
-      "example": "秋になると、地面にたくさんの**栃の実**が落ちています。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     },
@@ -26324,16 +26212,6 @@ const autoData = {
       "reading": "ならづけ",
       "meaning": "ウリやキュウリなどの野菜を酒粕に漬けて作る、奈良地方で有名なお漬物です。",
       "example": "おばあちゃんが作った**奈良漬**は、ご飯によく合います。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    }
-  ],
-  "梨": [
-    {
-      "jukugo": "梨狩り",
-      "reading": "なしがり",
-      "meaning": "梨園などで、熟した梨を自分で摘み取る遊びや行事。",
-      "example": "秋には家族みんなで梨狩りに行って、おいしい梨をたくさん食べました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
@@ -26644,14 +26522,6 @@ const autoData = {
   ],
   "女": [
     {
-      "jukugo": "女の子",
-      "reading": "おんなのこ",
-      "meaning": "子どもの女の人。女児。",
-      "example": "公園で、元気な女の子たちが遊んでいる。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "女子",
       "reading": "じょし",
       "meaning": "女の人。特に、学生や子どもの女の人を指すことが多い。",
@@ -26774,6 +26644,40 @@ const autoData = {
       "reading": "しんしん",
       "meaning": "木々が深く、たくさん生い茂っている様子。また、静かで奥深い様子。",
       "example": "木々が森々としている中を歩くと、とても静かで心が落ち着きました。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "梨": [
+    {
+      "jukugo": "梨狩り",
+      "reading": "なしがり",
+      "meaning": "梨の木になっている実を、自分で取って食べる行事。",
+      "example": "秋になったら、家族で梨狩りに行きたいな。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "梨の実",
+      "reading": "なしのみ",
+      "meaning": "梨の木になる、甘くておいしい果物。",
+      "example": "木になっている梨の実は、つやつやしていてとても大きい。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洋梨",
+      "reading": "ようなし",
+      "meaning": "ヨーロッパなどで作られる梨の一種で、日本でよく見る梨とは形や味が少し違う。",
+      "example": "洋梨は、日本の梨と形がちがうね。",
+      "addedDate": "2026-07-01",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和梨",
+      "reading": "わなし",
+      "meaning": "日本で昔から作られている梨のこと。シャリシャリした食感が特徴。",
+      "example": "私たちが普段よく食べるのは、甘くてみずみずしい和梨だよ。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
