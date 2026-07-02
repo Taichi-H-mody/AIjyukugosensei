@@ -27009,6 +27009,48 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "昔": [
+    {
+      "jukugo": "昔話",
+      "reading": "むかしばなし",
+      "meaning": "昔から語り伝えられている話。おとぎ話など。",
+      "example": "おばあちゃんが、楽しい昔話をしてくれました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔風",
+      "reading": "むかしふう",
+      "meaning": "昔のやり方や流行と同じような様子。",
+      "example": "このお店は、昔風の建物で、とてもおしゃれだね。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔ながら",
+      "reading": "むかしながら",
+      "meaning": "昔から変わらないで続いている様子。",
+      "example": "お祭りの屋台には、昔ながらの飴細工があったよ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔々",
+      "reading": "むかしむかし",
+      "meaning": "とても遠い昔をさす言葉。物語の初めに使われることが多い。",
+      "example": "昔々、あるところにおじいさんとおばあさんがいました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔馴染み",
+      "reading": "むかしなじみ",
+      "meaning": "昔からの知り合いや友達。",
+      "example": "公園で、久しぶりに昔馴染みに会って、一緒に遊んだ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
