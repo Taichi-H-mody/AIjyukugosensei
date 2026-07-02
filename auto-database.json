@@ -26755,5 +26755,47 @@
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "自": [
+    {
+      "jukugo": "自分",
+      "reading": "じぶん",
+      "meaning": "わたし自身。おのれ。",
+      "example": "自分でできることは、自分でやりましょう。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自由",
+      "reading": "じゆう",
+      "meaning": "したいことを思うままにできること。",
+      "example": "夏休みは、自由な時間をたくさん使って遊びたいな。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自動",
+      "reading": "じどう",
+      "meaning": "自分で動くこと。機械がひとりでに動くこと。",
+      "example": "このドアは自動で開くから、手をかかげれば大丈夫だよ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自然",
+      "reading": "しぜん",
+      "meaning": "人の手が加わっていない、山や川などのありのままの様子。",
+      "example": "公園の池には、きれいな自然がいっぱいだね。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自主",
+      "reading": "じしゅ",
+      "meaning": "ほかの人に言われなくても、自分から進んで物事をすること。",
+      "example": "休み時間には、自主学習に取り組む子もいるよ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 }
