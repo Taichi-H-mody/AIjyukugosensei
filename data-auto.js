@@ -27219,6 +27219,90 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "局": [
+    {
+      "jukugo": "郵便局",
+      "reading": "ゆうびんきょく",
+      "meaning": "手紙や荷物を送ったり受け取ったりする場所。",
+      "example": "お手紙を出しに、お母さんと一緒に郵便局へ行きました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薬局",
+      "reading": "やっきょく",
+      "meaning": "病気のときに飲む薬を売っているお店。",
+      "example": "熱が出たので、お父さんが薬局で薬を買ってきてくれました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放送局",
+      "reading": "ほうそうきょく",
+      "meaning": "ラジオやテレビの番組を作って、電波で送るところ。",
+      "example": "将来は、放送局でニュースを作る人になりたいです。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "テレビ局",
+      "reading": "テレビきょく",
+      "meaning": "テレビ番組を作って、みんなの家へ届けるところ。",
+      "example": "テレビ局のスタジオ見学で、たくさんの機材を見ました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結局",
+      "reading": "けっきょく",
+      "meaning": "色々なことがあったけれど、最後はこうなった、という意味。",
+      "example": "雨が降っていたけれど、結局、遠足に行けてよかったです。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "速": [
+    {
+      "jukugo": "速度",
+      "reading": "そくど",
+      "meaning": "ものがどれくらいの速さで動くかを表すこと。",
+      "example": "自転車の**速度**を上げたら、風が気持ちよかった。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早速",
+      "reading": "さっそく",
+      "meaning": "すぐに、遅れずに物事を始めること。",
+      "example": "おやつを出すと、弟は**早速**食べ始めた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高速",
+      "reading": "こうそく",
+      "meaning": "とても速いこと。また、その速さ。",
+      "example": "**高速**で走る新幹線は、あっという間に遠くへ着く。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快速",
+      "reading": "かいそく",
+      "meaning": "普通の電車より停車駅が少なく、速く走る電車。",
+      "example": "**快速**電車に乗れば、学校まで早く着くよ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "加速",
+      "reading": "かそく",
+      "meaning": "物の速さがしだいに速くなること。",
+      "example": "ロケットは、大きな音を立ててどんどん**加速**していった。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
