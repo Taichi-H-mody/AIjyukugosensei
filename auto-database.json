@@ -27091,5 +27091,47 @@
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "族": [
+    {
+      "jukugo": "家族",
+      "reading": "かぞく",
+      "meaning": "親や子、兄弟姉妹など、いっしょに暮らす人たちのこと。",
+      "example": "私の家族は、お父さん、お母さん、妹と私の四人です。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "民族",
+      "reading": "みんぞく",
+      "meaning": "言葉や文化、歴史などを共有する人たちの集まり。",
+      "example": "世界には、さまざまな民族がそれぞれの文化を持っています。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親族",
+      "reading": "しんぞく",
+      "meaning": "血のつながりのある親戚の人たちのこと。家族よりも広い範囲を指します。",
+      "example": "お正月には、遠くに住んでいる親族が集まって、お祝いをしました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一族",
+      "reading": "いちぞく",
+      "meaning": "血のつながりがある家族や親戚全体のこと。",
+      "example": "その村では、古くから同じ一族が助け合って暮らしています。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部族",
+      "reading": "ぶぞく",
+      "meaning": "同じ生活様式や文化を持つ人たちの集団。",
+      "example": "その森の奥には、自然とともに生きる部族が住んでいると聞きました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 }
