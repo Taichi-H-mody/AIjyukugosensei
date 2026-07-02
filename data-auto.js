@@ -26883,6 +26883,48 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "原": [
+    {
+      "jukugo": "原っぱ",
+      "reading": "はらっぱ",
+      "meaning": "草が生い茂った広い土地。野原。",
+      "example": "公園の広い原っぱで友達と遊んだ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "草原",
+      "reading": "そうげん",
+      "meaning": "たくさんの草が生えている広い土地。",
+      "example": "見わたす限りの草原に羊たちがいた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高原",
+      "reading": "こうげん",
+      "meaning": "標高が高くて平らな土地。夏でも涼しいことが多い。",
+      "example": "夏休みに家族と涼しい高原へ遊びに行った。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野原",
+      "reading": "のはら",
+      "meaning": "草や木が生えている、人の手が加わっていない広い土地。",
+      "example": "ちょうちょがきれいな花が咲く野原を飛んでいた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "原因",
+      "reading": "げんいん",
+      "meaning": "ある物事や結果が起こるもとになったこと。",
+      "example": "どうして失敗したのか、原因を調べてみよう。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
