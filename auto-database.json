@@ -26965,5 +26965,89 @@
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "組": [
+    {
+      "jukugo": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "テレビやラジオなどで放送される内容のこと。",
+      "example": "毎週日曜日の朝に、好きなアニメ**番組**を見ている。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み体操",
+      "reading": "くみたいそう",
+      "meaning": "何人かの人が協力して、体を使ってさまざまな形を作る体操。",
+      "example": "運動会では、みんなで力を合わせて**組み体操**に挑戦した。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み合わせ",
+      "reading": "くみあわせ",
+      "meaning": "いくつかのものを一緒にすること。また、その結果できたもの。",
+      "example": "今日の服の**組み合わせ**は、とても気に入っている。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み立て",
+      "reading": "くみたて",
+      "meaning": "ばらばらの部品などをつなぎ合わせて、一つのものを作ること。",
+      "example": "プラモデルの**組み立て**には、説明書が大切だ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み分け",
+      "reading": "くみわけ",
+      "meaning": "クラスやグループなどを分けること。",
+      "example": "体育の時間に、先生がチームの**組み分け**をした。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "昔": [
+    {
+      "jukugo": "昔話",
+      "reading": "むかしばなし",
+      "meaning": "昔から語り伝えられている話。おとぎ話など。",
+      "example": "おばあちゃんが、楽しい昔話をしてくれました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔風",
+      "reading": "むかしふう",
+      "meaning": "昔のやり方や流行と同じような様子。",
+      "example": "このお店は、昔風の建物で、とてもおしゃれだね。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔ながら",
+      "reading": "むかしながら",
+      "meaning": "昔から変わらないで続いている様子。",
+      "example": "お祭りの屋台には、昔ながらの飴細工があったよ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔々",
+      "reading": "むかしむかし",
+      "meaning": "とても遠い昔をさす言葉。物語の初めに使われることが多い。",
+      "example": "昔々、あるところにおじいさんとおばあさんがいました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔馴染み",
+      "reading": "むかしなじみ",
+      "meaning": "昔からの知り合いや友達。",
+      "example": "公園で、久しぶりに昔馴染みに会って、一緒に遊んだ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 }
