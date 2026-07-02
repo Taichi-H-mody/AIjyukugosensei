@@ -27135,6 +27135,90 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "湯": [
+    {
+      "jukugo": "湯気",
+      "reading": "ゆげ",
+      "meaning": "熱い湯などから立ち上る、水蒸気の白いかたまり。",
+      "example": "お風呂のふたを開けたら、もくもくと湯気が出た。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熱湯",
+      "reading": "ねっとう",
+      "meaning": "とても熱いお湯。",
+      "example": "カップラーメンには熱湯をそそいで作ります。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湯船",
+      "reading": "ゆぶね",
+      "meaning": "お風呂のお湯をためておく大きな入れ物。また、その中のお湯。",
+      "example": "広い湯船につかって、体がポカポカになった。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湯加減",
+      "reading": "ゆかげん",
+      "meaning": "お風呂などのお湯の温度がちょうどよいかどうか。",
+      "example": "お母さんが「お風呂の湯加減はどう？」と聞いてくれた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湯飲み",
+      "reading": "ゆのみ",
+      "meaning": "お茶などを飲むための、取っ手のないコップ。",
+      "example": "おばあちゃんが、きれいな湯飲みでお茶を出してくれた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "親": [
+    {
+      "jukugo": "両親",
+      "reading": "りょうしん",
+      "meaning": "お父さんとお母さんのこと。",
+      "example": "ぼくの両親は、いつもぼくを応援してくれる。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親子",
+      "reading": "おやこ",
+      "meaning": "親と子どものこと。",
+      "example": "公園で、ペンギンの親子が楽しそうに歩いていた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親友",
+      "reading": "しんゆう",
+      "meaning": "とても仲の良い友達。",
+      "example": "ぼくの親友と、今日一緒に遊ぶ約束をした。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親切",
+      "reading": "しんせつ",
+      "meaning": "人に優しく、思いやりのあること。",
+      "example": "困っている人に、親切に道を教えてあげた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親指",
+      "reading": "おやゆび",
+      "meaning": "手の指の一番太い指。",
+      "example": "意見に賛成するとき、親指を立てて合図した。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
