@@ -26923,5 +26923,47 @@
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "農": [
+    {
+      "jukugo": "農家",
+      "reading": "のうか",
+      "meaning": "農業を仕事にしている家や人のこと。",
+      "example": "おじいちゃんの家は、野菜を作る農家です。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農業",
+      "reading": "のうぎょう",
+      "meaning": "田んぼでお米を作ったり、畑で野菜や果物を育てたりする仕事。",
+      "example": "日本の農業は、おいしい食べ物を作っています。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農場",
+      "reading": "のうじょう",
+      "meaning": "農業をするための広い土地のこと。",
+      "example": "大きな農場で、たくさんのキャベツが育っていました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農作物",
+      "reading": "のうさくぶつ",
+      "meaning": "農業によって作られる、お米や野菜、果物などの食べ物。",
+      "example": "秋には、いろいろな農作物が収穫されます。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農産物",
+      "reading": "のうさんぶつ",
+      "meaning": "農業で作られたものの総称。お米や野菜、果物などのこと。",
+      "example": "道の駅では、地元の新鮮な農産物が売られています。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 }
