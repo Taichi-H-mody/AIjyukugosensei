@@ -26799,6 +26799,90 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "県": [
+    {
+      "jukugo": "県庁",
+      "reading": "けんちょう",
+      "meaning": "県（けん）の仕事をする役所（やくしょ）のことです。知事（ちじ）さんがいて、県のまちづくりや生活（せいかつ）について色々なことを決（き）めます。",
+      "example": "私の住んでいる県の県庁は、大きな建物です。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "県立",
+      "reading": "けんりつ",
+      "meaning": "県がつくったり、県がお金を出して運営（うんえい）したりしている学校（がっこう）や病院（びょういん）、公園（こうえん）などのことです。",
+      "example": "あの広い公園は県立で、たくさんの人が遊びに来ます。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "県境",
+      "reading": "けんざかい",
+      "meaning": "県と県が接（せっ）する、さかい目のことです。地図（ちず）を見ると、線（せん）で区切（くぎ）られています。",
+      "example": "この山を越えると、すぐに隣（となり）の県境です。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "県民",
+      "reading": "けんみん",
+      "meaning": "その県に住（す）んでいる人たちのことです。みんなで県のことを考え、生活しています。",
+      "example": "このお祭りは、県民みんなで楽しみにしています。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "都道府県",
+      "reading": "とどうふけん",
+      "meaning": "日本全国（ぜんこく）を分けた、東京「都」、北海道「道」、大阪「府」、京都「府」、そして残（のこ）りの43「県」という大きな地域（ちいき）のことです。",
+      "example": "日本にはたくさんの都道府県があります。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "童": [
+    {
+      "jukugo": "童話",
+      "reading": "どうわ",
+      "meaning": "子ども向けの物語。おとぎ話など。",
+      "example": "寝る前に、お母さんが楽しい童話を読んでくれた。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "童謡",
+      "reading": "どうよう",
+      "meaning": "子どもたちのために作られた歌。わらべうたなど。",
+      "example": "幼稚園の発表会で、みんなで大きな声で童謡を歌った。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "児童",
+      "reading": "じどう",
+      "meaning": "小学校に通う年齢の子ども。",
+      "example": "図書館には、児童向けの絵本がたくさん置いてある。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学童",
+      "reading": "がくどう",
+      "meaning": "小学校に通っている子ども。児童と同じような意味で使われる。",
+      "example": "放課後、学童クラブにたくさんの学童が集まって遊んだ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "童心",
+      "reading": "どうしん",
+      "meaning": "子どもが持っているような、純粋で素直な気持ち。",
+      "example": "大人になっても、童心を忘れないようにしたい。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
