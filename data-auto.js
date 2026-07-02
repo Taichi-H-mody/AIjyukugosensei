@@ -26715,6 +26715,48 @@ const autoData = {
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
     }
+  ],
+  "答": [
+    {
+      "jukugo": "解答",
+      "reading": "かいとう",
+      "meaning": "問題やクイズの答え。",
+      "example": "テストの解答用紙に、えんぴつで答えを書きました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返答",
+      "reading": "へんとう",
+      "meaning": "質問や呼びかけに対して、返事をすること。",
+      "example": "先生の質問に、大きな声で返答しました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "問答",
+      "reading": "もんどう",
+      "meaning": "質問と答えのやりとり。",
+      "example": "先生と生徒が、活発に問答をしていました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正答",
+      "reading": "せいとう",
+      "meaning": "正しい答え。",
+      "example": "算数のむずかしい問題で、やっと正答を出すことができました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "口答",
+      "reading": "こうとう",
+      "meaning": "口で答えること。または、口頭で発表すること。",
+      "example": "今日の宿題は、みんなの前で口答で発表します。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
