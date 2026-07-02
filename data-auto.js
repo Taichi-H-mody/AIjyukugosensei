@@ -26967,6 +26967,48 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "組": [
+    {
+      "jukugo": "番組",
+      "reading": "ばんぐみ",
+      "meaning": "テレビやラジオなどで放送される内容のこと。",
+      "example": "毎週日曜日の朝に、好きなアニメ**番組**を見ている。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み体操",
+      "reading": "くみたいそう",
+      "meaning": "何人かの人が協力して、体を使ってさまざまな形を作る体操。",
+      "example": "運動会では、みんなで力を合わせて**組み体操**に挑戦した。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み合わせ",
+      "reading": "くみあわせ",
+      "meaning": "いくつかのものを一緒にすること。また、その結果できたもの。",
+      "example": "今日の服の**組み合わせ**は、とても気に入っている。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み立て",
+      "reading": "くみたて",
+      "meaning": "ばらばらの部品などをつなぎ合わせて、一つのものを作ること。",
+      "example": "プラモデルの**組み立て**には、説明書が大切だ。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "組み分け",
+      "reading": "くみわけ",
+      "meaning": "クラスやグループなどを分けること。",
+      "example": "体育の時間に、先生がチームの**組み分け**をした。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
