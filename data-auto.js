@@ -27051,6 +27051,48 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "対": [
+    {
+      "jukugo": "反対",
+      "reading": "はんたい",
+      "meaning": "ある意見や物事と、まるっきり違うこと。逆のこと。",
+      "example": "私の意見に反対する人がいます。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対話",
+      "reading": "たいわ",
+      "meaning": "向かい合って話をすること。",
+      "example": "友達と対話をして、けんかをやめました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対戦",
+      "reading": "たいせん",
+      "meaning": "試合などで相手と戦うこと。",
+      "example": "次のサッカーの試合で強いチームと対戦します。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一対",
+      "reading": "いっつい",
+      "meaning": "二つのものがセットになって、一組になっていること。",
+      "example": "玄関に大きな花瓶が一対置いてあります。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対応",
+      "reading": "たいおう",
+      "meaning": "相手や物事の様子に合わせて行動すること。",
+      "example": "先生は私たちの質問に一つ一つていねいに対応してくれました。",
+      "addedDate": "2026-07-02",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
