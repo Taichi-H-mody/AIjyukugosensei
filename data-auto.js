@@ -27743,6 +27743,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "屋": [
+    {
+      "jukugo": "屋上",
+      "reading": "おくじょう",
+      "meaning": "建物のいちばん上の平らな場所。",
+      "example": "晴れた日は、屋上でお弁当を食べよう。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本屋",
+      "reading": "ほんや",
+      "meaning": "本を売っているお店。",
+      "example": "新しい絵本を買いに、お母さんと本屋に行った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八百屋",
+      "reading": "やおや",
+      "meaning": "野菜や果物を売っているお店。",
+      "example": "晩ご飯の材料を買いに、八百屋に寄った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "魚屋",
+      "reading": "さかなや",
+      "meaning": "魚を売っているお店。",
+      "example": "新鮮な魚が食べたかったので、魚屋でおすすめを聞いた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部屋",
+      "reading": "へや",
+      "meaning": "家の中を仕切った一つの空間。",
+      "example": "自分の部屋は、いつもきれいに片づけている。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
