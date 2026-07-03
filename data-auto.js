@@ -27701,6 +27701,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "雪": [
+    {
+      "jukugo": "雪だるま",
+      "reading": "ゆきだるま",
+      "meaning": "雪を丸めて作った人形。",
+      "example": "みんなで力を合わせて、大きな雪だるまを作った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪国",
+      "reading": "ゆきぐに",
+      "meaning": "冬に雪がたくさん降る地方。",
+      "example": "日本の北の方には、冬になると雪がたくさん降る雪国がある。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪山",
+      "reading": "ゆきやま",
+      "meaning": "雪が積もっている山。",
+      "example": "冬休みには、家族で雪山へスキーに行った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大雪",
+      "reading": "おおゆき",
+      "meaning": "とてもたくさんの雪が降ること。また、その雪。",
+      "example": "昨日は大雪で、学校が休みになった。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初雪",
+      "reading": "はつゆき",
+      "meaning": "その冬、初めて降る雪。",
+      "example": "今朝、窓の外を見ると、今年初めての初雪が舞っていた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
