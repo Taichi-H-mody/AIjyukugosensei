@@ -27491,6 +27491,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "研": [
+    {
+      "jukugo": "研究",
+      "reading": "けんきゅう",
+      "meaning": "物事を詳しく調べて、その内容や仕組みを明らかにすること。",
+      "example": "夏休みの自由研究で、セミの鳴き声を詳しく研究しました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "研修",
+      "reading": "けんしゅう",
+      "meaning": "何かを学ぶために、特別に授業や訓練を受けること。",
+      "example": "新しい先生は、子どもたちに楽しく教える方法を研修で学びました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "研磨",
+      "reading": "けんま",
+      "meaning": "物をみがいて、つるつるにしたり、美しい形に整えたりすること。",
+      "example": "職人さんが宝石を研磨して、キラキラと輝かせました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "研究室",
+      "reading": "けんきゅうしつ",
+      "meaning": "大学などで、先生や学生が研究をするための部屋。",
+      "example": "大学の先生は、研究室で新しい発明について調べています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "研学",
+      "reading": "けんがく",
+      "meaning": "学問や勉強を深く学び続けること。",
+      "example": "昔の偉い人たちは、毎日こつこつと研学して、たくさんのことを学びました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
