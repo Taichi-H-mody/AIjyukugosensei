@@ -27783,5 +27783,47 @@
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "追": [
+    {
+      "jukugo": "追加",
+      "reading": "ついか",
+      "meaning": "すでにあるものに、さらに加えること。",
+      "example": "お弁当のおかずが少なかったので、唐揚げを追加してもらった。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追突",
+      "reading": "ついとつ",
+      "meaning": "後ろからぶつかること。",
+      "example": "バスが急に止まったので、後ろの車が追突してしまった。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追試",
+      "reading": "ついし",
+      "meaning": "本番のテストで合格できなかった人が、後日もう一度受けるテストのこと。",
+      "example": "前回の漢字テストで合格点に届かなかったので、来週追試がある。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追跡",
+      "reading": "ついせき",
+      "meaning": "逃げるものなどを追いかけること。",
+      "example": "警察官が犯人の車を追跡して、追いかけた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追放",
+      "reading": "ついほう",
+      "meaning": "その場所や仲間から追い出すこと。",
+      "example": "ルールを破った選手は、試合から追放された。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 }
