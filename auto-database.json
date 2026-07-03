@@ -27657,5 +27657,89 @@
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "期": [
+    {
+      "jukugo": "学期",
+      "reading": "がっき",
+      "meaning": "学校で勉強する期間を区切ったもの。一年を三つや二つに分けることが多い。",
+      "example": "二学期が始まったばかりで、学校に行くのが楽しみです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期間",
+      "reading": "きかん",
+      "meaning": "ある始まりから終わりまでの間。",
+      "example": "夏休みの期間は、毎日公園で遊びました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期日",
+      "reading": "きじつ",
+      "meaning": "物事をしたり、約束をしたりする、決まった日。",
+      "example": "図書館の本を返す期日は明日までです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期待",
+      "reading": "きたい",
+      "meaning": "そうなってほしいと願って待つこと。楽しみに思うこと。",
+      "example": "明日の遠足が楽しみで、とても期待しています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時期",
+      "reading": "じき",
+      "meaning": "ある物事が起こったり行われたりするのにちょうどよい時。",
+      "example": "さくらが咲く時期は、いつも心がわくわくします。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "雪": [
+    {
+      "jukugo": "雪だるま",
+      "reading": "ゆきだるま",
+      "meaning": "雪を丸めて作った人形。",
+      "example": "みんなで力を合わせて、大きな雪だるまを作った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪国",
+      "reading": "ゆきぐに",
+      "meaning": "冬に雪がたくさん降る地方。",
+      "example": "日本の北の方には、冬になると雪がたくさん降る雪国がある。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪山",
+      "reading": "ゆきやま",
+      "meaning": "雪が積もっている山。",
+      "example": "冬休みには、家族で雪山へスキーに行った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大雪",
+      "reading": "おおゆき",
+      "meaning": "とてもたくさんの雪が降ること。また、その雪。",
+      "example": "昨日は大雪で、学校が休みになった。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初雪",
+      "reading": "はつゆき",
+      "meaning": "その冬、初めて降る雪。",
+      "example": "今朝、窓の外を見ると、今年初めての初雪が舞っていた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 }
