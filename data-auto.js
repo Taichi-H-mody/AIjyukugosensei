@@ -27281,6 +27281,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "港": [
+    {
+      "jukugo": "港町",
+      "reading": "みなとまち",
+      "meaning": "海や湖に面していて、船がとまる場所（港）を中心に栄えている町。",
+      "example": "この港町には、新鮮な魚がとれる市場があります。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空港",
+      "reading": "くうこう",
+      "meaning": "飛行機が人や荷物を乗せたり降ろしたりするため、飛び立ったり着陸したりする場所。",
+      "example": "旅行に行くとき、家族と空港へ行きました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁港",
+      "reading": "ぎょこう",
+      "meaning": "魚をとるための船がとまる港。とれた魚をあげたり、船を修理したりする場所。",
+      "example": "朝早く、漁港にはたくさんの魚が水揚げされます。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入港",
+      "reading": "にゅうこう",
+      "meaning": "船が港に入ってくること。",
+      "example": "大きな船が、ゆっくりと港に入港しました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出港",
+      "reading": "しゅっこう",
+      "meaning": "船が港から出発すること。",
+      "example": "観光船が、たくさんの人を乗せて元気に出港しました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
