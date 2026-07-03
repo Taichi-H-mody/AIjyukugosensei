@@ -27575,6 +27575,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "員": [
+    {
+      "jukugo": "全員",
+      "reading": "ぜんいん",
+      "meaning": "その場にいる人、またはその集団のすべての人。",
+      "example": "クラスの全員で、遠足に行きました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会員",
+      "reading": "かいいん",
+      "meaning": "ある集まりや組織のメンバー。",
+      "example": "図書館の会員になって、本を借りたよ。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "店員",
+      "reading": "てんいん",
+      "meaning": "お店で働いている人。",
+      "example": "スーパーの店員さんが、商品をきれいに並べていた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅員",
+      "reading": "えきいん",
+      "meaning": "駅で働いている人。",
+      "example": "電車の乗り方を駅員さんに教えてもらった。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "委員",
+      "reading": "いいん",
+      "meaning": "学校やクラスなどで、決められた役目をする人。",
+      "example": "私は、給食委員になりました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
