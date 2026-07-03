@@ -27617,6 +27617,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "矢": [
+    {
+      "jukugo": "矢印",
+      "reading": "やじるし",
+      "meaning": "方向や位置を示すために使う記号。矢の形をしている。",
+      "example": "地図に書いてある矢印の方向に進んでください。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弓矢",
+      "reading": "ゆみや",
+      "meaning": "弓と矢のこと。昔は武器として使われた。",
+      "example": "神社で弓矢の絵馬を見つけました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "矢先",
+      "reading": "やさき",
+      "meaning": "矢の先端。また、物事が起こる直前や、何かをしようとしたその時。",
+      "example": "宿題を始めようとした矢先に、お母さんに呼ばれた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "矢羽根",
+      "reading": "やばね",
+      "meaning": "矢の末端についている羽根。矢がまっすぐ飛ぶように安定させる役割がある。",
+      "example": "この矢は、美しい鳥の矢羽根がついています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一矢",
+      "reading": "いっし",
+      "meaning": "一本の矢。転じて、相手に反撃するわずかな手段や言葉。",
+      "example": "試合で負けそうだったけれど、最後の一矢を報いて点を取った。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
