@@ -27533,6 +27533,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "汽": [
+    {
+      "jukugo": "汽船",
+      "reading": "きせん",
+      "meaning": "蒸気機関を動力とする船。昔は、石炭を燃やした蒸気の力で動いていました。",
+      "example": "昔の大きな汽船が、港に停まっていました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "汽車",
+      "reading": "きしゃ",
+      "meaning": "石炭を燃やして蒸気を作り、その力で動く鉄道の乗り物。SL（エスエル）とも呼ばれます。",
+      "example": "汽車の汽笛が、「ポーッ」と遠くまで響きました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "汽笛",
+      "reading": "きてき",
+      "meaning": "汽船や汽車が鳴らす、遠くまで聞こえる大きな音のことです。",
+      "example": "船が港を出るとき、大きな汽笛を鳴らしました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "汽水域",
+      "reading": "きすいいき",
+      "meaning": "川の水（淡水）と海水が混ざり合う場所のことです。しじみ貝などが住んでいます。",
+      "example": "川の河口は、汽水域になっています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "汽艇",
+      "reading": "きてい",
+      "meaning": "小型の汽船や、モーターで動く小さな船のことです。",
+      "example": "湖の上を、小さな汽艇がすいすいと進んでいきました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
