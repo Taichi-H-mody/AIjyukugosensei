@@ -27449,6 +27449,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "作": [
+    {
+      "jukugo": "作文",
+      "reading": "さくぶん",
+      "meaning": "自分の考えや出来事を文章に書くこと。また、その書いた文章。",
+      "example": "先生に言われた通り、今日の出来事を作文に書きました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作品",
+      "reading": "さくひん",
+      "meaning": "絵や彫刻、物語など、人が工夫して作ったもの。",
+      "example": "図工の時間に作った絵が、みんなの作品のなかで一番よかったです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作者",
+      "reading": "さくしゃ",
+      "meaning": "作品を作った人。",
+      "example": "この絵の作者は、私の好きな画家です。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工作",
+      "reading": "こうさく",
+      "meaning": "紙や木、粘土などを使って物を作ること。",
+      "example": "夏休みの宿題で、牛乳パックを使って工作をしました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "動作",
+      "reading": "どうさ",
+      "meaning": "体を動かすこと。体の動き。",
+      "example": "ロボットは、正確な動作で物を持ち上げました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
