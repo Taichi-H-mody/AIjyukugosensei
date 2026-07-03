@@ -27239,6 +27239,48 @@ const autoData = {
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     }
+  ],
+  "東": [
+    {
+      "jukugo": "東京",
+      "reading": "とうきょう",
+      "meaning": "日本の首都で、多くの人が住む大きな都市です。",
+      "example": "東京タワーは東京の有名な建物です。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東口",
+      "reading": "ひがしぐち",
+      "meaning": "駅や建物の東側にある出入り口のことです。",
+      "example": "駅の東口で友達と待ち合わせをしました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東西",
+      "reading": "とうざい",
+      "meaning": "東と西の二つの方向をまとめて言う言葉です。",
+      "example": "地図で東西の方向を確認しました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東日本",
+      "reading": "ひがしにほん",
+      "meaning": "日本の国土を大きく分けたときに、東側の部分を指します。",
+      "example": "東日本にはたくさんの山があります。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "関東",
+      "reading": "かんとう",
+      "meaning": "日本の地域の一つで、東京都や神奈川県などが含まれる地方です。",
+      "example": "関東地方には大きな川が流れています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
