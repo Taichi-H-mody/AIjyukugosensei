@@ -27323,6 +27323,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "細": [
+    {
+      "jukugo": "細道",
+      "reading": "ほそみち",
+      "meaning": "狭くて細い道。",
+      "example": "小さな畑の横に、細道が続いていた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "細字",
+      "reading": "ほそじ",
+      "meaning": "細く書かれた文字。",
+      "example": "手紙の小さな欄に、細字で住所を書いた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "細工",
+      "reading": "さいく",
+      "meaning": "木や紙などを細かく加工して作ること。また、そのもの。",
+      "example": "夏休みの工作で、竹ひごを使った細かい細工に挑戦した。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "細部",
+      "reading": "さいぶ",
+      "meaning": "全体の中の細かい部分。",
+      "example": "先生は、絵の細部までていねいに見てくれた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "極細",
+      "reading": "ごくぼそ",
+      "meaning": "とても細いこと。また、そのもの。",
+      "example": "連絡帳を書くときには、極細のペンを使うと便利だ。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
