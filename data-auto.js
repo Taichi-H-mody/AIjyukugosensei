@@ -27659,6 +27659,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "期": [
+    {
+      "jukugo": "学期",
+      "reading": "がっき",
+      "meaning": "学校で勉強する期間を区切ったもの。一年を三つや二つに分けることが多い。",
+      "example": "二学期が始まったばかりで、学校に行くのが楽しみです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期間",
+      "reading": "きかん",
+      "meaning": "ある始まりから終わりまでの間。",
+      "example": "夏休みの期間は、毎日公園で遊びました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期日",
+      "reading": "きじつ",
+      "meaning": "物事をしたり、約束をしたりする、決まった日。",
+      "example": "図書館の本を返す期日は明日までです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "期待",
+      "reading": "きたい",
+      "meaning": "そうなってほしいと願って待つこと。楽しみに思うこと。",
+      "example": "明日の遠足が楽しみで、とても期待しています。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時期",
+      "reading": "じき",
+      "meaning": "ある物事が起こったり行われたりするのにちょうどよい時。",
+      "example": "さくらが咲く時期は、いつも心がわくわくします。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
