@@ -27365,6 +27365,90 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "終": [
+    {
+      "jukugo": "終点",
+      "reading": "しゅうてん",
+      "meaning": "電車やバスなどが止まる、いちばん最後の場所のこと。",
+      "example": "このバスは次のバス停が終点だよ。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終了",
+      "reading": "しゅうりょう",
+      "meaning": "やっていたことが終わること。",
+      "example": "これで今日の学校の授業は終了します。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最終",
+      "reading": "さいしゅう",
+      "meaning": "一番最後であること。",
+      "example": "最終回のアニメを見るのが楽しみだ。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終業",
+      "reading": "しゅうぎょう",
+      "meaning": "仕事や学校の授業が終わること。",
+      "example": "終業式で校長先生のお話を聞いた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終日",
+      "reading": "しゅうじつ",
+      "meaning": "朝から晩まで、一日中ずっと。",
+      "example": "明日は終日、雨が降ると天気予報で言っていた。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "湖": [
+    {
+      "jukugo": "湖水",
+      "reading": "こすい",
+      "meaning": "湖の水のこと。",
+      "example": "この湖水はとてもきれいです。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湖畔",
+      "reading": "こはん",
+      "meaning": "湖のそば、岸のこと。",
+      "example": "みんなで湖畔を散歩しました。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湖面",
+      "reading": "こめん",
+      "meaning": "湖の水の表面のこと。",
+      "example": "風のない日は湖面が鏡のようになります。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "湖底",
+      "reading": "こてい",
+      "meaning": "湖の底のこと。",
+      "example": "湖底には色々な魚が住んでいます。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "琵琶湖",
+      "reading": "びわこ",
+      "meaning": "滋賀県にある、日本で一番大きな湖の名前。",
+      "example": "琵琶湖は日本で一番大きな湖です。",
+      "addedDate": "2026-07-03",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
