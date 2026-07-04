@@ -28011,5 +28011,89 @@
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "話": [
+    {
+      "jukugo": "お話",
+      "reading": "おはなし",
+      "meaning": "物語のこと。だれかに聞かせる話。",
+      "example": "寝る前に、お母さんがお話をしてくれた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電話",
+      "reading": "でんわ",
+      "meaning": "遠くの人と話すために使う道具。また、その道具で話をすること。",
+      "example": "おばあちゃんに電話をかける。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会話",
+      "reading": "かいわ",
+      "meaning": "二人以上の人が、言葉を交わして話をすること。",
+      "example": "友達と楽しい会話をした。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "話し合い",
+      "reading": "はなしあい",
+      "meaning": "何かのことを決めるために、みんなで意見を言い合うこと。",
+      "example": "今日の放課後に、クラスで話し合いをする。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔話",
+      "reading": "むかしばなし",
+      "meaning": "ずっと昔から、人から人へ語り伝えられてきた物語。",
+      "example": "桃太郎は有名な昔話だ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "進": [
+    {
+      "jukugo": "前進",
+      "reading": "ぜんしん",
+      "meaning": "前に進むこと。",
+      "example": "目標に向かって、一歩一歩**前進**する。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進級",
+      "reading": "しんきゅう",
+      "meaning": "今の学年を終えて、次の学年に上がること。",
+      "example": "がんばって勉強して、無事に二年生に**進級**した。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進歩",
+      "reading": "しんぽ",
+      "meaning": "物事が前より良くなること。少しずつ良くなること。",
+      "example": "毎日練習したおかげで、ピアノの腕が**進歩**した。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進行",
+      "reading": "しんこう",
+      "meaning": "物事が先に進むこと。また、前に進むこと。",
+      "example": "工事は計画どおりに**進行**している。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進学",
+      "reading": "しんがく",
+      "meaning": "今の学校を卒業して、次の学校に入ること。",
+      "example": "小学校を卒業したら、中学校に**進学**する。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 }
