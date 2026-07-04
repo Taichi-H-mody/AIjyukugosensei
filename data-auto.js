@@ -28181,6 +28181,90 @@ const autoData = {
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "炭": [
+    {
+      "jukugo": "炭火",
+      "reading": "すみび",
+      "meaning": "木などを燃やして作った炭が燃えている火。",
+      "example": "バーベキューで炭火をおこした。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "木炭",
+      "reading": "もくたん",
+      "meaning": "木を焼いて作った炭。燃料や美術の材料になる。",
+      "example": "スケッチブックに木炭で絵を描いた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "石炭",
+      "reading": "せきたん",
+      "meaning": "地中に埋もれていた植物が変化してできた、黒い固い燃える鉱物。燃料に使われる。",
+      "example": "昔は石炭を燃やして機関車が走っていた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "炭鉱",
+      "reading": "たんこう",
+      "meaning": "石炭を地中から掘り出す場所。",
+      "example": "昔、この町には大きな炭鉱があったそうだ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "炭酸",
+      "reading": "たんさん",
+      "meaning": "二酸化炭素が水に溶けたもの。シュワシュワした飲み物などに含まれる。",
+      "example": "冷たい炭酸飲料がおいしい季節になった。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "業": [
+    {
+      "jukugo": "卒業",
+      "reading": "そつぎょう",
+      "meaning": "学校での勉強や教育課程をすべて終えること。",
+      "example": "来年の春には、小学校を無事に卒業したいです。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "授業",
+      "reading": "じゅぎょう",
+      "meaning": "先生がみんなに勉強を教える時間のこと。",
+      "example": "今日の体育の授業は、なわとびをしました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作業",
+      "reading": "さぎょう",
+      "meaning": "何かをしたり、仕事を進めたりすること。",
+      "example": "みんなで協力して、運動会の準備作業をしました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学業",
+      "reading": "がくぎょう",
+      "meaning": "学校での勉強や、学ぶこと全般のこと。",
+      "example": "学業を大切にして、毎日しっかり復習しよう。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "職業",
+      "reading": "しょくぎょう",
+      "meaning": "人が生活していくためにする仕事やしごとのこと。",
+      "example": "将来の夢は、人を助ける職業につくことです。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
