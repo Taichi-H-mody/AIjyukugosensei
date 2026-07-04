@@ -27859,5 +27859,89 @@
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "根": [
+    {
+      "jukugo": "屋根",
+      "reading": "やね",
+      "meaning": "家などの建物の一番上にあって、雨や雪から守る部分。",
+      "example": "鳥が家の屋根にとまって鳴いている。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根本",
+      "reading": "こんぽん",
+      "meaning": "物事の一番もとになるところ。土台となる大切な部分。",
+      "example": "この問題の根本的な原因をみんなで考えよう。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根元",
+      "reading": "ねもと",
+      "meaning": "植物の根が出ているところ。物事の一番もと。",
+      "example": "大きな木の根元には、小さな花が咲いていた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根気",
+      "reading": "こんき",
+      "meaning": "途中で投げ出さずに、最後までがんばり続ける気持ち。",
+      "example": "難しいパズルは、根気よく考えればきっと完成するよ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "根菜",
+      "reading": "こんさい",
+      "meaning": "土の中にできる根の部分を食べる野菜のこと。",
+      "example": "にんじんや大根は、根菜の仲間だよ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "向": [
+    {
+      "jukugo": "方向",
+      "reading": "ほうこう",
+      "meaning": "ある場所から見た、ものがある方角。また、物事が進むべき道筋。",
+      "example": "地図で学校の方向を調べます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "向こう",
+      "reading": "むこう",
+      "meaning": "あちら側。遠くにある場所や人。",
+      "example": "川の向こうにきれいな山が見えます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "向上",
+      "reading": "こうじょう",
+      "meaning": "物事の程度や質が、より良い方へ進むこと。",
+      "example": "漢字の練習をがんばって、成績が向上しました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "向日葵",
+      "reading": "ひまわり",
+      "meaning": "夏に咲く大きな黄色い花。太陽の方向を向いて咲くことからこの名がついた。",
+      "example": "夏休みに、大きな向日葵畑に行きました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "向かい風",
+      "reading": "むかいかぜ",
+      "meaning": "前方から吹いてくる風。",
+      "example": "自転車に乗っていると、強い向かい風でなかなか進めません。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 }
