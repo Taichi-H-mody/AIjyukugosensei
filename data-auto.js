@@ -28307,6 +28307,48 @@ const autoData = {
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "畑": [
+    {
+      "jukugo": "畑作",
+      "reading": "はたさく",
+      "meaning": "畑で農作物（のうさくもつ）を育てること。",
+      "example": "寒い地方では、稲作（いなさく）が難しいため、畑作がさかんに行われています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "茶畑",
+      "reading": "ちゃばたけ",
+      "meaning": "お茶の木がたくさん植えられている畑。",
+      "example": "静岡県には、おいしいお茶を作るための茶畑が広（ひろ）がっています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "麦畑",
+      "reading": "むぎばたけ",
+      "meaning": "麦が育てられている畑。",
+      "example": "風が吹（ふ）くと、黄金色（おうごんいろ）に輝（かがや）く麦畑が波（なみ）のようにゆれました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田畑",
+      "reading": "たはた",
+      "meaning": "田んぼと畑のこと。農作物を作る土地。",
+      "example": "昔（むかし）の日本では、あたり一面（いちめん）に田畑が広がっていました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "畑仕事",
+      "reading": "はたけしごと",
+      "meaning": "畑で土を耕（たがや）したり、野菜を育てたりする作業（さぎょう）。",
+      "example": "おじいさんは毎朝（まいあさ）早くから、せっせと畑仕事に出かけます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
