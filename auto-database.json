@@ -27943,5 +27943,73 @@
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "央": [
+    {
+      "jukugo": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "物事の真ん中、中心のこと。",
+      "example": "教室の真ん中、つまり**中央**にテーブルを置きました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中央線",
+      "reading": "ちゅうおうせん",
+      "meaning": "真ん中を通る線。特に鉄道の路線名としても使われます。",
+      "example": "東京には**中央線**という電車が走っています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中央突破",
+      "reading": "ちゅうおうとっぱ",
+      "meaning": "スポーツなどで、真ん中から相手の守りを破って進むこと。",
+      "example": "サッカーの試合で、選手がボールを持って**中央突破**を試みました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "品": [
+    {
+      "jukugo": "品物",
+      "reading": "しなもの",
+      "meaning": "お店で売っていたり、手に入れたりする物のこと。",
+      "example": "デパートには、たくさんの品物が並んでいます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商品",
+      "reading": "しょうひん",
+      "meaning": "お店で売るために作られた物のこと。",
+      "example": "このお菓子は、お店の人気商品です。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作品",
+      "reading": "さくひん",
+      "meaning": "絵や工作、文章など、人が作った物のこと。",
+      "example": "みんなの絵の作品が、教室に飾られています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食品",
+      "reading": "しょくひん",
+      "meaning": "食べ物のこと。",
+      "example": "スーパーには、いろいろな食品が売っています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "品種",
+      "reading": "ひんしゅ",
+      "meaning": "動物や植物の種類のことをいいます。",
+      "example": "このりんごは、新しい品種で甘くておいしいです。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 }
