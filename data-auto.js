@@ -28265,6 +28265,48 @@ const autoData = {
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "住": [
+    {
+      "jukugo": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "人が住んでいる場所を示す名前や番地のこと。",
+      "example": "年賀状を出すときは、相手の住所をまちがえないように書きます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住宅",
+      "reading": "じゅうたく",
+      "meaning": "人が住むための建物や家のこと。",
+      "example": "日本では、地震に強い住宅を建てることが大切です。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住民",
+      "reading": "じゅうみん",
+      "meaning": "ある町や地域に住んでいる人々のこと。",
+      "example": "町の住民みんなで協力して、ゴミ拾いをしました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住居",
+      "reading": "じゅうきょ",
+      "meaning": "人が生活する場所、住んでいる家のこと。",
+      "example": "私の住居は学校から歩いて五分のところにあります。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "在住",
+      "reading": "ざいじゅう",
+      "meaning": "ある場所に住んでいること。",
+      "example": "田中さんは、今も北海道に在住しています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
