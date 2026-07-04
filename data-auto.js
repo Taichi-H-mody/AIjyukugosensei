@@ -28097,6 +28097,90 @@ const autoData = {
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "庫": [
+    {
+      "jukugo": "倉庫",
+      "reading": "そうこ",
+      "meaning": "物をしまっておくための建物。",
+      "example": "体育館のうしろに、運動用具をしまっておく倉庫がある。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "金庫",
+      "reading": "きんこ",
+      "meaning": "大事な物やお金を安全にしまっておくための、じょうぶな箱。",
+      "example": "おじいちゃんはたいせつな書類を金庫にしまっている。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "meaning": "食べ物などを冷やして新鮮に保つための家電。",
+      "example": "冷蔵庫から冷たいジュースを取り出した。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "車庫",
+      "reading": "しゃこ",
+      "meaning": "車や電車などをしまっておく場所や建物。",
+      "example": "お父さんの車はいつも夜には車庫に入っている。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書庫",
+      "reading": "しょこ",
+      "meaning": "たくさんの本をしまっておく部屋や建物。",
+      "example": "図書館の奥には、めずらしい本が集められた書庫がある。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "配": [
+    {
+      "jukugo": "心配",
+      "reading": "しんぱい",
+      "meaning": "悪いことが起きるのではないかと気にかけること。",
+      "example": "明日の遠足の天気が**心配**だ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "配達",
+      "reading": "はいたつ",
+      "meaning": "郵便物や品物などを、もとの場所から目的の場所まで届けること。",
+      "example": "郵便屋さんが手紙を**配達**してくれた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手配",
+      "reading": "てはい",
+      "meaning": "必要なものや人をそろえたり、準備したりすること。",
+      "example": "遠足のお弁当を、お母さんが**手配**してくれた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "配置",
+      "reading": "はいち",
+      "meaning": "物や人を、決められた場所や適切な場所に並べたり置いたりすること。",
+      "example": "教室の机の**配置**を変えたら、広く感じるようになった。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "配膳",
+      "reading": "はいぜん",
+      "meaning": "食卓に料理を並べたり、食事を出したりすること。",
+      "example": "給食の時間に、みんなで協力して**配膳**を手伝った。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
