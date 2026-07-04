@@ -27704,14 +27704,6 @@ const autoData = {
   ],
   "雪": [
     {
-      "jukugo": "雪だるま",
-      "reading": "ゆきだるま",
-      "meaning": "雪を丸めて作った人形。",
-      "example": "みんなで力を合わせて、大きな雪だるまを作った。",
-      "addedDate": "2026-07-03",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "雪国",
       "reading": "ゆきぐに",
       "meaning": "冬に雪がたくさん降る地方。",
