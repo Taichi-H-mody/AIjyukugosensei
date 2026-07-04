@@ -27819,6 +27819,48 @@ const autoData = {
       "addedDate": "2026-07-03",
       "addedBy": "discord-agent"
     }
+  ],
+  "病": [
+    {
+      "jukugo": "病気",
+      "reading": "びょうき",
+      "meaning": "体の具合が悪くなること。またはその状態。",
+      "example": "熱が出て、学校を休んだので、私は**病気**になったと思いました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "病院",
+      "reading": "びょういん",
+      "meaning": "病気やけがをした人を診察し、治療する場所。",
+      "example": "熱が下がらないので、お母さんと一緒に**病院**に行きました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "病人",
+      "reading": "びょうにん",
+      "meaning": "病気の人。",
+      "example": "看護師さんは、ベッドで休んでいる**病人**たちを優しくお世話しています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "病室",
+      "reading": "びょうしつ",
+      "meaning": "病院の中で、病気の人が休む部屋。",
+      "example": "入院しているおじいちゃんの**病室**には、きれいな花が飾ってありました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "病名",
+      "reading": "びょうめい",
+      "meaning": "病気の名前。",
+      "example": "お医者さんが、私の風邪の**病名**を教えてくれました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
