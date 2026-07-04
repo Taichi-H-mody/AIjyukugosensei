@@ -27945,6 +27945,158 @@ const autoData = {
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "央": [
+    {
+      "jukugo": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "物事の真ん中、中心のこと。",
+      "example": "教室の真ん中、つまり**中央**にテーブルを置きました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中央線",
+      "reading": "ちゅうおうせん",
+      "meaning": "真ん中を通る線。特に鉄道の路線名としても使われます。",
+      "example": "東京には**中央線**という電車が走っています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中央突破",
+      "reading": "ちゅうおうとっぱ",
+      "meaning": "スポーツなどで、真ん中から相手の守りを破って進むこと。",
+      "example": "サッカーの試合で、選手がボールを持って**中央突破**を試みました。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "品": [
+    {
+      "jukugo": "品物",
+      "reading": "しなもの",
+      "meaning": "お店で売っていたり、手に入れたりする物のこと。",
+      "example": "デパートには、たくさんの品物が並んでいます。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商品",
+      "reading": "しょうひん",
+      "meaning": "お店で売るために作られた物のこと。",
+      "example": "このお菓子は、お店の人気商品です。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作品",
+      "reading": "さくひん",
+      "meaning": "絵や工作、文章など、人が作った物のこと。",
+      "example": "みんなの絵の作品が、教室に飾られています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食品",
+      "reading": "しょくひん",
+      "meaning": "食べ物のこと。",
+      "example": "スーパーには、いろいろな食品が売っています。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "品種",
+      "reading": "ひんしゅ",
+      "meaning": "動物や植物の種類のことをいいます。",
+      "example": "このりんごは、新しい品種で甘くておいしいです。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "話": [
+    {
+      "jukugo": "お話",
+      "reading": "おはなし",
+      "meaning": "物語のこと。だれかに聞かせる話。",
+      "example": "寝る前に、お母さんがお話をしてくれた。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電話",
+      "reading": "でんわ",
+      "meaning": "遠くの人と話すために使う道具。また、その道具で話をすること。",
+      "example": "おばあちゃんに電話をかける。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会話",
+      "reading": "かいわ",
+      "meaning": "二人以上の人が、言葉を交わして話をすること。",
+      "example": "友達と楽しい会話をした。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "話し合い",
+      "reading": "はなしあい",
+      "meaning": "何かのことを決めるために、みんなで意見を言い合うこと。",
+      "example": "今日の放課後に、クラスで話し合いをする。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昔話",
+      "reading": "むかしばなし",
+      "meaning": "ずっと昔から、人から人へ語り伝えられてきた物語。",
+      "example": "桃太郎は有名な昔話だ。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "進": [
+    {
+      "jukugo": "前進",
+      "reading": "ぜんしん",
+      "meaning": "前に進むこと。",
+      "example": "目標に向かって、一歩一歩**前進**する。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進級",
+      "reading": "しんきゅう",
+      "meaning": "今の学年を終えて、次の学年に上がること。",
+      "example": "がんばって勉強して、無事に二年生に**進級**した。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進歩",
+      "reading": "しんぽ",
+      "meaning": "物事が前より良くなること。少しずつ良くなること。",
+      "example": "毎日練習したおかげで、ピアノの腕が**進歩**した。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進行",
+      "reading": "しんこう",
+      "meaning": "物事が先に進むこと。また、前に進むこと。",
+      "example": "工事は計画どおりに**進行**している。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進学",
+      "reading": "しんがく",
+      "meaning": "今の学校を卒業して、次の学校に入ること。",
+      "example": "小学校を卒業したら、中学校に**進学**する。",
+      "addedDate": "2026-07-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
