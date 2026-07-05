@@ -28525,5 +28525,89 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "談": [
+    {
+      "jukugo": "相談",
+      "reading": "そうだん",
+      "meaning": "困ったことや決めたいことについて、他の人に意見を聞いたり話し合ったりすること。",
+      "example": "分からない問題があったので、先生に**相談**した。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "談話",
+      "reading": "だんわ",
+      "meaning": "人とおしゃべりすること。話すこと。",
+      "example": "みんなで楽しい**談話**をしながら食事をした。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対談",
+      "reading": "たいだん",
+      "meaning": "二人で向かい合って話し合うこと。",
+      "example": "テレビでスポーツ選手二人の**対談**を見た。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "懇談会",
+      "reading": "こんだんかい",
+      "meaning": "みんなで集まって、仲良く話し合う会。",
+      "example": "今日は小学校で保護者**懇談会**があった。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漫談",
+      "reading": "まんだん",
+      "meaning": "一人の人が、おもしろい話をすること。",
+      "example": "お笑い番組で芸人さんの**漫談**を見て笑った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "整": [
+    {
+      "jukugo": "整理",
+      "reading": "せいり",
+      "meaning": "散らかったものを片付けたり、いらないものを捨てたりして、きちんとした状態にすること。",
+      "example": "机の上が汚れていたので、いらないものを整理しました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整頓",
+      "reading": "せいとん",
+      "meaning": "物がきちんとそろっていて、乱れていないこと。また、そのように片付けること。",
+      "example": "使った道具は、元の場所へ整頓しましょう。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整列",
+      "reading": "せいれつ",
+      "meaning": "きちんと一列に並ぶこと。",
+      "example": "体育の時間に、みんなで運動場に整列しました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整数",
+      "reading": "せいすう",
+      "meaning": "分数や小数ではない、0や1, 2, 3...といった数のこと。",
+      "example": "100は整数ですが、1.5は整数ではありません。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整備",
+      "reading": "せいび",
+      "meaning": "機械や道具などがきちんと使えるように、整えたり直したりすること。",
+      "example": "遠足の前には、バスの整備が必要です。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
