@@ -28863,6 +28863,48 @@ const autoData = {
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "乗": [
+    {
+      "jukugo": "乗車",
+      "reading": "じょうしゃ",
+      "meaning": "バスや電車など、乗り物に乗ること。",
+      "example": "バスに**乗車**するときは、整理券を取りましょう。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "電車やバス、飛行機などに乗っているお客さんのこと。",
+      "example": "飛行機には、たくさんの**乗客**が乗っていました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乗馬",
+      "reading": "じょうば",
+      "meaning": "馬に乗ること。または馬に乗って進むこと。",
+      "example": "週末は、牧場で**乗馬**を楽しみました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "搭乗",
+      "reading": "とうじょう",
+      "meaning": "飛行機や船に乗ること。",
+      "example": "飛行機に**搭乗**する前に、持ち物検査を受けます。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乗船",
+      "reading": "じょうせん",
+      "meaning": "船に乗ること。",
+      "example": "フェリーに**乗船**して、島へ向かいました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
