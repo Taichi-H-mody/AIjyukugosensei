@@ -27914,14 +27914,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "向こう",
-      "reading": "むこう",
-      "meaning": "あちら側。遠くにある場所や人。",
-      "example": "川の向こうにきれいな山が見えます。",
-      "addedDate": "2026-07-04",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "向上",
       "reading": "こうじょう",
       "meaning": "物事の程度や質が、より良い方へ進むこと。",
@@ -27934,14 +27926,6 @@ const autoData = {
       "reading": "ひまわり",
       "meaning": "夏に咲く大きな黄色い花。太陽の方向を向いて咲くことからこの名がついた。",
       "example": "夏休みに、大きな向日葵畑に行きました。",
-      "addedDate": "2026-07-04",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "向かい風",
-      "reading": "むかいかぜ",
-      "meaning": "前方から吹いてくる風。",
-      "example": "自転車に乗っていると、強い向かい風でなかなか進めません。",
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
@@ -28016,14 +28000,6 @@ const autoData = {
   ],
   "話": [
     {
-      "jukugo": "お話",
-      "reading": "おはなし",
-      "meaning": "物語のこと。だれかに聞かせる話。",
-      "example": "寝る前に、お母さんがお話をしてくれた。",
-      "addedDate": "2026-07-04",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "電話",
       "reading": "でんわ",
       "meaning": "遠くの人と話すために使う道具。また、その道具で話をすること。",
@@ -28036,14 +28012,6 @@ const autoData = {
       "reading": "かいわ",
       "meaning": "二人以上の人が、言葉を交わして話をすること。",
       "example": "友達と楽しい会話をした。",
-      "addedDate": "2026-07-04",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "話し合い",
-      "reading": "はなしあい",
-      "meaning": "何かのことを決めるために、みんなで意見を言い合うこと。",
-      "example": "今日の放課後に、クラスで話し合いをする。",
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     },
