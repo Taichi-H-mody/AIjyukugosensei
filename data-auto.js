@@ -28779,6 +28779,90 @@ const autoData = {
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "夏": [
+    {
+      "jukugo": "夏休み",
+      "reading": "なつやすみ",
+      "meaning": "夏にある、学校の長いお休み期間のことです。",
+      "example": "夏休みには家族で海に行きました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏祭り",
+      "reading": "なつまつり",
+      "meaning": "夏に行われるお祭りのことです。屋台が出たり、花火があがったりします。",
+      "example": "夏祭りで金魚すくいをして、花火を見ました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏服",
+      "reading": "なつふく",
+      "meaning": "夏に着るための涼しい服のことです。",
+      "example": "暑い日には、風通しの良い夏服を着ます。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真夏",
+      "reading": "まなつ",
+      "meaning": "一年の中で、いちばん暑い時期のことです。",
+      "example": "真夏の日差しはとてもまぶしいです。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初夏",
+      "reading": "しょか",
+      "meaning": "夏の始まりのころの、まだ暑くなり始めたばかりの時期のことです。",
+      "example": "初夏には、みずみずしい緑がたくさん見られます。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "注": [
+    {
+      "jukugo": "注意",
+      "reading": "ちゅうい",
+      "meaning": "よく気をつけて見たり聞いたりすること。あぶないことがないように用心すること。",
+      "example": "廊下を走ると危ないので、注意して歩きましょう。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "多くの人が関心をもって見たり聞いたりすること。",
+      "example": "新しい展示物が学校に届き、みんなの注目を集めました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注文",
+      "reading": "ちゅうもん",
+      "meaning": "お店で品物を買ったり、物を作ったり用意してもらったりすることを頼むこと。",
+      "example": "家族みんなでピザを注文しました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注射",
+      "reading": "ちゅうしゃ",
+      "meaning": "薬などを体の奥に直接入れること。予防接種などで使う。",
+      "example": "インフルエンザにならないように、予防の注射をしました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注水",
+      "reading": "ちゅうすい",
+      "meaning": "水を注ぎ入れること。",
+      "example": "プールの掃除が終わった後、新しい水を注水しました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
