@@ -28611,6 +28611,90 @@ const autoData = {
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "家": [
+    {
+      "jukugo": "家族",
+      "reading": "かぞく",
+      "meaning": "夫婦とその子供など、血縁を中心とした集団。",
+      "example": "私の家族は、お父さん、お母さん、お兄さん、私です。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "家庭",
+      "reading": "かてい",
+      "meaning": "家族が住む家や、その中で営まれる生活。",
+      "example": "放課後はすぐに家庭に戻って宿題をします。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "家事",
+      "reading": "かじ",
+      "meaning": "家の中で行われる炊事、洗濯、掃除などの仕事。",
+      "example": "お母さんは毎日の家事が大変そうなので、私もお手伝いをします。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一家",
+      "reading": "いっか",
+      "meaning": "一つの家族、その家族の全員。",
+      "example": "週末は一家みんなで公園に遊びに行きました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農家",
+      "reading": "のうか",
+      "meaning": "農業を営む家、または農業をする人。",
+      "example": "田んぼで米を作るのは、農家の大切な仕事です。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "帳": [
+    {
+      "jukugo": "帳面",
+      "reading": "ちょうめん",
+      "meaning": "物事を書き記すための紙を重ねてとじたもの。ノートのこと。",
+      "example": "先生の言ったことを、帳面にきちんとメモしました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手帳",
+      "reading": "てちょう",
+      "meaning": "予定やメモを書き記すための、持ち運びしやすい小さな本。",
+      "example": "忘れ物をしないように、明日の持ち物を手帳に書いておこう。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通帳",
+      "reading": "つうちょう",
+      "meaning": "銀行にお金を預けたり引き出したりしたことを記録する本。",
+      "example": "お小遣いを貯めるために、通帳にお金を入れたいな。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記帳",
+      "reading": "きちょう",
+      "meaning": "帳面に書き記すこと。特に、銀行などで通帳に取引の記録をつけること。",
+      "example": "銀行の機械に通帳を入れて、お金の出し入れを記帳しました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日記帳",
+      "reading": "にっきちょう",
+      "meaning": "毎日の出来事や思ったことを書き記すための帳面。",
+      "example": "夏休みの思い出を忘れないように、毎日日記帳に書きました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
