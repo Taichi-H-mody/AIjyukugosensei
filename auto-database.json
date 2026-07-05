@@ -28735,5 +28735,47 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "神": [
+    {
+      "jukugo": "神様",
+      "reading": "かみさま",
+      "meaning": "人間が、この世の全てを作り、守ってくれていると信じる、偉大な存在。神社やお寺でまつられている。",
+      "example": "神社には神様が住んでいるとされているよ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女神",
+      "reading": "めがみ",
+      "meaning": "女性の姿をした神様。美しさや優しさ、強さなどをあらわすことが多い。",
+      "example": "ギリシャ神話には、美しい女神がたくさん登場するんだ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "神話",
+      "reading": "しんわ",
+      "meaning": "神様のふるまいや、世界の始まり、人間がどうやって生まれたかなどについて語り伝えられてきた、古いお話。",
+      "example": "日本の神話には、昔の国の様子が書かれているよ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "守り神",
+      "reading": "まもりがみ",
+      "meaning": "特定の場所や人、物などを悪いものから守ってくれると信じられている神様。",
+      "example": "この森には、動物たちを守る守り神がいると伝えられているんだ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "神主",
+      "reading": "かんぬし",
+      "meaning": "神社で神様におまつりを行う人。神様と人との間を取り持つ大切な役目がある。",
+      "example": "お祭りの時に、神主さんがおはらいをしてくれたよ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
