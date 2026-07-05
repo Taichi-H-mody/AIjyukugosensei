@@ -28693,5 +28693,47 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "高": [
+    {
+      "jukugo": "高学年",
+      "reading": "こうがくねん",
+      "meaning": "小学校の5年生と6年生のこと。",
+      "example": "来年から高学年になるので、下級生の面倒を見てあげたいです。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最高",
+      "reading": "さいこう",
+      "meaning": "一番すぐれていること。とても良いこと。",
+      "example": "今日の給食のカレーは、最高においしかったです。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高校",
+      "reading": "こうこう",
+      "meaning": "中学校の次に通う学校のこと。（高等学校の略）",
+      "example": "お兄ちゃんは来年、高校に入学する予定です。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高原",
+      "reading": "こうげん",
+      "meaning": "まわりの土地よりも少し高くて、平らな場所。",
+      "example": "夏休みには、涼しい高原に家族で遊びに行きました。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "高所",
+      "reading": "こうしょ",
+      "meaning": "高い場所のこと。",
+      "example": "私は高所恐怖症なので、高いところが少し苦手です。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
