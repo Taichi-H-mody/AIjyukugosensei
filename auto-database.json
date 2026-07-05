@@ -28441,5 +28441,89 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "茶": [
+    {
+      "jukugo": "茶色",
+      "reading": "ちゃいろ",
+      "meaning": "焦げ茶色や黄土色のような色。木や土の色に似ていることが多い。",
+      "example": "あの犬は、ふわふわした茶色の毛をしている。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紅茶",
+      "reading": "こうちゃ",
+      "meaning": "茶葉を発酵させて作った、赤みがかった色の飲み物。ミルクや砂糖を入れて飲むことも多い。",
+      "example": "寒い日には、温かい紅茶を飲むのが好きだ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "緑茶",
+      "reading": "りょくちゃ",
+      "meaning": "茶葉を発酵させずに作った、緑色の飲み物。日本でよく飲まれるお茶のこと。",
+      "example": "ご飯を食べるときに、いつも冷たい緑茶を飲む。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "茶碗",
+      "reading": "ちゃわん",
+      "meaning": "ご飯やお茶などをよそったり入れたりする、小さめの器。",
+      "example": "お気に入りの茶碗にご飯をよそって食べる。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "抹茶",
+      "reading": "まっちゃ",
+      "meaning": "緑茶の一種で、茶葉を石うすなどで粉末にしたもの。お茶会などでたてて飲む。",
+      "example": "抹茶味のアイスクリームは、ほろ苦くておいしい。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "真": [
+    {
+      "jukugo": "写真",
+      "reading": "しゃしん",
+      "meaning": "カメラなどで、人や景色を写し取ったもの。",
+      "example": "夏休みに、家族みんなで記念写真を撮った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真実",
+      "reading": "しんじつ",
+      "meaning": "本当にあったこと。偽りがないこと。",
+      "example": "探偵は事件の真実を突き止めた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真剣",
+      "reading": "しんけん",
+      "meaning": "まじめな気持ちで物事に取り組むこと。本気であること。",
+      "example": "彼は、先生の話を真剣な顔で聞いていた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真っ直ぐ",
+      "reading": "まっすぐ",
+      "meaning": "曲がっていないこと。横道にそれず、ただ進むこと。",
+      "example": "この道を真っ直ぐに進むと、学校に着きます。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真ん中",
+      "reading": "まんなか",
+      "meaning": "物事の中心。ちょうど中央のところ。",
+      "example": "みんなで先生を真ん中にして写真を撮った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
