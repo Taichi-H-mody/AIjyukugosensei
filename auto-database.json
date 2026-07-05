@@ -28357,5 +28357,89 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "半": [
+    {
+      "jukugo": "半分",
+      "reading": "はんぶん",
+      "meaning": "全体を二つに分けたうちの一つ。",
+      "example": "ケーキを半分こにしよう。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半日",
+      "reading": "はんにち",
+      "meaning": "一日の半分。だいたい昼までか、昼過ぎから夕方まで。",
+      "example": "今日は半日だけ学校に行って、午後は家に帰った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半月",
+      "reading": "はんげつ",
+      "meaning": "月が半分に見える形。また、およそ半月の期間。",
+      "example": "夜空にきれいな半月が浮かんでいた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半年",
+      "reading": "はんとし",
+      "meaning": "一年の半分。六か月。",
+      "example": "半年ぶりに遠くに住むおばあちゃんに会った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半そで",
+      "reading": "はんそで",
+      "meaning": "腕の半分くらいの長さの袖のこと。",
+      "example": "夏になったので、半そでの服を着た。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "葉": [
+    {
+      "jukugo": "木の葉",
+      "reading": "このは",
+      "meaning": "木から落ちた葉っぱ。また、木についている葉っぱ。",
+      "example": "風が吹いて、木の葉がひらひらと舞い落ちた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落ち葉",
+      "reading": "おちば",
+      "meaning": "木や草から落ちた葉っぱ。",
+      "example": "公園の地面にはたくさんの落ち葉が積もっていた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "若葉",
+      "reading": "わかば",
+      "meaning": "春に出てくる、みずみずしい新しい葉っぱ。",
+      "example": "春になり、木々にきれいな若葉が芽生えた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紅葉",
+      "reading": "こうよう",
+      "meaning": "秋になって、葉っぱが赤や黄色に変わること。また、その葉っぱ。",
+      "example": "山の紅葉がとても美しく、多くの人が見に来ていた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "葉書",
+      "reading": "はがき",
+      "meaning": "通信のために使われる、うすくて四角い紙。郵便で送ることができる。",
+      "example": "おばあちゃんにお礼の葉書を出した。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
