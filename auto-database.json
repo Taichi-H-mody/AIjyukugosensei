@@ -28315,5 +28315,47 @@
       "addedDate": "2026-07-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "軽": [
+    {
+      "jukugo": "軽食",
+      "reading": "けいしょく",
+      "meaning": "お腹がすいたときに、軽く食べられる食事。",
+      "example": "遠足のおやつに、サンドイッチなどの軽食を持って行った。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軽々",
+      "reading": "かるがる",
+      "meaning": "重さを感じないで、とても簡単に。",
+      "example": "弟は、軽いおもちゃの箱を軽々持ち上げた。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軽自動車",
+      "reading": "けいじどうしゃ",
+      "meaning": "エンジンが小さく、税金も安い、小型の車のこと。",
+      "example": "隣のおじいちゃんの車は、黄色い軽自動車だ。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軽石",
+      "reading": "かるいし",
+      "meaning": "火山から出てくる、軽くて水に浮く石。",
+      "example": "理科の実験で、軽石が水に浮くのを見た。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "軽量",
+      "reading": "けいりょう",
+      "meaning": "重さが軽いこと。",
+      "example": "このリュックはとても軽量なので、教科書がたくさん入っても持ち運びやすい。",
+      "addedDate": "2026-07-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
