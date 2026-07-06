@@ -29337,6 +29337,40 @@ const autoData = {
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "悲": [
+    {
+      "jukugo": "悲劇",
+      "reading": "ひげき",
+      "meaning": "悲しいことが起こる物語や出来事。",
+      "example": "その童話の結末は、少し悲劇だった。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悲鳴",
+      "reading": "ひめい",
+      "meaning": "こわい時やびっくりした時に思わず出す大きな声。",
+      "example": "おばけを見て、思わず悲鳴を上げてしまった。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悲報",
+      "reading": "ひほう",
+      "meaning": "みんなが悲しくなるような悪い知らせ。",
+      "example": "運動会の中止の悲報を聞いて、みんながっかりした。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悲願",
+      "reading": "ひがん",
+      "meaning": "どうしてもかなえたいと強く願うこと。",
+      "example": "クラスのみんなで優勝することが、今年の悲願です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
