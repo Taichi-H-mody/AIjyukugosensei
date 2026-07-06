@@ -28839,5 +28839,47 @@
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "曜": [
+    {
+      "jukugo": "曜日",
+      "reading": "ようび",
+      "meaning": "週のそれぞれの日の名前のことです。（例：月曜日、火曜日）",
+      "example": "今日は何曜日ですか？",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日曜",
+      "reading": "にちよう",
+      "meaning": "週の最初の日で、お休みのことが多い日です。",
+      "example": "日曜日は家族と公園に行きます。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月曜",
+      "reading": "げつよう",
+      "meaning": "日曜日の次の日で、学校や会社が始まる日です。",
+      "example": "月曜日は学校があります。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火曜",
+      "reading": "かよう",
+      "meaning": "月曜日の次の日です。",
+      "example": "火曜日の朝はパンを食べます。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "土曜",
+      "reading": "どよう",
+      "meaning": "金曜日の次の日で、お休みのことが多い日です。",
+      "example": "土曜日は友達と遊びます。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
