@@ -29085,6 +29085,90 @@ const autoData = {
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "園": [
+    {
+      "jukugo": "公園",
+      "reading": "こうえん",
+      "meaning": "みんなが自由に利用できる、遊びや休憩の場所。遊具や植物があることが多いです。",
+      "example": "放課後、友達と**公園**で鬼ごっこをした。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "動物園",
+      "reading": "どうぶつえん",
+      "meaning": "ライオンやキリンなど、いろいろな動物を見て学ぶことができる場所です。",
+      "example": "夏休みに家族で**動物園**に行って、パンダを見た。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幼稚園",
+      "reading": "ようちえん",
+      "meaning": "小学校に入る前の子どもたちが、遊びを通して生活のきまりや集団行動を学ぶ場所です。",
+      "example": "妹は来年から**幼稚園**に通う予定だ。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊園地",
+      "reading": "ゆうえんち",
+      "meaning": "ジェットコースターや観覧車など、楽しい乗り物や遊びがたくさんある場所です。",
+      "example": "誕生日に**遊園地**へ連れて行ってもらった。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "園児",
+      "reading": "えんじ",
+      "meaning": "幼稚園に通っている子どもたちのことです。",
+      "example": "**園児**たちが先生と手をつないで散歩していた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "助": [
+    {
+      "jukugo": "助手",
+      "reading": "じょしゅ",
+      "meaning": "人の仕事を手伝う人。",
+      "example": "先生の助手として、実験の準備を手伝った。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "助け合い",
+      "reading": "たすけあい",
+      "meaning": "困っているときにお互いに助け合うこと。",
+      "example": "困っている友だちとは、助け合いの気持ちが大切だ。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救助",
+      "reading": "きゅうじょ",
+      "meaning": "危険な状態にある人や物を助け出すこと。",
+      "example": "事故にあった人を、消防隊員が救助した。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "補助",
+      "reading": "ほじょ",
+      "meaning": "足りない部分を補って助けること。",
+      "example": "自転車に補助輪をつけて、練習した。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "助力",
+      "reading": "じょりょく",
+      "meaning": "力や手助けをすること。",
+      "example": "友だちの助力のおかげで、重い荷物を運ぶことができた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
