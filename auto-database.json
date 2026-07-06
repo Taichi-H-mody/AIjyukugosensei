@@ -28923,5 +28923,81 @@
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "里": [
+    {
+      "jukugo": "里山",
+      "reading": "さとやま",
+      "meaning": "人里（ひとざと）の近くにある山のこと。人が手入れをしたり、利用したりして、自然と人がいっしょに暮らしている場所です。",
+      "example": "学校の総合学習で、里山へ行って木の実を拾ったり、昆虫を観察したりしました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千里",
+      "reading": "せんり",
+      "meaning": "とても遠い道のりのこと。昔の長さの単位で、一里は約4キロメートルなので、千里はとても長い距離になります。",
+      "example": "「千里の道も一歩から」ということわざのように、大きな目標も小さな努力の積み重ねが大切です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山里",
+      "reading": "やまざと",
+      "meaning": "山の中にある静かな村や、山に囲まれた場所のことです。",
+      "example": "夏休みに、家族で山里の温泉旅館に泊まりに行きました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一里",
+      "reading": "いちり",
+      "meaning": "昔使われていた距離の単位で、約4キロメートルのことです。",
+      "example": "江戸時代には、一里ごとに目印となる「一里塚」が置かれていました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "教": [
+    {
+      "jukugo": "教室",
+      "reading": "きょうしつ",
+      "meaning": "学校で先生が勉強を教えたり、生徒が勉強したりする部屋です。",
+      "example": "わたしたちの**教室**は3階にあります。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "学校で勉強するために使う本です。",
+      "example": "**教科書**をよく読んで、漢字の書き方を勉強しましょう。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教師",
+      "reading": "きょうし",
+      "meaning": "学校で子どもたちに勉強を教える人のことです。先生と同じ意味です。",
+      "example": "将来、小学校の**教師**になりたいです。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教頭",
+      "reading": "きょうとう",
+      "meaning": "校長先生を助けて、学校の仕事をする先生のことです。校長先生の次にえらい先生です。",
+      "example": "朝礼で**教頭**先生が大切なお話をしてくれました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教訓",
+      "reading": "きょうくん",
+      "meaning": "経験から学び、これからの行いや考え方の助けになる教えのことです。",
+      "example": "失敗を**教訓**にして、次からは気をつけよう。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
