@@ -28392,33 +28392,9 @@ const autoData = {
       "example": "半年ぶりに遠くに住むおばあちゃんに会った。",
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "半そで",
-      "reading": "はんそで",
-      "meaning": "腕の半分くらいの長さの袖のこと。",
-      "example": "夏になったので、半そでの服を着た。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
     }
   ],
   "葉": [
-    {
-      "jukugo": "木の葉",
-      "reading": "このは",
-      "meaning": "木から落ちた葉っぱ。また、木についている葉っぱ。",
-      "example": "風が吹いて、木の葉がひらひらと舞い落ちた。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "落ち葉",
-      "reading": "おちば",
-      "meaning": "木や草から落ちた葉っぱ。",
-      "example": "公園の地面にはたくさんの落ち葉が積もっていた。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "若葉",
       "reading": "わかば",
@@ -28508,22 +28484,6 @@ const autoData = {
       "reading": "しんけん",
       "meaning": "まじめな気持ちで物事に取り組むこと。本気であること。",
       "example": "彼は、先生の話を真剣な顔で聞いていた。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "真っ直ぐ",
-      "reading": "まっすぐ",
-      "meaning": "曲がっていないこと。横道にそれず、ただ進むこと。",
-      "example": "この道を真っ直ぐに進むと、学校に着きます。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "真ん中",
-      "reading": "まんなか",
-      "meaning": "物事の中心。ちょうど中央のところ。",
-      "example": "みんなで先生を真ん中にして写真を撮った。",
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
     }
@@ -28764,14 +28724,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "守り神",
-      "reading": "まもりがみ",
-      "meaning": "特定の場所や人、物などを悪いものから守ってくれると信じられている神様。",
-      "example": "この森には、動物たちを守る守り神がいると伝えられているんだ。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "神主",
       "reading": "かんぬし",
       "meaning": "神社で神様におまつりを行う人。神様と人との間を取り持つ大切な役目がある。",
@@ -28781,22 +28733,6 @@ const autoData = {
     }
   ],
   "夏": [
-    {
-      "jukugo": "夏休み",
-      "reading": "なつやすみ",
-      "meaning": "夏にある、学校の長いお休み期間のことです。",
-      "example": "夏休みには家族で海に行きました。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "夏祭り",
-      "reading": "なつまつり",
-      "meaning": "夏に行われるお祭りのことです。屋台が出たり、花火があがったりします。",
-      "example": "夏祭りで金魚すくいをして、花火を見ました。",
-      "addedDate": "2026-07-05",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "夏服",
       "reading": "なつふく",
