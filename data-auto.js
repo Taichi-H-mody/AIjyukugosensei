@@ -29001,6 +29001,90 @@ const autoData = {
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "友": [
+    {
+      "jukugo": "友達",
+      "reading": "ともだち",
+      "meaning": "同じ年ごろや趣味で、親しくつきあう人。",
+      "example": "公園で友達といっしょに遊んだ。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友情",
+      "reading": "ゆうじょう",
+      "meaning": "友達を大切に思う気持ちや、友達どうしの強いきずな。",
+      "example": "困っている友達を助けて、友情が深まった。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親友",
+      "reading": "しんゆう",
+      "meaning": "特に心が通じ合い、一番親しい友達。",
+      "example": "私の親友は、いつも私を笑顔にしてくれる。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "級友",
+      "reading": "きゅうゆう",
+      "meaning": "同じ学級の友達。",
+      "example": "算数の問題でわからないことがあったので、級友に教えてもらった。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "友好",
+      "reading": "ゆうこう",
+      "meaning": "友達として仲良くすること。または、その関係。",
+      "example": "遠くの学校の生徒たちと文通をして、友好を深めた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "青": [
+    {
+      "jukugo": "青空",
+      "reading": "あおぞら",
+      "meaning": "雲の少ない晴れた日の空。",
+      "example": "今日の青空は、とてもきれいです。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青信号",
+      "reading": "あおしんごう",
+      "meaning": "進んでよいことを示す、緑色の交通信号。",
+      "example": "青信号になったら、手をあげて道路をわたろう。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青色",
+      "reading": "あおいろ",
+      "meaning": "空や海のような、青い色。",
+      "example": "わたしの一番好きな色は、青色です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青虫",
+      "reading": "あおむし",
+      "meaning": "チョウやガの幼虫で、体が緑色のもの。",
+      "example": "キャベツの葉っぱに、たくさんの青虫がついていました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "青葉",
+      "reading": "あおば",
+      "meaning": "初夏に出る、みずみずしい緑色の葉。",
+      "example": "新緑の季節には、山が青葉でいっぱいになります。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
