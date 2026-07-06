@@ -28881,5 +28881,47 @@
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "公": [
+    {
+      "jukugo": "公園",
+      "reading": "こうえん",
+      "meaning": "みんなが自由に遊んだり、休んだりできる場所。",
+      "example": "放課後、友達と公園で鬼ごっこをした。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公式",
+      "reading": "こうしき",
+      "meaning": "きちんと決められたやり方や規則。正式なこと。",
+      "example": "運動会には公式ルールがある。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公平",
+      "reading": "こうへい",
+      "meaning": "どちらかにかたよらず、みんなに同じように接すること。",
+      "example": "先生は、みんなに公平にチャンスを与えた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公共",
+      "reading": "こうきょう",
+      "meaning": "多くの人が共有し、利用するもの。みんなのためになること。",
+      "example": "バスや電車は公共の乗り物です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公開",
+      "reading": "こうかい",
+      "meaning": "秘密にせず、広くみんなに見せたり、知らせたりすること。",
+      "example": "今日は、学校の授業が一般に公開された。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
