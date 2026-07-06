@@ -29253,6 +29253,90 @@ const autoData = {
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "祭": [
+    {
+      "jukugo": "祭日",
+      "reading": "さいじつ",
+      "meaning": "国民の祝日として定められた日です。",
+      "example": "明日は祭日なので、学校はお休みです。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏祭り",
+      "reading": "なつまつり",
+      "meaning": "夏に行われるお祭りのことです。",
+      "example": "夜には家族で夏祭りに出かけ、たくさんの屋台を見ました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "秋祭り",
+      "reading": "あきまつり",
+      "meaning": "秋に行われるお祭りのことです。",
+      "example": "地域のお宮で秋祭りがあり、神輿が町を歩きました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文化祭",
+      "reading": "ぶんかさい",
+      "meaning": "学校などで、生徒や児童が絵や歌などの文化的な活動を発表する行事です。",
+      "example": "今年の文化祭では、みんなで力を合わせて劇を成功させました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体育祭",
+      "reading": "たいいくさい",
+      "meaning": "学校で行われる運動会のような行事です。",
+      "example": "体育祭では、友達と協力してリレーで一位になりました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "後": [
+    {
+      "jukugo": "午後",
+      "reading": "ごご",
+      "meaning": "昼の12時（正午）から夜までの時間。",
+      "example": "今日の午後は、友達と公園で遊ぶ予定だ。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前後",
+      "reading": "ぜんご",
+      "meaning": "前と後ろ。また、ある物の少し前と少し後。",
+      "example": "車に乗るときは、シートベルトの前後をよく確認しよう。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食後",
+      "reading": "しょくご",
+      "meaning": "ご飯を食べた後。",
+      "example": "食後にちゃんと歯みがきをする習慣をつけよう。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最後",
+      "reading": "さいご",
+      "meaning": "物事の一番終わり。いちばん後ろ。",
+      "example": "かけっこで最後になったけれど、最後まで一生懸命走った。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "後方",
+      "reading": "こうほう",
+      "meaning": "後ろの方向。うしろの方。",
+      "example": "ボールが後方に飛んでいったので、気をつけて追いかけた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
