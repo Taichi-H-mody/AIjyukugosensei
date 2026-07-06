@@ -29169,6 +29169,90 @@ const autoData = {
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "主": [
+    {
+      "jukugo": "主人",
+      "reading": "しゅじん",
+      "meaning": "その家の長。または、夫のこと。",
+      "example": "お父さんは、この家の主人です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主要",
+      "reading": "しゅよう",
+      "meaning": "いちばん大切で、なくてはならないこと。",
+      "example": "物語の主要な登場人物は、やさしい男の子です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "持ち主",
+      "reading": "もちぬし",
+      "meaning": "物を持っている人。その物の所有者。",
+      "example": "落とし物の持ち主が見つかって、みんな安心しました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "ご主人",
+      "reading": "ごしゅじん",
+      "meaning": "他人の夫を敬って言う言葉。お店で客の男性を呼ぶときにも使います。",
+      "example": "お店の人が、「こちらがご主人さまの商品です」と言いました。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主人公",
+      "reading": "しゅじんこう",
+      "meaning": "物語の中心となる登場人物。",
+      "example": "このアニメの主人公は、とてもゆうかんな女の子です。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "広": [
+    {
+      "jukugo": "広場",
+      "reading": "ひろば",
+      "meaning": "広い場所。人々が集まって遊んだり、休んだりする広い土地のこと。",
+      "example": "公園の広場で友達と鬼ごっこをした。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広告",
+      "reading": "こうこく",
+      "meaning": "商品やサービス、イベントなどを多くの人に知らせて、買ってもらったり参加してもらったりするための宣伝。",
+      "example": "テレビで新しいゲームの広告を見たよ。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広大",
+      "reading": "こうだい",
+      "meaning": "とても広々としていること。ものすごく大きいこと。",
+      "example": "宇宙は広大な世界で、まだまだ知らないことがたくさんある。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広葉樹",
+      "reading": "こうようじゅ",
+      "meaning": "葉っぱが平たくて広い形の木。モミジやサクラなどがこれにあたる。",
+      "example": "秋になると、広葉樹の葉っぱが赤や黄色に色づく。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広報",
+      "reading": "こうほう",
+      "meaning": "多くの人に情報を広く知らせること。また、そのための活動や、情報を載せた紙や冊子のこと。",
+      "example": "学校の広報誌には、運動会の写真がたくさん載っていた。",
+      "addedDate": "2026-07-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
