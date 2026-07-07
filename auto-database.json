@@ -29329,5 +29329,47 @@
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "切": [
+    {
+      "jukugo": "切手",
+      "reading": "きって",
+      "meaning": "手紙などを送る時に貼る、料金を払ったことを示す小さな紙。",
+      "example": "おばあちゃんに手紙を送るために、切手を貼りました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大切",
+      "reading": "たいせつ",
+      "meaning": "とても大事なこと、失くしたり壊したりしてはいけないこと。",
+      "example": "友達からもらったプレゼントは、とても大切にしています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "締切",
+      "reading": "しめきり",
+      "meaning": "何かを提出したり、申し込んだりする最後の期限。",
+      "example": "夏休みの宿題の締切は、来週の金曜日です。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "親切",
+      "reading": "しんせつ",
+      "meaning": "人のことを思いやって、優しく接すること。",
+      "example": "困っている人に親切にすると、みんながうれしい気持ちになります。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "切符",
+      "reading": "きっぷ",
+      "meaning": "電車やバスなどに乗る時に使う、料金を払ったことを示す紙やカード。",
+      "example": "駅で切符を買って、電車に乗りました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
