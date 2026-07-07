@@ -29136,14 +29136,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "助け合い",
-      "reading": "たすけあい",
-      "meaning": "困っているときにお互いに助け合うこと。",
-      "example": "困っている友だちとは、助け合いの気持ちが大切だ。",
-      "addedDate": "2026-07-06",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "救助",
       "reading": "きゅうじょ",
       "meaning": "危険な状態にある人や物を助け出すこと。",
@@ -29182,22 +29174,6 @@
       "reading": "しゅよう",
       "meaning": "いちばん大切で、なくてはならないこと。",
       "example": "物語の主要な登場人物は、やさしい男の子です。",
-      "addedDate": "2026-07-06",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "持ち主",
-      "reading": "もちぬし",
-      "meaning": "物を持っている人。その物の所有者。",
-      "example": "落とし物の持ち主が見つかって、みんな安心しました。",
-      "addedDate": "2026-07-06",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "ご主人",
-      "reading": "ごしゅじん",
-      "meaning": "他人の夫を敬って言う言葉。お店で客の男性を呼ぶときにも使います。",
-      "example": "お店の人が、「こちらがご主人さまの商品です」と言いました。",
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     },
@@ -29258,22 +29234,6 @@
       "reading": "さいじつ",
       "meaning": "国民の祝日として定められた日です。",
       "example": "明日は祭日なので、学校はお休みです。",
-      "addedDate": "2026-07-06",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "夏祭り",
-      "reading": "なつまつり",
-      "meaning": "夏に行われるお祭りのことです。",
-      "example": "夜には家族で夏祭りに出かけ、たくさんの屋台を見ました。",
-      "addedDate": "2026-07-06",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "秋祭り",
-      "reading": "あきまつり",
-      "meaning": "秋に行われるお祭りのことです。",
-      "example": "地域のお宮で秋祭りがあり、神輿が町を歩きました。",
       "addedDate": "2026-07-06",
       "addedBy": "discord-agent"
     },
