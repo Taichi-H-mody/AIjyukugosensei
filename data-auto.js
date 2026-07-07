@@ -29499,6 +29499,82 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "国": [
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "日本語の読み書きや言葉の使い方を学ぶ教科のことです。",
+      "example": "学校で国語の授業をがんばっています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外国",
+      "reading": "がいこく",
+      "meaning": "自分の国以外の、ほかの国のことです。",
+      "example": "いつか外国へ旅行に行ってみたいです。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全国",
+      "reading": "ぜんこく",
+      "meaning": "国のすべて、国じゅうすみずみまでのことです。",
+      "example": "全国からたくさんの選手がこの大会に集まりました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国歌",
+      "reading": "こっか",
+      "meaning": "その国を代表する歌のことです。",
+      "example": "入学式でみんなで国歌を歌いました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国土",
+      "reading": "こくど",
+      "meaning": "国が所有している土地のことです。",
+      "example": "日本の国土はせまいですが、自然ゆたかな場所がたくさんあります。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "考": [
+    {
+      "jukugo": "思考",
+      "reading": "しこう",
+      "meaning": "物事を深く考えること。",
+      "example": "算数の問題を解くときは、しっかり**思考**を働かせることが大切だ。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "参考",
+      "reading": "さんこう",
+      "meaning": "何かを決めたり、調べたりするときの助けにすること。",
+      "example": "夏休みの自由研究のテーマを決めるために、友達のアイデアを**参考**にした。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "考案",
+      "reading": "こうあん",
+      "meaning": "新しい計画や工夫などを考え出すこと。",
+      "example": "遠足のしおりを作る係になって、みんなが楽しめるゲームを**考案**した。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "熟考",
+      "reading": "じゅっこう",
+      "meaning": "物事をじっくりと、深く考えること。",
+      "example": "大事なことを決める前には、時間をかけて**熟考**するようにしている。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
