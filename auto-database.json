@@ -29413,5 +29413,89 @@
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "相": [
+    {
+      "jukugo": "相手",
+      "reading": "あいて",
+      "meaning": "向かい合っている人や、対戦する人のこと。",
+      "example": "ドッジボールで、強い相手に勝つことができた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "相談",
+      "reading": "そうだん",
+      "meaning": "困ったことや心配なことを、他の人に話して意見を聞いたり、解決策を考えたりすること。",
+      "example": "宿題でわからないことがあったら、先生に相談しよう。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "首相",
+      "reading": "しゅしょう",
+      "meaning": "国の政治の中心となる役職の人。内閣総理大臣のこと。",
+      "example": "ニュースで、新しい首相が選ばれたと報道されていた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "相撲",
+      "reading": "すもう",
+      "meaning": "日本の伝統的な格闘技。まわしを締めた二人の力士が土俵の上で押し合って勝負する。",
+      "example": "テレビで相撲の試合を家族みんなで見た。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "相性",
+      "reading": "あいしょう",
+      "meaning": "ものや人同士が、互いにうまく合うか合わないかということ。",
+      "example": "私とこのキャラクターは、ゲームでの相性がとても良い。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "首": [
+    {
+      "jukugo": "首都",
+      "reading": "しゅと",
+      "meaning": "国のいちばん大事なまち。国の政治の中心となるまち。",
+      "example": "日本の首都は東京です。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "首相",
+      "reading": "しゅしょう",
+      "meaning": "国の政治のリーダー。内閣の責任者。",
+      "example": "首相は国会で大切な話をします。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "首位",
+      "reading": "しゅい",
+      "meaning": "いちばん上の順位や地位。",
+      "example": "運動会のリレーで首位を走りました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手首",
+      "reading": "てくび",
+      "meaning": "腕と手のつなぎ目の部分。",
+      "example": "準備運動で手首をよく回します。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "足首",
+      "reading": "あしくび",
+      "meaning": "足とふくらはぎのつなぎ目の部分。",
+      "example": "ジャンプして足首をひねってしまった。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
