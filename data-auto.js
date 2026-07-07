@@ -29827,6 +29827,48 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "交": [
+    {
+      "jukugo": "交通",
+      "reading": "こうつう",
+      "meaning": "人や乗り物が行き来すること。",
+      "example": "電車は、便利な交通手段です。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交番",
+      "reading": "こうばん",
+      "meaning": "町の中で、おまわりさんが安全を守るためにいる小さな建物。",
+      "example": "道に迷ったら、交番のおまわりさんに聞いてみよう。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交換",
+      "reading": "こうかん",
+      "meaning": "ものをとりかえたり、意見を出し合ったりすること。",
+      "example": "友達とカードを交換して遊んだ。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交差点",
+      "reading": "こうさてん",
+      "meaning": "道がいくつも交わるところ。",
+      "example": "交差点では、まわりの車によく注意しましょう。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交代",
+      "reading": "こうたい",
+      "meaning": "かわりに別の人がその役目をすること。",
+      "example": "ドッジボールの試合で、友達と交代して守備についた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
