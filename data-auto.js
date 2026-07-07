@@ -29869,6 +29869,48 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "食": [
+    {
+      "jukugo": "食事",
+      "reading": "しょくじ",
+      "meaning": "ごはんを食べること。また、その食べるもの。",
+      "example": "家族みんなで、夜の食事をしました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "給食",
+      "reading": "きゅうしょく",
+      "meaning": "学校などで、きまった時間にみんなで食べるごはん。",
+      "example": "今日の給食は、ぼくの大好きなカレーライスでした。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食品",
+      "reading": "しょくひん",
+      "meaning": "食べられる物のこと。",
+      "example": "スーパーには、いろいろな食品が売っています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食卓",
+      "reading": "しょくたく",
+      "meaning": "ごはんを食べるときに使うテーブル。",
+      "example": "温かい料理が食卓に並び、みんなで食べました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食物",
+      "reading": "しょくもつ",
+      "meaning": "生き物が体を動かすために食べる物のこと。食べ物。",
+      "example": "人間は、いろいろな食物を食べて生きています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
