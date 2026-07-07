@@ -29659,6 +29659,90 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "太": [
+    {
+      "jukugo": "太陽",
+      "reading": "たいよう",
+      "meaning": "地球のまわりを回っている、自分で光り輝く星。昼間、空に見える。",
+      "example": "太陽の光を浴びて、元気いっぱいに遊んだ。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "太鼓",
+      "reading": "たいこ",
+      "meaning": "皮を張った枠を叩いて音を出す楽器。お祭りなどで使われることが多い。",
+      "example": "お祭りの会場から太鼓の音が聞こえてきた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "太平洋",
+      "reading": "たいへいよう",
+      "meaning": "世界で一番広い海。日本の東側に広がっている。",
+      "example": "日本列島は太平洋に面している国だ。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "太字",
+      "reading": "ふとじ",
+      "meaning": "目立つように、線の太い文字で書くこと。また、その文字。",
+      "example": "テストの大事な部分は太字で書かれていた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "太巻き",
+      "reading": "ふとまき",
+      "meaning": "大きな海苔で、いろいろな具材を巻いたお寿司。",
+      "example": "お弁当に母が作ってくれた太巻きはとてもおいしかった。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "鉄": [
+    {
+      "jukugo": "鉄棒",
+      "reading": "てつぼう",
+      "meaning": "体育で使う、鉄製の横棒がついた運動器具。",
+      "example": "公園の鉄棒で逆上がりを練習しました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉄道",
+      "reading": "てつどう",
+      "meaning": "列車が走るための道や、列車を使って人や物を運ぶ交通機関。",
+      "example": "鉄道に乗って遠足に行きました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地下鉄",
+      "reading": "ちかてつ",
+      "meaning": "地下を走る鉄道。特に大都市でよく利用される。",
+      "example": "東京では地下鉄がたくさん走っています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉄分",
+      "reading": "てつぶん",
+      "meaning": "体の健康に必要な栄養素の一つで、特に血液を作るのに大切。",
+      "example": "ほうれん草には鉄分が多く含まれています。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "鉄の材料を使って作られた橋。",
+      "example": "長い鉄橋を列車が渡っていきました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
