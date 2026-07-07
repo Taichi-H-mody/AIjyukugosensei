@@ -29573,5 +29573,89 @@
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "何": [
+    {
+      "jukugo": "何年",
+      "reading": "なんねん",
+      "meaning": "いくつの年。また、何歳。",
+      "example": "今年は小学校に入学して、**何年**目になりますか？",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "何月",
+      "reading": "なんがつ",
+      "meaning": "どの月か尋ねるときに使う言葉。",
+      "example": "今日は**何月**何日ですか？",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "何日",
+      "reading": "なんにち",
+      "meaning": "どの日のことか、また、その月の第何日目か尋ねるときに使う言葉。",
+      "example": "来週の遠足は**何日**か覚えていますか？",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "何時",
+      "reading": "なんじ",
+      "meaning": "時刻を尋ねるときに使う言葉。",
+      "example": "今日の学校は**何時**に終わりますか？",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "何人",
+      "reading": "なんにん",
+      "meaning": "いくらの数の人か尋ねるときに使う言葉。",
+      "example": "このクラスには、男の子が**何人**いますか？",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "反": [
+    {
+      "jukugo": "反対",
+      "reading": "はんたい",
+      "meaning": "意見や行動などが逆であること。",
+      "example": "妹はケーキがいいと言ったけど、ぼくはプリンがいいと反対した。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "違反",
+      "reading": "いはん",
+      "meaning": "決められたきまりやルールを破ること。",
+      "example": "交通ルールを違反すると、事故につながるから気をつけてね。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "反応",
+      "reading": "はんのう",
+      "meaning": "何かに対して、言葉や行動で答えを出すこと。",
+      "example": "先生の質問に、みんなが元気に反応した。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "反射",
+      "reading": "はんしゃ",
+      "meaning": "光や音がはね返ること。また、体の働きで無意識に動き出すこと。",
+      "example": "鏡に光が反射して、まぶしかった。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "反省",
+      "reading": "はんせい",
+      "meaning": "自分の行いをふり返って、悪かった点を認めて、次からは直そうと思うこと。",
+      "example": "友達とけんかをして、自分の悪かったところを反省した。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
