@@ -29743,6 +29743,90 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "工": [
+    {
+      "jukugo": "工事",
+      "reading": "こうじ",
+      "meaning": "建物や道路などを作ったり、直したりすること。",
+      "example": "駅前で新しいビルの工事が進んでいます。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "工場",
+      "reading": "こうじょう",
+      "meaning": "品物を作るための建物や場所。",
+      "example": "見学に行ったお菓子の工場では、たくさんのロボットが働いていました。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大工",
+      "reading": "だいく",
+      "meaning": "木材を使って家を建てたり修理したりする職人。",
+      "example": "おじいちゃんは大工さんで、いつも木の良いにおいがします。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "加工",
+      "reading": "かこう",
+      "meaning": "材料に手を加えて、ちがう物を作り変えること。",
+      "example": "牛乳を加工して、チーズやバターが作られます。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "細工",
+      "reading": "さいく",
+      "meaning": "こまかい作業をして物を作ること。また、工夫すること。",
+      "example": "お祭りで見かけるアメ細工は、とてもきれいだね。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "指": [
+    {
+      "jukugo": "指先",
+      "reading": "ゆびさき",
+      "meaning": "指のいちばん先の部分。",
+      "example": "絵の具で指先が真っ赤になった。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指図",
+      "reading": "さしず",
+      "meaning": "人に命令して、あることをさせること。",
+      "example": "先生の指図で、みんなで机を運んだ。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指定",
+      "reading": "してい",
+      "meaning": "特定のものや場所、時間などを決めること。",
+      "example": "体育館シューズは、指定の場所に置くこと。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "指導",
+      "reading": "しどう",
+      "meaning": "目標を達成できるように教え導くこと。",
+      "example": "先生が、絵の描き方をやさしく指導してくれた。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目指す",
+      "reading": "めざす",
+      "meaning": "目標や方向を定めて、そこに進むこと。",
+      "example": "彼は将来、サッカー選手になることを目指している。",
+      "addedDate": "2026-07-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
