@@ -30181,6 +30181,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "人": [
+    {
+      "jukugo": "人間",
+      "reading": "にんげん",
+      "meaning": "考える力や感情を持つ生き物のこと。",
+      "example": "人間は、地球の環境を大切にしないといけない。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人気",
+      "reading": "にんき",
+      "meaning": "多くの人に好かれたり、注目されたりすること。",
+      "example": "あのアイドルグループは、子どもたちにとても人気がある。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大人",
+      "reading": "おとな",
+      "meaning": "体が大きくなり、責任を持つようになった人のこと。",
+      "example": "早く大人になって、自分でいろんなことを決めたいな。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名人",
+      "reading": "めいじん",
+      "meaning": "ある分野で、特別に優れた技術や知識を持つ人のこと。",
+      "example": "将棋の大会で、おじいちゃんは名人の技を見せてくれた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "他人",
+      "reading": "たにん",
+      "meaning": "自分とは違う、別の人のこと。",
+      "example": "困っている他人には、進んで手を差し伸べよう。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
