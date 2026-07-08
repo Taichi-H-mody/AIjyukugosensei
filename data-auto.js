@@ -30021,6 +30021,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "直": [
+    {
+      "jukugo": "正直",
+      "reading": "しょうじき",
+      "meaning": "嘘をついたりごまかしたりしないで、本当のことを言うこと。",
+      "example": "正直に自分の気持ちを話しました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直線",
+      "reading": "ちょくせん",
+      "meaning": "まっすぐに伸びた線。",
+      "example": "定規を使って、まっすぐな直線を引きましょう。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直後",
+      "reading": "ちょくご",
+      "meaning": "何かが起こったすぐあとの時間。",
+      "example": "雨がやんだ直後に、虹が出ました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直接",
+      "reading": "ちょくせつ",
+      "meaning": "間に何もはさまないで、じかに物事を行うこと。",
+      "example": "先生に直接、質問をしました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直進",
+      "reading": "ちょくしん",
+      "meaning": "まっすぐ前に進むこと。",
+      "example": "信号が青になったら、この道を直進してください。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
