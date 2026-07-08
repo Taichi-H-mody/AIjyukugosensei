@@ -30307,6 +30307,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "柱": [
+    {
+      "jukugo": "電柱",
+      "reading": "でんちゅう",
+      "meaning": "電線を支えるために道に立てられている太い柱。",
+      "example": "道にはたくさんの**電柱**がまっすぐ並んでいる。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大黒柱",
+      "reading": "だいこくばしら",
+      "meaning": "家や建物の一番中心にある、太くて大切な柱。転じて、家族やグループの中心となってがんばる人のこと。",
+      "example": "この古いお寺は、太い**大黒柱**にしっかり支えられている。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "柱時計",
+      "reading": "はしらどけい",
+      "meaning": "壁や柱にかける、ふりこのついた大きな時計。",
+      "example": "おばあちゃんの家には、ボンボンと音が鳴る古い**柱時計**がある。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火柱",
+      "reading": "ひばしら",
+      "meaning": "炎が柱のようにまっすぐ高く立ち上る様子。",
+      "example": "キャンプファイヤーで、大きな**火柱**が空に向かって伸びた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "門柱",
+      "reading": "もんちゅう",
+      "meaning": "門を支えるために、門の両側に立てられている柱。",
+      "example": "学校の入り口には、校名が書かれた白い**門柱**が立っている。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
