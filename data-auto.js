@@ -29895,6 +29895,48 @@ const autoData = {
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "勝": [
+    {
+      "jukugo": "優勝",
+      "reading": "ゆうしょう",
+      "meaning": "試合などで一番になって勝つこと。",
+      "example": "運動会のリレーで優勝することができました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝利",
+      "reading": "しょうり",
+      "meaning": "試合や戦いに勝つこと。",
+      "example": "チームは、つぎの試合での勝利をめざしてがんばっています。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "勝ち負けをきめること。きそいあうこと。",
+      "example": "じゃんけんで勝負をきめよう。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "必勝",
+      "reading": "ひっしょう",
+      "meaning": "必ず勝つこと。きっと勝つぞという強い気持ち。",
+      "example": "ぼくたちは、クラス対抗ドッジボール大会で必勝をちかい合いました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勝敗",
+      "reading": "しょうはい",
+      "meaning": "勝ちと負けのこと。",
+      "example": "今日の試合の勝敗は、最後までわからなかったね。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
