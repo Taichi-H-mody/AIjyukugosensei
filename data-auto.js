@@ -30139,6 +30139,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "使": [
+    {
+      "jukugo": "使用",
+      "reading": "しよう",
+      "meaning": "物や人を使うこと。",
+      "example": "この道具は、初めて使用します。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使い道",
+      "reading": "つかいみち",
+      "meaning": "物を使う目的や方法。",
+      "example": "おこづかいの使い道を考えよう。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使い方",
+      "reading": "つかいかた",
+      "meaning": "物事を正しく使う方法。",
+      "example": "新しいゲーム機の使い方を教えてもらった。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使者",
+      "reading": "ししゃ",
+      "meaning": "命令や伝言を伝える人。",
+      "example": "王様からの使者が村へやってきた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使い捨て",
+      "reading": "つかいすて",
+      "meaning": "一度使ったら捨てること。",
+      "example": "キャンプでは使い捨てのお皿が便利です。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
