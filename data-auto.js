@@ -29979,6 +29979,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "死": [
+    {
+      "jukugo": "死語",
+      "reading": "しご",
+      "meaning": "もう使われなくなった言葉のこと。",
+      "example": "昔流行った「ちょべりば」という言葉は、今ではもう**死語**になっている。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "死守",
+      "reading": "ししゅ",
+      "meaning": "命がけで、またはとても大切に守り抜くこと。",
+      "example": "サッカーの試合で、ゴールキーパーが相手のシュートからゴールを**死守**した。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "死神",
+      "reading": "しにがみ",
+      "meaning": "人を死の世界へ導くと言われる、想像上の神様や魔物のこと。",
+      "example": "物語に出てくる**死神**は、大きな鎌を持っていることが多い。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戦死",
+      "reading": "せんし",
+      "meaning": "戦争で命を落とすこと。",
+      "example": "歴史の授業で、昔の戦争でたくさんの兵士が**戦死**したことを学んだ。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "病死",
+      "reading": "びょうし",
+      "meaning": "病気が原因で命を落とすこと。",
+      "example": "昔は、今では治せる病気でも**病死**してしまう人がたくさんいた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
