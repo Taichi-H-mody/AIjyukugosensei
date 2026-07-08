@@ -30221,5 +30221,47 @@
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "事": [
+    {
+      "jukugo": "仕事",
+      "reading": "しごと",
+      "meaning": "生活のためや、するべきこと。",
+      "example": "将来は、人の役に立つ**仕事**がしたいです。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "用事",
+      "reading": "ようじ",
+      "meaning": "やらなければならないこと。",
+      "example": "今日はお母さんに頼まれた**用事**があります。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出来事",
+      "reading": "できごと",
+      "meaning": "起こったこと。",
+      "example": "昨日、学校で面白い**出来事**がありました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大事",
+      "reading": "だいじ",
+      "meaning": "とても大切なこと。また、大切に扱うこと。",
+      "example": "友達との約束は**大事**に守りましょう。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行事",
+      "reading": "ぎょうじ",
+      "meaning": "学校などで、決められた手順で行う催し物。",
+      "example": "運動会は、小学校の楽しい**行事**の一つです。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 }
