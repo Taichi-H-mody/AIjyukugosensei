@@ -29937,6 +29937,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "度": [
+    {
+      "jukugo": "温度",
+      "reading": "おんど",
+      "meaning": "物体の冷たさや暖かさの程度を表す言葉です。",
+      "example": "今日の気温は高いので、水泳プールの水もぬるい**温度**でした。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今度",
+      "reading": "こんど",
+      "meaning": "近い将来や、次の機会を表す言葉です。",
+      "example": "**今度**の日曜日に、家族みんなで動物園に行く予定です。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "何度",
+      "reading": "なんど",
+      "meaning": "回数や程度をたずねるときに使う言葉です。",
+      "example": "この算数の問題はむずかしくて、**何度**考えても答えがわかりません。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支度",
+      "reading": "したく",
+      "meaning": "何かを始めるために準備をすることです。",
+      "example": "遠足に行く前に、お弁当の**支度**を手伝いました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "角度",
+      "reading": "かくど",
+      "meaning": "二つの線が交わってできる開きの大きさのことです。",
+      "example": "算数の時間に、分度器を使って三角形の**角度**をはかりました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
