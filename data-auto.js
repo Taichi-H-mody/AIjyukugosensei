@@ -30265,6 +30265,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "中": [
+    {
+      "jukugo": "一日中",
+      "reading": "いちにちじゅう",
+      "meaning": "朝から晩まで、まる一日。",
+      "example": "今日は、公園で友達と一日中遊んだ。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真ん中",
+      "reading": "まんなか",
+      "meaning": "両側から等しい距離にある場所。中心。",
+      "example": "大きな画用紙の真ん中に、家を描いた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "途中",
+      "reading": "とちゅう",
+      "meaning": "目的地へ向かう間や、物事が行われている間。",
+      "example": "学校に行く途中で、きれいな花を見つけた。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水中",
+      "reading": "すいちゅう",
+      "meaning": "水の中。",
+      "example": "水族館で、水中を気持ちよさそうに泳ぐ魚たちを見た。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜中",
+      "reading": "よなか",
+      "meaning": "夜の真ん中ごろ。深夜。",
+      "example": "夜中に目が覚めて、トイレに行った。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
