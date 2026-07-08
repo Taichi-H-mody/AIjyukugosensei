@@ -30349,6 +30349,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "土": [
+    {
+      "jukugo": "土地",
+      "reading": "とち",
+      "meaning": "家を建てたり、作物を育てたりする地面のこと。",
+      "example": "おじいちゃんの家は広い土地に建っています。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "粘土",
+      "reading": "ねんど",
+      "meaning": "水と混ぜるとやわらかくなり、好きな形にできる土。乾くと固まります。",
+      "example": "図工の時間に粘土で動物を作りました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "土曜",
+      "reading": "どよう",
+      "meaning": "一週間のうち、金曜日の次の日で、学校がお休みのことが多い日。",
+      "example": "土曜日は家族と公園で遊ぶ予定です。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "国土",
+      "reading": "こくど",
+      "meaning": "一つの国がもっている土地全部のこと。",
+      "example": "日本の国土は多くの島々からできています。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "土足",
+      "reading": "どそく",
+      "meaning": "靴をはいたままいること。特に、建物の中などで靴をぬがずにいること。",
+      "example": "日本の家では土足で部屋に上がるのはマナー違反です。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
