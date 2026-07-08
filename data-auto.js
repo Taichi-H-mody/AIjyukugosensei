@@ -30097,6 +30097,48 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "雲": [
+    {
+      "jukugo": "白雲",
+      "reading": "はくうん",
+      "meaning": "白くてきれいな雲のこと。",
+      "example": "青い空に白雲がゆっくりと流れていきました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入道雲",
+      "reading": "にゅうどうぐも",
+      "meaning": "夏の暑い日に、もくもくと高く盛り上がる大きな雲のこと。夕立を降らせることが多い。",
+      "example": "夏の空には、大きな入道雲がもくもくとわいていました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雲海",
+      "reading": "うんかい",
+      "meaning": "山の上から見下ろすと、雲が海のように広がる美しい景色のこと。",
+      "example": "朝早く山に登ったら、目の前に広がる雲海に感動しました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雲行き",
+      "reading": "くもゆき",
+      "meaning": "空の雲の様子で、これから天気がどうなるかを表す言葉。",
+      "example": "だんだんと空の雲行きがあやしくなってきたので、急いで家に帰りました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薄雲",
+      "reading": "うすぐも",
+      "meaning": "薄く広がって、向こうが透けて見えるような雲のこと。",
+      "example": "空には薄雲が広がっていましたが、お日様はまだ見えていました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
