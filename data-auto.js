@@ -30063,6 +30063,40 @@ const autoData = {
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "州": [
+    {
+      "jukugo": "本州",
+      "reading": "ほんしゅう",
+      "meaning": "日本で一番大きい島のことです。",
+      "example": "日本には、本州、北海道、九州、四国という大きな島があります。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "九州",
+      "reading": "きゅうしゅう",
+      "meaning": "日本の南のほうにある大きな島のことです。",
+      "example": "九州には、あたたかい気候を生かしたおいしい食べ物がたくさんあります。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "州都",
+      "reading": "しゅうと",
+      "meaning": "「州」という大きな区切りの地域で、政治の中心になっている町のことです。",
+      "example": "アメリカのカリフォルニア州の州都は、サクラメントという町です。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "州境",
+      "reading": "しゅうざかい",
+      "meaning": "州と州とのさかい目のことです。",
+      "example": "旅行で、いくつかの州境をこえて遠くまで行くことができました。",
+      "addedDate": "2026-07-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
