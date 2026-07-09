@@ -30475,5 +30475,89 @@
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "虫": [
+    {
+      "jukugo": "虫歯",
+      "reading": "むしば",
+      "meaning": "歯が溶けて穴があいてしまう病気のこと。",
+      "example": "毎晩歯を磨かないと、虫歯になってしまうよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昆虫",
+      "reading": "こんちゅう",
+      "meaning": "体が頭、胸、お腹の三つの部分に分かれていて、足が六本ある生き物の仲間。",
+      "example": "夏休みに昆虫採集に出かけて、カブトムシを見つけました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "虫眼鏡",
+      "reading": "むしめがね",
+      "meaning": "小さなものを大きく見せてくれる道具。",
+      "example": "虫眼鏡でアリを観察すると、足がよく見えた。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "害虫",
+      "reading": "がいちゅう",
+      "meaning": "農作物や人間に悪い影響を与える虫。",
+      "example": "畑の野菜に害虫がついていないか、毎日見回りをしている。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "益虫",
+      "reading": "えきちゅう",
+      "meaning": "人間や農業にとって良い働きをする虫。",
+      "example": "てんとう虫はアブラムシを食べてくれる益虫だよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "苦": [
+    {
+      "jukugo": "苦労",
+      "reading": "くろう",
+      "meaning": "つらいことや大変な思いをすること。骨を折って努力すること。",
+      "example": "お父さんは家族のために毎日一生懸命に働いて、たくさんの**苦労**をしています。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苦味",
+      "reading": "にがみ",
+      "meaning": "苦い味のこと。",
+      "example": "この薬は**苦味**があるけれど、病気を治すためにがんばって飲もう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苦痛",
+      "reading": "くつう",
+      "meaning": "体や心に感じるつらい痛み。",
+      "example": "転んでひざをすりむいてしまい、**苦痛**で涙が出そうになった。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苦戦",
+      "reading": "くせん",
+      "meaning": "相手が強くて、なかなか勝てない難しい戦い。",
+      "example": "今日のサッカーの試合は、強いチームとあたって**苦戦**したけれど、最後まであきらめなかった。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "苦笑",
+      "reading": "くしょう",
+      "meaning": "困ったときや、どうしようもないときに、思わず出る困ったような笑い。",
+      "example": "弟がまた失敗したので、お母さんは「やれやれ」と**苦笑**していた。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
