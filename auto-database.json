@@ -30349,5 +30349,47 @@
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "形": [
+    {
+      "jukugo": "形状",
+      "reading": "けいじょう",
+      "meaning": "ものの形や様子。",
+      "example": "雲の**形状**はいつも変わっておもしろいね。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図形",
+      "reading": "ずけい",
+      "meaning": "点や線で表された形。",
+      "example": "算数の授業で、三角形や四角形などの**図形**を習いました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人形",
+      "reading": "にんぎょう",
+      "meaning": "人のかたちをまねて作られたもの。",
+      "example": "お祭りで買ったかわいい**人形**を部屋に飾りました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変形",
+      "reading": "へんけい",
+      "meaning": "形が変わること。",
+      "example": "このロボットは車からロボットに**変形**できるんだ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体形",
+      "reading": "たいけい",
+      "meaning": "体の形や大きさ。",
+      "example": "運動をすると、健康な**体形**を保てます。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
