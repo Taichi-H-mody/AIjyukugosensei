@@ -30559,5 +30559,81 @@
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "記": [
+    {
+      "jukugo": "日記",
+      "reading": "にっき",
+      "meaning": "その日にあった出来事や思ったことを書き残すこと。",
+      "example": "毎晩、楽しかったことを日記に書いています。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記録",
+      "reading": "きろく",
+      "meaning": "物事や出来事を書き残して、後まで伝わるようにすること。また、その書き残したもの。",
+      "example": "運動会で、友達が走るのがとても速くて、新記録を出しました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記事",
+      "reading": "きじ",
+      "meaning": "新聞や雑誌に書かれている、いろいろな情報や出来事の話。",
+      "example": "今日の新聞に、動物園の新しい赤ちゃんの記事が載っていました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗記",
+      "reading": "あんき",
+      "meaning": "本を見ないで言えるように、言葉や数字などを覚えること。",
+      "example": "明日のテストのために、漢字を一生懸命暗記しました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "記入",
+      "reading": "きにゅう",
+      "meaning": "書類などに必要なことを書き込むこと。",
+      "example": "名前と日付を、この紙に記入してください。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "宮": [
+    {
+      "jukugo": "宮殿",
+      "reading": "きゅうでん",
+      "meaning": "昔のお城や、王様などが住んでいたりするりっぱな建物。",
+      "example": "おとぎ話には、きらきら光る美しい宮殿が出てくるね。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "神宮",
+      "reading": "じんぐう",
+      "meaning": "日本で、特に位の高い神社の名前によく使われる言葉。",
+      "example": "伊勢神宮は、とても有名で大きなお宮だね。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宮崎",
+      "reading": "みやざき",
+      "meaning": "日本の南の方にある、九州地方の県の名前。",
+      "example": "宮崎県は、あたたかい気候でマンゴーが有名だよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宮中",
+      "reading": "きゅうちゅう",
+      "meaning": "天皇陛下や皇族の方々がお住まいになっている場所のこと。",
+      "example": "テレビで、天皇陛下が宮中で行事を行っているのを見たよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
