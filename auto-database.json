@@ -30391,5 +30391,89 @@
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "室": [
+    {
+      "jukugo": "教室",
+      "reading": "きょうしつ",
+      "meaning": "学校などで、先生が授業をする部屋。",
+      "example": "わたしたちは毎日、この**教室**で勉強しています。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理科室",
+      "reading": "りかしつ",
+      "meaning": "学校で、理科の実験や観察をするための部屋。",
+      "example": "明日は**理科室**で、植物の観察をします。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図書室",
+      "reading": "としょしつ",
+      "meaning": "本がたくさん置いてあって、借りたり読んだりできる部屋。",
+      "example": "放課後、**図書室**で新しい本を探しました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "室内",
+      "reading": "しつない",
+      "meaning": "部屋の中のこと。",
+      "example": "雨が降っていたので、**室内**で遊ぶことにしました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "温室",
+      "reading": "おんしつ",
+      "meaning": "ガラスなどで作られた、中の温度が高くなるようにした建物。主に植物を育てるのに使います。",
+      "example": "冬でも**温室**の中では、めずらしい花が咲いていました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "守": [
+    {
+      "jukugo": "留守",
+      "reading": "るす",
+      "meaning": "家に人がいないこと。",
+      "example": "お母さんは買い物に出かけて、家は今、留守です。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "お守り",
+      "reading": "おまもり",
+      "meaning": "神様や仏様にお願いして、悪いことから身を守るために持つもの。",
+      "example": "テストで良い点数をとれるように、お守りを持っていきました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "守備",
+      "reading": "しゅび",
+      "meaning": "野球やサッカーなどで、自分たちの陣地やゴールを守ること。",
+      "example": "彼はサッカーでゴールを守る守備の選手です。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "子守",
+      "reading": "こもり",
+      "meaning": "赤ちゃんや小さい子どもの世話をすること。",
+      "example": "妹がまだ小さいので、休日にはよく子守をします。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "守衛",
+      "reading": "しゅえい",
+      "meaning": "建物や場所を警備して、安全を守る仕事の人。",
+      "example": "学校の門のところに、毎日守衛さんが立っています。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
