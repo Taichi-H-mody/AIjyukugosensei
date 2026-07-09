@@ -30124,14 +30124,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "雲行き",
-      "reading": "くもゆき",
-      "meaning": "空の雲の様子で、これから天気がどうなるかを表す言葉。",
-      "example": "だんだんと空の雲行きがあやしくなってきたので、急いで家に帰りました。",
-      "addedDate": "2026-07-08",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "薄雲",
       "reading": "うすぐも",
       "meaning": "薄く広がって、向こうが透けて見えるような雲のこと。",
@@ -30150,34 +30142,10 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "使い道",
-      "reading": "つかいみち",
-      "meaning": "物を使う目的や方法。",
-      "example": "おこづかいの使い道を考えよう。",
-      "addedDate": "2026-07-08",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "使い方",
-      "reading": "つかいかた",
-      "meaning": "物事を正しく使う方法。",
-      "example": "新しいゲーム機の使い方を教えてもらった。",
-      "addedDate": "2026-07-08",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "使者",
       "reading": "ししゃ",
       "meaning": "命令や伝言を伝える人。",
       "example": "王様からの使者が村へやってきた。",
-      "addedDate": "2026-07-08",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "使い捨て",
-      "reading": "つかいすて",
-      "meaning": "一度使ったら捨てること。",
-      "example": "キャンプでは使い捨てのお皿が便利です。",
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     }
@@ -30272,14 +30240,6 @@ const autoData = {
       "reading": "いちにちじゅう",
       "meaning": "朝から晩まで、まる一日。",
       "example": "今日は、公園で友達と一日中遊んだ。",
-      "addedDate": "2026-07-08",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "真ん中",
-      "reading": "まんなか",
-      "meaning": "両側から等しい距離にある場所。中心。",
-      "example": "大きな画用紙の真ん中に、家を描いた。",
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
     },
