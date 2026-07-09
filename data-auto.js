@@ -30721,6 +30721,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "洋": [
+    {
+      "jukugo": "海洋",
+      "reading": "かいよう",
+      "meaning": "地球をおおう、広くて大きな海のこと。",
+      "example": "船は、はるかな海洋をめざして進みました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "西洋",
+      "reading": "せいよう",
+      "meaning": "日本から見て西のほうにある国々のこと。ヨーロッパやアメリカなど。",
+      "example": "昔、日本には西洋からいろいろな文化が伝わってきました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東洋",
+      "reading": "とうよう",
+      "meaning": "日本から見て東のほうにある国々のこと。主にアジアの国々。",
+      "example": "東洋の歴史に興味を持って、本を読みました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洋食",
+      "reading": "ようしょく",
+      "meaning": "西洋から伝わった料理のこと。カレーライスやハンバーグなどが有名です。",
+      "example": "今日の給食は、みんなが大好きな洋食でした。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洋服",
+      "reading": "ようふく",
+      "meaning": "シャツやズボン、スカートなど、西洋風の服のこと。",
+      "example": "新しい洋服を着て、お出かけするのが楽しみです。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
