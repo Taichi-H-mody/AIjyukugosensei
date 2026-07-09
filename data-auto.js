@@ -30679,6 +30679,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "消": [
+    {
+      "jukugo": "消化",
+      "reading": "しょうか",
+      "meaning": "食べた物を体の中で小さく分解すること。",
+      "example": "ご飯を食べたら、お腹の中で食べ物が**消化**されるんだ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消火",
+      "reading": "しょうか",
+      "meaning": "火事を消し止めること。",
+      "example": "火事の時には、消防士さんが一生懸命**消火**活動をするよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "鉛筆で書いた文字などを消すための文房具。",
+      "example": "間違えて書いた字は、**消しゴム**できれいに消そう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消灯",
+      "reading": "しょうとう",
+      "meaning": "電灯や明かりを消すこと。",
+      "example": "夜寝る時間になったら、部屋の**消灯**をして静かにしよう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消費",
+      "reading": "しょうひ",
+      "meaning": "物やお金、エネルギーなどを使うこと。",
+      "example": "新しいゲームを買うために、おこづかいを**消費**した。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
