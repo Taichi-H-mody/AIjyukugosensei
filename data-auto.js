@@ -30637,6 +30637,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "医": [
+    {
+      "jukugo": "医者",
+      "reading": "いしゃ",
+      "meaning": "病気やけがの人を治す仕事をする人。",
+      "example": "熱が出たので、お母さんと医者に行った。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "医師",
+      "reading": "いし",
+      "meaning": "医者と同じで、病気やけがの人を治す資格を持つ人のこと。",
+      "example": "将来の夢は、困っている人を助ける医師になることです。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "医学",
+      "reading": "いがく",
+      "meaning": "人の体や病気、治療のしかたなどについて研究する学問。",
+      "example": "医学が進歩したおかげで、色々な病気が治せるようになりました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "獣医",
+      "reading": "じゅうい",
+      "meaning": "犬や猫などの動物の病気やけがを治す医者。",
+      "example": "飼っているハムスターの具合が悪くなったので、獣医さんに連れて行った。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女医",
+      "reading": "じょい",
+      "meaning": "女性の医者。",
+      "example": "あの病院には、優しくて話しやすい女医さんがいます。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
