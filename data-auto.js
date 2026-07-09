@@ -30763,6 +30763,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "式": [
+    {
+      "jukugo": "入学式",
+      "reading": "にゅうがくしき",
+      "meaning": "学校に入るときに行われるお祝いの儀式。",
+      "example": "わたしの小学校の入学式は、さくらのさくきせつでした。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "卒業式",
+      "reading": "そつぎょうしき",
+      "meaning": "学校を終えるときに行われる、お別れと新しい門出を祝う儀式。",
+      "example": "六年生の卒業式で、お兄ちゃんが代表であいさつをしました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計算式",
+      "reading": "けいさんしき",
+      "meaning": "算数で、数を計算するために書かれた文字や記号のならび。",
+      "example": "算数のテストでは、答えだけでなく計算式も書くように言われた。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "結婚式",
+      "reading": "けっこんしき",
+      "meaning": "二人が夫婦になることをちかう、お祝いの儀式。",
+      "example": "家族で、おじさんの結婚式に出席した。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開会式",
+      "reading": "かいかいしき",
+      "meaning": "運動会や大会などが始まるときに行われる儀式。",
+      "example": "運動会では、選手宣誓（せんせい）から開会式が始まった。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
