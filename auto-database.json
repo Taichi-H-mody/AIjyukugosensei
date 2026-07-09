@@ -30635,5 +30635,89 @@
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "医": [
+    {
+      "jukugo": "医者",
+      "reading": "いしゃ",
+      "meaning": "病気やけがの人を治す仕事をする人。",
+      "example": "熱が出たので、お母さんと医者に行った。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "医師",
+      "reading": "いし",
+      "meaning": "医者と同じで、病気やけがの人を治す資格を持つ人のこと。",
+      "example": "将来の夢は、困っている人を助ける医師になることです。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "医学",
+      "reading": "いがく",
+      "meaning": "人の体や病気、治療のしかたなどについて研究する学問。",
+      "example": "医学が進歩したおかげで、色々な病気が治せるようになりました。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "獣医",
+      "reading": "じゅうい",
+      "meaning": "犬や猫などの動物の病気やけがを治す医者。",
+      "example": "飼っているハムスターの具合が悪くなったので、獣医さんに連れて行った。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "女医",
+      "reading": "じょい",
+      "meaning": "女性の医者。",
+      "example": "あの病院には、優しくて話しやすい女医さんがいます。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "消": [
+    {
+      "jukugo": "消化",
+      "reading": "しょうか",
+      "meaning": "食べた物を体の中で小さく分解すること。",
+      "example": "ご飯を食べたら、お腹の中で食べ物が**消化**されるんだ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消火",
+      "reading": "しょうか",
+      "meaning": "火事を消し止めること。",
+      "example": "火事の時には、消防士さんが一生懸命**消火**活動をするよ。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消しゴム",
+      "reading": "けしゴム",
+      "meaning": "鉛筆で書いた文字などを消すための文房具。",
+      "example": "間違えて書いた字は、**消しゴム**できれいに消そう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消灯",
+      "reading": "しょうとう",
+      "meaning": "電灯や明かりを消すこと。",
+      "example": "夜寝る時間になったら、部屋の**消灯**をして静かにしよう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消費",
+      "reading": "しょうひ",
+      "meaning": "物やお金、エネルギーなどを使うこと。",
+      "example": "新しいゲームを買うために、おこづかいを**消費**した。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
