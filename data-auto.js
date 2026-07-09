@@ -30805,6 +30805,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "宿": [
+    {
+      "jukugo": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "学校から家に持ち帰ってする勉強や課題のこと。",
+      "example": "算数の宿題を忘れずに提出しよう。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宿泊",
+      "reading": "しゅくはく",
+      "meaning": "旅行などで、ホテルや旅館に泊まること。",
+      "example": "家族旅行で温泉旅館に宿泊した。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宿屋",
+      "reading": "やどや",
+      "meaning": "お金を払って泊まることができる場所のこと。昔はよく使われた言葉。",
+      "example": "昔話の主人公は、疲れて宿屋に泊まった。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "民宿",
+      "reading": "みんしゅく",
+      "meaning": "一般の家で旅行者などを泊める、家庭的な雰囲気の宿泊施設。",
+      "example": "海の近くの民宿で、おいしい魚を食べた。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合宿",
+      "reading": "がっしゅく",
+      "meaning": "みんなで同じ場所に泊まりながら、集中して練習や勉強をすること。",
+      "example": "夏休みに、サッカー部の合宿に参加した。",
+      "addedDate": "2026-07-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
