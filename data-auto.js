@@ -30915,6 +30915,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "元": [
+    {
+      "jukugo": "元気",
+      "reading": "げんき",
+      "meaning": "体も心も健康で、活発なこと。",
+      "example": "いつも元気に学校に通っています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "元日",
+      "reading": "がんじつ",
+      "meaning": "一月一日のこと。お正月の一番最初の日。",
+      "example": "元日には家族みんなでおせち料理を食べます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地元",
+      "reading": "じもと",
+      "meaning": "自分の住んでいる場所や、生まれ育った場所のこと。",
+      "example": "地元の公園で友達とサッカーをしました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "元年",
+      "reading": "がんねん",
+      "meaning": "新しい年号が始まって最初の年。",
+      "example": "令和元年は、新しい時代が始まった年です。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "元来",
+      "reading": "がんらい",
+      "meaning": "もともと。昔からそうであること。",
+      "example": "この地方は元来、雪が多いところです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
