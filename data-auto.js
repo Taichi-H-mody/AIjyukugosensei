@@ -31251,6 +31251,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "木": [
+    {
+      "jukugo": "木曜日",
+      "reading": "もくようび",
+      "meaning": "一週間のうち、水曜日の次の日。",
+      "example": "来週の木曜日は遠足があります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "木材",
+      "reading": "もくざい",
+      "meaning": "家具や建物などを作るための木の材料。",
+      "example": "この机は丈夫な木材でできています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "植木",
+      "reading": "うえき",
+      "meaning": "庭や鉢などに植えて育てる木。",
+      "example": "公園には色々な種類の植木が植えられています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大木",
+      "reading": "たいぼく",
+      "meaning": "とても大きな木。",
+      "example": "神社の境内に大きな大木が立っています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "並木",
+      "reading": "なみき",
+      "meaning": "道に沿って木が並んで植えられているもの。",
+      "example": "校門までの道に桜の並木が続いています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
