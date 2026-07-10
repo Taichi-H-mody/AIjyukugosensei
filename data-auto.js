@@ -31041,6 +31041,90 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "田": [
+    {
+      "jukugo": "水田",
+      "reading": "すいでん",
+      "meaning": "水をはって稲を育てる田んぼのこと。",
+      "example": "夏には、水田に青々（あおあお）とした稲（いね）が育ちます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田舎",
+      "reading": "いなか",
+      "meaning": "都心（としん）から離（はな）れていて、自然（しぜん）がたくさんある場所（ばしょ）のこと。",
+      "example": "おばあちゃんの家は田舎にあって、空気（くうき）がおいしいです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田畑",
+      "reading": "でんぱた",
+      "meaning": "田んぼと畑（はたけ）のこと。作物を育てるための土地（とち）の総称（そうしょう）。",
+      "example": "農家（のうか）の人は、毎日田畑で一生懸命（いっしょうけんめい）働いています。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田植え",
+      "reading": "たうえ",
+      "meaning": "育（そだ）った稲の苗（なえ）を田んぼに植（う）える作業（さぎょう）のこと。",
+      "example": "春（はる）になると、田植えの時期（じき）になります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "棚田",
+      "reading": "たなだ",
+      "meaning": "山（やま）の斜面（しゃめん）を階段（かいだん）のように何段（なんだん）にも開（ひら）いて作（つく）られた田んぼのこと。",
+      "example": "観光地（かんこうち）で美しい棚田の景色（けしき）を見ることができました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "日": [
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "どの日も。一日も休まず。",
+      "example": "私は毎日、学校へ行きます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休日",
+      "reading": "きゅうじつ",
+      "meaning": "仕事や学校を休む日。",
+      "example": "休日は家族と公園で遊びました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日記",
+      "reading": "にっき",
+      "meaning": "その日あったことや感じたことを書き残すもの。",
+      "example": "寝る前にその日の出来事を日記に書きます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日光",
+      "reading": "にっこう",
+      "meaning": "太陽の光。",
+      "example": "日光を浴びると体がポカポカ温かくなります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "誕生日",
+      "reading": "たんじょうび",
+      "meaning": "人が生まれた日。",
+      "example": "来月は妹の誕生日なので、プレゼントを準備します。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
