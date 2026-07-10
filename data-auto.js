@@ -30873,6 +30873,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "星": [
+    {
+      "jukugo": "星空",
+      "reading": "ほしぞら",
+      "meaning": "夜の空に、たくさんの星が見えるようす。",
+      "example": "夏のキャンプで、きれいな星空をながめました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "流星",
+      "reading": "りゅうせい",
+      "meaning": "夜空を光のすじのようにすばやく流れる星。ねがい事をするとかなうと言われています。",
+      "example": "昨日は、夜空にたくさんの流星が見えて、みんなでおどろきました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "星座",
+      "reading": "せいざ",
+      "meaning": "夜空の星たちを、人や動物、物の形に見立てて名まえをつけたもの。",
+      "example": "夏の夜に、さそり座という星座をみつけました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "惑星",
+      "reading": "わくせい",
+      "meaning": "太陽のまわりをまわっている星。地球も惑星の一つです。",
+      "example": "理科のじゅぎょうで、水星や金星など、太陽系の惑星についてべんきょうしました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "星形",
+      "reading": "ほしがた",
+      "meaning": "星のような形。五つの角がある形。",
+      "example": "クリスマスツリーに、星形のオーナメントをかざりました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
