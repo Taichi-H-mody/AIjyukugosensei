@@ -31293,6 +31293,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "年": [
+    {
+      "jukugo": "一年生",
+      "reading": "いちねんせい",
+      "meaning": "小学校に入ったばかりの児童のこと。学年が一番低い人。",
+      "example": "わたしの妹は、この春から小学校の**一年生**になります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学年",
+      "reading": "がくねん",
+      "meaning": "学校で勉強する期間を区切った一年ごとの呼び方。",
+      "example": "ぼくの**学年**は、今度から五年生になります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "来年",
+      "reading": "らいねん",
+      "meaning": "今の年の次の年。",
+      "example": "**来年**の夏休みには、家族で海に旅行に行きたいです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新年",
+      "reading": "しんねん",
+      "meaning": "新しい年。特に、一月一日を指すことが多い。",
+      "example": "**新年**の朝には、家族みんなでお雑煮を食べました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今年",
+      "reading": "ことし",
+      "meaning": "今現在進んでいる年。",
+      "example": "**今年**は運動会でリレーの選手に選ばれて、とてもうれしいです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
