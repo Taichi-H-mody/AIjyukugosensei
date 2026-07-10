@@ -30957,6 +30957,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "着": [
+    {
+      "jukugo": "着物",
+      "reading": "きもの",
+      "meaning": "日本の伝統的な衣服のこと。",
+      "example": "お正月には、きれいな着物を着る人がいます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "到着",
+      "reading": "とうちゃく",
+      "meaning": "目的地や場所に着くこと。",
+      "example": "電車が駅に到着する時間になった。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "着地",
+      "reading": "ちゃくち",
+      "meaning": "飛び上がった後や空中から地面や床に降り立つこと。",
+      "example": "体操選手は、ピタリと着地を決めた。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "着席",
+      "reading": "ちゃくせき",
+      "meaning": "席に座ること。",
+      "example": "授業が始まるので、早く着席してください。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "着色",
+      "reading": "ちゃくしょく",
+      "meaning": "絵の具などで色をつけること。",
+      "example": "白いケーキに、フルーツで可愛く着色した。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
