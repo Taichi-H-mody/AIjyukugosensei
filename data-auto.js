@@ -31125,6 +31125,90 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "楽": [
+    {
+      "jukugo": "音楽",
+      "reading": "おんがく",
+      "meaning": "音を使って楽しみや感情を表現する芸術。歌や楽器の演奏。",
+      "example": "私は**音楽**を聞くのが大好きです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "楽器",
+      "reading": "がっき",
+      "meaning": "音を出して音楽を演奏するための道具。ピアノやギターなど。",
+      "example": "彼はピアノという**楽器**を上手に弾きます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行楽",
+      "reading": "こうらく",
+      "meaning": "遊びに出かけること。遠足や旅行など、楽しむために出かけること。",
+      "example": "天気の良い日には、家族で**行楽**に出かけます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "楽勝",
+      "reading": "らくしょう",
+      "meaning": "苦労せずに簡単に勝つこと。",
+      "example": "みんなの協力で、試合は**楽勝**でした。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "娯楽",
+      "reading": "ごらく",
+      "meaning": "楽しみや気晴らしになること。遊びや趣味。",
+      "example": "テレビゲームは子供たちにとって大切な**娯楽**の一つです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "点": [
+    {
+      "jukugo": "点数",
+      "reading": "てんすう",
+      "meaning": "試験や競技などの成績を表す数字。",
+      "example": "今日のテストで、算数が百点だった。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重点",
+      "reading": "じゅうてん",
+      "meaning": "最も大切で、特に力を入れるべき点。",
+      "example": "先生が授業で、漢字の書き順の重点を説明した。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採点",
+      "reading": "さいてん",
+      "meaning": "試験の答案や競技の演技などに対し、得点をつけること。",
+      "example": "先生が、みんなの宿題をていねいに採点してくれた。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "欠点",
+      "reading": "けってん",
+      "meaning": "足りないところ。良くない点。",
+      "example": "計算が苦手なのが、私の欠点です。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終点",
+      "reading": "しゅうてん",
+      "meaning": "出発から最後に着く地点。終わり。",
+      "example": "このバスは、次のバス停が終点です。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
