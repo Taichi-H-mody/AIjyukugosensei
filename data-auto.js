@@ -30446,14 +30446,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "お守り",
-      "reading": "おまもり",
-      "meaning": "神様や仏様にお願いして、悪いことから身を守るために持つもの。",
-      "example": "テストで良い点数をとれるように、お守りを持っていきました。",
-      "addedDate": "2026-07-09",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "守備",
       "reading": "しゅび",
       "meaning": "野球やサッカーなどで、自分たちの陣地やゴールを守ること。",
@@ -30694,14 +30686,6 @@ const autoData = {
       "reading": "しょうか",
       "meaning": "火事を消し止めること。",
       "example": "火事の時には、消防士さんが一生懸命**消火**活動をするよ。",
-      "addedDate": "2026-07-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "消しゴム",
-      "reading": "けしゴム",
-      "meaning": "鉛筆で書いた文字などを消すための文房具。",
-      "example": "間違えて書いた字は、**消しゴム**できれいに消そう。",
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     },
