@@ -30831,6 +30831,48 @@ const autoData = {
       "addedDate": "2026-07-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "世": [
+    {
+      "jukugo": "世の中",
+      "reading": "よのなか",
+      "meaning": "この世界。社会。",
+      "example": "世の中には、いろいろな仕事があります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "世界",
+      "reading": "せかい",
+      "meaning": "地球上のすべての国や地域。",
+      "example": "世界には、たくさんの美しい場所があります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "世代",
+      "reading": "せだい",
+      "meaning": "同じ時代に生きる人々のまとまり。親と子のように、生まれた年代で分けられる区切り。",
+      "example": "私と祖父では、世代がちがいます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "世間",
+      "reading": "せけん",
+      "meaning": "人々が暮らす社会。世の中。",
+      "example": "世間には、親切な人がたくさんいます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "世直し",
+      "reading": "よなおし",
+      "meaning": "悪くなった世の中を良い方向に変えること。",
+      "example": "お話の中では、悪い殿様から世直しをする人が現れました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
