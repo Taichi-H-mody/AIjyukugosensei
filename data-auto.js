@@ -30999,6 +30999,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "昼": [
+    {
+      "jukugo": "昼食",
+      "reading": "ちゅうしょく",
+      "meaning": "昼に食べる食事のことです。",
+      "example": "学校の昼休みには、みんなで一緒に昼食を食べます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昼休み",
+      "reading": "ひるやすみ",
+      "meaning": "昼の間に取る休憩時間のことです。",
+      "example": "昼休みには、校庭で友達と鬼ごっこをして遊びました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昼間",
+      "reading": "ひるま",
+      "meaning": "朝と夜の間の、太陽が出ている明るい時間のことです。",
+      "example": "昼間は明るいですが、夜になると星が見えます。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昼寝",
+      "reading": "ひるね",
+      "meaning": "昼の時間に少しだけ眠ることです。",
+      "example": "遊び疲れて、ソファで少し昼寝をしてしまいました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真昼",
+      "reading": "まひる",
+      "meaning": "昼の一番高い時間、正午ごろのことです。",
+      "example": "真昼の太陽はとてもまぶしくて、空が青く見えました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
