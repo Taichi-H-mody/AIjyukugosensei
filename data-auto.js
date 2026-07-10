@@ -31209,6 +31209,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "夕": [
+    {
+      "jukugo": "夕食",
+      "reading": "ゆうしょく",
+      "meaning": "晩ごはんのこと。一日の最後の食事。",
+      "example": "家族みんなで温かい夕食を食べました。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕方",
+      "reading": "ゆうがた",
+      "meaning": "日が沈むころの時間。夜になる前。",
+      "example": "夕方になると空がオレンジ色に変わります。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕日",
+      "reading": "ゆうひ",
+      "meaning": "夕方に沈んでいく太陽。",
+      "example": "地平線に沈む夕日がとてもきれいです。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕焼け",
+      "reading": "ゆうやけ",
+      "meaning": "夕方に、空が赤やオレンジ色に染まる現象。",
+      "example": "今日の夕焼けは、絵の具で描いたように美しかった。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕飯",
+      "reading": "ゆうはん",
+      "meaning": "夕食と同じく、晩ごはんのこと。",
+      "example": "お母さんが作った夕飯はいつもおいしい。",
+      "addedDate": "2026-07-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
