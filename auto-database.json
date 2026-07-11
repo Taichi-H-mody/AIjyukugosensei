@@ -31503,5 +31503,89 @@
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "角": [
+    {
+      "jukugo": "三角",
+      "reading": "さんかく",
+      "meaning": "三つの角と三つの辺がある形のこと。また、そのような形をしたもの。",
+      "example": "おりがみを**三角**に折って、飛行機を作った。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "四角",
+      "reading": "しかく",
+      "meaning": "四つの角と四つの辺がある形のこと。また、そのような形をしたもの。",
+      "example": "プレゼントを**四角**い箱に入れた。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直角",
+      "reading": "ちょっかく",
+      "meaning": "算数で習う、まっすぐに交わってできる90度の角度のこと。",
+      "example": "**直角**定規を使って、きれいな線を引いた。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "角度",
+      "reading": "かくど",
+      "meaning": "二つの線や面がどれくらい開いているかを表す大きさのこと。",
+      "example": "分度器を使って、三角形の**角度**を測った。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一角",
+      "reading": "いっかく",
+      "meaning": "ある場所の一部や、全体の少しの部分のこと。",
+      "example": "公園の**一角**に、新しい花だんが作られた。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "買": [
+    {
+      "jukugo": "買い物",
+      "reading": "かいもの",
+      "meaning": "品物を買うこと。また、買った品物。",
+      "example": "お母さんと一緒にスーパーへ買い物に行きました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "売買",
+      "reading": "ばいばい",
+      "meaning": "品物を売り買いすること。",
+      "example": "お店では、毎日いろいろな商品の売買が行われています。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "買い手",
+      "reading": "かいて",
+      "meaning": "品物を買おうとする人。",
+      "example": "この古い本にも、きっと買い手が見つかるだろう。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "買い出し",
+      "reading": "かいだし",
+      "meaning": "必要なものをたくさん買いに行くこと。",
+      "example": "キャンプの食材を買い出しに行った。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "購買",
+      "reading": "こうばい",
+      "meaning": "品物を買うこと。",
+      "example": "学校の購買部でおいしいパンを買いました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 }
