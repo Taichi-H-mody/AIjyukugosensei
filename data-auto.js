@@ -30834,14 +30834,6 @@ const autoData = {
   ],
   "世": [
     {
-      "jukugo": "世の中",
-      "reading": "よのなか",
-      "meaning": "この世界。社会。",
-      "example": "世の中には、いろいろな仕事があります。",
-      "addedDate": "2026-07-10",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "世界",
       "reading": "せかい",
       "meaning": "地球上のすべての国や地域。",
@@ -30862,14 +30854,6 @@ const autoData = {
       "reading": "せけん",
       "meaning": "人々が暮らす社会。世の中。",
       "example": "世間には、親切な人がたくさんいます。",
-      "addedDate": "2026-07-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "世直し",
-      "reading": "よなおし",
-      "meaning": "悪くなった世の中を良い方向に変えること。",
-      "example": "お話の中では、悪い殿様から世直しをする人が現れました。",
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
@@ -31010,14 +30994,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "昼休み",
-      "reading": "ひるやすみ",
-      "meaning": "昼の間に取る休憩時間のことです。",
-      "example": "昼休みには、校庭で友達と鬼ごっこをして遊びました。",
-      "addedDate": "2026-07-10",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "昼間",
       "reading": "ひるま",
       "meaning": "朝と夜の間の、太陽が出ている明るい時間のことです。",
@@ -31064,14 +31040,6 @@ const autoData = {
       "reading": "でんぱた",
       "meaning": "田んぼと畑（はたけ）のこと。作物を育てるための土地（とち）の総称（そうしょう）。",
       "example": "農家（のうか）の人は、毎日田畑で一生懸命（いっしょうけんめい）働いています。",
-      "addedDate": "2026-07-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "田植え",
-      "reading": "たうえ",
-      "meaning": "育（そだ）った稲の苗（なえ）を田んぼに植（う）える作業（さぎょう）のこと。",
-      "example": "春（はる）になると、田植えの時期（じき）になります。",
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     },
@@ -31232,14 +31200,6 @@ const autoData = {
       "reading": "ゆうひ",
       "meaning": "夕方に沈んでいく太陽。",
       "example": "地平線に沈む夕日がとてもきれいです。",
-      "addedDate": "2026-07-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "夕焼け",
-      "reading": "ゆうやけ",
-      "meaning": "夕方に、空が赤やオレンジ色に染まる現象。",
-      "example": "今日の夕焼けは、絵の具で描いたように美しかった。",
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     },
