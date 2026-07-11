@@ -31671,5 +31671,47 @@
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "兄": [
+    {
+      "jukugo": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "兄と弟、または同じ親から生まれた子供たちのこと。",
+      "example": "私にはお兄さんと弟がいるので、三人兄弟です。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兄貴",
+      "reading": "あにき",
+      "meaning": "親しい人に対して、自分の兄や先輩の男性を呼ぶときに使う言葉。",
+      "example": "困ったときは、いつも兄貴が助けてくれるんだ。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長兄",
+      "reading": "ちょうけい",
+      "meaning": "一番上のお兄さんのこと。",
+      "example": "家族の中で、僕の長兄はいつもみんなをまとめるリーダーです。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "兄妹",
+      "reading": "けいまい",
+      "meaning": "兄と妹のこと。",
+      "example": "兄妹で公園に行って、一緒にブランコに乗って遊びました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実兄",
+      "reading": "じっけい",
+      "meaning": "自分の本当のお兄さんのこと。血のつながった兄を指すときに使う。",
+      "example": "遠くに住んでいる実兄が、夏休みに遊びに来てくれることになった。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 }
