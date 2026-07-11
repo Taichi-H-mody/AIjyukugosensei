@@ -31337,6 +31337,174 @@ const autoData = {
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "会": [
+    {
+      "jukugo": "会社",
+      "reading": "かいしゃ",
+      "meaning": "物を作ったり、サービスを提供したりして仕事をする場所。多くの人が集まって働く組織。",
+      "example": "お父さんは毎日**会社**へ仕事に行きます。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会場",
+      "reading": "かいじょう",
+      "meaning": "集まりやイベントが行われる場所。",
+      "example": "運動会の**会場**は、学校の校庭です。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大会",
+      "reading": "たいかい",
+      "meaning": "多くの人が集まって、スポーツの試合をしたり、何かを発表したりする大きな集まり。",
+      "example": "来月、学校でマラソン**大会**があります。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発表会",
+      "reading": "はっぴょうかい",
+      "meaning": "練習したことや作ったものなどを、みんなの前で見せたり聞かせたりする集まり。",
+      "example": "ピアノの**発表会**で、上手に演奏できました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "集会",
+      "reading": "しゅうかい",
+      "meaning": "ある目的のために、多くの人が一箇所に集まること。",
+      "example": "月曜日の朝は、体育館で全校**集会**があります。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "写": [
+    {
+      "jukugo": "写真",
+      "reading": "しゃしん",
+      "meaning": "カメラで景色や人物などを撮影したもの。",
+      "example": "家族旅行の思い出に、みんなで写真を撮りました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書き写す",
+      "reading": "かきうつす",
+      "meaning": "文字や文章などを、元の通りに別の紙などに書く。",
+      "example": "先生が黒板に書いた大切な言葉をノートに書き写す。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "写生",
+      "reading": "しゃせい",
+      "meaning": "実際の景色や生き物を見て、その通りに絵を描くこと。",
+      "example": "公園でチューリップの写生をした。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "複写",
+      "reading": "ふくしゃ",
+      "meaning": "元のものと同じものを、機械などを使って何枚も作ること。コピー。",
+      "example": "学校のプリントを家で複写する。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "写字",
+      "reading": "しゃじ",
+      "meaning": "文字を書き写すこと。文字を練習のために書くこと。",
+      "example": "筆で手本を写字する練習をする。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "線": [
+    {
+      "jukugo": "線路",
+      "reading": "せんろ",
+      "meaning": "電車が走るためのレール。",
+      "example": "電車は線路の上を走ります。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "直線",
+      "reading": "ちょくせん",
+      "meaning": "まっすぐに伸びる線。",
+      "example": "定規を使って直線を引きました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "曲線",
+      "reading": "きょくせん",
+      "meaning": "まがっている線。",
+      "example": "虹はきれいな曲線を描いています。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電線",
+      "reading": "でんせん",
+      "meaning": "電気を通すための線。",
+      "example": "電線にたくさんの鳥が止まっていました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "点線",
+      "reading": "てんせん",
+      "meaning": "点がいくつも連なってできた線。",
+      "example": "点線のところで紙を切り取ってください。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "水": [
+    {
+      "jukugo": "水曜日",
+      "reading": "すいようび",
+      "meaning": "一週間のうち、火曜日の次の日。",
+      "example": "明日は水曜日なので、習い事があるよ。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水色",
+      "reading": "みずいろ",
+      "meaning": "水のように薄くて明るい青色。",
+      "example": "水色のクレヨンで空の色を塗った。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水筒",
+      "reading": "すいとう",
+      "meaning": "飲み物を入れて持ち歩くための容器。",
+      "example": "遠足に水筒にお茶を入れて持っていった。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海水",
+      "reading": "かいすい",
+      "meaning": "海の水。塩辛い。",
+      "example": "夏の海で、海水が顔にかかった。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水道",
+      "reading": "すいどう",
+      "meaning": "家まで水を届ける設備、またそこから出る水。",
+      "example": "蛇口をひねると水道の水が出た。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
