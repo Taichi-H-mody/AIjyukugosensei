@@ -31631,6 +31631,48 @@ const autoData = {
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "冬": [
+    {
+      "jukugo": "冬休み",
+      "reading": "ふゆやすみ",
+      "meaning": "冬にある学校の休み。",
+      "example": "もうすぐ冬休みだから楽しみだな。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冬服",
+      "reading": "ふゆふく",
+      "meaning": "冬に着る服。",
+      "example": "寒いから、厚い冬服を着て出かけよう。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冬眠",
+      "reading": "とうみん",
+      "meaning": "動物が冬の間、ほとんど動かずに眠ること。",
+      "example": "クマは冬になると冬眠するんだよ。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冬景色",
+      "reading": "ふゆげしき",
+      "meaning": "冬の時期に見られる景色。",
+      "example": "窓から雪が積もった冬景色が見えた。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "冬空",
+      "reading": "ふゆぞら",
+      "meaning": "冬の時期の空。",
+      "example": "澄んだ冬空に星がたくさん見えた。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
