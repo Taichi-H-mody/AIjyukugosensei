@@ -31295,6 +31295,48 @@ const autoData = {
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "前": [
+    {
+      "jukugo": "午前",
+      "reading": "ごぜん",
+      "meaning": "正午より前の時間のこと。朝から昼まで。",
+      "example": "今日の遠足は**午前**９時に集合です。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名前",
+      "reading": "なまえ",
+      "meaning": "人や物につけられた呼び名。",
+      "example": "自分の**名前**を、大きな声で言ってみよう。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前日",
+      "reading": "ぜんじつ",
+      "meaning": "ある日の前の日。その前の日。",
+      "example": "運動会の**前日**は、早く寝ましょう。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前進",
+      "reading": "ぜんしん",
+      "meaning": "前に進むこと。",
+      "example": "目標に向かって、みんなで**前進**します。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "前方",
+      "reading": "ぜんぽう",
+      "meaning": "前の方。正面。",
+      "example": "**前方**をよく見て、気を付けて歩きましょう。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
