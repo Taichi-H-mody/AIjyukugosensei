@@ -31715,6 +31715,40 @@ const autoData = {
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "妹": [
+    {
+      "jukugo": "姉妹",
+      "reading": "しまい",
+      "meaning": "姉と妹のことです。",
+      "example": "私には姉と妹がいます。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実妹",
+      "reading": "じつまい",
+      "meaning": "自分と血がつながっている本当の妹のことです。",
+      "example": "彼は優しい実妹といつも一緒に遊んでいます。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "末妹",
+      "reading": "ばつまい",
+      "meaning": "兄弟姉妹の中で一番年下の妹のことです。",
+      "example": "私の家族で一番年下の末妹は、まだ幼稚園に通っています。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姉妹校",
+      "reading": "しまいこう",
+      "meaning": "お互いに交流している学校のことです。",
+      "example": "私の学校には、外国に姉妹校があります。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
