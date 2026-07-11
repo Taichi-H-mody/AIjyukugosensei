@@ -31747,5 +31747,47 @@
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "野": [
+    {
+      "jukugo": "野原",
+      "reading": "のはら",
+      "meaning": "草がたくさん生えている広い場所。",
+      "example": "みんなで野原を走り回って遊びました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野球",
+      "reading": "やきゅう",
+      "meaning": "バットでボールを打ったり、投げたりして点数を競うスポーツ。",
+      "example": "友達と公園で野球をして遊びました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野鳥",
+      "reading": "やちょう",
+      "meaning": "山や野原など、自然の中にいる鳥。",
+      "example": "公園でかわいい野鳥の写真を撮りました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野外",
+      "reading": "やがい",
+      "meaning": "建物の外や、屋外の広い場所。",
+      "example": "遠足で野外でお弁当を食べました。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "野草",
+      "reading": "やそう",
+      "meaning": "野原や道ばたに自然に生えている草。",
+      "example": "春になると、野草がたくさん芽を出します。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 }
