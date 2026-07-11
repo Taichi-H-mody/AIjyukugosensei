@@ -31589,6 +31589,48 @@ const autoData = {
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "走": [
+    {
+      "jukugo": "競走",
+      "reading": "きょうそう",
+      "meaning": "走って速さをきそいあうこと。運動会などでよく行われます。",
+      "example": "運動会の**競走**で、僕は一番になった。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "独走",
+      "reading": "どくそう",
+      "meaning": "一人だけで先頭を走り続けること。他の人よりずっと前にいる状態。",
+      "example": "マラソン大会で、彼はゴールまで**独走**した。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "力走",
+      "reading": "りきそう",
+      "meaning": "力をふりしぼって一生けんめい走ること。がんばって走る様子。",
+      "example": "選手たちはゴールをめざして**力走**した。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短距離走",
+      "reading": "たんきょりそう",
+      "meaning": "短い距離を走って速さをきそうこと。100メートル走などがこれにあたります。",
+      "example": "運動会の**短距離走**は、スタートが大切だ。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長距離走",
+      "reading": "ちょうきょりそう",
+      "meaning": "長い距離を走って速さをきそうこと。マラソンなどがこれにあたります。",
+      "example": "**長距離走**では、最後まであきらめない気持ちが大事だ。",
+      "addedDate": "2026-07-11",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
