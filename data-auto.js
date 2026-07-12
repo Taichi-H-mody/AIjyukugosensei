@@ -32189,6 +32189,48 @@ const autoData = {
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "正": [
+    {
+      "jukugo": "正解",
+      "reading": "せいかい",
+      "meaning": "正しい答えのこと。",
+      "example": "クイズで難しい問題も、先生が「**正解**！」と言ってくれた。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正直",
+      "reading": "しょうじき",
+      "meaning": "うそをつかないで、本当のことを言うこと。",
+      "example": "悪いことをしたら、**正直**に謝ることが大切だよ。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正月",
+      "reading": "しょうがつ",
+      "meaning": "一年の始まりの月のこと。お祝いをする行事も指す。",
+      "example": "お**正月**には、おせち料理を食べたり、お年玉をもらったりする。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正方形",
+      "reading": "せいほうけい",
+      "meaning": "四つの辺の長さがすべて同じで、四つの角がすべて直角の四角形。",
+      "example": "折り紙を折って、**正方形**の形を作った。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正門",
+      "reading": "せいもん",
+      "meaning": "学校や建物などの、一番大きな表の出入り口。",
+      "example": "学校の**正門**の前で、友達と待ち合わせをした。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
