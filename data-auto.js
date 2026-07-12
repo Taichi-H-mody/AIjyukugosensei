@@ -31953,6 +31953,82 @@ const autoData = {
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "昭": [
+    {
+      "jukugo": "昭和",
+      "reading": "しょうわ",
+      "meaning": "日本の昔の時代の名前。大正の次の元号。",
+      "example": "おじいちゃんやおばあちゃんは、**昭和**の時代に生まれました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昭示",
+      "reading": "しょうじ",
+      "meaning": "はっきりと示すこと。見せること。",
+      "example": "先生は、新しいルールをみんなに**昭示**しました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昭然",
+      "reading": "しょうぜん",
+      "meaning": "とてもはっきりしていること。明らかであること。",
+      "example": "そのまちがいは、だれの目にも**昭然**でした。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昭昭",
+      "reading": "しょうしょう",
+      "meaning": "明るくかがやいている様子。または、とてもはっきりしている様子。",
+      "example": "夜空に星が**昭昭**と輝いて見えました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "回": [
+    {
+      "jukugo": "一回",
+      "reading": "いっかい",
+      "meaning": "物事を行う回数を数えるときに使う言葉で、一度のこと。",
+      "example": "先生は手を一回たたきました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "次回",
+      "reading": "じかい",
+      "meaning": "今度の回、または次にくる機会のこと。",
+      "example": "次回は理科の実験をします。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今回",
+      "reading": "こんかい",
+      "meaning": "今度の回、または今の機会のこと。",
+      "example": "今回の遠足はとても楽しかったです。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "回り道",
+      "reading": "まわりみち",
+      "meaning": "目的地まで、近道ではなく遠くを回っていく道。",
+      "example": "工事中で学校へ回り道をしました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "回答",
+      "reading": "かいとう",
+      "meaning": "質問や問いに対して、答えを言うこと。",
+      "example": "先生の質問に手を挙げて回答しました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
