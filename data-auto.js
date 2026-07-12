@@ -31877,6 +31877,82 @@ const autoData = {
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "計": [
+    {
+      "jukugo": "時計",
+      "reading": "とけい",
+      "meaning": "時間をはかる道具です。",
+      "example": "新しい腕時計を買ってもらった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計算",
+      "reading": "けいさん",
+      "meaning": "数を数えたり、足し算や引き算などをして答えを出すことです。",
+      "example": "算数の時間に足し算の計算をがんばった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合計",
+      "reading": "ごうけい",
+      "meaning": "全部を足し合わせた数や量のことです。",
+      "example": "テストの点数を合計すると、100点だった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計画",
+      "reading": "けいかく",
+      "meaning": "これから何をどうするか、前もって考えることです。",
+      "example": "夏休みの旅行の計画を立てた。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "植": [
+    {
+      "jukugo": "植物",
+      "reading": "しょくぶつ",
+      "meaning": "土に根をはり、葉や茎や花を持つ生き物のこと。光を浴びて成長します。",
+      "example": "公園にはたくさんの**植物**が育っています。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "植木",
+      "reading": "うえき",
+      "meaning": "庭や鉢などに植えて育てる木のこと。花や葉を楽しむために育てられます。",
+      "example": "庭にきれいな花の咲く**植木**を植えました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "植林",
+      "reading": "しょくりん",
+      "meaning": "山や野原に、新しく木を植えて森を作ること。地球環境を守る大切な活動です。",
+      "example": "みんなで協力して、はげ山に**植林**活動を行いました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田植え",
+      "reading": "たうえ",
+      "meaning": "水をはった田んぼに、稲の小さな苗を一本ずつ植え付ける作業のこと。",
+      "example": "春になると、農家の人たちが**田植え**を始めます。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "植え替え",
+      "reading": "うえかえ",
+      "meaning": "育った植物を、別の場所やもっと大きな鉢に新しく植え直すこと。",
+      "example": "大きくなったサボテンを、もっと大きな鉢に**植え替え**ました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
