@@ -31749,5 +31749,47 @@
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     }
+  ],
+  "語": [
+    {
+      "jukugo": "国語",
+      "reading": "こくご",
+      "meaning": "日本の言葉を勉強する教科のこと。",
+      "example": "今日の国語の授業で、新しい漢字をたくさん習いました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "物語",
+      "reading": "ものがたり",
+      "meaning": "昔のことや架空の出来事を話として伝えるもの。お話。",
+      "example": "図書館で、わくわくする冒険の物語を見つけました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日本語",
+      "reading": "にほんご",
+      "meaning": "日本で使われている言葉。",
+      "example": "外国から来た友達に、簡単な日本語を教えてあげました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "単語",
+      "reading": "たんご",
+      "meaning": "意味を持つ一つ一つの言葉。",
+      "example": "英語の教科書に出てきた知らない単語を辞書で調べました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "言語",
+      "reading": "げんご",
+      "meaning": "人間が考えや気持ちを伝え合うために使う言葉のこと。",
+      "example": "世界には、いろいろな種類の言語があります。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 }
