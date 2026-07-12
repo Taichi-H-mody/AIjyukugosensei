@@ -32071,6 +32071,40 @@ const autoData = {
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "泳": [
+    {
+      "jukugo": "水泳",
+      "reading": "すいえい",
+      "meaning": "水の中で体を動かして進むこと。または、そのスポーツ。",
+      "example": "学校のプールの授業で、みんなで**水泳**をしました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠泳",
+      "reading": "えんえい",
+      "meaning": "長い距離を泳ぐこと。特に海や大きな湖などで長い時間をかけて泳ぐこと。",
+      "example": "夏休みに海で**遠泳**に挑戦し、疲れたけど達成感がありました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "競泳",
+      "reading": "きょうえい",
+      "meaning": "速さを競い合う水泳競技。誰が一番速く泳げるかを競うスポーツ。",
+      "example": "オリンピックの**競泳**で、日本の選手が金メダルをとりました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊泳",
+      "reading": "ゆうえい",
+      "meaning": "泳いで遊ぶこと。自由に水の中を泳ぎ回ること。",
+      "example": "この川は流れが速いので、安全のために**遊泳**禁止です。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
