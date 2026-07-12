@@ -32029,6 +32029,48 @@ const autoData = {
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "院": [
+    {
+      "jukugo": "病院",
+      "reading": "びょういん",
+      "meaning": "病気やけがをした人を診察したり、治療したりする場所。",
+      "example": "熱が出たので、お母さんと一緒に**病院**に行った。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入院",
+      "reading": "にゅういん",
+      "meaning": "病気やけがの治療のため、病院に入って泊まること。",
+      "example": "おじいちゃんは足の骨を折って、しばらく**入院**することになった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "退院",
+      "reading": "たいいん",
+      "meaning": "病院での治療を終えて、病院から出ること。",
+      "example": "長く**入院**していた友達が、ついに明日、家に帰れると聞いてうれしい。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "院長",
+      "reading": "いんちょう",
+      "meaning": "病院や専門の施設などで、一番えらい責任者のこと。",
+      "example": "風邪をひいたので、**院長**先生に診てもらった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大学院",
+      "reading": "だいがくいん",
+      "meaning": "大学を卒業した人が、もっと専門的なことを深く勉強したり研究したりする場所。",
+      "example": "お兄ちゃんは、将来科学者になるために、**大学院**で勉強している。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
