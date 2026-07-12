@@ -31791,5 +31791,89 @@
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "長": [
+    {
+      "jukugo": "長男",
+      "reading": "ちょうなん",
+      "meaning": "いちばんはじめに生まれた男の子のこと。",
+      "example": "ぼくは家の長男なので、弟のお世話をしています。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長女",
+      "reading": "ちょうじょ",
+      "meaning": "いちばんはじめに生まれた女の子のこと。",
+      "example": "お姉ちゃんは家族の長女で、いつも妹のお世話をしてくれます。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "身長",
+      "reading": "しんちょう",
+      "meaning": "人の体のたかさのこと。",
+      "example": "一年で身長がぐんと伸びて、ランドセルが小さく感じられます。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長靴",
+      "reading": "ながぐつ",
+      "meaning": "雨の日などに、足がぬれないようにはく靴のこと。",
+      "example": "雨が降ったので、黄色の長靴をはいて学校に行きました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校長",
+      "reading": "こうちょう",
+      "meaning": "小学校や中学校などで、学校全体のいちばんえらい先生のこと。",
+      "example": "朝会で校長先生のお話を聞きました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "場": [
+    {
+      "jukugo": "場所",
+      "reading": "ばしょ",
+      "meaning": "物があるところ。位置。",
+      "example": "本を置く場所を決める。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "広場",
+      "reading": "ひろば",
+      "meaning": "ひらけて広い土地。みんなが集まったり遊んだりするのに使われる。",
+      "example": "公園の広場で鬼ごっこをした。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市場",
+      "reading": "いちば",
+      "meaning": "品物を売ったり買ったりする所。",
+      "example": "お母さんと市場へ魚を買いに行った。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会場",
+      "reading": "かいじょう",
+      "meaning": "会合や催し物が行われる場所。",
+      "example": "発表会の会場は体育館です。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運動場",
+      "reading": "うんどうじょう",
+      "meaning": "運動をするために整えられた広い場所。グラウンド。",
+      "example": "休み時間に運動場でサッカーをした。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 }
