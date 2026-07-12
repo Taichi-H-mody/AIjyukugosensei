@@ -31390,14 +31390,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "書き写す",
-      "reading": "かきうつす",
-      "meaning": "文字や文章などを、元の通りに別の紙などに書く。",
-      "example": "先生が黒板に書いた大切な言葉をノートに書き写す。",
-      "addedDate": "2026-07-11",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "写生",
       "reading": "しゃせい",
       "meaning": "実際の景色や生き物を見て、その通りに絵を描くこと。",
@@ -31550,34 +31542,10 @@ const autoData = {
   ],
   "買": [
     {
-      "jukugo": "買い物",
-      "reading": "かいもの",
-      "meaning": "品物を買うこと。また、買った品物。",
-      "example": "お母さんと一緒にスーパーへ買い物に行きました。",
-      "addedDate": "2026-07-11",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "売買",
       "reading": "ばいばい",
       "meaning": "品物を売り買いすること。",
       "example": "お店では、毎日いろいろな商品の売買が行われています。",
-      "addedDate": "2026-07-11",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "買い手",
-      "reading": "かいて",
-      "meaning": "品物を買おうとする人。",
-      "example": "この古い本にも、きっと買い手が見つかるだろう。",
-      "addedDate": "2026-07-11",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "買い出し",
-      "reading": "かいだし",
-      "meaning": "必要なものをたくさん買いに行くこと。",
-      "example": "キャンプの食材を買い出しに行った。",
       "addedDate": "2026-07-11",
       "addedBy": "discord-agent"
     },
@@ -31633,14 +31601,6 @@ const autoData = {
     }
   ],
   "冬": [
-    {
-      "jukugo": "冬休み",
-      "reading": "ふゆやすみ",
-      "meaning": "冬にある学校の休み。",
-      "example": "もうすぐ冬休みだから楽しみだな。",
-      "addedDate": "2026-07-11",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "冬服",
       "reading": "ふゆふく",
