@@ -32103,5 +32103,89 @@
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     }
+  ],
+  "谷": [
+    {
+      "jukugo": "谷川",
+      "reading": "たにがわ",
+      "meaning": "山と山の間を流れる、小さな川のこと。",
+      "example": "遠足で谷川のきれいな水で顔を洗った。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "谷底",
+      "reading": "たにそこ",
+      "meaning": "谷の一番深いところ。",
+      "example": "落としたボールが谷底まで転がってしまった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "谷間",
+      "reading": "たにま",
+      "meaning": "山と山の間にある、へこんだ地形。",
+      "example": "夕日が谷間の村を赤く染めていた。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山谷",
+      "reading": "さんや",
+      "meaning": "山と谷。山や谷がたくさんある地形のこと。",
+      "example": "地図を見ると、そのあたりは山谷が多いことがわかった。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "渓谷",
+      "reading": "けいこく",
+      "meaning": "山の中で、川の流れによって深くけずられた谷。けわしい谷。",
+      "example": "夏休みに家族で美しい渓谷に遊びに行った。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "千": [
+    {
+      "jukugo": "千円",
+      "reading": "せんえん",
+      "meaning": "1000円のことです。日本のお金で、1000の価値があります。",
+      "example": "おこづかいで千円をもらいました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千年",
+      "reading": "せんねん",
+      "meaning": "とても長い時間の単位で、1000年のことです。",
+      "example": "この大きな木は、千年もの間生きています。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千羽鶴",
+      "reading": "せんばづる",
+      "meaning": "平和や願いを込めて、たくさんの折り鶴をつなげたものです。",
+      "example": "病気のお友だちのために、みんなで千羽鶴を折りました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千歳飴",
+      "reading": "ちとせあめ",
+      "meaning": "七五三のお祝いに食べる、長くて細い棒状の縁起の良い飴です。",
+      "example": "七五三のお祝いで、長い千歳飴をもらってうれしかったです。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "千代紙",
+      "reading": "ちよがみ",
+      "meaning": "日本の伝統的な美しい模様が印刷された紙のことです。",
+      "example": "きれいな千代紙を使って、折り紙をしました。",
+      "addedDate": "2026-07-12",
+      "addedBy": "discord-agent"
+    }
   ]
 }
