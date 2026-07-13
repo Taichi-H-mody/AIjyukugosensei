@@ -32667,5 +32667,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "銀": [
+    {
+      "jukugo": "銀色",
+      "reading": "ぎんいろ",
+      "meaning": "銀のような色。光沢のある灰色。",
+      "example": "雨上がりの空には、きれいな銀色の雲が広がっていた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "お金を預けたり、貸したりする機関。",
+      "example": "お父さんと一緒に、貯金通帳を持って銀行に行った。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "銀河",
+      "reading": "ぎんが",
+      "meaning": "夜空に星が帯のように見える集まり。天の川。",
+      "example": "夏のキャンプで、満点の星空に銀河が輝いているのを見た。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "銀メダル",
+      "reading": "ぎんめだる",
+      "meaning": "スポーツなどで、2位になった人にもらえる銀製のメダル。",
+      "example": "運動会のリレーで、私たちのチームは銀メダルをとることができた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水銀",
+      "reading": "すいぎん",
+      "meaning": "常温で液体になる、銀白色の金属。昔の体温計などに使われた。",
+      "example": "理科の実験で、水銀が液体であることを知った。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
