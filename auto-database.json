@@ -32289,5 +32289,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "遊": [
+    {
+      "jukugo": "遊園地",
+      "reading": "ゆうえんち",
+      "meaning": "たくさんの乗り物や遊び場があって、みんなで楽しめる場所。",
+      "example": "週末に家族と遊園地へ行って、ジェットコースターに乗った。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊具",
+      "reading": "ゆうぐ",
+      "meaning": "公園などにある、ブランコや滑り台、鉄棒などの遊び道具。",
+      "example": "公園の遊具で、友達と鬼ごっこをして遊んだ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊び場",
+      "reading": "あそびば",
+      "meaning": "子どもたちが遊ぶための場所。",
+      "example": "この広場は、近所の子どもたちにとって大切な遊び場だ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊歩道",
+      "reading": "ゆうほどう",
+      "meaning": "散歩や軽い運動をするために、きれいに整備された道。",
+      "example": "湖のまわりにある遊歩道を、家族と手をつないで歩いた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遊覧船",
+      "reading": "ゆうらんせん",
+      "meaning": "景色を見るために、湖や川、海などをゆっくりと進む船。",
+      "example": "観光地で遊覧船に乗り、水上から美しい景色を楽しんだ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
