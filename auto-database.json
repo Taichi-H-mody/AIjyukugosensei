@@ -32625,5 +32625,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "八": [
+    {
+      "jukugo": "八百屋",
+      "reading": "やおや",
+      "meaning": "野菜やくだものを売っているお店のこと。",
+      "example": "お母さんと一緒に八百屋へ、新鮮な野菜を買いに行った。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八月",
+      "reading": "はちがつ",
+      "meaning": "一年のうちで、七月の次の月。夏休みがある月。",
+      "example": "八月には、学校でプールに入れる日がたくさんあるよ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八つ当たり",
+      "reading": "やつあたり",
+      "meaning": "いやなことがあったときに、関係ない人に怒ったりすること。",
+      "example": "弟はゲームに負けて、ぬいぐるみ相手に八つ当たりしていた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八方",
+      "reading": "はっぽう",
+      "meaning": "いろいろな方向、あちらこちら。",
+      "example": "迷子になった子犬が、八方を見回して飼い主を探していた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八百",
+      "reading": "はっぴゃく",
+      "meaning": "百が八つ集まった数。",
+      "example": "この絵本には、八百ぴきのねこが登場するよ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
