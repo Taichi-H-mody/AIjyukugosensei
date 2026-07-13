@@ -32459,6 +32459,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "石": [
+    {
+      "jukugo": "石鹸",
+      "reading": "せっけん",
+      "meaning": "体や物を洗うときに使う泡立つ洗剤のこと。",
+      "example": "手をきれいに**石鹸**で洗いました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宝石",
+      "reading": "ほうせき",
+      "meaning": "美しくてめずらしい石で、指輪やネックレスなどに使われます。",
+      "example": "きらきら光る**宝石**にみんなが見とれました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "磁石",
+      "reading": "じしゃく",
+      "meaning": "鉄などを引きつけたり、同じ向きのものが反発したりする性質を持つもの。",
+      "example": "**磁石**がクリップをくっつけた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "化石",
+      "reading": "かせき",
+      "meaning": "大昔に生きていた動物や植物が、地層の中で石のように固まって残ったもの。",
+      "example": "博物館で恐竜の**化石**を見ました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小石",
+      "reading": "こいし",
+      "meaning": "小さな石のこと。",
+      "example": "道にたくさんの**小石**が落ちていた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
