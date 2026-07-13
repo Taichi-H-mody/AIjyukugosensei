@@ -32247,5 +32247,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "足": [
+    {
+      "jukugo": "足元",
+      "reading": "あしもと",
+      "meaning": "足のあるところ。足のまわり。",
+      "example": "足元に気をつけて歩きましょう。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "足音",
+      "reading": "あしおと",
+      "meaning": "足が地面や床について出る音。",
+      "example": "廊下から誰かの足音が聞こえた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手足",
+      "reading": "てあし",
+      "meaning": "体についている手と足のこと。",
+      "example": "手足を大きく動かして体操をしよう。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠足",
+      "reading": "えんそく",
+      "meaning": "遠いところまで歩いて行く学校の行事。",
+      "example": "来週の遠足がとても楽しみだ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "足跡",
+      "reading": "あしあと",
+      "meaning": "足が地面や雪の上などに残したあと。",
+      "example": "雪の上に動物の足跡があった。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
