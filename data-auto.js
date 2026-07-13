@@ -32543,6 +32543,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "本": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵がたくさん描いてある、主に小さい子向けの読み物。",
+      "example": "小さいころ、お母さんに絵本を読んでもらいました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本屋",
+      "reading": "ほんや",
+      "meaning": "本を売っているお店。",
+      "example": "新しいマンガを買いに本屋へ行きました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日本",
+      "reading": "にほん",
+      "meaning": "私たちの国。",
+      "example": "日本には美しい自然がたくさんあります。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見本",
+      "reading": "みほん",
+      "meaning": "品物の品質や使い方を示すために作られた、実物と同じもの。",
+      "example": "スーパーで新しいお菓子の見本をもらいました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "基本",
+      "reading": "きほん",
+      "meaning": "物事のもとになる大切なこと。",
+      "example": "算数の基本をしっかり勉強しましょう。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
