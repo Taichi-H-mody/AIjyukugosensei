@@ -32333,6 +32333,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "安": [
+    {
+      "jukugo": "安全",
+      "reading": "あんぜん",
+      "meaning": "あぶないことがなく、心配がないこと。",
+      "example": "交通ルールを守って、安全に学校へ行こう。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安心",
+      "reading": "あんしん",
+      "meaning": "心配や不安がなく、心が落ち着くこと。",
+      "example": "お母さんがそばにいると、とても安心する。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安売り",
+      "reading": "やすうり",
+      "meaning": "品物のねだんを安くして売ること。",
+      "example": "スーパーで、卵の安売りをしていた。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安定",
+      "reading": "あんてい",
+      "meaning": "ぐらぐらせずに、きちんと落ち着いていること。",
+      "example": "この机は足がしっかりしていて安定している。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "平安",
+      "reading": "へいあん",
+      "meaning": "争いごとがなく、世の中が穏やかなこと。",
+      "example": "みんなが平安に暮らせる世界を願っています。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
