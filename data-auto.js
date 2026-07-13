@@ -32375,6 +32375,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "京": [
+    {
+      "jukugo": "京都",
+      "reading": "きょうと",
+      "meaning": "日本の昔の都で、美しいお寺や神社がたくさんある有名なまちです。",
+      "example": "昔、日本の都だった京都には、古いお寺がたくさんあります。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東京",
+      "reading": "とうきょう",
+      "meaning": "日本の今の首都で、一番大きなまちです。",
+      "example": "東京には、スカイツリーというとても高い建物があります。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "上京",
+      "reading": "じょうきょう",
+      "meaning": "地方から東京などの大きなまちに行くこと。",
+      "example": "将来、夢をかなえるために、東京へ上京したいです。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "京阪",
+      "reading": "けいはん",
+      "meaning": "京都と大阪のこと。この二つのまちを結ぶ電車や地域を表すときに使われます。",
+      "example": "京阪電車は、京都と大阪の間を走っています。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "京菓子",
+      "reading": "きょうがし",
+      "meaning": "京都で昔から作られている、美しくておいしい和菓子です。",
+      "example": "おばあちゃんが、きれいな京菓子をおみやげに買ってきてくれました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
