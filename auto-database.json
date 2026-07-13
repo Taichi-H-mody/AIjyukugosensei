@@ -32499,5 +32499,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "予": [
+    {
+      "jukugo": "予定",
+      "reading": "よてい",
+      "meaning": "前もって決めておくこと。計画。",
+      "example": "今日の**予定**は、学校のあと公園で遊ぶことです。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予習",
+      "reading": "よしゅう",
+      "meaning": "授業の前に、内容をあらかじめ自分で学んでおくこと。",
+      "example": "明日の算数の**予習**をしておきました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予報",
+      "reading": "よほう",
+      "meaning": "これからどうなるか、前もって知らせること。",
+      "example": "テレビの天気**予報**を見ると、明日は晴れるそうです。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予約",
+      "reading": "よやく",
+      "meaning": "前もって申し込んでおくこと。",
+      "example": "人気の本なので、図書館で**予約**しました。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予選",
+      "reading": "よせん",
+      "meaning": "本番の試合や大会に出る人を決めるために、前もって行う試合や審査。",
+      "example": "サッカーの**予選**を勝ち抜いて、決勝大会に出場します。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
