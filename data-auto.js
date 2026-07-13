@@ -31936,22 +31936,6 @@ const autoData = {
       "example": "みんなで協力して、はげ山に**植林**活動を行いました。",
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "田植え",
-      "reading": "たうえ",
-      "meaning": "水をはった田んぼに、稲の小さな苗を一本ずつ植え付ける作業のこと。",
-      "example": "春になると、農家の人たちが**田植え**を始めます。",
-      "addedDate": "2026-07-12",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "植え替え",
-      "reading": "うえかえ",
-      "meaning": "育った植物を、別の場所やもっと大きな鉢に新しく植え直すこと。",
-      "example": "大きくなったサボテンを、もっと大きな鉢に**植え替え**ました。",
-      "addedDate": "2026-07-12",
-      "addedBy": "discord-agent"
     }
   ],
   "昭": [
@@ -32010,14 +31994,6 @@ const autoData = {
       "reading": "こんかい",
       "meaning": "今度の回、または今の機会のこと。",
       "example": "今回の遠足はとても楽しかったです。",
-      "addedDate": "2026-07-12",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "回り道",
-      "reading": "まわりみち",
-      "meaning": "目的地まで、近道ではなく遠くを回っていく道。",
-      "example": "工事中で学校へ回り道をしました。",
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
     },
