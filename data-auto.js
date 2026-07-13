@@ -32417,6 +32417,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "才": [
+    {
+      "jukugo": "天才",
+      "reading": "てんさい",
+      "meaning": "生まれつき、とても優れた能力を持っていること。",
+      "example": "彼は小さい頃からピアノの**天才**と言われている。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "才能",
+      "reading": "さいのう",
+      "meaning": "物事をうまくこなすための生まれつきの能力や力。",
+      "example": "彼女には絵を描く**才能**がある。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "秀才",
+      "reading": "しゅうさい",
+      "meaning": "学業などがとても優れていて、成績が良い人。",
+      "example": "彼はクラスの**秀才**で、いつもテストで良い点をとる。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "英才",
+      "reading": "えいさい",
+      "meaning": "とても優れた才能を持っていること、またその人。",
+      "example": "この学校では、将来を期待される**英才**を育てている。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "才女",
+      "reading": "さいじょ",
+      "meaning": "学問や芸術などに優れた才能を持つ女性。",
+      "example": "彼女は文学にくわしい**才女**として知られている。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
