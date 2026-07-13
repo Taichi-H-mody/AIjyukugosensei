@@ -32583,5 +32583,47 @@
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "集": [
+    {
+      "jukugo": "集合",
+      "reading": "しゅうごう",
+      "meaning": "ばらばらの人や物が一か所に集まること。",
+      "example": "先生の「集合！」の声で、みんなが校庭に集まった。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "集中",
+      "reading": "しゅうちゅう",
+      "meaning": "一つのことに力を込めて、他のことに気を取られないこと。",
+      "example": "けんたは、ゲームに集中しすぎて、お母さんの声が聞こえなかった。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "集会",
+      "reading": "しゅうかい",
+      "meaning": "多くの人が集まって、会議をしたり話を聞いたりすること。",
+      "example": "明日の朝は、体育館で全校集会があります。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "収集",
+      "reading": "しゅうしゅう",
+      "meaning": "いろいろな物を集めること。特に、趣味で物を集めること。",
+      "example": "ぼくの趣味は、世界の切手を収集することです。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "募集",
+      "reading": "ぼしゅう",
+      "meaning": "広く呼びかけて、人や物を集めること。",
+      "example": "サッカークラブが新しいメンバーを募集しているよ。",
+      "addedDate": "2026-07-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
