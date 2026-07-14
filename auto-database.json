@@ -33047,5 +33047,89 @@
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "活": [
+    {
+      "jukugo": "活動",
+      "reading": "かつどう",
+      "meaning": "体を動かしたり、何かをしたりすること。",
+      "example": "みんなで協力して清掃活動をしました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を送ること。暮らし。",
+      "example": "健康的な生活を送るために、早寝早起きを心がけよう。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活用",
+      "reading": "かつよう",
+      "meaning": "あるものをうまく使うこと。",
+      "example": "学んだことをテストで活用できた。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活発",
+      "reading": "かっぱつ",
+      "meaning": "元気で動きが盛んな様子。",
+      "example": "彼はいつも活発で、クラスの人気者だ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活気",
+      "reading": "かっき",
+      "meaning": "動きが盛んで元気のある様子。にぎわい。",
+      "example": "お祭り広場は活気にあふれていました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "頭": [
+    {
+      "jukugo": "頭痛",
+      "reading": "ずつう",
+      "meaning": "頭が痛くなること。",
+      "example": "風邪をひいて、ひどい頭痛がします。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先頭",
+      "reading": "せんとう",
+      "meaning": "列やグループのいちばん前の場所。",
+      "example": "マラソン大会で、彼はいつも先頭を走っています。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "頭上",
+      "reading": "ずじょう",
+      "meaning": "自分の頭のすぐ上のあたり。",
+      "example": "大きな鳥が頭上をゆっくりと飛んでいきました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音頭",
+      "reading": "おんど",
+      "meaning": "たくさんの人が歌ったり踊ったりするときに、中心となって声を出すこと。",
+      "example": "お祭りでは、みんなで盆踊りの音頭に合わせて踊りました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "頭文字",
+      "reading": "かしらもじ",
+      "meaning": "言葉や文章のいちばん初めの文字。",
+      "example": "国語の授業で、都道府県の頭文字を覚えました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 }
