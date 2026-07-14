@@ -33091,6 +33091,48 @@ const autoData = {
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "頭": [
+    {
+      "jukugo": "頭痛",
+      "reading": "ずつう",
+      "meaning": "頭が痛くなること。",
+      "example": "風邪をひいて、ひどい頭痛がします。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先頭",
+      "reading": "せんとう",
+      "meaning": "列やグループのいちばん前の場所。",
+      "example": "マラソン大会で、彼はいつも先頭を走っています。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "頭上",
+      "reading": "ずじょう",
+      "meaning": "自分の頭のすぐ上のあたり。",
+      "example": "大きな鳥が頭上をゆっくりと飛んでいきました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音頭",
+      "reading": "おんど",
+      "meaning": "たくさんの人が歌ったり踊ったりするときに、中心となって声を出すこと。",
+      "example": "お祭りでは、みんなで盆踊りの音頭に合わせて踊りました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "頭文字",
+      "reading": "かしらもじ",
+      "meaning": "言葉や文章のいちばん初めの文字。",
+      "example": "国語の授業で、都道府県の頭文字を覚えました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
