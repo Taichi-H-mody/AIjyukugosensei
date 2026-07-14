@@ -33133,6 +33133,48 @@ const autoData = {
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "電": [
+    {
+      "jukugo": "電車",
+      "reading": "でんしゃ",
+      "meaning": "レールの上を電気の力で走る乗り物です。",
+      "example": "毎日、電車に乗って学校に通っています。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電気",
+      "reading": "でんき",
+      "meaning": "あかりをつけたり、機械を動かしたりするのに使うエネルギーです。",
+      "example": "夜になると、部屋の電気をつけます。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電話",
+      "reading": "でんわ",
+      "meaning": "遠くにいる人と声で話すための道具です。",
+      "example": "おばあちゃんに電話で今日の出来事を話しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電灯",
+      "reading": "でんとう",
+      "meaning": "電気を使って部屋などを明るくする道具です。",
+      "example": "暗くなったので、部屋の電灯をつけました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電池",
+      "reading": "でんち",
+      "meaning": "電気の力をためて、時計やリモコンなどの小さな機械を動かすのに使うものです。",
+      "example": "リモコンの電池が切れて、テレビがつかなくなりました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
