@@ -32887,5 +32887,81 @@
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "練": [
+    {
+      "jukugo": "練習",
+      "reading": "れんしゅう",
+      "meaning": "スポーツや楽器、勉強などで、できるようになるためにくり返すこと。",
+      "example": "明日の発表会のために、ピアノの練習を毎日がんばる。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "訓練",
+      "reading": "くんれん",
+      "meaning": "ある目的を達成するために、きびしい指導のもとで繰り返し教えたり、試したりすること。",
+      "example": "将来、宇宙飛行士になるために、体力づくりの訓練を続けた。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鍛練",
+      "reading": "たんれん",
+      "meaning": "体や精神、技をきたえ、強くすること。",
+      "example": "剣道の練習を通して、心と体を鍛練する。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "試練",
+      "reading": "しれん",
+      "meaning": "人の力や気持ちを試すような、むずかしいできごと。",
+      "example": "大会での敗北は、彼にとって大きな試練となったが、それを乗り越えて成長した。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "西": [
+    {
+      "jukugo": "東西",
+      "reading": "とうざい",
+      "meaning": "東と西の方向。",
+      "example": "東西南北、方位を確かめよう。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "西方",
+      "reading": "せいほう",
+      "meaning": "西の方角。",
+      "example": "夕日が西方に沈むのが見えた。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "西部",
+      "reading": "せいぶ",
+      "meaning": "西側の部分。",
+      "example": "日本の西部には九州地方などがある。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "西洋",
+      "reading": "せいよう",
+      "meaning": "ヨーロッパやアメリカなど、西にある国々。",
+      "example": "西洋の料理を食べてみたい。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "関西",
+      "reading": "かんさい",
+      "meaning": "日本の近畿地方のこと。",
+      "example": "夏休みに関西旅行に行く予定だ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 }
