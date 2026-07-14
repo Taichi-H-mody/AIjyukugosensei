@@ -32310,14 +32310,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "遊び場",
-      "reading": "あそびば",
-      "meaning": "子どもたちが遊ぶための場所。",
-      "example": "この広場は、近所の子どもたちにとって大切な遊び場だ。",
-      "addedDate": "2026-07-13",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "遊歩道",
       "reading": "ゆうほどう",
       "meaning": "散歩や軽い運動をするために、きれいに整備された道。",
@@ -32348,14 +32340,6 @@ const autoData = {
       "reading": "あんしん",
       "meaning": "心配や不安がなく、心が落ち着くこと。",
       "example": "お母さんがそばにいると、とても安心する。",
-      "addedDate": "2026-07-13",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "安売り",
-      "reading": "やすうり",
-      "meaning": "品物のねだんを安くして売ること。",
-      "example": "スーパーで、卵の安売りをしていた。",
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     },
@@ -32642,14 +32626,6 @@ const autoData = {
       "reading": "はちがつ",
       "meaning": "一年のうちで、七月の次の月。夏休みがある月。",
       "example": "八月には、学校でプールに入れる日がたくさんあるよ。",
-      "addedDate": "2026-07-13",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "八つ当たり",
-      "reading": "やつあたり",
-      "meaning": "いやなことがあったときに、関係ない人に怒ったりすること。",
-      "example": "弟はゲームに負けて、ぬいぐるみ相手に八つ当たりしていた。",
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     },
