@@ -33049,6 +33049,48 @@ const autoData = {
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "活": [
+    {
+      "jukugo": "活動",
+      "reading": "かつどう",
+      "meaning": "体を動かしたり、何かをしたりすること。",
+      "example": "みんなで協力して清掃活動をしました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を送ること。暮らし。",
+      "example": "健康的な生活を送るために、早寝早起きを心がけよう。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活用",
+      "reading": "かつよう",
+      "meaning": "あるものをうまく使うこと。",
+      "example": "学んだことをテストで活用できた。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活発",
+      "reading": "かっぱつ",
+      "meaning": "元気で動きが盛んな様子。",
+      "example": "彼はいつも活発で、クラスの人気者だ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活気",
+      "reading": "かっき",
+      "meaning": "動きが盛んで元気のある様子。にぎわい。",
+      "example": "お祭り広場は活気にあふれていました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
