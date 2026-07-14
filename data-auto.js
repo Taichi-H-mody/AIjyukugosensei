@@ -32729,6 +32729,90 @@ const autoData = {
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "晴": [
+    {
+      "jukugo": "晴天",
+      "reading": "せいてん",
+      "meaning": "空が青く、雲があまりない気持ちの良い天気のこと。",
+      "example": "明日の遠足は晴天だといいな。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "快晴",
+      "reading": "かいせい",
+      "meaning": "空に雲がほとんどなく、からっと気持ちよく晴れていること。",
+      "example": "今日は空が青い快晴で、お洗濯にぴったりだ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "晴着",
+      "reading": "はれぎ",
+      "meaning": "お祝いの時や特別な日に着る、きれいな服のこと。",
+      "example": "お正月には、おばあちゃんが買ってくれた晴着を着たよ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "五月晴れ",
+      "reading": "さつきばれ",
+      "meaning": "梅雨の時期なのに、珍しくよく晴れて気持ちの良い天気のこと。",
+      "example": "長い雨の後、やっと五月晴れになって外で遊べた。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雪晴れ",
+      "reading": "ゆきばれ",
+      "meaning": "雪が降った後、空が晴れてきれいな景色になること。",
+      "example": "雪晴れの日は、雪がキラキラ光ってとてもきれいだった。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "受": [
+    {
+      "jukugo": "受付",
+      "reading": "うけつけ",
+      "meaning": "訪れた人や、届け出などを最初に応対する場所や役割。",
+      "example": "学校の昇降口の近くに、来客用の**受付**があります。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受講",
+      "reading": "じゅこう",
+      "meaning": "授業や講習を受けること。",
+      "example": "夏休みに、絵画教室の**受講**を申し込んだ。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受信",
+      "reading": "じゅしん",
+      "meaning": "電波やメール、手紙などを受け取ること。",
+      "example": "お母さんのスマートフォンに、先生からのメールが**受信**された。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受験",
+      "reading": "じゅけん",
+      "meaning": "学校などに入るための試験を受けること。",
+      "example": "お兄ちゃんは、来年の中学校**受験**のために、毎日勉強しています。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受話器",
+      "reading": "じゅわき",
+      "meaning": "電話で、相手の声を聞くための部分。",
+      "example": "昔の電話は、**受話器**を耳にあてて話しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
