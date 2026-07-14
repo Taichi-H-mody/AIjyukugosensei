@@ -32687,6 +32687,48 @@ const autoData = {
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "登": [
+    {
+      "jukugo": "登山",
+      "reading": "とざん",
+      "meaning": "山に登ること。",
+      "example": "夏休みに、家族と富士山に登山しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登場",
+      "reading": "とうじょう",
+      "meaning": "舞台や物語などに現れること。",
+      "example": "劇の主役が、大きな拍手の中、舞台に登場しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登校",
+      "reading": "とうこう",
+      "meaning": "学校に行くこと。",
+      "example": "朝、友達と一緒に元気に登校します。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登録",
+      "reading": "とうろく",
+      "meaning": "記録として名前や情報を書き記すこと。",
+      "example": "図書館で本を借りるために、名前を登録しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "登頂",
+      "reading": "とうちょう",
+      "meaning": "山の頂上まで登りきること。",
+      "example": "厳しい道のりでしたが、ついに山の登頂に成功しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
