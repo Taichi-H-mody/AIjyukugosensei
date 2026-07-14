@@ -32963,5 +32963,89 @@
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "題": [
+    {
+      "jukugo": "問題",
+      "reading": "もんだい",
+      "meaning": "といて考えること。解決するべきこと。",
+      "example": "算数の問題を解くのが得意です。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宿題",
+      "reading": "しゅくだい",
+      "meaning": "学校から家でするように出される勉強や課題。",
+      "example": "早く宿題を終わらせて、遊びに行きたいな。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "題名",
+      "reading": "だいめい",
+      "meaning": "本や物語、絵などにつける名前。タイトル。",
+      "example": "この絵の題名は何ですか。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "課題",
+      "reading": "かだい",
+      "meaning": "解決しなければならないこと。与えられた仕事やテーマ。",
+      "example": "夏休みの自由研究は、大切な課題です。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "主題",
+      "reading": "しゅだい",
+      "meaning": "話や文章、絵などの中心となる内容。テーマ。",
+      "example": "この物語の主題は、友情の大切さです。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "門": [
+    {
+      "jukugo": "校門",
+      "reading": "こうもん",
+      "meaning": "学校の入り口にある門のこと。",
+      "example": "毎日、校門を通って学校に行きます。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "裏門",
+      "reading": "うらもん",
+      "meaning": "正面の門とは反対側にある、あまり目立たない門。",
+      "example": "遊びに行くときは、裏門から出ることが多いです。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入門",
+      "reading": "にゅうもん",
+      "meaning": "あることを初めて学ぶこと。その分野に入ること。",
+      "example": "けん玉の入門書を読んで、新しい技を練習しました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "門松",
+      "reading": "かどまつ",
+      "meaning": "お正月に、家の門や玄関に飾る松や竹などの縁起物。",
+      "example": "お正月には、門松を飾って新年を迎えます。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開門",
+      "reading": "かいもん",
+      "meaning": "門を開けること。または、門が開けられること。",
+      "example": "動物園の開門時間を調べてから出かけました。",
+      "addedDate": "2026-07-14",
+      "addedBy": "discord-agent"
+    }
   ]
 }
