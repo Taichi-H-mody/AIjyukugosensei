@@ -32754,22 +32754,6 @@ const autoData = {
       "example": "お正月には、おばあちゃんが買ってくれた晴着を着たよ。",
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "五月晴れ",
-      "reading": "さつきばれ",
-      "meaning": "梅雨の時期なのに、珍しくよく晴れて気持ちの良い天気のこと。",
-      "example": "長い雨の後、やっと五月晴れになって外で遊べた。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "雪晴れ",
-      "reading": "ゆきばれ",
-      "meaning": "雪が降った後、空が晴れてきれいな景色になること。",
-      "example": "雪晴れの日は、雪がキラキラ光ってとてもきれいだった。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
     }
   ],
   "受": [
@@ -32816,42 +32800,10 @@ const autoData = {
   ],
   "秋": [
     {
-      "jukugo": "秋晴れ",
-      "reading": "あきばれ",
-      "meaning": "秋の空がよく晴れ渡ること。",
-      "example": "秋晴れの空の下、運動会が開かれました。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "秋風",
       "reading": "あきかぜ",
       "meaning": "秋に吹く風。涼しく心地よい風を指すことが多い。",
       "example": "窓から秋風が入ってきて、とても涼しいです。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "秋祭り",
-      "reading": "あきまつり",
-      "meaning": "秋に行われるお祭り。豊作を祝う行事が多い。",
-      "example": "村の秋祭りは、毎年たくさんの人でにぎわいます。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "読書の秋",
-      "reading": "どくしょのあき",
-      "meaning": "秋は気候が穏やかで、集中して読書をするのにふさわしい季節だという意味。",
-      "example": "涼しくなってきたので、読書の秋を楽しみたいです。",
-      "addedDate": "2026-07-14",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "実りの秋",
-      "reading": "みのりのあき",
-      "meaning": "秋は作物や果物がたくさん実る季節だということ。",
-      "example": "畑では、今年も豊かな実りの秋を迎えました。",
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
