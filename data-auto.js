@@ -33127,6 +33127,90 @@ const autoData = {
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "者": [
+    {
+      "jukugo": "医者",
+      "reading": "いしゃ",
+      "meaning": "病気の人を診て、治す仕事をする人。",
+      "example": "将来の夢は、人の病気を治す医者になることです。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学者",
+      "reading": "がくしゃ",
+      "meaning": "学問を深く研究している人。",
+      "example": "有名な学者が、新しい発見について話してくれました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読者",
+      "reading": "どくしゃ",
+      "meaning": "本や新聞、雑誌などを読む人。",
+      "example": "この物語は、多くの読者に愛されています。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作者",
+      "reading": "さくしゃ",
+      "meaning": "絵や小説、音楽などの作品を作った人。",
+      "example": "この絵本の作者は、色々な動物を描くのが上手です。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "若者",
+      "reading": "わかもの",
+      "meaning": "年齢が若い人。",
+      "example": "公園には、楽しそうに話している若者がたくさんいました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "動": [
+    {
+      "jukugo": "動物",
+      "reading": "どうぶつ",
+      "meaning": "人間以外の、命があって動く生き物のこと。",
+      "example": "パンダはみんなに人気の**動物**です。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運動",
+      "reading": "うんどう",
+      "meaning": "体を動かすこと。健康のために体を動かしたり、スポーツをしたりすること。",
+      "example": "毎日公園でジョギングの**運動**をしています。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "感動",
+      "reading": "かんどう",
+      "meaning": "心が深く揺さぶられて、強く心を動かされること。",
+      "example": "友達の劇を見て、とても**感動**しました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活動",
+      "reading": "かつどう",
+      "meaning": "目的を持って何かをしたり、体を動かしたりすること。",
+      "example": "放課後は、クラブ**活動**でバスケットボールをします。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行動",
+      "reading": "こうどう",
+      "meaning": "何かをすること。ふるまい。",
+      "example": "困っている友達を助ける**行動**は素晴らしいです。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
