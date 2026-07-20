@@ -33545,5 +33545,89 @@
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "林": [
+    {
+      "jukugo": "森林",
+      "reading": "しんりん",
+      "meaning": "木がたくさん生えている広い場所。森。",
+      "example": "広い**森林**の中には、たくさんの動物が住んでいます。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山林",
+      "reading": "さんりん",
+      "meaning": "山にある木がたくさん生えている場所。",
+      "example": "秋になると、**山林**の木々が赤や黄色に色づきます。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "林道",
+      "reading": "りんどう",
+      "meaning": "森や山の中を通る道。",
+      "example": "**林道**を歩いていると、きれいな鳥の声が聞こえてきました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "林檎",
+      "reading": "りんご",
+      "meaning": "甘くて赤い丸い果物。",
+      "example": "おやつに、あまくておいしい**林檎**を一つ食べました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "林業",
+      "reading": "りんぎょう",
+      "meaning": "山や林の木を育てたり、木を切って使ったりする仕事。",
+      "example": "おじいさんの仕事は、木を育てる**林業**です。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "打": [
+    {
+      "jukugo": "打席",
+      "reading": "だせき",
+      "meaning": "野球やソフトボールなどで、バッターがボールを打つために立つ場所。",
+      "example": "野球の試合で、ぼくは初めて打席に立った。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "打者",
+      "reading": "だしゃ",
+      "meaning": "野球やソフトボールなどで、ボールを打つ人。バッター。",
+      "example": "今日の試合では、あの打者がホームランを打った。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "打球",
+      "reading": "だきゅう",
+      "meaning": "野球やテニスなどで、バットやラケットで打ったボール。",
+      "example": "彼の打球は、ものすごいスピードで外野まで飛んでいった。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "打ち水",
+      "reading": "うちみず",
+      "meaning": "道や庭などに水をまいて、ほこりをしずめたり、涼しくしたりすること。",
+      "example": "暑い日には、夕方に打ち水をして涼しくするんだ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "打楽器",
+      "reading": "だがっき",
+      "meaning": "たたいたり、ふったり、こすったりして音を出す楽器の総称。たいこやカスタネットなど。",
+      "example": "音楽の時間に、みんなで打楽器を演奏した。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 }
