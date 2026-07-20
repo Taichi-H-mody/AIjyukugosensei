@@ -33461,5 +33461,89 @@
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "画": [
+    {
+      "jukugo": "漫画",
+      "reading": "まんが",
+      "meaning": "絵とセリフで物語などを表現したものです。",
+      "example": "僕は毎週、好きな**漫画**を読んでいるよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "計画",
+      "reading": "けいかく",
+      "meaning": "何かをしようと、前もって方法や順序を考えることです。",
+      "example": "夏休みに遊ぶ**計画**を立てよう。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "画面",
+      "reading": "がめん",
+      "meaning": "テレビやコンピューター、スマートフォンなどに映像が映し出される部分のことです。",
+      "example": "テレビの**画面**に好きなアニメが映っているよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "映画",
+      "reading": "えいが",
+      "meaning": "カメラで撮った映像と音を使って物語などを見せるものです。",
+      "example": "家族で面白い**映画**を観に行った。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "画用紙",
+      "reading": "がようし",
+      "meaning": "絵を描くために使う、少し厚手の白い紙のことです。",
+      "example": "真っ白な**画用紙**に、大きな絵を描いた。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "肉": [
+    {
+      "jukugo": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "牛の肉。",
+      "example": "すき焼きには牛肉を使うとおいしいね。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豚肉",
+      "reading": "ぶたにく",
+      "meaning": "豚の肉。",
+      "example": "しょうが焼きは豚肉で作る料理だよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鶏肉",
+      "reading": "とりにく",
+      "meaning": "鶏（にわとり）の肉。",
+      "example": "唐揚げは鶏肉で作ります。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肉体",
+      "reading": "にくたい",
+      "meaning": "動物の体。特に、人間の体を指すことが多い。",
+      "example": "けんこうな肉体を作るために、毎日うんどうしよう。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "肉屋",
+      "reading": "にくや",
+      "meaning": "肉を売るお店。また、そこで働く人。",
+      "example": "今日の晩ごはんのお肉は、近所の肉屋さんで買ってきたよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 }
