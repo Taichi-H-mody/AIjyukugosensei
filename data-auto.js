@@ -33295,6 +33295,90 @@ const autoData = {
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "声": [
+    {
+      "jukugo": "声援",
+      "reading": "せいえん",
+      "meaning": "声をあげて応援すること。",
+      "example": "運動会では、みんなで大きな声援を送った。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音声",
+      "reading": "おんせい",
+      "meaning": "人の声や、音のこと。",
+      "example": "テレビから、アナウンサーの音声が聞こえてきた。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大声",
+      "reading": "おおごえ",
+      "meaning": "大きな声。",
+      "example": "友達がおもしろい話をしてくれたので、思わず大声で笑ってしまった。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歌声",
+      "reading": "うたごえ",
+      "meaning": "歌っているときの声。",
+      "example": "合唱コンクールで、きれいな歌声が体育館に響き渡った。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "笑い声",
+      "reading": "わらいごえ",
+      "meaning": "笑っているときの声。",
+      "example": "公園から、子どもたちの楽しそうな笑い声が聞こえてきた。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "道": [
+    {
+      "jukugo": "道路",
+      "reading": "どうろ",
+      "meaning": "車や人が通るために作られた平らな道。",
+      "example": "広い道路を渡るときは、左右をよく見て渡りましょう。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歩道",
+      "reading": "ほどう",
+      "meaning": "車が通る車道と区別されていて、人が歩くための道。",
+      "example": "学校へ行くときは、歩道を一列に並んで歩きます。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "近道",
+      "reading": "ちかみち",
+      "meaning": "目的地に早く着くための、ふだんの道より短い道。",
+      "example": "この森の中を通れば、公園までの近道になるよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水道",
+      "reading": "すいどう",
+      "meaning": "家や学校にきれいな水を送るためのしくみ。または、そこから出る水。",
+      "example": "手を洗うときは、水道の水を大切に使いましょう。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "柔道",
+      "reading": "じゅうどう",
+      "meaning": "日本の武道のひとつで、相手の力を使って投げたり抑えたりする格闘技。",
+      "example": "友達が柔道教室に通い始めて、強くなったよ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
