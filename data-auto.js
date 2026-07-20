@@ -33379,6 +33379,90 @@ const autoData = {
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "育": [
+    {
+      "jukugo": "教育",
+      "reading": "きょういく",
+      "meaning": "人を教えて、知識や能力を育てたり、良い人間になるように導いたりすること。",
+      "example": "学校で色々なことを学ぶのは、大切な**教育**です。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体育",
+      "reading": "たいいく",
+      "meaning": "体を動かすことで、健康な体や運動能力を育てること。",
+      "example": "**体育**の時間は、みんなでかけっこをしました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "子育て",
+      "reading": "こそだて",
+      "meaning": "子どもを大切に育てて、一人前にすること。",
+      "example": "お母さんは、毎日私たちを大切に**子育て**してくれます。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保育",
+      "reading": "ほいく",
+      "meaning": "小さい子どもを預かって、めんどうを見たり、成長を助けたりすること。",
+      "example": "妹は毎日、**保育**園で先生やお友達と遊んでいます。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飼育",
+      "reading": "しいく",
+      "meaning": "動物をかごやおりの中で飼って、育てること。",
+      "example": "理科の授業で、メダカの**飼育**をしています。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "毛": [
+    {
+      "jukugo": "毛糸",
+      "reading": "けいと",
+      "meaning": "羊などの毛を紡いで作った糸。編み物などに使われます。",
+      "example": "おばあちゃんが**毛糸**でマフラーを編んでくれました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛布",
+      "reading": "もうふ",
+      "meaning": "羊毛などで作られた、体を温める厚手の布です。",
+      "example": "寒い夜は、温かい**毛布**にくるまって寝るのが好きだ。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛皮",
+      "reading": "けがわ",
+      "meaning": "動物の毛がついたままの皮のこと。衣類などに使われることがあります。",
+      "example": "寒い地方では、動物の**毛皮**を着て寒さをしのぐことがあります。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛虫",
+      "reading": "けむし",
+      "meaning": "チョウやガの幼虫で、体に毛が生えているもののことです。",
+      "example": "庭の葉っぱに大きな**毛虫**がいたので、びっくりした。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛穴",
+      "reading": "けあな",
+      "meaning": "皮膚にある、毛が生えている小さな穴のことです。",
+      "example": "夏は汗をたくさんかくので、**毛穴**の汚れが気になる。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
