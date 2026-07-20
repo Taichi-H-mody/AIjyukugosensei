@@ -33209,5 +33209,89 @@
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "化": [
+    {
+      "jukugo": "文化",
+      "reading": "ぶんか",
+      "meaning": "その国や地域の人々が受け継いできた、暮らし方や考え方、芸術などのこと。",
+      "example": "日本の文化について、発表の準備をしました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "変化",
+      "reading": "へんか",
+      "meaning": "物事が前とはちがう姿や状態になること。",
+      "example": "季節の変化を感じながら、散歩をしました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "化学",
+      "reading": "かがく",
+      "meaning": "物が何でできているか、どうして姿を変えるのかなどを研究する学問。",
+      "example": "理科の授業で、化学の実験をしました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "消化",
+      "reading": "しょうか",
+      "meaning": "食べた物を体の中で細かく分解し、栄養として吸収できるようにすること。",
+      "example": "よくかんで食べると、食べ物が消化されやすくなります。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美化",
+      "reading": "びか",
+      "meaning": "きれいにすること、美しくすること。",
+      "example": "みんなで協力して、公園の美化活動を行いました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "列": [
+    {
+      "jukugo": "列車",
+      "reading": "れっしゃ",
+      "meaning": "多くの車両が連なって線路の上を走る乗り物。",
+      "example": "遠足で、みんなで特急列車に乗って出かけました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "人や物が縦に並んでいる様子。",
+      "example": "人気のアイスクリーム屋さんには、いつも長い行列ができています。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整列",
+      "reading": "せいれつ",
+      "meaning": "乱れた列をきちんとそろえること。",
+      "example": "体育の時間が始まる前に、先生の合図で素早く整列しました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "列島",
+      "reading": "れっとう",
+      "meaning": "たくさんの島々が列のように長く連なっている地形。",
+      "example": "日本は、縦に長い列島です。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "隊列",
+      "reading": "たいれつ",
+      "meaning": "団体やグループが並んで進む列。",
+      "example": "運動会の開会式では、各クラスが元気よく隊列を組んで入場しました。",
+      "addedDate": "2026-07-20",
+      "addedBy": "discord-agent"
+    }
   ]
 }
