@@ -33607,6 +33607,90 @@ const autoData = {
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     }
+  ],
+  "荷": [
+    {
+      "jukugo": "荷物",
+      "reading": "にもつ",
+      "meaning": "持っていくものや、運ぶものです。",
+      "example": "遠足の荷物をリュックに詰めました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出荷",
+      "reading": "しゅっか",
+      "meaning": "商品などを工場やお店から送り出すことです。",
+      "example": "今日、農家からスーパーへ野菜が出荷されました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "入荷",
+      "reading": "にゅうか",
+      "meaning": "商品などがお店や倉庫に入ってくることです。",
+      "example": "新しいゲームがお店に入荷しました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手荷物",
+      "reading": "てにもつ",
+      "meaning": "自分で手に持って運ぶ、小さめの荷物のことです。",
+      "example": "飛行機に乗るときは、手荷物を自分で持ち込みます。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "荷台",
+      "reading": "にだい",
+      "meaning": "トラックや自転車などで、荷物をのせる部分のことです。",
+      "example": "自転車の荷台に、買い物袋をのせました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "面": [
+    {
+      "jukugo": "場面",
+      "reading": "ばめん",
+      "meaning": "物事が起こる場所や、その時の様子。",
+      "example": "劇の最後の場面では、みんなが感動して拍手しました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "顔面",
+      "reading": "がんめん",
+      "meaning": "顔の表面。",
+      "example": "ボールが顔面に当たらないように、しっかり守ろう。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表面",
+      "reading": "ひょうめん",
+      "meaning": "物の外側の部分。うわべ。",
+      "example": "りんごの表面はつるつるしていて、光っていました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真面目",
+      "reading": "まじめ",
+      "meaning": "いいかげんではなく、まごころをこめて物事に取り組むこと。",
+      "example": "彼はいつも真面目に勉強するので、成績がとても良いです。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "方面",
+      "reading": "ほうめん",
+      "meaning": "ある方向や、ある分野。",
+      "example": "駅の東方面に、新しい公園ができました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
