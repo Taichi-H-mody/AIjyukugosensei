@@ -33983,5 +33983,47 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "岸": [
+    {
+      "jukugo": "海岸",
+      "reading": "かいがん",
+      "meaning": "海と陸が接しているところ。海のそば。",
+      "example": "夏休みには、家族で海岸へ遊びに行きました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川岸",
+      "reading": "かわぎし",
+      "meaning": "川のへり。川のほとり。",
+      "example": "川岸には、たくさんの草が生えていました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "対岸",
+      "reading": "たいがん",
+      "meaning": "川や海の向こう側にある岸。",
+      "example": "船に乗って、対岸の町へ渡りました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岸辺",
+      "reading": "きしべ",
+      "meaning": "岸のあたり。岸に近い場所。",
+      "example": "鳥が岸辺でえさを探していました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両岸",
+      "reading": "りょうがん",
+      "meaning": "川や道路などの両側にある岸。",
+      "example": "川の両岸には、桜の木がずらりと並んでいました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 }
