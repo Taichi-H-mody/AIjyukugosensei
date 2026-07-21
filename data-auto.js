@@ -33691,6 +33691,48 @@ const autoData = {
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "市": [
+    {
+      "jukugo": "市場",
+      "reading": "いちば",
+      "meaning": "魚や野菜など、いろいろな品物を売ったり買ったりするお店がたくさん集まった場所。",
+      "example": "お母さんと一緒に、新鮮な野菜を買いに**市場**へ行きました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市民",
+      "reading": "しみん",
+      "meaning": "ある市に住んでいる人々のこと。",
+      "example": "この**市民**プールは、夏になるとたくさんの人で賑わいます。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市内",
+      "reading": "しない",
+      "meaning": "ある市の中のこと。",
+      "example": "バスに乗って**市内**をめぐり、有名な観光地をまわりました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "都市",
+      "reading": "とし",
+      "meaning": "たくさんの人が住んでいて、建物やお店が多く集まり、交通も便利な大きな町。",
+      "example": "東京は日本で一番大きな**都市**です。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市長",
+      "reading": "しちょう",
+      "meaning": "市の代表として、市全体の仕事をする最もえらい人。",
+      "example": "**市長**さんが、新しい図書館の開園式でお話をしていました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
