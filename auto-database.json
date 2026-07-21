@@ -33773,5 +33773,47 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "光": [
+    {
+      "jukugo": "日光",
+      "reading": "にっこう",
+      "meaning": "太陽の光。",
+      "example": "日光を浴びて、元気いっぱいに遊んだ。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月光",
+      "reading": "げっこう",
+      "meaning": "月の光。",
+      "example": "月光が窓から差し込み、部屋をほんのり照らした。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "光景",
+      "reading": "こうけい",
+      "meaning": "目の前に広がる景色や様子。",
+      "example": "夕焼けに染まる美しい光景に、みんな感動した。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観光",
+      "reading": "かんこう",
+      "meaning": "景色や名所などを見て楽しむこと。",
+      "example": "夏休みに家族で京都へ観光旅行に行った。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "光線",
+      "reading": "こうせん",
+      "meaning": "光の筋。",
+      "example": "懐中電灯の光線が、暗い道を明るく照らした。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 }
