@@ -33328,14 +33328,6 @@ const autoData = {
       "example": "合唱コンクールで、きれいな歌声が体育館に響き渡った。",
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "笑い声",
-      "reading": "わらいごえ",
-      "meaning": "笑っているときの声。",
-      "example": "公園から、子どもたちの楽しそうな笑い声が聞こえてきた。",
-      "addedDate": "2026-07-20",
-      "addedBy": "discord-agent"
     }
   ],
   "道": [
@@ -33394,14 +33386,6 @@ const autoData = {
       "reading": "たいいく",
       "meaning": "体を動かすことで、健康な体や運動能力を育てること。",
       "example": "**体育**の時間は、みんなでかけっこをしました。",
-      "addedDate": "2026-07-20",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "子育て",
-      "reading": "こそだて",
-      "meaning": "子どもを大切に育てて、一人前にすること。",
-      "example": "お母さんは、毎日私たちを大切に**子育て**してくれます。",
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     },
@@ -33612,14 +33596,6 @@ const autoData = {
       "reading": "だきゅう",
       "meaning": "野球やテニスなどで、バットやラケットで打ったボール。",
       "example": "彼の打球は、ものすごいスピードで外野まで飛んでいった。",
-      "addedDate": "2026-07-20",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "打ち水",
-      "reading": "うちみず",
-      "meaning": "道や庭などに水をまいて、ほこりをしずめたり、涼しくしたりすること。",
-      "example": "暑い日には、夕方に打ち水をして涼しくするんだ。",
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
     },
