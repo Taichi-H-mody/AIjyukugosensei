@@ -33943,6 +33943,48 @@ const autoData = {
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "算": [
+    {
+      "jukugo": "計算",
+      "reading": "けいさん",
+      "meaning": "数を数えたり、足したり引いたりして、答えを出すことです。",
+      "example": "今日の算数の時間には、大きな数の計算をしました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "算数",
+      "reading": "さんすう",
+      "meaning": "小学校で、数を数えたり、図形や量を学んだりする勉強の教科です。",
+      "example": "算数の授業で、かけ算の九九を習いました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗算",
+      "reading": "あんざん",
+      "meaning": "紙に書かずに、頭の中で数を計算することです。",
+      "example": "お兄ちゃんは、大きな数でも暗算で答えを出せるので、とてもすごいです。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "筆算",
+      "reading": "ひっさん",
+      "meaning": "紙に数字を書いて、縦に並べて計算することです。",
+      "example": "難しい足し算は、筆算を使って解くと間違えにくいです。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予算",
+      "reading": "よさん",
+      "meaning": "何かをするときに、お金がどれくらい必要か、前もって計画を立てることです。",
+      "example": "お祭りに行くために、お小遣いの中からいくら使うか予算を立てました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
