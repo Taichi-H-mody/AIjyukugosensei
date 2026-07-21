@@ -33733,6 +33733,48 @@ const autoData = {
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "丁": [
+    {
+      "jukugo": "丁度",
+      "reading": "ちょうど",
+      "meaning": "時間や数量などが、ぴったりであること。",
+      "example": "時計の針は、丁度３時をさしていた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丁目",
+      "reading": "ちょうめ",
+      "meaning": "住所を表すときに使う、町の中の区切り。",
+      "example": "わたしの家は、〇〇町一丁目にあるよ。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "包丁",
+      "reading": "ほうちょう",
+      "meaning": "料理に使う、刃物の一種。",
+      "example": "お母さんが包丁で野菜を上手に切っていた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丁字路",
+      "reading": "ていじろ",
+      "meaning": "漢字の「丁」の形のように、道路がぶつかって交わる場所。",
+      "example": "丁字路では、左右をよく見てわたるようにしましょう。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一丁",
+      "reading": "いっちょう",
+      "meaning": "豆腐やラーメンなどを数えるときの単位。また、一人前という意味でも使う。",
+      "example": "スーパーで豆腐を一丁買ってきた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
