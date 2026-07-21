@@ -33815,5 +33815,47 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "島": [
+    {
+      "jukugo": "列島",
+      "reading": "れっとう",
+      "meaning": "島がいくつも連なっている様子。",
+      "example": "日本列島は、たくさんの島からできています。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "半島",
+      "reading": "はんとう",
+      "meaning": "三方を海に囲まれている、陸地の一部。",
+      "example": "伊豆半島は、海がとてもきれいです。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "島国",
+      "reading": "しまぐに",
+      "meaning": "周りが全部海に囲まれている国。",
+      "example": "日本は島国なので、海の幸が豊富です。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無人島",
+      "reading": "むじんとう",
+      "meaning": "だれも住んでいない島。",
+      "example": "冒険の物語には、よく無人島が出てきます。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "離島",
+      "reading": "りとう",
+      "meaning": "本土から遠く離れている島。",
+      "example": "夏休みに、船に乗って離島へ旅行に行きました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 }
