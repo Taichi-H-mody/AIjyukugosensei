@@ -34067,5 +34067,47 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "遠": [
+    {
+      "jukugo": "遠足",
+      "reading": "えんそく",
+      "meaning": "学校のみんなで、遠い場所へ遊びに行くこと。",
+      "example": "来週の遠足がとても楽しみです。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠回り",
+      "reading": "とおまわり",
+      "meaning": "目的地に行くのに、わざと遠い道を通ること。",
+      "example": "公園に寄るために、少し遠回りをして帰りました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠方",
+      "reading": "えんぽう",
+      "meaning": "ここから遠く離れた場所のこと。",
+      "example": "遠方から親戚のおじさんが会いに来てくれました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠投",
+      "reading": "えんとう",
+      "meaning": "ボールなどを遠くまで力いっぱい投げること。",
+      "example": "彼は野球の遠投が得意で、キャッチボールで遠くまで投げられます。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠目",
+      "reading": "とおめ",
+      "meaning": "遠くから見ること。また、遠くから見た様子。",
+      "example": "遠目には小さく見えた山が、近くで見るととても大きかった。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 }
