@@ -34025,5 +34025,47 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "筆": [
+    {
+      "jukugo": "鉛筆",
+      "reading": "えんぴつ",
+      "meaning": "字を書いたり絵を描いたりするのに使う文房具。芯は黒鉛と粘土でできています。",
+      "example": "新しい**鉛筆**を買ってもらったので、宿題がんばろう。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "筆箱",
+      "reading": "ふでばこ",
+      "meaning": "鉛筆や消しゴムなどの文房具を入れておく箱。",
+      "example": "朝、学校に行く前に**筆箱**の中身をたしかめた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛筆",
+      "reading": "もうひつ",
+      "meaning": "動物の毛で作られた、墨をつけて字を書くための筆。書道の授業で使います。",
+      "example": "書写の時間には**毛筆**を使って、ていねいに字を書きました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "筆順",
+      "reading": "ひつじゅん",
+      "meaning": "漢字を正しく書くときの、画をかく順番。",
+      "example": "漢字の**筆順**を守って書くと、バランスの良い字になるよ。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "筆記",
+      "reading": "ひっき",
+      "meaning": "字を書いて記録すること。書きとめること。",
+      "example": "先生のお話は、わすれないようにノートに**筆記**しました。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 }
