@@ -33859,6 +33859,48 @@ const autoData = {
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "波": [
+    {
+      "jukugo": "波線",
+      "reading": "はせん",
+      "meaning": "波のようにうねうねと曲がった線。",
+      "example": "ノートに波線を引いて、大事なところを目立たせた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電波",
+      "reading": "でんぱ",
+      "meaning": "テレビやラジオ、スマートフォンの情報などを伝える、目に見えない波のようなもの。",
+      "example": "ラジオは電波を使って、遠くの音楽やニュースを届けてくれる。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "津波",
+      "reading": "つなみ",
+      "meaning": "地震などが原因で、海の中で大きな波ができて、それが岸に押し寄せること。",
+      "example": "地震があったら、津波に注意してすぐに高い場所に逃げよう。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "波紋",
+      "reading": "はもん",
+      "meaning": "水面に石を投げると、円が広がるようにできる波のこと。",
+      "example": "池に落ちた雨粒が、小さな波紋を広げていった。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "波打ち際",
+      "reading": "なみうちぎわ",
+      "meaning": "海で、波が寄せては引いて、水と陸がさかいになっているところ。",
+      "example": "夏休みには、家族と波打ち際で貝殻を拾って遊んだ。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
