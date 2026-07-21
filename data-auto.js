@@ -33901,6 +33901,48 @@ const autoData = {
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "落": [
+    {
+      "jukugo": "落下",
+      "reading": "らっか",
+      "meaning": "高いところからものが落ちること。",
+      "example": "台風でリンゴが木から落下した。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落ち葉",
+      "reading": "おちば",
+      "meaning": "秋に木から落ちる葉っぱ。",
+      "example": "公園の地面には、たくさんのきれいな落ち葉が落ちていた。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落とし物",
+      "reading": "おとしもの",
+      "meaning": "大切な物をどこかに落としてしまうこと。またはその物。",
+      "example": "学校で落とし物を見つけたら、先生に届けましょう。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落書き",
+      "reading": "らくがき",
+      "meaning": "ゆるされていない場所にするいたずら書き。",
+      "example": "公園の壁に落書きをしてはいけません。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "落語",
+      "reading": "らくご",
+      "meaning": "一人で座って、おもしろい話をする日本の伝統的な芸能。",
+      "example": "夏休みに家族で落語を見に行った。",
+      "addedDate": "2026-07-21",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
