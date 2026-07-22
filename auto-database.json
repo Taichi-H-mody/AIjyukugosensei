@@ -34069,5 +34069,81 @@
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     }
+  ],
+  "二": [
+    {
+      "jukugo": "二つ",
+      "reading": "ふたつ",
+      "meaning": "ものが二つあること。数えるときに使います。",
+      "example": "おかしを二つください。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二階",
+      "reading": "にかい",
+      "meaning": "家や建物の一階の上の階のことです。",
+      "example": "わたしのへやは二階にあります。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二人",
+      "reading": "ふたり",
+      "meaning": "人が二人いること、または二人の人のことです。",
+      "example": "兄弟二人はいつも仲良しです。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二度",
+      "reading": "にど",
+      "meaning": "二回。同じことをくり返すこと。",
+      "example": "この本は二度読みました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "聞": [
+    {
+      "jukugo": "新聞",
+      "reading": "しんぶん",
+      "meaning": "世の中の出来事を文字で知らせるもの。ニュースを伝える紙。",
+      "example": "毎朝、お父さんが**新聞**を読んでいます。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見聞",
+      "reading": "けんぶん",
+      "meaning": "実際に見たり聞いたりすること。経験すること。",
+      "example": "旅行に行って、新しい**見聞**を広げました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝聞",
+      "reading": "でんぶん",
+      "meaning": "人から聞き伝えられた話。直接聞いたことではなく、また聞きした話。",
+      "example": "その話は**伝聞**なので、本当かどうかは分かりません。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "奇聞",
+      "reading": "きぶん",
+      "meaning": "珍しい話や、ふしぎな出来事の話。",
+      "example": "おじいちゃんが、昔の**奇聞**を教えてくれました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "風聞",
+      "reading": "ふうぶん",
+      "meaning": "世間で言われているうわさ話。本当かどうか確かでない情報。",
+      "example": "ただの**風聞**にまどわされないようにしよう。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 }
