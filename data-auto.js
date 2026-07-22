@@ -33892,14 +33892,6 @@ const autoData = {
       "example": "池に落ちた雨粒が、小さな波紋を広げていった。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "波打ち際",
-      "reading": "なみうちぎわ",
-      "meaning": "海で、波が寄せては引いて、水と陸がさかいになっているところ。",
-      "example": "夏休みには、家族と波打ち際で貝殻を拾って遊んだ。",
-      "addedDate": "2026-07-21",
-      "addedBy": "discord-agent"
     }
   ],
   "落": [
@@ -33908,30 +33900,6 @@ const autoData = {
       "reading": "らっか",
       "meaning": "高いところからものが落ちること。",
       "example": "台風でリンゴが木から落下した。",
-      "addedDate": "2026-07-21",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "落ち葉",
-      "reading": "おちば",
-      "meaning": "秋に木から落ちる葉っぱ。",
-      "example": "公園の地面には、たくさんのきれいな落ち葉が落ちていた。",
-      "addedDate": "2026-07-21",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "落とし物",
-      "reading": "おとしもの",
-      "meaning": "大切な物をどこかに落としてしまうこと。またはその物。",
-      "example": "学校で落とし物を見つけたら、先生に届けましょう。",
-      "addedDate": "2026-07-21",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "落書き",
-      "reading": "らくがき",
-      "meaning": "ゆるされていない場所にするいたずら書き。",
-      "example": "公園の壁に落書きをしてはいけません。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     },
@@ -34076,14 +34044,6 @@ const autoData = {
       "reading": "えんそく",
       "meaning": "学校のみんなで、遠い場所へ遊びに行くこと。",
       "example": "来週の遠足がとても楽しみです。",
-      "addedDate": "2026-07-21",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "遠回り",
-      "reading": "とおまわり",
-      "meaning": "目的地に行くのに、わざと遠い道を通ること。",
-      "example": "公園に寄るために、少し遠回りをして帰りました。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
     },
