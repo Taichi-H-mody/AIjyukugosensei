@@ -34481,5 +34481,47 @@
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "究": [
+    {
+      "jukugo": "研究",
+      "reading": "けんきゅう",
+      "meaning": "物事を詳しく調べて、新しいことを発見したり、深く知ったりすること。",
+      "example": "科学クラブで、植物の育ち方をけんきゅうしました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "探究",
+      "reading": "たんきゅう",
+      "meaning": "知りたいことや不思議なことを、自分で見つけたり考えたりして、深く調べていくこと。",
+      "example": "自由研究で、宇宙のひみつを探究しました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "究明",
+      "reading": "きゅうめい",
+      "meaning": "何かのできごとや、どうしてそうなったのかを、きちんと調べてはっきりさせること。",
+      "example": "先生は、なぜこんなことが起きたのか、原因を究明しました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "究極",
+      "reading": "きゅうきょく",
+      "meaning": "一番最後に行き着くところ。これ以上はない、最高の、という意味で使うことも。",
+      "example": "このゲームの究極の目標は、全ての宝物を見つけることです。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "追究",
+      "reading": "ついきゅう",
+      "meaning": "疑問に思ったことや知りたいことを、あきらめずにどんどん調べていくこと。",
+      "example": "先生は、なぜそうなるのかを、もっと深く追究するように言いました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 }
