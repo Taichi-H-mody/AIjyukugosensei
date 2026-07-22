@@ -34145,5 +34145,89 @@
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "運": [
+    {
+      "jukugo": "運動",
+      "reading": "うんどう",
+      "meaning": "体を動かして元気になること。スポーツをすること。",
+      "example": "体育の時間に、みんなでグラウンドで**運動**した。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運転",
+      "reading": "うんてん",
+      "meaning": "車やバス、電車などを動かすこと。",
+      "example": "お父さんは毎日、車を**運転**して会社へ行く。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幸運",
+      "reading": "こううん",
+      "meaning": "めぐり合わせが良くて、幸せなこと。",
+      "example": "くじ引きで一等賞が当たって、とても**幸運**だった。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不運",
+      "reading": "ふうん",
+      "meaning": "めぐり合わせが悪くて、残念なこと。",
+      "example": "遠足の日が大雨で中止になって、とても**不運**だった。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運勢",
+      "reading": "うんせい",
+      "meaning": "その時のめぐり合わせや運のよしあし。",
+      "example": "朝のテレビの占いで、今日の自分の**運勢**を調べた。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "生": [
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で勉強を教えてくれる人。また、学問や技術を教える人への敬称。",
+      "example": "分からないことがあったら、先生に質問してみよう。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "命があって活動するもののこと。動物や植物など。",
+      "example": "公園の池には、たくさんの生き物がいます。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を過ごしていくこと。暮らし。",
+      "example": "早寝早起きをして、規則正しい生活を送ろう。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学生",
+      "reading": "がくせい",
+      "meaning": "学校で勉強している人のこと。",
+      "example": "小学生も中学生も高校生も、みんな学生です。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生年月日",
+      "reading": "せいねんがっぴ",
+      "meaning": "生まれた年、月、日のこと。",
+      "example": "自分の生年月日をすらすら言えるかな。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 }
