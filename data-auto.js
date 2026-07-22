@@ -34147,6 +34147,174 @@ const autoData = {
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "運": [
+    {
+      "jukugo": "運動",
+      "reading": "うんどう",
+      "meaning": "体を動かして元気になること。スポーツをすること。",
+      "example": "体育の時間に、みんなでグラウンドで**運動**した。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運転",
+      "reading": "うんてん",
+      "meaning": "車やバス、電車などを動かすこと。",
+      "example": "お父さんは毎日、車を**運転**して会社へ行く。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幸運",
+      "reading": "こううん",
+      "meaning": "めぐり合わせが良くて、幸せなこと。",
+      "example": "くじ引きで一等賞が当たって、とても**幸運**だった。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不運",
+      "reading": "ふうん",
+      "meaning": "めぐり合わせが悪くて、残念なこと。",
+      "example": "遠足の日が大雨で中止になって、とても**不運**だった。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運勢",
+      "reading": "うんせい",
+      "meaning": "その時のめぐり合わせや運のよしあし。",
+      "example": "朝のテレビの占いで、今日の自分の**運勢**を調べた。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "生": [
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で勉強を教えてくれる人。また、学問や技術を教える人への敬称。",
+      "example": "分からないことがあったら、先生に質問してみよう。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "命があって活動するもののこと。動物や植物など。",
+      "example": "公園の池には、たくさんの生き物がいます。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生活",
+      "reading": "せいかつ",
+      "meaning": "毎日を過ごしていくこと。暮らし。",
+      "example": "早寝早起きをして、規則正しい生活を送ろう。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "学生",
+      "reading": "がくせい",
+      "meaning": "学校で勉強している人のこと。",
+      "example": "小学生も中学生も高校生も、みんな学生です。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生年月日",
+      "reading": "せいねんがっぴ",
+      "meaning": "生まれた年、月、日のこと。",
+      "example": "自分の生年月日をすらすら言えるかな。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "命": [
+    {
+      "jukugo": "生命",
+      "reading": "せいめい",
+      "meaning": "生きていること。生き物そのもの。",
+      "example": "すべての動物や植物は、大切な生命を持っています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寿命",
+      "reading": "じゅみょう",
+      "meaning": "生き物の命が続く期間。",
+      "example": "カブトムシの寿命は短いけれど、一生懸命生きています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "命令",
+      "reading": "めいれい",
+      "meaning": "人に何かをするように言いつけること。",
+      "example": "先生の命令を聞いて、みんなで協力して掃除をしました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "命名",
+      "reading": "めいめい",
+      "meaning": "名前をつけること。",
+      "example": "生まれたばかりの赤ちゃんに、家族みんなで素敵な名前を命名しました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使命",
+      "reading": "しめい",
+      "meaning": "大切な役目や務め。",
+      "example": "ヒーローは、困っている人々を助けるという大切な使命を持っています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "天": [
+    {
+      "jukugo": "天気",
+      "reading": "てんき",
+      "meaning": "空の様子。晴れ、曇り、雨などのこと。",
+      "example": "今日の天気は晴れで、気持ちがいいです。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天才",
+      "reading": "てんさい",
+      "meaning": "生まれつき、とても優れた才能を持っている人。",
+      "example": "彼は計算が早くて、算数の天才だと言われています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天の川",
+      "reading": "あまのがわ",
+      "meaning": "夏の夜空に見える、星がたくさん集まって白い帯のように見えるもの。",
+      "example": "七夕の夜には、空に美しい天の川が見えることがあります。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨天",
+      "reading": "うてん",
+      "meaning": "雨が降っている天気のこと。",
+      "example": "雨天の場合は、運動会は次の日に延期になります。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天丼",
+      "reading": "てんどん",
+      "meaning": "ごはんの上に、えびや野菜の天ぷらをのせたどんぶりのこと。",
+      "example": "お昼ごはんに、熱々の天丼を食べました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
