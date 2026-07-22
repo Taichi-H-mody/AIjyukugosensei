@@ -34229,5 +34229,89 @@
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "命": [
+    {
+      "jukugo": "生命",
+      "reading": "せいめい",
+      "meaning": "生きていること。生き物そのもの。",
+      "example": "すべての動物や植物は、大切な生命を持っています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寿命",
+      "reading": "じゅみょう",
+      "meaning": "生き物の命が続く期間。",
+      "example": "カブトムシの寿命は短いけれど、一生懸命生きています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "命令",
+      "reading": "めいれい",
+      "meaning": "人に何かをするように言いつけること。",
+      "example": "先生の命令を聞いて、みんなで協力して掃除をしました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "命名",
+      "reading": "めいめい",
+      "meaning": "名前をつけること。",
+      "example": "生まれたばかりの赤ちゃんに、家族みんなで素敵な名前を命名しました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "使命",
+      "reading": "しめい",
+      "meaning": "大切な役目や務め。",
+      "example": "ヒーローは、困っている人々を助けるという大切な使命を持っています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "天": [
+    {
+      "jukugo": "天気",
+      "reading": "てんき",
+      "meaning": "空の様子。晴れ、曇り、雨などのこと。",
+      "example": "今日の天気は晴れで、気持ちがいいです。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天才",
+      "reading": "てんさい",
+      "meaning": "生まれつき、とても優れた才能を持っている人。",
+      "example": "彼は計算が早くて、算数の天才だと言われています。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天の川",
+      "reading": "あまのがわ",
+      "meaning": "夏の夜空に見える、星がたくさん集まって白い帯のように見えるもの。",
+      "example": "七夕の夜には、空に美しい天の川が見えることがあります。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨天",
+      "reading": "うてん",
+      "meaning": "雨が降っている天気のこと。",
+      "example": "雨天の場合は、運動会は次の日に延期になります。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天丼",
+      "reading": "てんどん",
+      "meaning": "ごはんの上に、えびや野菜の天ぷらをのせたどんぶりのこと。",
+      "example": "お昼ごはんに、熱々の天丼を食べました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 }
