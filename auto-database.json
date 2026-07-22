@@ -34313,5 +34313,89 @@
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "代": [
+    {
+      "jukugo": "時代",
+      "reading": "じだい",
+      "meaning": "ある期間。歴史上の特定の期間。",
+      "example": "これは昔の日本の**時代**の物語です。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "代表",
+      "reading": "だいひょう",
+      "meaning": "全体をまとめて、その代わりに何かをすること。また、その人やもの。",
+      "example": "運動会でクラスの**代表**として選手宣誓をします。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交代",
+      "reading": "こうたい",
+      "meaning": "今までやっていた人が、別の人と入れ替わること。",
+      "example": "プールの掃除は、みんなで**交代**しながら行いました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "代金",
+      "reading": "だいきん",
+      "meaning": "品物やサービスに対して支払うお金。",
+      "example": "お店のレジで商品の**代金**を払いました。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "世代",
+      "reading": "せだい",
+      "meaning": "親と子のように、同じ時期に生まれて育つ人たちのグループ。",
+      "example": "おじいちゃんの**世代**と今の私たちの生活は大きく違います。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "館": [
+    {
+      "jukugo": "図書館",
+      "reading": "としょかん",
+      "meaning": "本を借りたり読んだりできる建物です。",
+      "example": "土曜日は家族と図書館へ行って本を借りた。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体育館",
+      "reading": "たいいくかん",
+      "meaning": "運動をするための広い建物です。",
+      "example": "雨が降っていたので、体育館でドッジボールをした。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "映画館",
+      "reading": "えいがかん",
+      "meaning": "映画を見るための場所です。",
+      "example": "夏休みには、みんなで映画館にアニメ映画を見に行った。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "博物館",
+      "reading": "はくぶつかん",
+      "meaning": "昔の物や珍しい物を集めて展示している建物です。",
+      "example": "社会科見学で恐竜の骨がある博物館に行った。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旅館",
+      "reading": "りょかん",
+      "meaning": "日本風の宿泊施設で、お風呂や食事ができるところです。",
+      "example": "家族旅行で温泉がある旅館に泊まった。",
+      "addedDate": "2026-07-22",
+      "addedBy": "discord-agent"
+    }
   ]
 }
