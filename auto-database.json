@@ -34551,5 +34551,89 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "科": [
+    {
+      "jukugo": "科学",
+      "reading": "かがく",
+      "meaning": "自然のふしぎや世の中のしくみなどを、観察や実験でしらべる学問。",
+      "example": "かがくの力で、新しい発明がたくさん生まれています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理科",
+      "reading": "りか",
+      "meaning": "小学校や中学校で、植物や動物、天気や電気など、自然について学ぶ教科。",
+      "example": "理科のじかんで、アサガオの育ち方を観察しました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教科",
+      "reading": "きょうか",
+      "meaning": "学校で、先生が教えて、みんなが勉強する科目。",
+      "example": "小学校では、国語や算数など、たくさんの教科を学びます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歯科",
+      "reading": "しか",
+      "meaning": "歯の病気を治したり、歯をきれいにしたりする病院のこと。",
+      "example": "虫歯になったので、しかに行って歯を見てもらいました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内科",
+      "reading": "ないか",
+      "meaning": "熱やせき、おなかの痛みなど、体の内側の病気を、主に薬で治すお医者さんの専門。",
+      "example": "おなかが痛かったので、ない科の病院で診てもらいました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "絵": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵が中心の、主に子ども向けの書物。",
+      "example": "私は毎晩、弟に絵本を読んであげます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くのに使う色材（絵の具は本来「絵の具の素」という意味で、絵を描く材料全般を指すことが多い）。",
+      "example": "図工の時間に、たくさんの色の絵の具を使いました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵画",
+      "reading": "かいが",
+      "meaning": "絵を描くこと、また、描かれた絵そのもの。",
+      "example": "美術館には、有名な画家が描いた美しい絵画がたくさんありました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "挿絵",
+      "reading": "さしえ",
+      "meaning": "文章の内容を説明したり、飾りつけたりするために、文章の間に添えられた絵。",
+      "example": "物語の本には、場面を想像しやすくする挿絵がたくさん載っています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵文字",
+      "reading": "えもじ",
+      "meaning": "文章に添えて感情や情報を表現する小さな絵柄。",
+      "example": "メッセージを送るとき、気持ちを伝えるために絵文字を使いました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
