@@ -34637,6 +34637,48 @@ const autoData = {
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "当": [
+    {
+      "jukugo": "当番",
+      "reading": "とうばん",
+      "meaning": "役割（やくわり）を決めて、順番にその仕事を担当（たんとう）すること。",
+      "example": "今日の給食当番（きゅうしょくとうばん）は、山田（やまだ）さんと田中（たなか）さんです。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本当",
+      "reading": "ほんとう",
+      "meaning": "うそいつわりがなく、まちがいのないこと。まこと。",
+      "example": "それが本当（ほんとう）の話（はなし）なのか、先生（せんせい）に聞（き）いてみよう。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弁当",
+      "reading": "べんとう",
+      "meaning": "箱（はこ）などに入（い）れて持（も）ち運（はこ）び、外（そと）で食（た）べる食事（しょくじ）。",
+      "example": "遠足（えんそく）の日（ひ）は、お母（かあ）さんが作（つく）ってくれたお弁当（べんとう）が楽（たの）しみだ。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手当",
+      "reading": "てあて",
+      "meaning": "けがや病気（びょうき）をしたときに、すぐに処置（しょち）をすること。",
+      "example": "転（ころ）んで膝（ひざ）を擦（す）りむいてしまったので、先生（せんせい）が手当（てあて）をしてくれた。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "当時",
+      "reading": "とうじ",
+      "meaning": "その時（とき）。その頃（ころ）。",
+      "example": "私（わたし）が小学校（しょうがっこう）に入学（にゅうがく）した当時（とうじ）は、今（いま）より背（せ）が小（ちい）さかった。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
