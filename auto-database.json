@@ -34719,5 +34719,47 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "用": [
+    {
+      "jukugo": "使用",
+      "reading": "しよう",
+      "meaning": "使うこと。もちいること。",
+      "example": "このはさみは、工作に**使用**します。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "利用",
+      "reading": "りよう",
+      "meaning": "役立つように使うこと。",
+      "example": "図書館の本を**利用**して、調べ学習をしました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "用意",
+      "reading": "ようい",
+      "meaning": "準備すること。あらかじめそろえておくこと。",
+      "example": "明日の遠足の**用意**を、前日にすませました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日用品",
+      "reading": "にちようひん",
+      "meaning": "毎日使う品物。",
+      "example": "スーパーマーケットで、シャンプーなどの**日用品**を買いました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "活用",
+      "reading": "かつよう",
+      "meaning": "持っているものをうまく使いこなすこと。",
+      "example": "いらなくなった箱を**活用**して、宝物入れを作りました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
