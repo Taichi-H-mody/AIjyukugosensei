@@ -34929,5 +34929,47 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "海": [
+    {
+      "jukugo": "海水浴",
+      "reading": "かいすいよく",
+      "meaning": "海に入って泳いだり、水遊びをしたりすること。",
+      "example": "夏休みには、家族と沖縄へ**海水浴**に行ったよ。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海辺",
+      "reading": "うみべ",
+      "meaning": "海のすぐそばの場所。海岸や浜のこと。",
+      "example": "**海辺**には、きれいな貝殻がたくさん落ちていた。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海水",
+      "reading": "かいすい",
+      "meaning": "海の水。塩分を含んでいてしょっぱい水。",
+      "example": "**海水**はしょっぱいから、人間は飲むことができないよ。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海中",
+      "reading": "かいちゅう",
+      "meaning": "海の中のこと。海の底や、水の中の空間。",
+      "example": "テレビで**海中**の様子を見たら、珍しい魚がたくさんいた。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "海外",
+      "reading": "かいがい",
+      "meaning": "自分の国から見て、海の向こうにあるほかの国。外国のこと。",
+      "example": "いつか**海外**へ行って、いろいろな国の文化にふれてみたい。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
