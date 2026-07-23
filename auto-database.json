@@ -34677,5 +34677,47 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "目": [
+    {
+      "jukugo": "目玉",
+      "reading": "めだま",
+      "meaning": "１．目のたま。２．特に注目されるもの。一番の売り物。",
+      "example": "このお店の目玉商品は、焼きたてのパンです。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目的",
+      "reading": "もくてき",
+      "meaning": "何かをしようとするときの狙いや目標。",
+      "example": "今日の学習の目的は、新しい漢字を覚えることです。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注目",
+      "reading": "ちゅうもく",
+      "meaning": "注意して見ること。関心をもって見ること。",
+      "example": "先生の話にみんなが注目しました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目次",
+      "reading": "もくじ",
+      "meaning": "本や書類の内容を、順番に示したもの。",
+      "example": "本の目次を見て、読みたい物語のページを探しました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目印",
+      "reading": "めじるし",
+      "meaning": "場所や物を見つけやすくするためのしるし。",
+      "example": "公園の入り口に大きな木を目印にしよう。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
