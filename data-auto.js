@@ -34595,6 +34595,48 @@ const autoData = {
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "絵": [
+    {
+      "jukugo": "絵本",
+      "reading": "えほん",
+      "meaning": "絵が中心の、主に子ども向けの書物。",
+      "example": "私は毎晩、弟に絵本を読んであげます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵の具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くのに使う色材（絵の具は本来「絵の具の素」という意味で、絵を描く材料全般を指すことが多い）。",
+      "example": "図工の時間に、たくさんの色の絵の具を使いました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵画",
+      "reading": "かいが",
+      "meaning": "絵を描くこと、また、描かれた絵そのもの。",
+      "example": "美術館には、有名な画家が描いた美しい絵画がたくさんありました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "挿絵",
+      "reading": "さしえ",
+      "meaning": "文章の内容を説明したり、飾りつけたりするために、文章の間に添えられた絵。",
+      "example": "物語の本には、場面を想像しやすくする挿絵がたくさん載っています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵文字",
+      "reading": "えもじ",
+      "meaning": "文章に添えて感情や情報を表現する小さな絵柄。",
+      "example": "メッセージを送るとき、気持ちを伝えるために絵文字を使いました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
