@@ -34887,5 +34887,47 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "夜": [
+    {
+      "jukugo": "夜空",
+      "reading": "よぞら",
+      "meaning": "夜の空のこと。",
+      "example": "夜空にはたくさんの星がきらめいていました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今夜",
+      "reading": "こんや",
+      "meaning": "今日の夜のこと。",
+      "example": "今夜は家族みんなでカレーライスを食べます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜道",
+      "reading": "よみち",
+      "meaning": "夜の道のこと。",
+      "example": "夜道は暗いので、気を付けて歩きましょう。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜中",
+      "reading": "よなか",
+      "meaning": "夜の真ん中の時間のこと。",
+      "example": "夜中に目が覚めて、トイレに行きました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜食",
+      "reading": "やしょく",
+      "meaning": "夜に食べる簡単な食事のこと。",
+      "example": "寝る前に夜食を食べると太りやすいと聞きました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
