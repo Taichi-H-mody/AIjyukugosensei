@@ -34761,5 +34761,47 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "間": [
+    {
+      "jukugo": "時間",
+      "reading": "じかん",
+      "meaning": "時計で計る、ある長さの時や時刻のこと。",
+      "example": "学校の授業時間は45分です。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人間",
+      "reading": "にんげん",
+      "meaning": "人のこと。特に、生き物としての人のこと。",
+      "example": "人間はみんな、誰かとつながって生きています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仲間",
+      "reading": "なかま",
+      "meaning": "一緒に遊んだり、同じ目標に向かって活動したりする友達や人たちのこと。",
+      "example": "運動会で、仲間と力を合わせて一位をとった。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "昼間",
+      "reading": "ひるま",
+      "meaning": "朝の明るい時間から夕方になるまでの間。日が昇っている時間。",
+      "example": "昼間は公園で元気いっぱいに遊びました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "週間",
+      "reading": "しゅうかん",
+      "meaning": "七日間の期間のこと。また、ある習慣や規則的な期間を表す時に使う。",
+      "example": "一週間、毎日日記をつけました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
