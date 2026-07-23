@@ -34074,14 +34074,6 @@ const autoData = {
   ],
   "二": [
     {
-      "jukugo": "二つ",
-      "reading": "ふたつ",
-      "meaning": "ものが二つあること。数えるときに使います。",
-      "example": "おかしを二つください。",
-      "addedDate": "2026-07-22",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "二階",
       "reading": "にかい",
       "meaning": "家や建物の一階の上の階のことです。",
@@ -34200,14 +34192,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "生き物",
-      "reading": "いきもの",
-      "meaning": "命があって活動するもののこと。動物や植物など。",
-      "example": "公園の池には、たくさんの生き物がいます。",
-      "addedDate": "2026-07-22",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "生活",
       "reading": "せいかつ",
       "meaning": "毎日を過ごしていくこと。暮らし。",
@@ -34288,14 +34272,6 @@ const autoData = {
       "reading": "てんさい",
       "meaning": "生まれつき、とても優れた才能を持っている人。",
       "example": "彼は計算が早くて、算数の天才だと言われています。",
-      "addedDate": "2026-07-22",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "天の川",
-      "reading": "あまのがわ",
-      "meaning": "夏の夜空に見える、星がたくさん集まって白い帯のように見えるもの。",
-      "example": "七夕の夜には、空に美しい天の川が見えることがあります。",
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     },
@@ -34426,14 +34402,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "渡り鳥",
-      "reading": "わたりどり",
-      "meaning": "季節によって温かい場所と寒い場所を行ったり来たりして生活する鳥のこと。ツバメやガンなどが有名です。",
-      "example": "秋になると、遠い国から渡り鳥が日本にやってきます。",
-      "addedDate": "2026-07-22",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "鳥居",
       "reading": "とりい",
       "meaning": "神社の入り口にある、二本の柱と上の横木からできた門のような形をしたものです。",
@@ -34448,14 +34416,6 @@ const autoData = {
       "reading": "やくわり",
       "meaning": "それぞれに割り当てられた仕事や務め。",
       "example": "給食当番の役割を、みんなで協力して果たしました。",
-      "addedDate": "2026-07-22",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "役立つ",
-      "reading": "やくだつ",
-      "meaning": "何かの役に立つこと。役に立つ。",
-      "example": "この辞書は、わからない言葉を調べるときにとても役立ちます。",
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     },
