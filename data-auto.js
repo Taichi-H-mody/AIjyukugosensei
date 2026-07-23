@@ -34553,6 +34553,48 @@ const autoData = {
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "科": [
+    {
+      "jukugo": "科学",
+      "reading": "かがく",
+      "meaning": "自然のふしぎや世の中のしくみなどを、観察や実験でしらべる学問。",
+      "example": "かがくの力で、新しい発明がたくさん生まれています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理科",
+      "reading": "りか",
+      "meaning": "小学校や中学校で、植物や動物、天気や電気など、自然について学ぶ教科。",
+      "example": "理科のじかんで、アサガオの育ち方を観察しました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "教科",
+      "reading": "きょうか",
+      "meaning": "学校で、先生が教えて、みんなが勉強する科目。",
+      "example": "小学校では、国語や算数など、たくさんの教科を学びます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歯科",
+      "reading": "しか",
+      "meaning": "歯の病気を治したり、歯をきれいにしたりする病院のこと。",
+      "example": "虫歯になったので、しかに行って歯を見てもらいました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内科",
+      "reading": "ないか",
+      "meaning": "熱やせき、おなかの痛みなど、体の内側の病気を、主に薬で治すお医者さんの専門。",
+      "example": "おなかが痛かったので、ない科の病院で診てもらいました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
