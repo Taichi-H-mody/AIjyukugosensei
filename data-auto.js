@@ -34485,6 +34485,48 @@ const autoData = {
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
     }
+  ],
+  "等": [
+    {
+      "jukugo": "一等",
+      "reading": "いっとう",
+      "meaning": "順位や等級が一番高いこと。いちばん良いこと。",
+      "example": "マラソン大会で一等賞をとることができました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "平等",
+      "reading": "びょうどう",
+      "meaning": "みんなが同じように扱われること。差別がないこと。",
+      "example": "先生は、クラスのみんなに平等に接してくれます。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "等分",
+      "reading": "とうぶん",
+      "meaning": "同じ量や数に分けること。",
+      "example": "ケーキを家族で等分して食べました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "等号",
+      "reading": "とうごう",
+      "meaning": "算数の式で、両側のものが同じであることを示す記号「＝」のこと。",
+      "example": "「２＋３＝５」の「＝」は等号です。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "等等",
+      "reading": "とうとう",
+      "meaning": "他にも同じようなものがたくさんあることを表す言葉。",
+      "example": "動物園には、ライオンやゾウ、キリン等等、たくさんの動物がいました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
