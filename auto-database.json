@@ -34525,5 +34525,31 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "拾": [
+    {
+      "jukugo": "拾得物",
+      "reading": "しゅうとくぶつ",
+      "meaning": "誰かが落とした物を拾い上げたもののこと。落とし物。",
+      "example": "駅の改札で、財布の拾得物を届けた人がいた。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "拾得",
+      "reading": "しゅうとく",
+      "meaning": "落とし物を拾い上げること。",
+      "example": "道に落ちているお金を拾得したら、必ず交番に届けましょう。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "収拾",
+      "reading": "しゅうしゅう",
+      "meaning": "ばらばらに散らばった物を集めて、片付けたり、きれいに整えたりすること。",
+      "example": "遊び終わったおもちゃを収拾して、部屋をきれいにした。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 }
