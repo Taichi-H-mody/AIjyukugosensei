@@ -34805,6 +34805,48 @@ const autoData = {
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "体": [
+    {
+      "jukugo": "体温",
+      "reading": "たいおん",
+      "meaning": "体のあたたかさ。熱があるかなどを調べるときに測ります。",
+      "example": "お母さんが体温計で体温を測ってくれた。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体育",
+      "reading": "たいいく",
+      "meaning": "学校の授業で、運動をしたり体を動かしたりすること。",
+      "example": "体育の時間は、みんなでドッジボールをした。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体力",
+      "reading": "たいりょく",
+      "meaning": "体を動かしたり、病気にかからなかったりする力。元気な体のこと。",
+      "example": "走ったり運動したりして、体力をつけよう。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体重",
+      "reading": "たいじゅう",
+      "meaning": "体の重さ。健康かどうかのめやすになるよ。",
+      "example": "毎日、お風呂に入る前に体重を測っています。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体操",
+      "reading": "たいそう",
+      "meaning": "体を健康にするためや、運動の準備のために体を動かすこと。",
+      "example": "ラジオ体操は、朝にみんなでできる体操だよ。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
