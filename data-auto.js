@@ -34847,6 +34847,48 @@ const autoData = {
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "古": [
+    {
+      "jukugo": "古本",
+      "reading": "ふるほん",
+      "meaning": "一度読まれたり使われたりした本。",
+      "example": "読み終わった漫画を古本屋さんで売りました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古代",
+      "reading": "こだい",
+      "meaning": "大昔の時代。",
+      "example": "社会の授業で古代の日本の生活について勉強しました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古着",
+      "reading": "ふるぎ",
+      "meaning": "一度誰かが着たことのある服。",
+      "example": "お兄さんのお下がりでもらった古着は、まだきれいです。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中古",
+      "reading": "ちゅうこ",
+      "meaning": "一度使われたもの。新品ではないもの。",
+      "example": "ゲームソフトを中古で安く手に入れることができました。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古都",
+      "reading": "こと",
+      "meaning": "昔、国の都があった場所。",
+      "example": "京都は、日本の美しい古都として有名です。",
+      "addedDate": "2026-07-23",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
