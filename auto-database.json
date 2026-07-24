@@ -35047,5 +35047,89 @@
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "強": [
+    {
+      "jukugo": "強風",
+      "reading": "きょうふう",
+      "meaning": "勢いの強い風。びゅうびゅう吹く風。",
+      "example": "今日は強風で、学校に行くのが大変だった。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最強",
+      "reading": "さいきょう",
+      "meaning": "いちばん強いこと。ほかのどれよりも強いこと。",
+      "example": "このロボットは、世界で最強のパワーを持っている。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強弱",
+      "reading": "きょうじゃく",
+      "meaning": "強いことと弱いこと。力や音などの程度。",
+      "example": "音楽の授業では、音の強弱に注意してリコーダーを吹いた。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強敵",
+      "reading": "きょうてき",
+      "meaning": "強い相手。たおすのがむずかしい相手。",
+      "example": "次のサッカーの試合では、とても強い強敵と戦うことになる。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強気",
+      "reading": "つよき",
+      "meaning": "積極的に物事に取り組む気持ちや態度。自信を持っている様子。",
+      "example": "試合では、いつも強気な気持ちでプレイすることが大切だ。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "外": [
+    {
+      "jukugo": "外国",
+      "reading": "がいこく",
+      "meaning": "自分の国以外の国。",
+      "example": "将来、外国へ旅行に行ってみたいです。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外出",
+      "reading": "がいしゅつ",
+      "meaning": "家や職場など、今いる場所から外に出かけること。",
+      "example": "お母さんは買い物に外出しました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "屋外",
+      "reading": "おくがい",
+      "meaning": "家や建物の中ではなく、外の場所。",
+      "example": "明日は屋外で運動会をします。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外側",
+      "reading": "そとがわ",
+      "meaning": "物の内部に対して、外の部分。",
+      "example": "プレゼントの箱の外側には、きれいなリボンがかかっていました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意外",
+      "reading": "いがい",
+      "meaning": "予想や期待と違うこと。思いがけないこと。",
+      "example": "今日のテストは意外と簡単でした。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 }
