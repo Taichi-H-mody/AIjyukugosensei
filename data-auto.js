@@ -35217,6 +35217,48 @@ const autoData = {
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "理": [
+    {
+      "jukugo": "料理",
+      "reading": "りょうり",
+      "meaning": "食べ物を作ること。また、作った食べ物。",
+      "example": "お母さんが美味しい料理を作ってくれた。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理解",
+      "reading": "りかい",
+      "meaning": "物事の意味や内容がわかること。",
+      "example": "先生の説明を聞いて、問題の意味を理解した。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "理由",
+      "reading": "りゆう",
+      "meaning": "そうなった原因や根拠。なぜそうなのか。",
+      "example": "遅刻した理由を先生に話した。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "整理",
+      "reading": "せいり",
+      "meaning": "散らかったものを片付けたり、乱れているものをきちんとなおしたりすること。",
+      "example": "使った道具は、きちんと整理しよう。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地理",
+      "reading": "ちり",
+      "meaning": "土地の様子や自然、人々の暮らしなどを学ぶ学問。",
+      "example": "社会科の授業で日本の地理を勉強した。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
