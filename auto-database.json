@@ -34963,5 +34963,89 @@
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
     }
+  ],
+  "駅": [
+    {
+      "jukugo": "駅員",
+      "reading": "えきいん",
+      "meaning": "駅ではたらく人。",
+      "example": "駅員さんが、電車の乗り方を教えてくれました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅前",
+      "reading": "えきまえ",
+      "meaning": "駅の建物の前にある場所。",
+      "example": "駅前で友達と待ち合わせをしました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅弁",
+      "reading": "えきべん",
+      "meaning": "駅で売っているお弁当。",
+      "example": "電車の中で、おいしい駅弁を食べました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅長",
+      "reading": "えきちょう",
+      "meaning": "駅で一番えらい人。",
+      "example": "駅長さんが、みんなにあいさつをしていました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "駅伝",
+      "reading": "えきでん",
+      "meaning": "チームでたすきをつなぎ、長い道のりを走るきょうそう。",
+      "example": "テレビで駅伝を見て、選手たちを応援しました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "羽": [
+    {
+      "jukugo": "羽根",
+      "reading": "はね",
+      "meaning": "鳥の体をおおうもの。また、遊ぶ時に使う羽根つきの道具。",
+      "example": "公園で、きれいな鳥の羽根を見つけた。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "羽毛",
+      "reading": "うもう",
+      "meaning": "鳥の体をおおっている、やわらかくてふわふわした毛。",
+      "example": "冬の寒い夜は、羽毛ぶとんで温かく眠る。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "羽化",
+      "reading": "うか",
+      "meaning": "さなぎや幼虫が、成長して成虫になること。",
+      "example": "アゲハチョウがさなぎから羽化するのを見た。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "羽衣",
+      "reading": "はごろも",
+      "meaning": "昔話に出てくる、天女が着ているとされる美しい衣（ころも）。",
+      "example": "お話の中の天女は、きらきらの羽衣をまとっていた。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "羽織",
+      "reading": "はおり",
+      "meaning": "和服の上から着る短い上着のこと。",
+      "example": "おじいちゃんが、お祭りでかっこいい羽織を着ていた。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 }
