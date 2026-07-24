@@ -35131,5 +35131,89 @@
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "返": [
+    {
+      "jukugo": "返事",
+      "reading": "へんじ",
+      "meaning": "呼びかけに対して答えること。",
+      "example": "先生の質問に大きな声で返事をしました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返却",
+      "reading": "へんきゃく",
+      "meaning": "借りたものを持ち主や元の場所に戻すこと。",
+      "example": "図書館で借りた本は、忘れずに返却しましょう。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返金",
+      "reading": "へんきん",
+      "meaning": "支払ったお金を返してもらうこと。",
+      "example": "間違って買ったおもちゃのお金を返金してもらいました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返品",
+      "reading": "へんぴん",
+      "meaning": "買った品物を店に返すこと。",
+      "example": "サイズが合わなかった服をお店に返品しました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "返信",
+      "reading": "へんしん",
+      "meaning": "受け取った連絡（手紙やメールなど）に対して、返事を送ること。",
+      "example": "お母さんからのメッセージに、すぐに返信しました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "歯": [
+    {
+      "jukugo": "歯ブラシ",
+      "reading": "はぶらし",
+      "meaning": "歯を磨くための道具です。",
+      "example": "ご飯を食べた後は、**歯ブラシ**で歯をきれいに磨きましょう。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歯医者",
+      "reading": "はいしゃ",
+      "meaning": "歯の病気を治したり、歯を健康に保つ手助けをしてくれるお医者さんです。",
+      "example": "虫歯にならないように、半年に一度**歯医者さん**に行っています。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歯磨き",
+      "reading": "はみがき",
+      "meaning": "歯をきれいに磨くことです。",
+      "example": "寝る前に**歯磨き**をすると、虫歯になりにくいよ。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乳歯",
+      "reading": "にゅうし",
+      "meaning": "子どもが生後しばらくの間持っている歯で、やがて抜け落ちて新しい歯に生え変わります。",
+      "example": "私の**乳歯**が抜けたら、もうすぐお兄ちゃんになるんだ。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "永久歯",
+      "reading": "えいきゅうし",
+      "meaning": "乳歯が抜けた後に生えてくる、一生使う大切な歯です。",
+      "example": "大切な**永久歯**は、虫歯にならないようにしっかり磨こうね。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 }
