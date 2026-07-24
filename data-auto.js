@@ -34606,14 +34606,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "絵の具",
-      "reading": "えのぐ",
-      "meaning": "絵を描くのに使う色材（絵の具は本来「絵の具の素」という意味で、絵を描く材料全般を指すことが多い）。",
-      "example": "図工の時間に、たくさんの色の絵の具を使いました。",
-      "addedDate": "2026-07-23",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "絵画",
       "reading": "かいが",
       "meaning": "絵を描くこと、また、描かれた絵そのもの。",
