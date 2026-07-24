@@ -35257,5 +35257,47 @@
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "界": [
+    {
+      "jukugo": "世界",
+      "reading": "せかい",
+      "meaning": "地球上の全ての場所や人々、また、わたしたちが暮らす社会全体のこと。",
+      "example": "世界にはいろいろな国があり、それぞれの文化があります。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "限界",
+      "reading": "げんかい",
+      "meaning": "これ以上は無理だと感じるぎりぎりの線や、物事の許される範囲の最後の点。",
+      "example": "自分の限界に挑戦して、マラソンを最後まで走りきった。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "外界",
+      "reading": "がいかい",
+      "meaning": "自分のいる場所や心の中のそとにある世界や環境。",
+      "example": "宇宙飛行士は、窓から船の外の外界を見た。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "境界",
+      "reading": "きょうかい",
+      "meaning": "物と物、場所と場所を区別するさかいめや線。",
+      "example": "校庭と道路の境界には、高いフェンスがあります。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "業界",
+      "reading": "ぎょうかい",
+      "meaning": "ある決まった種類の仕事をしている人々の集まりや、その仕事の世界。",
+      "example": "ぼくは将来、ゲーム業界で働くのが夢です。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 }
