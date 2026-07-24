@@ -35343,6 +35343,48 @@ const autoData = {
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "感": [
+    {
+      "jukugo": "感情",
+      "reading": "かんじょう",
+      "meaning": "喜びや悲しみ、怒りなど、心の中でわき起こるいろいろな気持ちのこと。",
+      "example": "友達の気持ちを考えて、自分の感情を大切にしよう。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "感想",
+      "reading": "かんそう",
+      "meaning": "物事を見たり聞いたりしたときに、心に感じたことや考えたこと。",
+      "example": "遠足の感想文を、くわしく書いて提出しましょう。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "感動",
+      "reading": "かんどう",
+      "meaning": "心に深く感じて、強く心が動かされること。",
+      "example": "きれいに咲いた桜を見て、心が感動しました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "感謝",
+      "reading": "かんしゃ",
+      "meaning": "ありがたいと思う気持ちのこと。",
+      "example": "助けてくれた先生に、感謝の気持ちを伝えました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予感",
+      "reading": "よかん",
+      "meaning": "何かが起こる前に、なんとなくそうなるだろうと感じること。",
+      "example": "今日はきっと良いことがあると、朝から予感がしていました。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
