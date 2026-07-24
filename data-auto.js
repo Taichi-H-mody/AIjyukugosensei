@@ -35301,6 +35301,48 @@ const autoData = {
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "心": [
+    {
+      "jukugo": "心臓",
+      "reading": "しんぞう",
+      "meaning": "生き物の体の中にある、血液を全身に送り出すポンプのような臓器。",
+      "example": "どくどくと心臓の音が聞こえる。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安心",
+      "reading": "あんしん",
+      "meaning": "心配なことがなく、心が落ち着いていること。",
+      "example": "宿題が終わって、安心した。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "心配",
+      "reading": "しんぱい",
+      "meaning": "うまくいかないことを考えて、心が落ち着かないこと。",
+      "example": "明日の天気が心配だ。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中心",
+      "reading": "ちゅうしん",
+      "meaning": "物事の真ん中。一番大切なところ。",
+      "example": "クラスの中心になってがんばる。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一心",
+      "reading": "いっしん",
+      "meaning": "心を一つのことに集中すること。",
+      "example": "一心に勉強に取り組む。",
+      "addedDate": "2026-07-24",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
