@@ -35459,5 +35459,47 @@
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "定": [
+    {
+      "jukugo": "決定",
+      "reading": "けってい",
+      "meaning": "物事をはっきり決めること。",
+      "example": "明日の遠足に行くかどうか、先生が**決定**します。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予定",
+      "reading": "よてい",
+      "meaning": "前もって計画しておくこと。",
+      "example": "来週の土曜日は、家族で動物園に行く**予定**です。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "定規",
+      "reading": "じょうぎ",
+      "meaning": "直線や長さをはかるための道具。",
+      "example": "図工の時間に、**定規**でまっすぐな線を引きました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "定休日",
+      "reading": "ていきゅうび",
+      "meaning": "お店などが毎週決まって休む日。",
+      "example": "このスーパーは、毎週水曜日が**定休日**です。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安定",
+      "reading": "あんてい",
+      "meaning": "落ち着いていて、ぐらつかないこと。",
+      "example": "自転車に乗るときは、バランスをとって体を**安定**させましょう。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
