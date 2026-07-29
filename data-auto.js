@@ -35503,6 +35503,48 @@ const autoData = {
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "路": [
+    {
+      "jukugo": "道路",
+      "reading": "どうろ",
+      "meaning": "車や人が通る、広いみちのこと。",
+      "example": "信号を守って、道路を渡りましょう。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "線路",
+      "reading": "せんろ",
+      "meaning": "電車が走るための、鉄でできたレールがあるみち。",
+      "example": "電車は線路の上を走ります。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通路",
+      "reading": "つうろ",
+      "meaning": "人が通りぬけるためのみち。建物の中などにある。",
+      "example": "教室の通路を走ってはいけません。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "迷路",
+      "reading": "めいろ",
+      "meaning": "入口から出口まで、まよいやすい道がいくつかあるしかけ。",
+      "example": "迷路のゲームでゴールをめざしました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "路上",
+      "reading": "ろじょう",
+      "meaning": "道の上。また、道ばた。",
+      "example": "路上にゴミを捨ててはいけません。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
