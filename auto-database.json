@@ -35543,5 +35543,47 @@
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "短": [
+    {
+      "jukugo": "短所",
+      "reading": "たんしょ",
+      "meaning": "よくない点、苦手な点。",
+      "example": "自分の短所をなくすように努力することが大切です。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短時間",
+      "reading": "たんじかん",
+      "meaning": "短い時間。",
+      "example": "短時間で宿題を終わらせて、遊びに行きました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短期",
+      "reading": "たんき",
+      "meaning": "短い期間。",
+      "example": "夏休みに短期の習い事に挑戦しました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短歌",
+      "reading": "たんか",
+      "meaning": "五七五七七のリズムで詠む、日本の伝統的な詩。",
+      "example": "国語の授業で、みんなで短歌を作りました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短距離",
+      "reading": "たんきょり",
+      "meaning": "短い道のりや距離。",
+      "example": "運動会では、短距離走に出場して一等賞を取りました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 }
