@@ -35587,6 +35587,48 @@ const autoData = {
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "橋": [
+    {
+      "jukugo": "鉄橋",
+      "reading": "てっきょう",
+      "meaning": "鉄道が通るために、鉄でできた橋。",
+      "example": "電車がゴトゴトと鉄橋を渡っていった。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歩道橋",
+      "reading": "ほどうきょう",
+      "meaning": "車の多い道を安全に渡れるように、歩く人のためにつくられた橋。",
+      "example": "交通事故にあわないように、いつも歩道橋をわたって学校へ行きます。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "石橋",
+      "reading": "いしばし",
+      "meaning": "石でつくられた丈夫な橋。",
+      "example": "古いお寺の庭には、きれいな石橋がかかっていた。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大橋",
+      "reading": "おおはし",
+      "meaning": "とても大きくて立派な橋。",
+      "example": "広い川には、たくさんの車が通れる大きな大橋がかかっている。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "陸橋",
+      "reading": "りっきょう",
+      "meaning": "道路や線路の上をまたいでつくられた橋。",
+      "example": "陸橋の上から見下ろすと、たくさんの車が走っていた。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
