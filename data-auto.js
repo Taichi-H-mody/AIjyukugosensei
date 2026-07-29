@@ -35419,6 +35419,48 @@ const autoData = {
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "物": [
+    {
+      "jukugo": "動物",
+      "reading": "どうぶつ",
+      "meaning": "自分で動くことができる生き物。犬や猫、鳥など。",
+      "example": "公園でかわいい**動物**を見つけました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生き物",
+      "reading": "いきもの",
+      "meaning": "命があって、成長したり動いたりするもの。動物や植物。",
+      "example": "地球にはたくさんの不思議な**生き物**がいます。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "食べ物",
+      "reading": "たべもの",
+      "meaning": "人が食べることができるもの。食品。",
+      "example": "お弁当にはおいしい**食べ物**がいっぱい入っています。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "荷物",
+      "reading": "にもつ",
+      "meaning": "運ぶための品物や、旅行などで持っていくかばんなど。",
+      "example": "旅行の準備をして、**荷物**をまとめました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "買い物",
+      "reading": "かいもの",
+      "meaning": "お店で品物をお金で買うこと。",
+      "example": "お母さんとスーパーへ**買い物**に行きました。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
