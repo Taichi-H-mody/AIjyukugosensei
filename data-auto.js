@@ -35377,6 +35377,48 @@ const autoData = {
       "addedDate": "2026-07-24",
       "addedBy": "discord-agent"
     }
+  ],
+  "草": [
+    {
+      "jukugo": "草花",
+      "reading": "くさばな",
+      "meaning": "草や木の花のこと。特に、花が目立つ草のこと。",
+      "example": "公園にはきれいな草花がたくさん咲いています。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "草原",
+      "reading": "そうげん",
+      "meaning": "草がたくさん生えている広い土地のこと。",
+      "example": "広々とした草原で、羊たちがのんびり草を食べています。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雑草",
+      "reading": "ざっそう",
+      "meaning": "自然に生え、人にとってあまり役に立たないと考えられている草のこと。",
+      "example": "庭の雑草を抜くのは大変な作業です。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "若草",
+      "reading": "わかくさ",
+      "meaning": "春に芽を出したばかりの、まだやわらかい若い草のこと。",
+      "example": "春になると、野原にはあざやかな若草が一面に広がります。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薬草",
+      "reading": "やくそう",
+      "meaning": "病気を治したり、体の調子を整えたりするのに使われる草のこと。",
+      "example": "おばあちゃんは、昔からある薬草の力をよく知っています。",
+      "addedDate": "2026-07-29",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
