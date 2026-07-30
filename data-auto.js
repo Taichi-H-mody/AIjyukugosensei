@@ -36295,6 +36295,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "寒": [
+    {
+      "jukugo": "寒気",
+      "reading": "かんき",
+      "meaning": "冷たい空気や、体のゾクゾクする寒さのこと。",
+      "example": "急に寒気がしてきたので、早く家に帰ろう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寒風",
+      "reading": "かんぷう",
+      "meaning": "冬の冷たい風。",
+      "example": "寒風が吹きつける中、マフラーをぎゅっと巻いた。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寒空",
+      "reading": "さむぞら",
+      "meaning": "冬の、寒々とした空。",
+      "example": "寒空の下、子どもたちが元気にサッカーをしている。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寒中",
+      "reading": "かんちゅう",
+      "meaning": "一年で一番寒い時期のこと。冬の最も厳しい寒さの期間。",
+      "example": "寒中見舞い（かんちゅうみまい）は、寒さが厳しい時に出す手紙のことだ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寒波",
+      "reading": "かんぱ",
+      "meaning": "冷たい空気が、広い地域に流れこんでくること。",
+      "example": "明日は強い寒波が来るので、とても寒くなるそうだ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
