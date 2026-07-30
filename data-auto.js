@@ -36043,6 +36043,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "急": [
+    {
+      "jukugo": "急行",
+      "reading": "きゅうこう",
+      "meaning": "とまらない駅が多い、はやく走る電車やバスのこと。",
+      "example": "急行に乗って、おばあちゃんの家まで早く行こう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特急",
+      "reading": "とっきゅう",
+      "meaning": "とくに早く走る電車やバスのこと。急行よりもさらに速い。",
+      "example": "特急電車に乗ると、旅行先まであっという間だよ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "救急",
+      "reading": "きゅうきゅう",
+      "meaning": "病気やけがの人を、急いで助けたり、病院に運んだりすること。",
+      "example": "道で倒れている人がいたので、救急車を呼んだ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "緊急",
+      "reading": "きんきゅう",
+      "meaning": "とても急いでいて、すぐに何かをしなければならない大切なこと。",
+      "example": "緊急地震速報が鳴ったら、すぐに机の下に隠れよう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "急用",
+      "reading": "きゅうよう",
+      "meaning": "急いでしなければならない用事や、大切な用事のこと。",
+      "example": "お父さんは急用ができたので、会社に帰っていった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
