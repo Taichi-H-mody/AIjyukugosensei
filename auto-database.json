@@ -36335,5 +36335,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "温": [
+    {
+      "jukugo": "体温",
+      "reading": "たいおん",
+      "meaning": "体の温度のこと。熱があるかなどを調べるときに測ります。",
+      "example": "ねつがあるかたいおんをはかる。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "温泉",
+      "reading": "おんせん",
+      "meaning": "じめんからわき出るあたたかいお湯。入浴したり、お湯の蒸気をあびたりします。",
+      "example": "かぞくとおんせんりょこうにいった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気温",
+      "reading": "きおん",
+      "meaning": "その場所の空気の温度。天気予報で知ることができます。",
+      "example": "きょうのきおんは何度だろう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "温室",
+      "reading": "おんしつ",
+      "meaning": "ガラスなどで囲まれた、中があたたかく保たれているへや。植物を育てるときに使います。",
+      "example": "おんしつでめずらしい花を育てている。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "保温",
+      "reading": "ほおん",
+      "meaning": "あたたかさを保つこと。さめないようにすること。",
+      "example": "この水筒は飲みものをほおんできる。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
