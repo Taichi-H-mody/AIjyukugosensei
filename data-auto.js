@@ -35875,6 +35875,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "全": [
+    {
+      "jukugo": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "のこらず、すべて。",
+      "example": "おやつをぜんぶたべてしまいました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全国",
+      "reading": "ぜんこく",
+      "meaning": "日本の国じゅうすべて。",
+      "example": "テレビでぜんこくのてんきよほうをみました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "安全",
+      "reading": "あんぜん",
+      "meaning": "あぶないことがなく、安心できること。",
+      "example": "こうつうルールをまもって、あんぜんにすごしましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全体",
+      "reading": "ぜんたい",
+      "meaning": "いくつかのものがまとまって、ひとつになったもの。",
+      "example": "クラスのぜんたいしゃしんをとりました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "完全",
+      "reading": "かんぜん",
+      "meaning": "足りないところがまったくなく、すべてそろっていること。",
+      "example": "かくれんぼでかんぜんにかくれて、だれにもみつかりませんでした。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
