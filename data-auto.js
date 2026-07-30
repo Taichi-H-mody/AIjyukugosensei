@@ -35917,6 +35917,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "暑": [
+    {
+      "jukugo": "残暑",
+      "reading": "ざんしょ",
+      "meaning": "夏の終わり頃にまだ残っている暑さのこと。",
+      "example": "９月になっても残暑が厳しく、半袖で過ごしました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暑中",
+      "reading": "しょちゅう",
+      "meaning": "一年の中で一番暑さが厳しい時期のこと。",
+      "example": "暑中の時期には、冷たいかき氷がおいしいね。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "猛暑",
+      "reading": "もうしょ",
+      "meaning": "非常に厳しい暑さのこと。",
+      "example": "今年の夏は猛暑で、外で遊ぶのが大変でした。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "酷暑",
+      "reading": "こくしょ",
+      "meaning": "耐えられないほど厳しい暑さのこと。",
+      "example": "酷暑の中での運動は危険だから、水分をたくさんとろう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "避暑",
+      "reading": "ひしょ",
+      "meaning": "暑い場所をさけて、涼しい場所で過ごすこと。",
+      "example": "夏休みには、涼しい高原に避暑に出かけました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
