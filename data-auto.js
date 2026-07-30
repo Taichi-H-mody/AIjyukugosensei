@@ -36085,6 +36085,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "時": [
+    {
+      "jukugo": "時間",
+      "reading": "じかん",
+      "meaning": "物事が移り変わっていくものさし。また、そのあいだ。",
+      "example": "授業が終わるまで、あと少し**時間**があるね。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時計",
+      "reading": "とけい",
+      "meaning": "今が何時か教えてくれる道具。",
+      "example": "おじいちゃんからかっこいい**時計**をもらったよ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時々",
+      "reading": "ときどき",
+      "meaning": "たまに、おりおり。",
+      "example": "休日には、**時々**公園でサッカーをするよ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "時刻",
+      "reading": "じこく",
+      "meaning": "時間の中の、ある特定の時点。",
+      "example": "待ち合わせの**時刻**に遅れないようにしよう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日時",
+      "reading": "にちじ",
+      "meaning": "日付と時間。",
+      "example": "遠足の**日時**は、来週の金曜日だよ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
