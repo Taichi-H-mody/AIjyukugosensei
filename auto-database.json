@@ -36167,5 +36167,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "持": [
+    {
+      "jukugo": "所持",
+      "reading": "しょじ",
+      "meaning": "自分のものとして持っていること。",
+      "example": "忘れ物がないか、自分の所持品をかくにんしましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "持ち物",
+      "reading": "もちもの",
+      "meaning": "自分で持っているもの。身につけている品物。",
+      "example": "遠足の日は、持ち物をしっかりかくにんしてから家を出ます。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "支持",
+      "reading": "しじ",
+      "meaning": "ある意見や人を賛成して応援すること。",
+      "example": "クラスのリーダー選挙で、たくさんの友だちから支持をえました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "維持",
+      "reading": "いじ",
+      "meaning": "その状態を保ち続けること。",
+      "example": "いつもきれいにそうじして、教室をよい状態に維持しましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "持続",
+      "reading": "じぞく",
+      "meaning": "ある状態が長く続くこと。",
+      "example": "マラソンでは、最後まで同じスピードを持続して走りきることが大切です。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
