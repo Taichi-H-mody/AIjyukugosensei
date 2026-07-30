@@ -36211,6 +36211,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "引": [
+    {
+      "jukugo": "引力",
+      "reading": "いんりょく",
+      "meaning": "物を引き寄せる力のこと。",
+      "example": "りんごが木から落ちるのは地球の引力があるからです。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "引き算",
+      "reading": "ひきざん",
+      "meaning": "数から数を減らす計算のこと。",
+      "example": "算数の授業で引き算を習いました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "引用",
+      "reading": "いんよう",
+      "meaning": "人の言葉や文章を、自分の話や文章の中でそのまま使うこと。",
+      "example": "先生の言葉を引用して、感想文を書きました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "割引",
+      "reading": "わりびき",
+      "meaning": "代金を安くすること。",
+      "example": "お店で買い物をしたら、割引で安くなりました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "索引",
+      "reading": "さくいん",
+      "meaning": "本や辞書の最後にあり、調べたい言葉がどこに書いてあるかを探すための目録。",
+      "example": "図鑑の巻末にある索引を使って、恐竜の名前を調べました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
