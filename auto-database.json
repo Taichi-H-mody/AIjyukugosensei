@@ -35663,5 +35663,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "客": [
+    {
+      "jukugo": "お客様",
+      "reading": "おきゃくさま",
+      "meaning": "店などに来てくれる人。お客さんをていねいに言う言葉。",
+      "example": "お店では、お客様にていねいな言葉づかいをしましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "来客",
+      "reading": "らいきゃく",
+      "meaning": "家や会社などに人が訪ねてくること。また、その人。",
+      "example": "急な来客があったので、お母さんがお茶を入れました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乗客",
+      "reading": "じょうきゃく",
+      "meaning": "電車やバス、飛行機などの乗り物に乗っている人。",
+      "example": "電車の中で、乗客が席をゆずりあっていました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "観客",
+      "reading": "かんきゃく",
+      "meaning": "スポーツの試合や演劇、映画などを見ている人。",
+      "example": "野球の試合では、たくさんの観客が大きな声で応援していました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "客室",
+      "reading": "きゃくしつ",
+      "meaning": "ホテルや船、飛行機などで、お客さんが使う部屋や空間。",
+      "example": "飛行機の客室では、シートベルトをしめるように言われました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
