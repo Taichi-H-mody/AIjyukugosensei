@@ -36377,5 +36377,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "戸": [
+    {
+      "jukugo": "戸外",
+      "reading": "こがい",
+      "meaning": "家や建物の外。家のそと。",
+      "example": "天気の良い日は、戸外で元気に遊ぼう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨戸",
+      "reading": "あまど",
+      "meaning": "雨や風、泥棒から窓を守るために、窓の外側に取り付ける戸。",
+      "example": "夜は泥棒が入らないように、雨戸をしっかり閉める。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戸口",
+      "reading": "とぐち",
+      "meaning": "戸のある出入り口。扉のところ。",
+      "example": "お客さんが戸口に立っていたので、大きな声であいさつをした。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戸棚",
+      "reading": "とだな",
+      "meaning": "食器や本などをしまうための、扉がついた家具。",
+      "example": "お母さんは、食器をきれいに戸棚にしまった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "戸数",
+      "reading": "こすう",
+      "meaning": "家の数。世帯の数。",
+      "example": "この村の戸数は、全部で百戸です。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
