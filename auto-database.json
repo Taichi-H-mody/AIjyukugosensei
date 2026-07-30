@@ -35705,5 +35705,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "和": [
+    {
+      "jukugo": "平和",
+      "reading": "へいわ",
+      "meaning": "争いごとがなく、穏やかなこと。みんなが仲良く暮らしている状態。",
+      "example": "世界中の人々が平和に暮らせることを願っています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和食",
+      "reading": "わしょく",
+      "meaning": "日本に昔から伝わる料理のこと。ごはんやみそ汁、魚などが中心。",
+      "example": "今日の給食は、ヘルシーな和食メニューでした。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和室",
+      "reading": "わしつ",
+      "meaning": "畳が敷いてあり、ふすまや障子がある、日本ならではの部屋。",
+      "example": "おばあちゃんの家には、広くてきれいな和室があります。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "令和",
+      "reading": "れいわ",
+      "meaning": "今の日本の年号のこと。新しい時代を意味します。",
+      "example": "私が生まれたのは、令和の時代になってからです。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和風",
+      "reading": "わふう",
+      "meaning": "日本らしいやり方や見た目、雰囲気のこと。",
+      "example": "このお店は、和風の美しい庭が有名です。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
