@@ -35833,6 +35833,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "横": [
+    {
+      "jukugo": "横断",
+      "reading": "おうだん",
+      "meaning": "道などを横にわたること。",
+      "example": "信号が青になったので、横断歩道をわたった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "横顔",
+      "reading": "よこがお",
+      "meaning": "人の顔を横から見たかたち。",
+      "example": "友達が絵を描いている横顔は、とても真剣だった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "横書き",
+      "reading": "よこがき",
+      "meaning": "文字を左から右へ、横に書いていくこと。",
+      "example": "このノートは、横書きの練習にぴったりだ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "横並び",
+      "reading": "よこならび",
+      "meaning": "何かが横に一列に並んでいること。",
+      "example": "体育の時間に、みんなで横並びになった。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "横向き",
+      "reading": "よこむき",
+      "meaning": "横の方向を向いていること。",
+      "example": "電車のイスは、窓の外が見えるように横向きになっている。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
