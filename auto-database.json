@@ -35603,5 +35603,47 @@
       "addedDate": "2026-07-29",
       "addedBy": "discord-agent"
     }
+  ],
+  "町": [
+    {
+      "jukugo": "町内",
+      "reading": "ちょうない",
+      "meaning": "町の中のこと。まちのなかの区域。",
+      "example": "町内のかいばんで、おまつりのじゅんびをしています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "町長",
+      "reading": "ちょうちょう",
+      "meaning": "町のリーダーで、町をまとめる役の人。",
+      "example": "私たちの町には、みんなのために働く町長さんがいます。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "町並み",
+      "reading": "まちなみ",
+      "meaning": "町の中の、家やお店などがならんでいる様子。",
+      "example": "古い家がならぶ美しい町並みを、さんぽしました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "下町",
+      "reading": "したまち",
+      "meaning": "昔ながらのふんいきがのこる、にぎやかな町。",
+      "example": "おばあちゃんの住む下町は、人情があふれていて大好きです。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "港町",
+      "reading": "みなとまち",
+      "meaning": "船がとまる港の近くにある町。",
+      "example": "港町では、朝早くから魚市場が活気にあふれています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
