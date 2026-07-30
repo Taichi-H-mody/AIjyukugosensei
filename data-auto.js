@@ -35749,6 +35749,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "深": [
+    {
+      "jukugo": "深海",
+      "reading": "しんかい",
+      "meaning": "とても深い海。太陽の光が届かないほど深い海の底。",
+      "example": "深海には、めずらしい姿の魚がたくさん住んでいます。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "深呼吸",
+      "reading": "しんこきゅう",
+      "meaning": "肺いっぱいに空気を吸い込み、ゆっくりと吐き出す呼吸。",
+      "example": "発表の前に、気持ちを落ち着かせるために深呼吸をしました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "深夜",
+      "reading": "しんや",
+      "meaning": "夜遅い時間のこと。夜中。",
+      "example": "深夜までゲームをしないで、早く寝るようにしましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "深雪",
+      "reading": "しんせつ",
+      "meaning": "地面に厚く積もった雪。",
+      "example": "冬の北海道では、子どもの背丈ほどになる深雪が降り積もります。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "深々",
+      "reading": "しんしん",
+      "meaning": "静かにもの寂しい様子。また、雪などが音もなく深く降る様子。",
+      "example": "夜が深々と更けて、あたりは静かになりました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
