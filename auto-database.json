@@ -35789,5 +35789,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "村": [
+    {
+      "jukugo": "村人",
+      "reading": "むらびと",
+      "meaning": "村に住んでいる人々。",
+      "example": "その村人は、みんな親切でした。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "村長",
+      "reading": "そんちょう",
+      "meaning": "村の行政の長。村の代表者。",
+      "example": "新しい道を作るために、村長さんがみんなの意見を聞きました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "村祭り",
+      "reading": "むらまつり",
+      "meaning": "村で行われるお祭り。",
+      "example": "毎年夏には、大きな村祭りが開かれます。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山村",
+      "reading": "さんそん",
+      "meaning": "山の中にある村。",
+      "example": "私たちは夏休みに、きれいな山村へ遊びに行きました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "農村",
+      "reading": "のうそん",
+      "meaning": "農業を主な仕事としている村。",
+      "example": "この農村では、おいしいお米がたくさん作られています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
