@@ -36253,6 +36253,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "区": [
+    {
+      "jukugo": "区役所",
+      "reading": "くやくしょ",
+      "meaning": "市や町の中を分けた「区」にある、さまざまな手続きができる公の建物。",
+      "example": "お母さんと一緒に、住民票をもらいに区役所に行ったよ。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地区",
+      "reading": "ちく",
+      "meaning": "ある目的のために区切られたり、分けられたりした特定の地域や範囲。",
+      "example": "私たちの学校は、この地区の子どもたちが通っています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "区分",
+      "reading": "くぶん",
+      "meaning": "物事を種類や目的によって、きちんと分けること。",
+      "example": "ごみを出すときは、燃えるごみと燃えないごみにきちんと区分しましょう。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "区間",
+      "reading": "くかん",
+      "meaning": "ある場所から別の場所までの、限られた範囲のこと。",
+      "example": "電車でとなりの駅までの短い区間だけ乗りました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市区町村",
+      "reading": "しくちょうそん",
+      "meaning": "市や区、町、村といった、日本の行政の基本的な単位となる地域の呼び方。",
+      "example": "日本の住所は、まず市区町村から始まります。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
