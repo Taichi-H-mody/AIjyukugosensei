@@ -35645,5 +35645,23 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "係": [
+    {
+      "jukugo": "関係",
+      "reading": "かんけい",
+      "meaning": "物事が互いにつながり合っていること。人とのつながり。",
+      "example": "友達との関係を大切にする。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "給食係",
+      "reading": "きゅうしょくがかり",
+      "meaning": "給食の時間に、配膳などの仕事をする係。",
+      "example": "給食係がみんなのお皿に料理をよそいました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 }
