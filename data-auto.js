@@ -36127,6 +36127,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "委": [
+    {
+      "jukugo": "委員",
+      "reading": "いいん",
+      "meaning": "クラスや学校で、特定の仕事をするために選ばれた人。",
+      "example": "私は保健委員なので、毎日教室の換気をチェックしています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "委員会",
+      "reading": "いいんかい",
+      "meaning": "委員が集まって、何かを決めたり仕事をしたりする集まり。",
+      "example": "明日の委員会で、運動会のスローガンを決めることになっています。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "委託",
+      "reading": "いたく",
+      "meaning": "自分の代わりにある仕事を他の人に頼んで、やってもらうこと。",
+      "example": "お母さんは旅行の間、ペットの犬のお世話を近所の人に委託しました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "委任",
+      "reading": "いにん",
+      "meaning": "自分の代わりに、他の人に何かを任せて、その仕事をする権限を与えること。",
+      "example": "急な用事ができたので、私は学級委員長に今日の当番の仕事を委任しました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "委細",
+      "reading": "いさい",
+      "meaning": "物事の詳しいことや、細かい内容のこと。",
+      "example": "先生は、遠足の計画の委細を、黒板に書いて説明してくれました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
