@@ -35959,6 +35959,48 @@ const autoData = {
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "先": [
+    {
+      "jukugo": "先生",
+      "reading": "せんせい",
+      "meaning": "学校で勉強を教えてくれる人。",
+      "example": "先生は、いつも優しく教えてくれます。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先月",
+      "reading": "せんげつ",
+      "meaning": "今の月の前の月。",
+      "example": "先月、家族で動物園に行きました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先日",
+      "reading": "せんじつ",
+      "meaning": "この前の日。少し前の日。",
+      "example": "先日、公園で新しい友達ができました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先週",
+      "reading": "せんしゅう",
+      "meaning": "今の週の前の週。",
+      "example": "先週の土曜日は、運動会でリレーをがんばりました。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先頭",
+      "reading": "せんとう",
+      "meaning": "列やグループの一番前。",
+      "example": "行進の時、ぼくは先頭で旗を持った。",
+      "addedDate": "2026-07-30",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
