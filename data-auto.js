@@ -36693,6 +36693,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "旅": [
+    {
+      "jukugo": "旅行",
+      "reading": "りょこう",
+      "meaning": "いろいろな場所へ出かけること。",
+      "example": "夏休みに家族で海へ旅行に行きました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旅人",
+      "reading": "たびびと",
+      "meaning": "旅をしている人。",
+      "example": "物語の中には、不思議な旅人が出てきます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "旅立ち",
+      "reading": "たびだち",
+      "meaning": "旅に出ること。新しい場所や生活へ向かうこと。",
+      "example": "小学校を卒業することは、新たな旅立ちです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "船旅",
+      "reading": "ふなたび",
+      "meaning": "船に乗ってする旅。",
+      "example": "いつか大きな船で船旅をしてみたいです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一人旅",
+      "reading": "ひとりたび",
+      "meaning": "一人でする旅。",
+      "example": "大人になったら、電車で一人旅をしてみたいです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
