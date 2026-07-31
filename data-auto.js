@@ -36987,6 +36987,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "転": [
+    {
+      "jukugo": "回転",
+      "reading": "かいてん",
+      "meaning": "ぐるぐると回ること。",
+      "example": "洗濯機の中で、服がぐるぐると回転している。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自転車",
+      "reading": "じてんしゃ",
+      "meaning": "ペダルをこいで進む、二つの車輪がある乗り物。",
+      "example": "新しい自転車に乗って、友達と公園までサイクリングに行った。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "運転",
+      "reading": "うんてん",
+      "meaning": "車やバス、電車などを動かすこと。",
+      "example": "お父さんが車を運転して、家族みんなで海へ行った。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "転校",
+      "reading": "てんこう",
+      "meaning": "今の学校をやめて、別の学校へ移ること。",
+      "example": "新しい転校生がクラスに来て、みんなで歓迎会をした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "逆転",
+      "reading": "ぎゃくてん",
+      "meaning": "それまでの状況が、反対になること。",
+      "example": "試合の終わりに逆転ゴールが決まって、チームは優勝した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
