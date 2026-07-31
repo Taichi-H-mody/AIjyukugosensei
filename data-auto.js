@@ -36525,6 +36525,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "帰": [
+    {
+      "jukugo": "帰宅",
+      "reading": "きたく",
+      "meaning": "自分の家に帰ること。",
+      "example": "学校が終わったら、すぐに帰宅して宿題をした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帰国",
+      "reading": "きこく",
+      "meaning": "自分の国に帰ること。",
+      "example": "海外旅行から無事に帰国することができた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帰省",
+      "reading": "きせい",
+      "meaning": "故郷や実家に帰ること。",
+      "example": "夏休みには、家族みんなで祖父母の家へ帰省する予定だ。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帰路",
+      "reading": "きろ",
+      "meaning": "帰り道。",
+      "example": "楽しい遠足も終わり、みんなで歌を歌いながら帰路についた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "帰校",
+      "reading": "きこう",
+      "meaning": "学校に戻ること。",
+      "example": "忘れ物を取りに、一度家に戻ってから急いで帰校した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
