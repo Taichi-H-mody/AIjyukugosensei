@@ -37027,5 +37027,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "男": [
+    {
+      "jukugo": "男子",
+      "reading": "だんし",
+      "meaning": "男の子。男の人。",
+      "example": "運動会では、男子が力強く走りました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "男の子",
+      "reading": "おとこのこ",
+      "meaning": "男の子供。少年。",
+      "example": "元気な男の子が公園で遊んでいます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "男性",
+      "reading": "だんせい",
+      "meaning": "おとこ。男の人。",
+      "example": "電車で、男性がお年寄りに席をゆずりました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長男",
+      "reading": "ちょうなん",
+      "meaning": "その家で、いちばんはじめに生まれた男の子。",
+      "example": "私の兄は長男で、家族思いです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "男気",
+      "reading": "おとこぎ",
+      "meaning": "男らしい心意気。勇気があり、正しい行いをしようとする気持ち。",
+      "example": "困っている人を助ける男気のある行動でした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
