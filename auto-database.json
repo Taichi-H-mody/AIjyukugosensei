@@ -36901,5 +36901,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "姉": [
+    {
+      "jukugo": "姉妹",
+      "reading": "しまい",
+      "meaning": "姉と妹のこと。",
+      "example": "仲良し姉妹は、いつも一緒に公園で遊びます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姉弟",
+      "reading": "きょうだい",
+      "meaning": "姉と弟のこと。",
+      "example": "姉弟で力を合わせて、夏休みの宿題を終わらせました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姉さん",
+      "reading": "ねえさん",
+      "meaning": "実の姉を親しんで呼ぶ言葉。また、年上の女性を呼ぶときに使う言葉。",
+      "example": "私のお姉さんは、いつも優しく話を聞いてくれます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姉御",
+      "reading": "あねご",
+      "meaning": "みんなから頼りにされる、リーダーのような女性のこと。",
+      "example": "クラスのまとめ役のお姉さんは、みんなの「姉御」的存在です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姉妹愛",
+      "reading": "しまいあい",
+      "meaning": "姉と妹の間に深く結ばれる愛情。",
+      "example": "けんかすることもあるけれど、私たちには強い姉妹愛があります。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
