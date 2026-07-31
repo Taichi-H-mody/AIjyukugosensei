@@ -36441,6 +36441,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "白": [
+    {
+      "jukugo": "白黒",
+      "reading": "しろくろ",
+      "meaning": "白い色と黒い色。物事の善悪や勝ち負けをはっきりさせること。",
+      "example": "先生が、白黒をはっきりさせようと言った。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空白",
+      "reading": "くうはく",
+      "meaning": "何も書いていないところ。何も無い空間や時間。",
+      "example": "テストの答えが空白だったから、もう一度見直した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "告白",
+      "reading": "こくはく",
+      "meaning": "自分の心の中にある気持ちや秘密を、人に打ち明けること。",
+      "example": "妹がお母さんに、おやつをぜんぶ食べたことを告白した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紅白",
+      "reading": "こうはく",
+      "meaning": "赤い色と白い色。お祝いの時や、組に分かれて競争する時によく使われる。",
+      "example": "運動会では、紅白に分かれて戦った。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "白線",
+      "reading": "はくせん",
+      "meaning": "白い線。特に、地面や道路などに引かれた線をいう。",
+      "example": "グランドに白線を引いて、みんなでかけっこをした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
