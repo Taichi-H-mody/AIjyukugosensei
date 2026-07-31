@@ -36943,5 +36943,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "通": [
+    {
+      "jukugo": "交通",
+      "reading": "こうつう",
+      "meaning": "人や車が行き来すること。",
+      "example": "駅の前は交通量が多いです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通学",
+      "reading": "つうがく",
+      "meaning": "学校に通うこと。",
+      "example": "ぼくは毎日、歩いて通学しています。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "普通",
+      "reading": "ふつう",
+      "meaning": "いつもと変わらないこと。当たり前なこと。",
+      "example": "今日の給食は普通においしかったです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共通",
+      "reading": "きょうつう",
+      "meaning": "みんなに当てはまること。同じであること。",
+      "example": "このクラスには、まんがが好きな人が多いという共通点があります。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通行",
+      "reading": "つうこう",
+      "meaning": "人や車が道を通っていくこと。",
+      "example": "この道は、車が通行できません。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
