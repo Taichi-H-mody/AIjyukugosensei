@@ -37069,5 +37069,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "箱": [
+    {
+      "jukugo": "筆箱",
+      "reading": "ふでばこ",
+      "meaning": "鉛筆や消しゴムなどを入れて持ち歩くための箱。",
+      "example": "新しい筆箱を買ってもらって、とても嬉しかった。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空き箱",
+      "reading": "あきばこ",
+      "meaning": "中身がなくなって空っぽになった箱。",
+      "example": "お菓子の空き箱を使って、楽しい工作をした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "ごみ箱",
+      "reading": "ごみばこ",
+      "meaning": "いらないもの（ごみ）を捨てるための箱。",
+      "example": "食べ終わったお弁当の容器は、ごみ箱に捨てよう。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "宝箱",
+      "reading": "たからばこ",
+      "meaning": "大切な宝物を入れておくための箱。",
+      "example": "物語に出てくる海賊の宝箱には、きらきら光る宝石がたくさん入っていた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "おもちゃ箱",
+      "reading": "おもちゃばこ",
+      "meaning": "おもちゃを入れておくための箱。",
+      "example": "遊び終わったおもちゃは、ちゃんとおもちゃ箱にしまおうね。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
