@@ -36355,5 +36355,47 @@
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
+  ],
+  "行": [
+    {
+      "jukugo": "旅行",
+      "reading": "りょこう",
+      "meaning": "旅に出かけること。",
+      "example": "夏休みに家族で旅行に行きたいです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "銀行",
+      "reading": "ぎんこう",
+      "meaning": "お金を預けたり、引き出したりするお店。",
+      "example": "お母さんと一緒に銀行へお金を預けに行きました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行列",
+      "reading": "ぎょうれつ",
+      "meaning": "人や物が一列に長く並んでいること。",
+      "example": "人気のお店の前には、長い行列ができていました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "行動",
+      "reading": "こうどう",
+      "meaning": "体や心を動かして、何かをすること。",
+      "example": "自分の行動に責任を持つことが大切です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛行",
+      "reading": "ひこう",
+      "meaning": "空を飛ぶこと。",
+      "example": "鳥が広い空を飛行していく姿はきれいです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
