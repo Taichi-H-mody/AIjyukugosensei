@@ -36735,6 +36735,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "油": [
+    {
+      "jukugo": "石油",
+      "reading": "せきゆ",
+      "meaning": "地中からとれる、燃やすと熱が出る黒っぽい油のこと。車を動かしたり、プラスチックのもとになったりします。",
+      "example": "車を動かすためには石油が必要です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "油断",
+      "reading": "ゆだん",
+      "meaning": "気をゆるめて、注意がおろそかになること。",
+      "example": "少し油断しただけで、テストの点数が下がってしまった。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "油絵",
+      "reading": "あぶらえ",
+      "meaning": "油でといた絵の具を使って描いた絵のこと。",
+      "example": "美術の時間に油絵を描くのが楽しみです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "灯油",
+      "reading": "とうゆ",
+      "meaning": "火をともしたり、暖房に使ったりする油のこと。",
+      "example": "冬になるとストーブに入れる灯油を買います。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "油揚げ",
+      "reading": "あぶらあげ",
+      "meaning": "豆腐を薄く切って油で揚げた食べ物。きつねうどんやお味噌汁によく入っています。",
+      "example": "お味噌汁に油揚げを入れるとおいしいね。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
