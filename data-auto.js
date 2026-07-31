@@ -36777,6 +36777,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "笛": [
+    {
+      "jukugo": "口笛",
+      "reading": "くちぶえ",
+      "meaning": "口をすぼめて息を吹き出し、音を出すこと。また、その音。",
+      "example": "僕はきれいな口笛を吹くのが得意です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "横笛",
+      "reading": "よこぶえ",
+      "meaning": "笛の一種で、横に構えて吹く楽器。フルートやリコーダーなど。",
+      "example": "音楽の時間に、みんなで横笛の練習をしました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "汽笛",
+      "reading": "きてき",
+      "meaning": "汽車や船が出発するときなどに鳴らす大きな笛の音。",
+      "example": "港で船が大きな汽笛を鳴らして出発しました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "草笛",
+      "reading": "くさぶえ",
+      "meaning": "木の葉や草を使って作る笛。また、その音。",
+      "example": "公園で友達に草笛の吹き方を教えてもらいました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "警笛",
+      "reading": "けいてき",
+      "meaning": "危険を知らせたり、注意を促したりするために鳴らす笛。",
+      "example": "自転車が近づいてきたので、危ないときには警笛を鳴らします。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
