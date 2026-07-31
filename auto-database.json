@@ -37153,5 +37153,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "有": [
+    {
+      "jukugo": "有名",
+      "reading": "ゆうめい",
+      "meaning": "広く世間に知られていること。名が通っていること。",
+      "example": "あの遊園地は、たくさんの楽しいアトラクションがあるのでとても**有名**です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有料",
+      "reading": "ゆうりょう",
+      "meaning": "お金を払う必要があること。料金がかかること。",
+      "example": "この動物園に入るには、**有料**のチケットを買わなければいけません。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有無",
+      "reading": "うむ",
+      "meaning": "あることとないこと。あるかないか。",
+      "example": "先生が、全員がそろっているか出席の**有無**を確認しました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "所有",
+      "reading": "しょゆう",
+      "meaning": "自分のものとして持っていること。",
+      "example": "この古いおもちゃは、お父さんが小さいころから大切に**所有**しているものです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有力",
+      "reading": "ゆうりょく",
+      "meaning": "力があること。影響力があること。見込みがあること。",
+      "example": "来年の運動会で優勝する、**有力**なチームは赤組と白組です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
