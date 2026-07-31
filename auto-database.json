@@ -35622,14 +35622,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "町並み",
-      "reading": "まちなみ",
-      "meaning": "町の中の、家やお店などがならんでいる様子。",
-      "example": "古い家がならぶ美しい町並みを、さんぽしました。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "下町",
       "reading": "したまち",
       "meaning": "昔ながらのふんいきがのこる、にぎやかな町。",
@@ -35665,14 +35657,6 @@
     }
   ],
   "客": [
-    {
-      "jukugo": "お客様",
-      "reading": "おきゃくさま",
-      "meaning": "店などに来てくれる人。お客さんをていねいに言う言葉。",
-      "example": "お店では、お客様にていねいな言葉づかいをしましょう。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "来客",
       "reading": "らいきゃく",
@@ -35808,14 +35792,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "村祭り",
-      "reading": "むらまつり",
-      "meaning": "村で行われるお祭り。",
-      "example": "毎年夏には、大きな村祭りが開かれます。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "山村",
       "reading": "さんそん",
       "meaning": "山の中にある村。",
@@ -35846,30 +35822,6 @@
       "reading": "よこがお",
       "meaning": "人の顔を横から見たかたち。",
       "example": "友達が絵を描いている横顔は、とても真剣だった。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "横書き",
-      "reading": "よこがき",
-      "meaning": "文字を左から右へ、横に書いていくこと。",
-      "example": "このノートは、横書きの練習にぴったりだ。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "横並び",
-      "reading": "よこならび",
-      "meaning": "何かが横に一列に並んでいること。",
-      "example": "体育の時間に、みんなで横並びになった。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "横向き",
-      "reading": "よこむき",
-      "meaning": "横の方向を向いていること。",
-      "example": "電車のイスは、窓の外が見えるように横向きになっている。",
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     }
@@ -36178,14 +36130,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "持ち物",
-      "reading": "もちもの",
-      "meaning": "自分で持っているもの。身につけている品物。",
-      "example": "遠足の日は、持ち物をしっかりかくにんしてから家を出ます。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "支持",
       "reading": "しじ",
       "meaning": "ある意見や人を賛成して応援すること。",
@@ -36216,14 +36160,6 @@
       "reading": "いんりょく",
       "meaning": "物を引き寄せる力のこと。",
       "example": "りんごが木から落ちるのは地球の引力があるからです。",
-      "addedDate": "2026-07-30",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "引き算",
-      "reading": "ひきざん",
-      "meaning": "数から数を減らす計算のこと。",
-      "example": "算数の授業で引き算を習いました。",
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
     },
