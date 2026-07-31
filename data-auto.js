@@ -36861,6 +36861,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "発": [
+    {
+      "jukugo": "出発",
+      "reading": "しゅっぱつ",
+      "meaning": "ある場所から目的地に向かって出かけること。",
+      "example": "遠足のバスが学校を出発した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発見",
+      "reading": "はっけん",
+      "meaning": "まだ知られていなかったものを見つけ出すこと。",
+      "example": "森の中で、めずらしい花を発見した。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発表",
+      "reading": "はっぴょう",
+      "meaning": "自分の考えや、調べたことをみんなに知らせること。",
+      "example": "わたしは、夏休みの自由研究の発表をした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発車",
+      "reading": "はっしゃ",
+      "meaning": "乗り物が動き出すこと。",
+      "example": "電車がもうすぐ駅を発車します。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発売",
+      "reading": "はつばい",
+      "meaning": "品物を売り始めること。",
+      "example": "新しいゲームが来週発売される。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
