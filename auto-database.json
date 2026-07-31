@@ -36565,5 +36565,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "弓": [
+    {
+      "jukugo": "弓矢",
+      "reading": "ゆみや",
+      "meaning": "弓と矢のこと。昔から使われている武器や道具。",
+      "example": "弓矢を使って、遠くの的にねらいを定めた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弓道",
+      "reading": "きゅうどう",
+      "meaning": "弓を射る日本の武道。集中力や礼儀を学ぶ。",
+      "example": "お姉さんは弓道を習っていて、とても集中力がある。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弓形",
+      "reading": "ゆみがた",
+      "meaning": "弓のようにまがった形。",
+      "example": "空にかかった虹がきれいな弓形だった。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弓張月",
+      "reading": "ゆみはりづき",
+      "meaning": "空に浮かぶ、弓のような形をした月。三日月や半月を指す。",
+      "example": "夜空に細い弓張月が光っていた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弓場",
+      "reading": "ゆみば",
+      "meaning": "弓を射る練習をする場所。",
+      "example": "学校の近くに弓場がある。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
