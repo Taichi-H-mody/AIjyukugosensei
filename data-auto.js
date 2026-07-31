@@ -37113,6 +37113,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "読": [
+    {
+      "jukugo": "読書",
+      "reading": "どくしょ",
+      "meaning": "本を読むこと。",
+      "example": "休みの日は、図書館で読書をします。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "音読",
+      "reading": "おんどく",
+      "meaning": "声に出して文章を読むこと。",
+      "example": "国語の授業で、みんなで教科書を音読しました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読み方",
+      "reading": "よみかた",
+      "meaning": "文字や文章を読む方法。また、物事を理解する方法。",
+      "example": "この漢字の読み方がわかりません。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読者",
+      "reading": "どくしゃ",
+      "meaning": "本や雑誌などを読む人。",
+      "example": "この物語には、たくさんの読者がいます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読み書き",
+      "reading": "よみかき",
+      "meaning": "文字を読んだり書いたりすること。",
+      "example": "小学校で読み書きを学び、できることが増えました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
