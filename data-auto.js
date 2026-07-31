@@ -36399,6 +36399,48 @@ const autoData = {
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "飲": [
+    {
+      "jukugo": "飲料",
+      "reading": "いんりょう",
+      "meaning": "飲むもの。ジュースや牛乳など、色々な種類の飲み物をさすことが多いです。",
+      "example": "お店にはたくさんの種類の**飲料**が売られています。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飲食",
+      "reading": "いんしょく",
+      "meaning": "飲んだり食べたりすること。",
+      "example": "図書館では**飲食**が禁止されています。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飲み物",
+      "reading": "のみもの",
+      "meaning": "飲むための液体。水やお茶、ジュースなど。",
+      "example": "お弁当と一緒に**飲み物**を持っていこう。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飲水",
+      "reading": "いんすい",
+      "meaning": "水を飲むこと。または、飲むための水。",
+      "example": "熱中症にならないように、こまめに**飲水**をしましょう。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飲用",
+      "reading": "いんよう",
+      "meaning": "飲むために使うこと。または、飲むことができるもの。",
+      "example": "この水道水は**飲用**できます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
