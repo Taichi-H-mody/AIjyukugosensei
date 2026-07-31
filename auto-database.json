@@ -36481,5 +36481,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "岩": [
+    {
+      "jukugo": "岩石",
+      "reading": "がんせき",
+      "meaning": "岩でできた石のこと。いろいろな種類があり、理科で学習します。",
+      "example": "理科の授業で、様々な種類の**岩石**を観察しました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岩場",
+      "reading": "いわば",
+      "meaning": "岩がたくさんある場所。海岸や山などで見られます。",
+      "example": "潮干狩りに行った海岸には、大きな**岩場**がありました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岩山",
+      "reading": "いわやま",
+      "meaning": "岩が多くて、植物があまり生えていない山。",
+      "example": "遠足で登った**岩山**の頂上からは、素晴らしい景色が見えました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岩肌",
+      "reading": "いわはだ",
+      "meaning": "岩の表面のこと。崖や大きな岩の側面などを指します。",
+      "example": "ごつごつした崖の**岩肌**が、太陽の光を浴びて光っていました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "岩屋",
+      "reading": "いわや",
+      "meaning": "岩をくりぬいて作った場所や、自然にできた岩の洞窟。",
+      "example": "昔話に出てくるような、神秘的な**岩屋**を探検してみたいです。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
