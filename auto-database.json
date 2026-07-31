@@ -36649,5 +36649,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "数": [
+    {
+      "jukugo": "算数",
+      "reading": "さんすう",
+      "meaning": "数を計算したり、図形について学んだりする小学校の勉強のこと。",
+      "example": "今日の算数の時間は、足し算の練習をしました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数字",
+      "reading": "すうじ",
+      "meaning": "物の数や順序を表す記号。0、1、2、3など。",
+      "example": "電話番号は、いろいろな数字がならんでいます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "分数",
+      "reading": "ぶんすう",
+      "meaning": "1つのものをいくつか同じに分けたうちのいくつ分かを表す数。算数で習います。",
+      "example": "ピザを4つに分けたうちの1つは、4分の1という分数で書きます。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "回数",
+      "reading": "かいすう",
+      "meaning": "物事を何回くりかえしたかという数。",
+      "example": "公園でブランコに、今日は10回数のりました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人数",
+      "reading": "にんずう",
+      "meaning": "人の数。",
+      "example": "このクラスの人数は25人です。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
