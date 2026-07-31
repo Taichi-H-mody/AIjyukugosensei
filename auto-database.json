@@ -36607,5 +36607,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "言": [
+    {
+      "jukugo": "言葉",
+      "reading": "ことば",
+      "meaning": "心で思ったことや感じたことを、声や文字で表したもの。人とのコミュニケーションに使う。",
+      "example": "きれいな言葉を使って話しましょう。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "言動",
+      "reading": "げんどう",
+      "meaning": "言うことと、行うこと。その人の行動全体を指す。",
+      "example": "友達の言動を見て、その人の性格が分かりました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "伝言",
+      "reading": "でんごん",
+      "meaning": "ある人の言葉を、別の人に伝えること。また、その言葉。",
+      "example": "お母さんから、お父さんへの伝言を頼まれました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発言",
+      "reading": "はつげん",
+      "meaning": "会議や話し合いの場で、自分の意見や考えを言葉に出して言うこと。",
+      "example": "授業中に手を挙げて、自分の意見を発言しました。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無言",
+      "reading": "むごん",
+      "meaning": "何も言わないこと。だまっていること。",
+      "example": "先生の質問に、彼はしばらく無言でした。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
