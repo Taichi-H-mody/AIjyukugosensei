@@ -36817,5 +36817,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "店": [
+    {
+      "jukugo": "売店",
+      "reading": "ばいてん",
+      "meaning": "品物を売る小さなお店。",
+      "example": "学校のプールに売店ができて、アイスクリームが買えるようになった。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書店",
+      "reading": "しょてん",
+      "meaning": "本を売っているお店。本屋さん。",
+      "example": "休みの日に、駅前の書店で新しい漫画を買ってもらった。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商店",
+      "reading": "しょうてん",
+      "meaning": "品物を売るお店。",
+      "example": "昔ながらの商店が並ぶ商店街を歩いた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "店員",
+      "reading": "てんいん",
+      "meaning": "お店で働いている人。",
+      "example": "コンビニの店員さんが、ていねいに商品の場所を教えてくれた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "店先",
+      "reading": "みせさき",
+      "meaning": "お店の入り口やその前の場所。",
+      "example": "パン屋さんの店先から、焼きたてのいい匂いがしてきた。",
+      "addedDate": "2026-07-31",
+      "addedBy": "discord-agent"
+    }
   ]
 }
