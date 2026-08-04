@@ -37195,5 +37195,47 @@
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
+  ],
+  "弟": [
+    {
+      "jukugo": "兄弟",
+      "reading": "きょうだい",
+      "meaning": "同じお父さんやお母さんから生まれた子どもたちのことです。特に男の子をさします。",
+      "example": "私の家には、男の子ばかりの三兄弟がいます。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "末弟",
+      "reading": "まってい",
+      "meaning": "兄弟の中で一番年下の弟のことです。",
+      "example": "彼は家族の中で一番年下の末弟なので、みんなに可愛がられています。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実弟",
+      "reading": "じってい",
+      "meaning": "血のつながった本当の弟のことです。",
+      "example": "私の実弟は、まだ小学校に入ったばかりです。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弟子",
+      "reading": "でし",
+      "meaning": "先生や師匠について、教えを受ける人のことです。",
+      "example": "昔の武術家には、たくさんの弟子がいました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "義弟",
+      "reading": "ぎてい",
+      "meaning": "結婚した相手の弟や、血のつながりはないけれど家族になった弟のことです。",
+      "example": "お兄さんが結婚したので、私には新しい義弟ができました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    }
   ]
 }
