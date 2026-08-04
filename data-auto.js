@@ -37281,6 +37281,90 @@ const autoData = {
       "addedDate": "2026-08-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "倍": [
+    {
+      "jukugo": "倍数",
+      "reading": "ばいすう",
+      "meaning": "ある数を何倍かした数。",
+      "example": "6は3の倍数です。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "倍増",
+      "reading": "ばいぞう",
+      "meaning": "数や量が2倍に増えること。",
+      "example": "お客さんが倍増して、お店は大忙しだった。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "倍率",
+      "reading": "ばいりつ",
+      "meaning": "ものを拡大する度合い。また、ある数と別の数を比べたときの割合。",
+      "example": "この望遠鏡は、10倍の倍率で遠くが見える。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数倍",
+      "reading": "すうばい",
+      "meaning": "いくつか倍になること。何倍か。",
+      "example": "練習した成果が出て、去年の数倍の速さで走れるようになった。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二倍",
+      "reading": "にばい",
+      "meaning": "元の数や量の2つ分。2倍。",
+      "example": "りんごの数が二倍に増えました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    }
+  ],
+  "級": [
+    {
+      "jukugo": "学級",
+      "reading": "がっきゅう",
+      "meaning": "学校で勉強する児童・生徒の集まり。クラス。",
+      "example": "新しい学級の仲間と、楽しく自己紹介をしました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進級",
+      "reading": "しんきゅう",
+      "meaning": "学校で、学年や級が上がること。",
+      "example": "春休みが終わると、みんなは一つ上の学年に進級します。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "等級",
+      "reading": "とうきゅう",
+      "meaning": "物事を段階や順序に分けてつけた区別。ランク。",
+      "example": "このゲームには、いろいろな等級のキャラクターが登場します。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初級",
+      "reading": "しょきゅう",
+      "meaning": "最初の段階。入門の級。",
+      "example": "ピアノ教室の初級クラスで、指の練習から始めました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "同級生",
+      "reading": "どうきゅうせい",
+      "meaning": "同じ学年や級で学んでいる人。",
+      "example": "転校してきた同級生に、学校を案内してあげました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
