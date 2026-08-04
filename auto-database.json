@@ -37363,5 +37363,47 @@
       "addedDate": "2026-08-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "球": [
+    {
+      "jukugo": "野球",
+      "reading": "やきゅう",
+      "meaning": "バットで球を打ち、ベースを回って点数を競うスポーツ。",
+      "example": "休み時間に友達と野球をして遊んだ。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地球",
+      "reading": "ちきゅう",
+      "meaning": "私たちが住んでいる、丸い形をした星。",
+      "example": "地球は太陽の周りを回っている。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "電球",
+      "reading": "でんきゅう",
+      "meaning": "電気を使って部屋などを明るく照らすための球状の道具。",
+      "example": "部屋の電球が切れて、暗くなった。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "卓球",
+      "reading": "たっきゅう",
+      "meaning": "小さな球をラケットで打ち合い、ネットをはさんで点数を競うスポーツ。ピンポンとも言う。",
+      "example": "体育の時間に卓球をすると、汗をかく。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "球場",
+      "reading": "きゅうじょう",
+      "meaning": "野球などの球技を行うための広い場所。グラウンド。",
+      "example": "いつか大きな球場でプロ野球を見たい。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    }
   ]
 }
