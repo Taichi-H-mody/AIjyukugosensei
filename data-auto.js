@@ -37239,6 +37239,48 @@ const autoData = {
       "addedDate": "2026-08-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "所": [
+    {
+      "jukugo": "場所",
+      "reading": "ばしょ",
+      "meaning": "物があるところ。できごとが起こるところ。",
+      "example": "公園は、みんなが遊ぶ楽しい場所です。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "住所",
+      "reading": "じゅうしょ",
+      "meaning": "人が住んでいるところ。家の場所。",
+      "example": "友達の住所を書いて、年賀状を出しました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "台所",
+      "reading": "だいどころ",
+      "meaning": "料理をしたり、洗い物をしたりする部屋。",
+      "example": "お母さんが台所でカレーを作っています。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名所",
+      "reading": "めいしょ",
+      "meaning": "景色が美しいなど、特に有名で多くの人が訪れる場所。",
+      "example": "旅行で、お城という歴史的な名所を見に行きました。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "長所",
+      "reading": "ちょうしょ",
+      "meaning": "その人や物の良いところや得意なところ。",
+      "example": "私の長所は、どんなことにもあきらめないでがんばれるところです。",
+      "addedDate": "2026-08-04",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
