@@ -37409,5 +37409,47 @@
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "酒": [
+    {
+      "jukugo": "酒屋",
+      "reading": "さかや",
+      "meaning": "お酒を売っているお店のこと。",
+      "example": "おじいちゃんが、酒屋さんでジュースを買ってきてくれました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日本酒",
+      "reading": "にほんしゅ",
+      "meaning": "日本で作られる、お米を原料としたお酒のこと。",
+      "example": "お正月には、お父さんとお母さんが日本酒を少しだけ飲みました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飲酒",
+      "reading": "いんしゅ",
+      "meaning": "お酒を飲むこと。",
+      "example": "未成年者の飲酒は、法律で禁止されています。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁酒",
+      "reading": "きんしゅ",
+      "meaning": "お酒を飲むのをやめること。または、お酒を飲まないようにすること。",
+      "example": "お医者さんに言われて、しばらく禁酒している人がいます。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洋酒",
+      "reading": "ようしゅ",
+      "meaning": "外国の作り方で作られたお酒のこと。",
+      "example": "お父さんは洋酒よりも日本酒の方が好きだと言っていました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
