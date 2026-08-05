@@ -37325,5 +37325,47 @@
       "addedDate": "2026-08-04",
       "addedBy": "discord-agent"
     }
+  ],
+  "想": [
+    {
+      "jukugo": "感想",
+      "reading": "かんそう",
+      "meaning": "物事を見たり聞いたりしたときに心に感じたこと。",
+      "example": "運動会のあと、心に残った感想を発表しました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予想",
+      "reading": "よそう",
+      "meaning": "何かがどうなるか、前もって見当をつけること。",
+      "example": "明日の天気は晴れだと予想しています。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "想像",
+      "reading": "そうぞう",
+      "meaning": "実際には見ていないことや、現実にはないことを心の中に思い描くこと。",
+      "example": "もし宇宙に行けたら、どんな景色か想像してみました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空想",
+      "reading": "くうそう",
+      "meaning": "現実にはありえないようなことをあれこれ心に思い描くこと。",
+      "example": "雲の形を見ながら、いろんな動物に変わる空想をしました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発想",
+      "reading": "はっそう",
+      "meaning": "新しい考えやアイデアを思いつくこと。",
+      "example": "面白いゲームのルールを発想して、友達に話しました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
