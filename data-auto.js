@@ -36418,14 +36418,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "飲み物",
-      "reading": "のみもの",
-      "meaning": "飲むための液体。水やお茶、ジュースなど。",
-      "example": "お弁当と一緒に**飲み物**を持っていこう。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "飲水",
       "reading": "いんすい",
       "meaning": "水を飲むこと。または、飲むための水。",
@@ -36712,14 +36704,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "旅立ち",
-      "reading": "たびだち",
-      "meaning": "旅に出ること。新しい場所や生活へ向かうこと。",
-      "example": "小学校を卒業することは、新たな旅立ちです。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "船旅",
       "reading": "ふなたび",
       "meaning": "船に乗ってする旅。",
@@ -36766,14 +36750,6 @@ const autoData = {
       "reading": "とうゆ",
       "meaning": "火をともしたり、暖房に使ったりする油のこと。",
       "example": "冬になるとストーブに入れる灯油を買います。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "油揚げ",
-      "reading": "あぶらあげ",
-      "meaning": "豆腐を薄く切って油で揚げた食べ物。きつねうどんやお味噌汁によく入っています。",
-      "example": "お味噌汁に油揚げを入れるとおいしいね。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
@@ -36922,14 +36898,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "姉さん",
-      "reading": "ねえさん",
-      "meaning": "実の姉を親しんで呼ぶ言葉。また、年上の女性を呼ぶときに使う言葉。",
-      "example": "私のお姉さんは、いつも優しく話を聞いてくれます。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "姉御",
       "reading": "あねご",
       "meaning": "みんなから頼りにされる、リーダーのような女性のこと。",
@@ -37040,14 +37008,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "男の子",
-      "reading": "おとこのこ",
-      "meaning": "男の子供。少年。",
-      "example": "元気な男の子が公園で遊んでいます。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "男性",
       "reading": "だんせい",
       "meaning": "おとこ。男の人。",
@@ -37082,34 +37042,10 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "空き箱",
-      "reading": "あきばこ",
-      "meaning": "中身がなくなって空っぽになった箱。",
-      "example": "お菓子の空き箱を使って、楽しい工作をした。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "ごみ箱",
-      "reading": "ごみばこ",
-      "meaning": "いらないもの（ごみ）を捨てるための箱。",
-      "example": "食べ終わったお弁当の容器は、ごみ箱に捨てよう。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "宝箱",
       "reading": "たからばこ",
       "meaning": "大切な宝物を入れておくための箱。",
       "example": "物語に出てくる海賊の宝箱には、きらきら光る宝石がたくさん入っていた。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "おもちゃ箱",
-      "reading": "おもちゃばこ",
-      "meaning": "おもちゃを入れておくための箱。",
-      "example": "遊び終わったおもちゃは、ちゃんとおもちゃ箱にしまおうね。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
@@ -37132,26 +37068,10 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "読み方",
-      "reading": "よみかた",
-      "meaning": "文字や文章を読む方法。また、物事を理解する方法。",
-      "example": "この漢字の読み方がわかりません。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "読者",
       "reading": "どくしゃ",
       "meaning": "本や雑誌などを読む人。",
       "example": "この物語には、たくさんの読者がいます。",
-      "addedDate": "2026-07-31",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "読み書き",
-      "reading": "よみかき",
-      "meaning": "文字を読んだり書いたりすること。",
-      "example": "小学校で読み書きを学び、できることが増えました。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
     }
