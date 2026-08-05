@@ -37367,5 +37367,47 @@
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "紙": [
+    {
+      "jukugo": "折り紙",
+      "reading": "おりがみ",
+      "meaning": "紙を折って、動物や花など色々な形を作る遊び。また、その遊びに使う紙。",
+      "example": "わたしは、おばあちゃんと一緒に**折り紙**で鶴を折った。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "画用紙",
+      "reading": "がようし",
+      "meaning": "絵を描くための、少し厚くて丈夫な紙。",
+      "example": "図工の時間に、大きな**画用紙**に虹の絵を描いた。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "手紙",
+      "reading": "てがみ",
+      "meaning": "相手に伝えたいことや知らせたいことを書いて送るもの。",
+      "example": "遠くに住むおじいちゃんに、元気だと**手紙**を書いた。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新聞紙",
+      "reading": "しんぶんし",
+      "meaning": "新聞が印刷されている紙。読み終わったものは、ごみとして捨てたり、リサイクルしたりする。",
+      "example": "読み終わった**新聞紙**は、古い雑誌と一緒に回収ボックスに入れた。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紙袋",
+      "reading": "かみぶくろ",
+      "meaning": "物などを入れるために紙で作られた袋。",
+      "example": "お店で買ったプレゼントを、かわいい**紙袋**に入れてもらった。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
