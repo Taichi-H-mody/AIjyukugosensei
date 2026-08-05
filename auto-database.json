@@ -37493,5 +37493,47 @@
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "図": [
+    {
+      "jukugo": "図書",
+      "reading": "としょ",
+      "meaning": "本のこと。特に図書館にあるような本を指します。",
+      "example": "学校の図書室で、たくさんの本を読みました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地図",
+      "reading": "ちず",
+      "meaning": "土地の様子や建物、道などを記した絵や表。",
+      "example": "新しい場所にいくときは、地図を見て道を確認します。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図工",
+      "reading": "ずこう",
+      "meaning": "図画工作の略。絵を描いたり、物を作ったりする学校の教科です。",
+      "example": "図工の時間に、折り紙で動物を作って遊びました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図鑑",
+      "reading": "ずかん",
+      "meaning": "たくさんの絵や写真で、植物や動物、乗り物などを分類して紹介している本。",
+      "example": "昆虫図鑑で、珍しいカブトムシの写真をじっくり見ました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図形",
+      "reading": "ずけい",
+      "meaning": "点、線、面などで形作られたもの。三角形や四角形などがあります。",
+      "example": "算数の授業で、いろいろな図形の種類を習いました。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    }
   ]
 }
