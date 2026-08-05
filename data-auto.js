@@ -37453,6 +37453,48 @@ const autoData = {
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "送": [
+    {
+      "jukugo": "放送",
+      "reading": "ほうそう",
+      "meaning": "テレビやラジオで、音や映像を多くの人に届けること。",
+      "example": "今夜のテレビで、好きなアニメが放送される。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "送信",
+      "reading": "そうしん",
+      "meaning": "メールやファックスなどを送ること。",
+      "example": "先生に宿題のファイルをメールで送信した。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "見送る",
+      "reading": "みおくる",
+      "meaning": "出発する人や乗り物、または去っていくものを追いかけて見送ること。",
+      "example": "駅まで友達を見送るために行った。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "送別",
+      "reading": "そうべつ",
+      "meaning": "転校したり、遠くへ行ったりする人との別れを惜しみ、送り出すこと。",
+      "example": "転校する友達のために、みんなで送別会を開いた。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "輸送",
+      "reading": "ゆそう",
+      "meaning": "物や人を、船や飛行機などの乗り物を使って遠くまで運ぶこと。",
+      "example": "トラックが食料を全国に輸送している。",
+      "addedDate": "2026-08-05",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
