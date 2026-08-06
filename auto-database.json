@@ -37370,14 +37370,6 @@
   ],
   "紙": [
     {
-      "jukugo": "折り紙",
-      "reading": "おりがみ",
-      "meaning": "紙を折って、動物や花など色々な形を作る遊び。また、その遊びに使う紙。",
-      "example": "わたしは、おばあちゃんと一緒に**折り紙**で鶴を折った。",
-      "addedDate": "2026-08-05",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "画用紙",
       "reading": "がようし",
       "meaning": "絵を描くための、少し厚くて丈夫な紙。",
@@ -37466,14 +37458,6 @@
       "reading": "そうしん",
       "meaning": "メールやファックスなどを送ること。",
       "example": "先生に宿題のファイルをメールで送信した。",
-      "addedDate": "2026-08-05",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "見送る",
-      "reading": "みおくる",
-      "meaning": "出発する人や乗り物、または去っていくものを追いかけて見送ること。",
-      "example": "駅まで友達を見送るために行った。",
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     },
