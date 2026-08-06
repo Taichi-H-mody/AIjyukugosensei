@@ -37553,5 +37553,47 @@
       "addedDate": "2026-08-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "服": [
+    {
+      "jukugo": "洋服",
+      "reading": "ようふく",
+      "meaning": "西洋風の服。シャツやズボン、スカートなどのこと。",
+      "example": "明日の遠足は、新しい洋服を着ていこう。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "制服",
+      "reading": "せいふく",
+      "meaning": "学校や会社などで、みんなが同じように着る服。",
+      "example": "毎日、学校の制服を着て登校します。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "私服",
+      "reading": "しふく",
+      "meaning": "個人の人が、自由に選んで着る服。制服ではない服。",
+      "example": "週末は、制服ではない私服で友達と遊びに行った。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体操服",
+      "reading": "たいそうふく",
+      "meaning": "体育の授業などで着る、動きやすい服。",
+      "example": "体育の時間は、教室で体操服に着替えます。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "和服",
+      "reading": "わふく",
+      "meaning": "日本の昔からの服。着物のこと。",
+      "example": "お正月には、きれいな和服を着た人たちをよく見かける。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
