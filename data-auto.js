@@ -37597,6 +37597,48 @@ const autoData = {
       "addedDate": "2026-08-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "皮": [
+    {
+      "jukugo": "皮膚",
+      "reading": "ひふ",
+      "meaning": "私たちの体を覆っている皮のことです。",
+      "example": "転んで、膝の皮膚をすりむいてしまいました。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毛皮",
+      "reading": "けがわ",
+      "meaning": "動物の毛が生えたままの皮や、それから作ったもののことです。",
+      "example": "クマの毛皮はとても厚くて、冬の寒さから身を守ります。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "果皮",
+      "reading": "かひ",
+      "meaning": "果物の外側の皮のことです。",
+      "example": "レモンの果皮は黄色くて、いい香りがします。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "脱皮",
+      "reading": "だっぴ",
+      "meaning": "昆虫やヘビなどが、大きくなるために古い皮を脱ぎ捨てることです。",
+      "example": "セミの幼虫は、土の中から出てきて脱皮して成虫になります。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薄皮",
+      "reading": "うすかわ",
+      "meaning": "薄い皮のことです。",
+      "example": "玉ねぎには、何枚もの薄皮が重なっています。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
