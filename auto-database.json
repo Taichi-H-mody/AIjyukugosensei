@@ -37679,5 +37679,47 @@
       "addedDate": "2026-08-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "表": [
+    {
+      "jukugo": "発表",
+      "reading": "はっぴょう",
+      "meaning": "みんなの前で話したり、調べたことなどを知らせたりすること。",
+      "example": "今日の国語の時間に、調べたことをみんなの前で発表しました。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "代表",
+      "reading": "だいひょう",
+      "meaning": "みんなの代わりになる人やもののこと。",
+      "example": "運動会の選手宣誓は、クラスの代表がします。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表面",
+      "reading": "ひょうめん",
+      "meaning": "物のいちばん外側の部分。",
+      "example": "りんごの表面はつるつるしています。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表紙",
+      "reading": "ひょうし",
+      "meaning": "本のいちばん外側の、絵や題名が書いてある部分。",
+      "example": "この本の表紙の絵がとてもきれいです。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "表示",
+      "reading": "ひょうじ",
+      "meaning": "物事をはっきりと見せること。または、見せているもの。",
+      "example": "駅の電光掲示板に、次の電車の時間が表示されています。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
