@@ -37637,5 +37637,47 @@
       "addedDate": "2026-08-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "流": [
+    {
+      "jukugo": "流れ",
+      "reading": "ながれ",
+      "meaning": "水などが動いていくこと。物事の順序や移り変わり。",
+      "example": "川の**流れ**が速いね。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "流行",
+      "reading": "りゅうこう",
+      "meaning": "ある時期に世の中で広く好まれ、多くの人がまねすること。",
+      "example": "今、このゲームが小学校で大**流行**しているよ。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交流",
+      "reading": "こうりゅう",
+      "meaning": "人と人が互いに親しく交わること。",
+      "example": "違う学校のお友達と、運動会で**交流**した。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合流",
+      "reading": "ごうりゅう",
+      "meaning": "二つ以上のものが一つにまとまって流れていくこと。",
+      "example": "ここで二つの川が**合流**しているね。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "急流",
+      "reading": "きゅうりゅう",
+      "meaning": "流れが速い川。",
+      "example": "昔話の桃太郎は、**急流**にどんぶらこっこ流れてきたよ。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    }
   ]
 }
