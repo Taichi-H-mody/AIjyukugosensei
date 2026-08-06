@@ -37521,6 +37521,40 @@ const autoData = {
       "addedDate": "2026-08-05",
       "addedBy": "discord-agent"
     }
+  ],
+  "勉": [
+    {
+      "jukugo": "勉強",
+      "reading": "べんきょう",
+      "meaning": "学問や技術などを習い覚えること。努力して知識や能力を身につけること。",
+      "example": "毎日、漢字の勉強をがんばっています。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勤勉",
+      "reading": "きんべん",
+      "meaning": "仕事や勉強に熱心で、まじめに努力すること。",
+      "example": "彼はとても勤勉な生徒で、いつも宿題をきちんとやります。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勉学",
+      "reading": "べんがく",
+      "meaning": "学問を熱心に学ぶこと。勉強すること。",
+      "example": "将来の夢をかなえるため、ぼくは勉学に励んでいます。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勉励",
+      "reading": "べんれい",
+      "meaning": "目標に向かって、一生懸命に努力すること。",
+      "example": "苦手な算数を克服するため、彼は毎日勉励しました。",
+      "addedDate": "2026-08-06",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
