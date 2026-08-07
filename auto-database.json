@@ -37713,5 +37713,47 @@
       "addedDate": "2026-08-06",
       "addedBy": "discord-agent"
     }
+  ],
+  "売": [
+    {
+      "jukugo": "売買",
+      "reading": "ばいばい",
+      "meaning": "品物をお金と引き換えに売ったり買ったりすること。",
+      "example": "おもちゃの売買を友だちと約束しました。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "販売",
+      "reading": "はんばい",
+      "meaning": "商品を売ること。",
+      "example": "自動販売機でジュースを販売しています。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発売",
+      "reading": "はつばい",
+      "meaning": "新しい品物などを売り始めること。",
+      "example": "来月、新しいゲームが発売されるので楽しみです。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "特売",
+      "reading": "とくばい",
+      "meaning": "期間限定で、特別に安く品物を売ること。",
+      "example": "スーパーでたまごが特売になっていたので買いました。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "売店",
+      "reading": "ばいてん",
+      "meaning": "駅や学校、公園などに設けられた、簡単なものを売る小さなお店。",
+      "example": "動物園の売店でおみやげを買いました。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
