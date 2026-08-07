@@ -37839,5 +37839,47 @@
       "addedDate": "2026-08-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "悪": [
+    {
+      "jukugo": "悪人",
+      "reading": "あくにん",
+      "meaning": "悪い行いをする人。人を困らせる人。",
+      "example": "物語には、かならず悪人が登場します。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悪口",
+      "reading": "わるぐち",
+      "meaning": "人をけなしたり、いやな気持ちにさせたりする言葉。",
+      "example": "友達の悪口を言うのは、やめましょう。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "善悪",
+      "reading": "ぜんあく",
+      "meaning": "良いことと悪いこと。",
+      "example": "善悪の区別をしっかりつけることが大切です。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最悪",
+      "reading": "さいあく",
+      "meaning": "いちばん悪いこと。とてもひどいこと。",
+      "example": "楽しみにしていた遠足が雨で中止になって最悪だ。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悪夢",
+      "reading": "あくむ",
+      "meaning": "こわくていやな夢。",
+      "example": "ゆうべは悪夢を見て、目が覚めてしまいました。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
