@@ -37757,6 +37757,48 @@ const autoData = {
       "addedDate": "2026-08-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "美": [
+    {
+      "jukugo": "美人",
+      "reading": "びじん",
+      "meaning": "顔立ちや姿が美しい人。",
+      "example": "絵本に出てくるお姫様は美人でした。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美食",
+      "reading": "びしょく",
+      "meaning": "おいしい食べ物や、ぜいたくな食事。",
+      "example": "旅行先で、その土地の美食をたくさん味わった。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美術",
+      "reading": "びじゅつ",
+      "meaning": "絵や彫刻など、美しいものを作り出す芸術。または、それを学ぶ科目。",
+      "example": "学校の美術の時間に、絵の具で絵を描いた。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美声",
+      "reading": "びせい",
+      "meaning": "美しく心地よい声。",
+      "example": "合唱コンクールで、友達の美声にみんなが聞き入った。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美味",
+      "reading": "びみ",
+      "meaning": "おいしいこと。また、おいしい食べ物。",
+      "example": "お母さんが作った夕食は、いつも美味だ。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
