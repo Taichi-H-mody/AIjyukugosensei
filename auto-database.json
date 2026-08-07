@@ -37797,5 +37797,47 @@
       "addedDate": "2026-08-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "力": [
+    {
+      "jukugo": "力持ち",
+      "reading": "ちからもち",
+      "meaning": "力が強いこと。また、その人。",
+      "example": "お相撲さんは、とても力持ちだ。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "努力",
+      "reading": "どりょく",
+      "meaning": "目標を達成するために、一生懸命がんばること。",
+      "example": "毎日努力して、逆上がりができるようになった。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "体力",
+      "reading": "たいりょく",
+      "meaning": "運動をしたり、病気に負けない体の力。",
+      "example": "運動会に向けて、体力づくりをがんばった。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "協力",
+      "reading": "きょうりょく",
+      "meaning": "力を合わせて物事をすること。",
+      "example": "みんなで協力して、教室をきれいにした。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全力",
+      "reading": "ぜんりょく",
+      "meaning": "持っているすべての力。",
+      "example": "ゴールまで、全力で走りきった。",
+      "addedDate": "2026-08-07",
+      "addedBy": "discord-agent"
+    }
   ]
 }
