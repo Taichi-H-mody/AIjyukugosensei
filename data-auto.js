@@ -37642,14 +37642,6 @@ const autoData = {
   ],
   "流": [
     {
-      "jukugo": "流れ",
-      "reading": "ながれ",
-      "meaning": "水などが動いていくこと。物事の順序や移り変わり。",
-      "example": "川の**流れ**が速いね。",
-      "addedDate": "2026-08-06",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "流行",
       "reading": "りゅうこう",
       "meaning": "ある時期に世の中で広く好まれ、多くの人がまねすること。",
