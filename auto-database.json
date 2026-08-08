@@ -37999,5 +37999,47 @@
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "台": [
+    {
+      "jukugo": "台所",
+      "reading": "だいどころ",
+      "meaning": "料理をしたり、洗い物をしたりする場所。",
+      "example": "お母さんが台所で晩ごはんを作っています。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "舞台",
+      "reading": "ぶたい",
+      "meaning": "劇や演奏、発表などをするために作られた場所。",
+      "example": "学芸会では、みんなが大きな舞台の上で発表しました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "台風",
+      "reading": "たいふう",
+      "meaning": "熱帯の海で生まれて、強い風と雨を降らせる大きな嵐。",
+      "example": "台風が近づいてきたので、明日は学校がお休みです。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一台",
+      "reading": "いちだい",
+      "meaning": "車やテレビ、パソコンなどの機械を数える時の言葉。",
+      "example": "公園に新しいブランコがもう一台増えました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "台本",
+      "reading": "だいほん",
+      "meaning": "劇や映画、テレビ番組などで、登場人物のセリフや動きが書いてあるもの。",
+      "example": "学芸会の練習のために、みんなに台本が配られました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    }
   ]
 }
