@@ -37957,5 +37957,47 @@
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "都": [
+    {
+      "jukugo": "首都",
+      "reading": "しゅと",
+      "meaning": "国の政治や経済の中心となる都市のことです。日本の首都は東京です。",
+      "example": "日本の**首都**は東京です。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "都市",
+      "reading": "とし",
+      "meaning": "人や建物がたくさん集まって、にぎわっている大きな町のことです。",
+      "example": "大きな**都市**には、たくさんの高い建物があります。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "都合",
+      "reading": "つごう",
+      "meaning": "何かしようとするときに、時間や状況がうまくいくかどうかということ。",
+      "example": "明日の**都合**がよければ、一緒に遊びましょう。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "都内",
+      "reading": "とない",
+      "meaning": "東京都の中のことです。",
+      "example": "**都内**を走る電車に乗って学校へ行きます。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "東京都",
+      "reading": "とうきょうと",
+      "meaning": "日本の首都がある場所の行政区画の名前です。",
+      "example": "私は**東京都**に住んでいます。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    }
   ]
 }
