@@ -38043,6 +38043,48 @@ const autoData = {
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "北": [
+    {
+      "jukugo": "北海道",
+      "reading": "ほっかいどう",
+      "meaning": "日本の北にある大きな島とその周辺の地域のこと。とても広い。",
+      "example": "今年は家族で**北海道**へ旅行に行きました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "南北",
+      "reading": "なんぼく",
+      "meaning": "南と北のこと。",
+      "example": "地球の**南北**には、寒い氷の世界が広がっています。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "北国",
+      "reading": "きたぐに",
+      "meaning": "寒い地域の国や土地のこと。",
+      "example": "**北国**の冬は雪がたくさん降ります。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "北風",
+      "reading": "きたかぜ",
+      "meaning": "北の方から吹いてくる冷たい風。",
+      "example": "冬になると、強い**北風**が吹き始めます。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "敗北",
+      "reading": "はいぼく",
+      "meaning": "戦いや試合に負けること。",
+      "example": "今日のサッカーの試合は**敗北**してしまい、悔しかったです。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
