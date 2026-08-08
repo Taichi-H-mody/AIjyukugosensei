@@ -37875,6 +37875,48 @@ const autoData = {
       "addedDate": "2026-08-07",
       "addedBy": "discord-agent"
     }
+  ],
+  "竹": [
+    {
+      "jukugo": "竹の子",
+      "reading": "たけのこ",
+      "meaning": "竹の地下茎から出る若芽。食べることができます。",
+      "example": "春になると、地面から竹の子が顔を出すよ。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹林",
+      "reading": "ちくりん",
+      "meaning": "竹がたくさん生えている林のこと。",
+      "example": "京都には、美しい竹林で有名な場所があるんだ。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹馬",
+      "reading": "たけうま",
+      "meaning": "2本の長い棒に足を乗せる板をつけた、子どもの遊び道具。",
+      "example": "運動会で、友達と竹馬に乗って競争したよ。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹刀",
+      "reading": "しない",
+      "meaning": "剣道で使う、竹でできた刀のこと。",
+      "example": "剣道教室で、先生が竹刀の正しい持ち方を教えてくれた。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹ぼうき",
+      "reading": "たけぼうき",
+      "meaning": "竹の枝や葉を束ねて作ったほうき。庭の掃除などで使います。",
+      "example": "落ち葉をきれいにするために、竹ぼうきで庭を掃いた。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
