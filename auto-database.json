@@ -37915,5 +37915,47 @@
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "申": [
+    {
+      "jukugo": "申込み",
+      "reading": "もうしこみ",
+      "meaning": "あることのために、参加したい、またはやってほしいと伝えること。",
+      "example": "遠足の参加申込みは、来週までです。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "申し訳",
+      "reading": "もうしわけ",
+      "meaning": "相手に悪いことをしてしまった時に、すみませんと思う気持ちや、その弁解の言葉。",
+      "example": "遅刻して、先生に申し訳ないと謝りました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "申年",
+      "reading": "さるどし",
+      "meaning": "十二支の申（さる）の年に生まれた人のこと、またはその年のこと。",
+      "example": "わたしの家族には、申年生まれの人が二人います。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "申請",
+      "reading": "しんせい",
+      "meaning": "許可をもらうためにお願いすること。",
+      "example": "新しい図書館カードの申請をしました。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "申告",
+      "reading": "しんこく",
+      "meaning": "自分のことや、決まっていることなどを、はっきりと伝えること。",
+      "example": "体調が悪い時は、すぐに先生に申告しましょう。",
+      "addedDate": "2026-08-08",
+      "addedBy": "discord-agent"
+    }
   ]
 }
