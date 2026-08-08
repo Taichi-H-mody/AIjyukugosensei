@@ -37802,14 +37802,6 @@ const autoData = {
   ],
   "力": [
     {
-      "jukugo": "力持ち",
-      "reading": "ちからもち",
-      "meaning": "力が強いこと。また、その人。",
-      "example": "お相撲さんは、とても力持ちだ。",
-      "addedDate": "2026-08-07",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "努力",
       "reading": "どりょく",
       "meaning": "目標を達成するために、一生懸命がんばること。",
