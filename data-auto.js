@@ -38759,6 +38759,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "階": [
+    {
+      "jukugo": "階段",
+      "reading": "かいだん",
+      "meaning": "高い所へ上り下りするための、段々になっている道のこと。",
+      "example": "学校の体育館へ行くには、長い階段を上ります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一階",
+      "reading": "いっかい",
+      "meaning": "建物の地面に一番近い階のこと。",
+      "example": "パン屋さんはビルの１階にあります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地階",
+      "reading": "ちかい",
+      "meaning": "建物の地面より下にある階のこと。地下とも言う。",
+      "example": "デパートの地階には、お惣菜やお菓子がたくさん売っています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "段階",
+      "reading": "だんかい",
+      "meaning": "物事が進んでいく順序や区切りのこと。ステップ。",
+      "example": "プールの授業では、まず準備体操をする段階です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "階下",
+      "reading": "かいか",
+      "meaning": "今いる階よりも下の階のこと。",
+      "example": "お母さんが階下から私を呼ぶ声が聞こえました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
