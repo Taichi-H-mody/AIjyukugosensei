@@ -38549,6 +38549,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "放": [
+    {
+      "jukugo": "放課",
+      "reading": "ほうか",
+      "meaning": "学校の授業が終わること。",
+      "example": "放課後、みんなで公園に遊びに行った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放送",
+      "reading": "ほうそう",
+      "meaning": "ラジオやテレビなどで、音や映像を多くの人に送ること。",
+      "example": "今日のテレビ放送は、人気のアニメだよ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解放",
+      "reading": "かいほう",
+      "meaning": "とらわれているものや束縛されているものから自由になること。",
+      "example": "鳥かごの鳥を空に解放してあげた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放出",
+      "reading": "ほうしゅつ",
+      "meaning": "中にあるものを外へ出すこと。",
+      "example": "火山から煙が放出されている。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "放流",
+      "reading": "ほうりゅう",
+      "meaning": "魚や水を、流れに乗せて放すこと。",
+      "example": "お祭りで、育てた金魚を川に放流した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
