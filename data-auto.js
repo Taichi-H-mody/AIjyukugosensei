@@ -38591,6 +38591,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "板": [
+    {
+      "jukugo": "黒板",
+      "reading": "こくばん",
+      "meaning": "チョークで文字や絵を書くための、黒い板。学校の教室にあることが多い。",
+      "example": "先生が**黒板**に今日の宿題を書きました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "看板",
+      "reading": "かんばん",
+      "meaning": "お店や会社の名前、売っているものなどを書いて道行く人に見せるための板。",
+      "example": "あのラーメン屋さんの**看板**はとても目立つね。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "まな板",
+      "reading": "まないた",
+      "meaning": "料理をするときに、食材を切るために使う板。",
+      "example": "お母さんが**まな板**の上で野菜をトントン切っています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "板チョコ",
+      "reading": "いたちょこ",
+      "meaning": "平たい板のような形をしているチョコレート。割って食べるものが多い。",
+      "example": "私は大きい**板チョコ**を少しずつ食べるのが好きです。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "掲示板",
+      "reading": "けいじばん",
+      "meaning": "みんなにお知らせを貼ったり、情報を伝えたりするための板。学校や町などで見かける。",
+      "example": "学校の**掲示板**に運動会のしらせが貼ってありました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
