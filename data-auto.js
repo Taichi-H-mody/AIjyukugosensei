@@ -38053,6 +38053,48 @@ const autoData = {
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
     }
+  ],
+  "歩": [
+    {
+      "jukugo": "散歩",
+      "reading": "さんぽ",
+      "meaning": "気分転換や健康のために、ぶらぶら歩くこと。",
+      "example": "天気がいいので、公園を散歩しよう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歩道",
+      "reading": "ほどう",
+      "meaning": "人が安全に歩けるように作られた道。",
+      "example": "自転車に乗るときは、歩道ではなく車道を走ります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一歩",
+      "reading": "いっぽ",
+      "meaning": "ひとあし。物事を始める最初の一歩や、目標に近づく一歩。",
+      "example": "ゴールまであと一歩だから、がんばろう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "徒歩",
+      "reading": "とほ",
+      "meaning": "歩いていくこと。",
+      "example": "家から学校まで、徒歩で10分かかります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "進歩",
+      "reading": "しんぽ",
+      "meaning": "物事が前よりも良い状態になること。進み発達すること。",
+      "example": "毎日の練習のおかげで、ピアノがだんだん進歩してきた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
