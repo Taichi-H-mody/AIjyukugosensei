@@ -39045,6 +39045,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "皿": [
+    {
+      "jukugo": "皿洗い",
+      "reading": "さらあらい",
+      "meaning": "食事の後、汚れた食器を洗うこと。",
+      "example": "夕食の後、お母さんの皿洗いをお手伝いしました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小皿",
+      "reading": "こざら",
+      "meaning": "小さめのお皿。一人分の料理や、取り皿として使われることが多い。",
+      "example": "おやつを小皿にのせて食べた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大皿",
+      "reading": "おおざら",
+      "meaning": "大きなお皿。たくさんの料理を盛りつけたり、数人で料理を分け合うときに使われる。",
+      "example": "パーティーで大皿にピザを並べた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "紙皿",
+      "reading": "かみざら",
+      "meaning": "紙でできた使い捨てのお皿。ピクニックやバーベキューなどで使われる。",
+      "example": "運動会の昼食は、紙皿でお弁当を食べた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵皿",
+      "reading": "えざら",
+      "meaning": "絵が描かれているお皿。料理を盛るだけでなく、飾る目的で使われることもある。",
+      "example": "おばあちゃんからきれいな絵皿をもらった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
