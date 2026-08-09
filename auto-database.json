@@ -38421,5 +38421,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "取": [
+    {
+      "jukugo": "取得",
+      "reading": "しゅとく",
+      "meaning": "自分のものとして手に入れること。",
+      "example": "テストでよい点を取得して、みんなにほめられた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "採取",
+      "reading": "さいしゅ",
+      "meaning": "材料となるものや標本などを集めること。",
+      "example": "夏の自由研究で、山でめずらしい昆虫を採取した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "受け取り",
+      "reading": "うけとり",
+      "meaning": "品物や手紙などを受け取ること。また、受け取ったという証明。",
+      "example": "宅配便の荷物を、お母さんが受け取りました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "取り消し",
+      "reading": "とりけし",
+      "meaning": "一度決めたことや、言ったことをやめること。",
+      "example": "雨がふったので、今日の遠足は取り消しになった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "取り組む",
+      "reading": "とりくむ",
+      "meaning": "熱心に物事を行うこと。努力して問題などにあたること。",
+      "example": "運動会のかけっこで一位になるために、毎日練習に取り組む。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
