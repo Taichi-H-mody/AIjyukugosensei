@@ -38379,5 +38379,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "商": [
+    {
+      "jukugo": "商業",
+      "reading": "しょうぎょう",
+      "meaning": "物を売り買いする仕事のこと。",
+      "example": "お店の仕事を「商業」といいます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商店",
+      "reading": "しょうてん",
+      "meaning": "物を売っているお店のこと。",
+      "example": "近所のパン屋さんは「商店」です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商売",
+      "reading": "しょうばい",
+      "meaning": "品物を売り買いしてお金もうけをすること。",
+      "example": "お父さんは「商売」で忙しいです。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商品",
+      "reading": "しょうひん",
+      "meaning": "お店で売られている物のこと。",
+      "example": "このおもちゃは人気のある「商品」です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "商人",
+      "reading": "しょうにん",
+      "meaning": "物を売ったり買ったりして、生活をしている人のこと。",
+      "example": "昔の「商人」は、馬に乗って旅をしました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
