@@ -38221,6 +38221,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "投": [
+    {
+      "jukugo": "投球",
+      "reading": "とうきゅう",
+      "meaning": "野球などで、ボールを打者や相手に向かって投げること。また、そのボール。",
+      "example": "ピッチャーが力強い投球でバッターを三振にしとめた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "投手",
+      "reading": "とうしゅ",
+      "meaning": "野球やソフトボールで、ボールを投げる役割の選手。ピッチャーのこと。",
+      "example": "あのチームの投手は、とても速いボールを投げるのが得意だ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "投票",
+      "reading": "とうひょう",
+      "meaning": "意見や考え、候補者などを選ぶために、札や用紙、ボタンなどを使って自分の意志を示すこと。",
+      "example": "クラスの係を決めるために、みんなで投票を行った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "投入",
+      "reading": "とうにゅう",
+      "meaning": "物の中に物を入れること。また、参加させること。",
+      "example": "自動販売機にお金を投入してジュースを買った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "投函",
+      "reading": "とうかん",
+      "meaning": "手紙やはがきなどを郵便ポストに入れること。",
+      "example": "おじいちゃんへの手紙を郵便ポストに投函しに行った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
