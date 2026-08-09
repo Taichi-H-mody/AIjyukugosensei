@@ -38715,5 +38715,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "丸": [
+    {
+      "jukugo": "丸太",
+      "reading": "まるた",
+      "meaning": "木を切り倒したままの、枝を切り落とした幹の部分。",
+      "example": "きこりさんが大きな丸太を運んでいる。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "日の丸",
+      "reading": "ひのまる",
+      "meaning": "日本の国旗のこと。白い布に赤い丸が描かれている。",
+      "example": "運動会では、校庭に日の丸の旗が上がった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丸刈り",
+      "reading": "まるがり",
+      "meaning": "髪の毛をバリカンなどで短く刈り上げること。",
+      "example": "野球部の選手は、みんな丸刈りにしていた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丸焼き",
+      "reading": "まるやき",
+      "meaning": "肉や魚などを、切らずにそのままの形で焼くこと。",
+      "example": "クリスマスのごちそうは、鶏の丸焼きだった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丸暗記",
+      "reading": "まるあんき",
+      "meaning": "内容を理解せずに、ただ文字や言葉をそっくりそのまま覚えること。",
+      "example": "漢字の書き取りは、意味を考えて丸暗記しないようにしよう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
