@@ -38631,5 +38631,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "調": [
+    {
+      "jukugo": "調べ",
+      "reading": "しらべ",
+      "meaning": "何かを知るために、よく見たり聞いたりすること。",
+      "example": "夏休みの自由研究で、セミのことをたくさん**調べ**た。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "調子",
+      "reading": "ちょうし",
+      "meaning": "物事の進み具合や、体の具合。",
+      "example": "今日はなんだか体の**調子**が悪い。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "調理",
+      "reading": "ちょうり",
+      "meaning": "材料を切ったり煮たりして、料理を作ること。",
+      "example": "家庭科の授業で、みんなでカレーを**調理**した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順調",
+      "reading": "じゅんちょう",
+      "meaning": "物事がうまくいくこと。問題なく進むこと。",
+      "example": "今日の遠足は、雨も降らずに**順調**に進んだ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強調",
+      "reading": "きょうちょう",
+      "meaning": "大切なところを特に目立つようにすること。",
+      "example": "先生は、宿題は今日中にやることだと**強調**した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
