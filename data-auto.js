@@ -38137,6 +38137,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "魚": [
+    {
+      "jukugo": "金魚",
+      "reading": "きんぎょ",
+      "meaning": "観賞用に飼われる、赤くて小さな魚です。夏の縁日などでよく見かけます。",
+      "example": "夏まつりで金魚すくいをした。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "人魚",
+      "reading": "にんぎょ",
+      "meaning": "上半身が人間で、下半身が魚の姿をした、物語に出てくる伝説の生き物です。",
+      "example": "人魚姫の物語はとても悲しい話だ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "魚屋",
+      "reading": "さかなや",
+      "meaning": "魚を売っているお店や、そこで働いている人のことです。",
+      "example": "お母さんと一緒に魚屋へ買い物に行った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "焼魚",
+      "reading": "やきざかな",
+      "meaning": "魚を火であぶったり、フライパンで焼いたりして作った料理のことです。",
+      "example": "今日の晩ごはんは、ふっくらした焼魚だった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "煮魚",
+      "reading": "にざかな",
+      "meaning": "魚をしょうゆやみりんなどの調味料で煮込んで作った料理のことです。",
+      "example": "おばあちゃんが作った煮魚は、味がよくしみこんでいておいしい。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
