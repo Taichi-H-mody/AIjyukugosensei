@@ -38877,6 +38877,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "弱": [
+    {
+      "jukugo": "弱点",
+      "reading": "じゃくてん",
+      "meaning": "得意ではないところや、苦手なところ。",
+      "example": "算数は、ぼくの弱点です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弱虫",
+      "reading": "よわむし",
+      "meaning": "すぐに怖がったり、泣いたりする人のこと。",
+      "example": "おばけが怖くて、妹は弱虫になってしまった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弱気",
+      "reading": "よわき",
+      "meaning": "自信がなくて、おどおどしている気持ち。",
+      "example": "初めての発表会で、少し弱気になった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弱音",
+      "reading": "よわね",
+      "meaning": "つらいときに出る、弱々しい言葉。",
+      "example": "どんなにきつくても、弱音は吐かないと決めた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "弱火",
+      "reading": "よわび",
+      "meaning": "火の勢いが弱いこと。",
+      "example": "カレーは弱火でじっくり煮込むとおいしいよ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
