@@ -38961,6 +38961,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "内": [
+    {
+      "jukugo": "国内",
+      "reading": "こくない",
+      "meaning": "自分の国の中。外国ではないこと。",
+      "example": "日本国内の観光地をめぐります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "案内",
+      "reading": "あんない",
+      "meaning": "場所や道などを教えたり、導いたりすること。",
+      "example": "駅員さんが改札口まで案内してくれました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内部",
+      "reading": "ないぶ",
+      "meaning": "あるものの中の部分。",
+      "example": "建物の内部を見学しました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "内容",
+      "reading": "ないよう",
+      "meaning": "書かれていることや、含まれているものの中身。",
+      "example": "本の内容をよく理解して読みました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "以内",
+      "reading": "いない",
+      "meaning": "ある範囲の中。ある時間や数をこえないこと。",
+      "example": "10分以内に学校に着くように家を出ました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
