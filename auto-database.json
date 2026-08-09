@@ -38833,5 +38833,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "様": [
+    {
+      "jukugo": "皆様",
+      "reading": "みなさま",
+      "meaning": "そこにいるすべての人々を、丁寧に呼ぶ言葉。",
+      "example": "運動会で、先生が「皆様、おはようございます！」と大きな声であいさつしました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "お客様",
+      "reading": "おきゃくさま",
+      "meaning": "店などに訪れた人を、大切にする気持ちをこめて呼ぶ言葉。",
+      "example": "お店の人が、笑顔で「いらっしゃいませ、お客様」と言いました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "様子",
+      "reading": "ようす",
+      "meaning": "物事のあり方や、その時の状態。",
+      "example": "空の様子を見ると、雨が降り出しそうだと分かった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "模様",
+      "reading": "もよう",
+      "meaning": "物の表面に描かれた形や色合い。また、物事の成り行き。",
+      "example": "妹が着ている服には、かわいい花の模様がついています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "様々",
+      "reading": "さまざま",
+      "meaning": "いろいろな種類や状態があること。多種多様なこと。",
+      "example": "スーパーには、世界中の様々なお菓子が並んでいます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
