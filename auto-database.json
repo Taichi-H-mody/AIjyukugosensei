@@ -38505,5 +38505,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "週": [
+    {
+      "jukugo": "週末",
+      "reading": "しゅうまつ",
+      "meaning": "週のおわり。土曜日と日曜日のことです。",
+      "example": "週末には、家族で近くの公園に遊びに行きます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今週",
+      "reading": "こんしゅう",
+      "meaning": "いまの週。現在さしている週のことです。",
+      "example": "今週の宿題は、漢字の練習プリントが５枚です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "来週",
+      "reading": "らいしゅう",
+      "meaning": "つぎの週。今週のあとにくる週のことです。",
+      "example": "来週は遠足があるので、いまからとても楽しみです。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "先週",
+      "reading": "せんしゅう",
+      "meaning": "まえの週。今週のまえの週のことです。",
+      "example": "先週の土曜日に、学校で運動会がありました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "どの週も。すべての週に同じことをするときに使います。",
+      "example": "毎週日曜日は、サッカークラブの練習があります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
