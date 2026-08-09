@@ -38799,5 +38799,39 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "刀": [
+    {
+      "jukugo": "日本刀",
+      "reading": "にほんとう",
+      "meaning": "日本に古くから伝わる、とくちょう的な刀。",
+      "example": "博物館で有名な日本刀がてんじされていた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小刀",
+      "reading": "こがたな",
+      "meaning": "小さな刀。鉛筆をけずったり、工作に使ったりする。",
+      "example": "図工の時間に小刀で木をけずった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹刀",
+      "reading": "しない",
+      "meaning": "剣道で使う、竹でできた刀の形をした道具。",
+      "example": "剣道の練習で竹刀をふる。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短刀",
+      "reading": "たんとう",
+      "meaning": "短い刀。",
+      "example": "昔の物語に出てくる侍が短刀を持っていた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
