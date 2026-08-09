@@ -38179,6 +38179,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "大": [
+    {
+      "jukugo": "大木",
+      "reading": "たいぼく",
+      "meaning": "とても大きな木のこと。",
+      "example": "公園には何百年も生きる大木があります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大切",
+      "reading": "たいせつ",
+      "meaning": "大事なこと、価値があること。",
+      "example": "友達との約束は大切に守りましょう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大会",
+      "reading": "たいかい",
+      "meaning": "多くの人が集まって行う、競技や催し物。",
+      "example": "来月、小学校でスポーツ大会が開かれます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大小",
+      "reading": "だいしょう",
+      "meaning": "大きいことと小さいこと、大きさ。",
+      "example": "お店には大小さまざまなボールが売られています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大雨",
+      "reading": "おおあめ",
+      "meaning": "たくさんの雨、激しく降る雨。",
+      "example": "昨日は大雨が降ったので、遠足は中止になりました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
