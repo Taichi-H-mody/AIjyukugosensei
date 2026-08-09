@@ -38337,5 +38337,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "開": [
+    {
+      "jukugo": "開会",
+      "reading": "かいかい",
+      "meaning": "会や催しが始まること。",
+      "example": "運動会の開会式で選手宣誓があった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開店",
+      "reading": "かいてん",
+      "meaning": "お店が営業を始めること。",
+      "example": "新しいケーキ屋さんが開店したので、買いに行った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公開",
+      "reading": "こうかい",
+      "meaning": "みんなに見せたり、知らせたりすること。",
+      "example": "夏休みの自由研究をみんなに公開した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開場",
+      "reading": "かいじょう",
+      "meaning": "催し物の会場に入れるようになること。",
+      "example": "コンサートの開場時間になったので、席に着いた。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "開園",
+      "reading": "かいえん",
+      "meaning": "公園や遊園地などが開いて、入れるようになること。",
+      "example": "動物園は午前9時に開園します。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
