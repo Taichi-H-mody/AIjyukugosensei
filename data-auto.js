@@ -37878,14 +37878,6 @@ const autoData = {
   ],
   "竹": [
     {
-      "jukugo": "竹の子",
-      "reading": "たけのこ",
-      "meaning": "竹の地下茎から出る若芽。食べることができます。",
-      "example": "春になると、地面から竹の子が顔を出すよ。",
-      "addedDate": "2026-08-08",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "竹林",
       "reading": "ちくりん",
       "meaning": "竹がたくさん生えている林のこと。",
@@ -37908,33 +37900,9 @@ const autoData = {
       "example": "剣道教室で、先生が竹刀の正しい持ち方を教えてくれた。",
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "竹ぼうき",
-      "reading": "たけぼうき",
-      "meaning": "竹の枝や葉を束ねて作ったほうき。庭の掃除などで使います。",
-      "example": "落ち葉をきれいにするために、竹ぼうきで庭を掃いた。",
-      "addedDate": "2026-08-08",
-      "addedBy": "discord-agent"
     }
   ],
   "申": [
-    {
-      "jukugo": "申込み",
-      "reading": "もうしこみ",
-      "meaning": "あることのために、参加したい、またはやってほしいと伝えること。",
-      "example": "遠足の参加申込みは、来週までです。",
-      "addedDate": "2026-08-08",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "申し訳",
-      "reading": "もうしわけ",
-      "meaning": "相手に悪いことをしてしまった時に、すみませんと思う気持ちや、その弁解の言葉。",
-      "example": "遅刻して、先生に申し訳ないと謝りました。",
-      "addedDate": "2026-08-08",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "申年",
       "reading": "さるどし",
