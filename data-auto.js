@@ -38675,6 +38675,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "今": [
+    {
+      "jukugo": "今日",
+      "reading": "きょう",
+      "meaning": "この日。現在のその日。",
+      "example": "今日は晴れていて、外で遊びたい気分だね。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今晩",
+      "reading": "こんばん",
+      "meaning": "今の晩。今日の夜。",
+      "example": "今晩の夕食はカレーライスだよ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今週",
+      "reading": "こんしゅう",
+      "meaning": "今の週。現在のこの週。",
+      "example": "今週の土曜日は、みんなで公園に遊びに行こう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今月",
+      "reading": "こんげつ",
+      "meaning": "今の月。現在のこの月。",
+      "example": "今月の目標は、本を３冊読むことだ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "今年",
+      "reading": "ことし",
+      "meaning": "今の年。現在のこの年。",
+      "example": "今年は小学校に入学した、大切な年だよ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
