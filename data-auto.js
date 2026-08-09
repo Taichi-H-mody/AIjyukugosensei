@@ -38297,6 +38297,48 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "寺": [
+    {
+      "jukugo": "寺子屋",
+      "reading": "てらこや",
+      "meaning": "江戸時代に、子どもたちが読み書きや計算などを習った学校。",
+      "example": "昔はみんな、**寺子屋**で勉強しました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "山寺",
+      "reading": "やまでら",
+      "meaning": "山の中にあるお寺のこと。",
+      "example": "休みの日に、家族で有名な**山寺**へお参りに行きました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "古寺",
+      "reading": "ふるでら",
+      "meaning": "昔からある、歴史の古いお寺のこと。",
+      "example": "この町には、何百年も続く立派な**古寺**があります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寺社",
+      "reading": "じしゃ",
+      "meaning": "お寺と神社のこと。",
+      "example": "日本には美しい**寺社**がたくさんあります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寺院",
+      "reading": "じいん",
+      "meaning": "お坊さんが修行をしたり、人々がお参りしたりするお寺のこと。",
+      "example": "この地域の**寺院**は、歴史的な価値が高いことで知られています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
