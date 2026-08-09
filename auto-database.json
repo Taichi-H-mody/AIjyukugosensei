@@ -38093,5 +38093,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "部": [
+    {
+      "jukugo": "部活動",
+      "reading": "ぶかつどう",
+      "meaning": "学校で、スポーツや文化的な活動をグループですること。または、そのグループ。",
+      "example": "放課後、友達と部活動でサッカーの練習をしました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全部",
+      "reading": "ぜんぶ",
+      "meaning": "のこりなく、すべてのこと。",
+      "example": "今日の宿題は全部終わったから、安心して遊べます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部分",
+      "reading": "ぶぶん",
+      "meaning": "全体をいくつか分けたうちの一つ。あるまとまりの中の一部。",
+      "example": "この絵で一番好きな部分は、青い空の色です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部首",
+      "reading": "ぶしゅ",
+      "meaning": "漢字を形によって分けた、へんやつくりの部分。漢字を辞書で引くときなどに使います。",
+      "example": "漢字の「語」の部首は「ごんべん」です。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部品",
+      "reading": "ぶひん",
+      "meaning": "機械や建物などを組み立てるときに使う、一つ一つの細かい部分のこと。",
+      "example": "プラモデルを作るために、たくさんの部品を説明書通りに組み合わせます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
