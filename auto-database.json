@@ -38917,5 +38917,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "秒": [
+    {
+      "jukugo": "秒速",
+      "reading": "びょうそく",
+      "meaning": "１秒間に進む速さのこと。",
+      "example": "新幹線は秒速およそ８０メートルで走ります。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "秒針",
+      "reading": "びょうしん",
+      "meaning": "時計の文字盤を１分間で１周する細い針。",
+      "example": "時計の秒針がカチカチと音を立てて動いています。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "秒読み",
+      "reading": "びょうよみ",
+      "meaning": "ロケットの打ち上げなどで、最後の時間を数えること。物事の最後の段階。",
+      "example": "運動会のスタートの秒読みが始まりました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一秒",
+      "reading": "いちびょう",
+      "meaning": "時間の単位で、１分間の６０分の１。わずかな時間。",
+      "example": "一秒でも早くゴールできるようにがんばろう。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "数秒",
+      "reading": "すうびょう",
+      "meaning": "ほんの少しの時間。数えるくらいの短い時間。",
+      "example": "そのパズルは数秒で解くことができました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
