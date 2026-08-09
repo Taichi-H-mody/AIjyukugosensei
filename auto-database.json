@@ -38463,5 +38463,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "黒": [
+    {
+      "jukugo": "黒板",
+      "reading": "こくばん",
+      "meaning": "学校の教室などで、先生がチョークで字を書いたり絵を描いたりするための黒い板。",
+      "example": "先生が黒板に今日の宿題を大きく書きました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "黒猫",
+      "reading": "くろねこ",
+      "meaning": "体の毛の色が真っ黒な猫のこと。",
+      "example": "公園で、しっぽが長いかわいい黒猫を見かけたよ。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真っ黒",
+      "reading": "まっくろ",
+      "meaning": "とても黒いこと、またはすっかり黒くなってしまう様子。",
+      "example": "夏休み、海でたくさん遊んだら顔が真っ黒になった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "黒ごま",
+      "reading": "くろごま",
+      "meaning": "皮が黒い色をしたゴマの一種。健康に良いとされ、料理やお菓子に使われる。",
+      "example": "お団子に黒ごまのきな粉をかけると、香ばしくて美味しいね。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "黒豆",
+      "reading": "くろまめ",
+      "meaning": "黒い皮をもつ豆の一種。お正月のおせち料理によく使われる。",
+      "example": "おばあちゃんが作った黒豆は、つやつやしていて甘くて美味しい。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
