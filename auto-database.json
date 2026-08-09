@@ -39001,5 +39001,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "朝": [
+    {
+      "jukugo": "朝顔",
+      "reading": "あさがお",
+      "meaning": "夏の朝に美しい花を咲かせるつる性の植物。",
+      "example": "夏休み、わたしは**朝顔**の観察日記をつけました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "朝食",
+      "reading": "ちょうしょく",
+      "meaning": "朝に食べる食事。",
+      "example": "毎朝、おいしい**朝食**をしっかり食べて学校に行きます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "どの朝も、毎日毎日。",
+      "example": "私は**毎朝**、犬の散歩に行きます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早朝",
+      "reading": "そうちょう",
+      "meaning": "朝の早い時間。夜明けすぐ。",
+      "example": "父は**早朝**から仕事に出かけます。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "朝晩",
+      "reading": "あさばん",
+      "meaning": "朝と晩。一日中。",
+      "example": "風邪をひいたので、**朝晩**、薬を飲んで早く治しました。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 }
