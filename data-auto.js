@@ -38263,6 +38263,40 @@ const autoData = {
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "負": [
+    {
+      "jukugo": "勝負",
+      "reading": "しょうぶ",
+      "meaning": "どちらが勝つか負けるか競い合うこと。",
+      "example": "友達とじゃんけんで勝負した。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "負担",
+      "reading": "ふたん",
+      "meaning": "重い物を持ったり、大変な仕事をしたりする責任を負うこと。",
+      "example": "家族みんなで家事の負担を分け合った。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "負傷",
+      "reading": "ふしょう",
+      "meaning": "怪我をすること。体の一部を傷つけること。",
+      "example": "転んでひざを負傷してしまった。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "負けん気",
+      "reading": "まけんき",
+      "meaning": "人に負けたくないという強い気持ち。",
+      "example": "彼女は負けん気が強いので、どんなことにも諦めない。",
+      "addedDate": "2026-08-09",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
