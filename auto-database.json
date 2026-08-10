@@ -39825,5 +39825,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "文": [
+    {
+      "jukugo": "文字",
+      "reading": "もじ",
+      "meaning": "言葉を書き表す記号。ひらがなや漢字など。",
+      "example": "本を読むと、たくさんの文字に出会います。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "いくつかの文がつながって、ひとつのまとまった考えを表したもの。",
+      "example": "国語の授業で、長い文章を読みました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作文",
+      "reading": "さくぶん",
+      "meaning": "自分の考えや体験を文章にして書くこと。また、その書いた文章。",
+      "example": "夏休みの思い出について作文を書きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文房具",
+      "reading": "ぶんぼうぐ",
+      "meaning": "勉強や仕事に使う道具。鉛筆、消しゴム、ノートなど。",
+      "example": "新しい文房具をそろえて、新学期にそなえました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文化",
+      "reading": "ぶんか",
+      "meaning": "人々の生活の中で生まれた、国のならわしや考え方、芸術など。",
+      "example": "日本の文化には、着物や茶道などがあります。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
