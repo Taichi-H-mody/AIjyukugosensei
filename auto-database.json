@@ -39841,5 +39841,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "歌": [
+    {
+      "jukugo": "歌声",
+      "reading": "うたごえ",
+      "meaning": "歌を歌っているときの声。",
+      "example": "みんなの歌声が体育館に響き渡った。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歌詞",
+      "reading": "かし",
+      "meaning": "歌の言葉。歌の内容を表す文章。",
+      "example": "この歌の歌詞はとても元気が出る。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "歌手",
+      "reading": "かしゅ",
+      "meaning": "歌を歌うことを仕事にしている人。",
+      "example": "将来の夢は、有名な歌手になることです。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "唱歌",
+      "reading": "しょうか",
+      "meaning": "学校などで歌われる教育的な歌。",
+      "example": "音楽の授業で、昔の唱歌を習いました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "短歌",
+      "reading": "たんか",
+      "meaning": "五七五七七の三十一文字（みそひと もじ）からなる短い歌。",
+      "example": "国語の授業で、みんなで短歌を作りました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
