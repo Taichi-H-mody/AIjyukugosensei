@@ -39127,5 +39127,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "牛": [
+    {
+      "jukugo": "牛乳",
+      "reading": "ぎゅうにゅう",
+      "meaning": "牛のお乳。人が飲んだり、チーズなどを作ったりするのに使います。",
+      "example": "毎朝、コップいっぱいの牛乳を飲んでから学校に行きます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "牛肉",
+      "reading": "ぎゅうにく",
+      "meaning": "牛のお肉。カレーやハンバーグなど、色々な料理に使われます。",
+      "example": "お母さんが牛肉を使っておいしいシチューを作ってくれました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "子牛",
+      "reading": "こうし",
+      "meaning": "生まれたばかりの、小さい牛のこと。",
+      "example": "牧場では、かわいい子牛がお母さん牛の後ろをちょこちょこ歩いていました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水牛",
+      "reading": "すいぎゅう",
+      "meaning": "水辺に住む、体が大きくてりっぱな角がある牛の仲間。東南アジアなどにいます。",
+      "example": "図鑑で、水牛が泥の中で気持ちよさそうにしている写真を見つけました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "牛小屋",
+      "reading": "うしごや",
+      "meaning": "牛を飼育するために作られた小屋。牛が雨や風をしのいで休む場所です。",
+      "example": "農家のおじさんは、毎日朝早くから牛小屋の掃除をしています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
