@@ -39171,6 +39171,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "少": [
+    {
+      "jukugo": "少年",
+      "reading": "しょうねん",
+      "meaning": "男の子のこと。特に、まだ大人になっていない男の子を指します。",
+      "example": "その少年は、夢に向かって毎日がんばっています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "少女",
+      "reading": "しょうじょ",
+      "meaning": "女の子のこと。特に、まだ大人になっていない女の子を指します。",
+      "example": "公園で遊ぶ少女たちの笑い声が聞こえてきました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多少",
+      "reading": "たしょう",
+      "meaning": "少しばかり。少しはあるが、あまり多くないこと。",
+      "example": "おやつは多少残っているから、みんなで分けよう。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "少数",
+      "reading": "しょうすう",
+      "meaning": "数が少ないこと。",
+      "example": "クラスの中で、自転車で通学しているのは少数です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年少",
+      "reading": "ねんしょう",
+      "meaning": "年齢が若いこと。年下であること。",
+      "example": "彼はクラスの年少組ですが、とてもしっかりしています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
