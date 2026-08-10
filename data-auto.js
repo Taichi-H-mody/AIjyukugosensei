@@ -39743,6 +39743,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "庭": [
+    {
+      "jukugo": "家庭",
+      "reading": "かてい",
+      "meaning": "家族が一緒に生活する場所、またはその家族のこと。",
+      "example": "私の家庭は、お父さん、お母さん、私、妹の四人家族です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "校庭",
+      "reading": "こうてい",
+      "meaning": "学校にある運動場や庭のこと。",
+      "example": "休み時間に、みんなで校庭で元気に遊びました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "庭園",
+      "reading": "ていえん",
+      "meaning": "草木を植えたり、石を置いたりして美しく整えられた広い庭のこと。",
+      "example": "大きな庭園には、色とりどりの花がたくさん咲いていました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "庭先",
+      "reading": "にわさき",
+      "meaning": "家のすぐ前にある庭の部分のこと。",
+      "example": "庭先で、おじいちゃんが水をまいていました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "箱庭",
+      "reading": "はこにわ",
+      "meaning": "小さな箱の中に砂や石、草木などを置いて、景色を表現したもの。",
+      "example": "きれいな砂と小さな木を使って、箱庭を作りました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
