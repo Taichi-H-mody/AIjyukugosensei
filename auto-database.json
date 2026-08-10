@@ -39085,5 +39085,47 @@
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     }
+  ],
+  "赤": [
+    {
+      "jukugo": "赤色",
+      "reading": "あかいろ",
+      "meaning": "りんごやイチゴのような、鮮やかな色。",
+      "example": "消防車はまわりに知らせるために、目立つ**赤色**をしています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "赤組",
+      "reading": "あかぐみ",
+      "meaning": "運動会などで、チームを分けるときの赤いグループ。",
+      "example": "今年の運動会で、ぼくは**赤組**に入って優勝をめざします。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "赤信号",
+      "reading": "あかしんごう",
+      "meaning": "車や人が止まるように指示する、赤い光の信号。",
+      "example": "**赤信号**なので、横断歩道をわたるのをやめて待ちましょう。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "赤飯",
+      "reading": "せきはん",
+      "meaning": "お祝いの時によく食べる、小豆（あずき）と一緒にもち米を炊いた赤いご飯。",
+      "example": "おばあちゃんの誕生日には、みんなで**赤飯**を食べました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "赤毛",
+      "reading": "あかげ",
+      "meaning": "茶色に近い赤色や、オレンジ色のような髪の毛や動物の毛。",
+      "example": "絵本に出てくるかわいいキツネは、ふさふさの**赤毛**をもっていました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
