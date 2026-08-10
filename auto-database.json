@@ -39867,5 +39867,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "明": [
+    {
+      "jukugo": "明日",
+      "reading": "あした",
+      "meaning": "今日が過ぎて、次にくる日のこと。",
+      "example": "明日は遠足だから、早く寝ようね。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "説明",
+      "reading": "せつめい",
+      "meaning": "物事の内容や理由などを、相手にわかるように話したり、書いたりすること。",
+      "example": "先生が新しいゲームのルールを説明してくれた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "発明",
+      "reading": "はつめい",
+      "meaning": "今までなかった新しいものや方法を、初めて考え出すこと。",
+      "example": "エジソンは電球を発明した有名な科学者です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "透明",
+      "reading": "とうめい",
+      "meaning": "向こう側がはっきりと見えること。",
+      "example": "コップの水はきれいで透明だった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夜明け",
+      "reading": "よあけ",
+      "meaning": "夜が終わり、朝になって空が明るくなり始めるころ。",
+      "example": "夜明けとともに、鳥たちが歌い始めた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
