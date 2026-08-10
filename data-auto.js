@@ -39381,6 +39381,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "同": [
+    {
+      "jukugo": "同意",
+      "reading": "どうい",
+      "meaning": "相手の考えや意見に、自分も同じだと賛成すること。",
+      "example": "先生の説明に、みんなが同意しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "同時",
+      "reading": "どうじ",
+      "meaning": "二つ以上のことが、同じ時に起こったり、行われたりすること。",
+      "example": "ベルが鳴るのと同時に、先生が入ってきました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "共同",
+      "reading": "きょうどう",
+      "meaning": "何人かの人が、同じ目的のために協力して何かをすること。",
+      "example": "みんなで力を合わせて、共同で大きな絵を描きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合同",
+      "reading": "ごうどう",
+      "meaning": "いくつかのものが、一つにまとまること。特に、図形が形も大きさもぴったり同じであること。",
+      "example": "算数の授業で、合同な三角形について勉強しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "同一",
+      "reading": "どういつ",
+      "meaning": "二つ以上のものが、全く同じであること。",
+      "example": "この二つのブロックは、形も色も同一です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
