@@ -39909,5 +39909,31 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "池": [
+    {
+      "jukugo": "ため池",
+      "reading": "ためいけ",
+      "meaning": "農業などに使う水をためておく池。",
+      "example": "畑に水をやるために、大きなため池があります。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貯水池",
+      "reading": "ちょすいち",
+      "meaning": "水道などの水をたくわえておく大きな池。",
+      "example": "この町の水道は、山の貯水池の水を使っています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "蓮池",
+      "reading": "はすいけ",
+      "meaning": "ハスの花が咲く池。",
+      "example": "夏になると、蓮池には美しいハスの花が咲きます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
