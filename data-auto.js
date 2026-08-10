@@ -39507,6 +39507,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "平": [
+    {
+      "jukugo": "平日",
+      "reading": "へいじつ",
+      "meaning": "月曜日から金曜日までの、学校や仕事がある日のこと。お休みの日ではない日。",
+      "example": "平日は学校で勉強するけれど、土日はお休みだよ。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "平和",
+      "reading": "へいわ",
+      "meaning": "争いやけんかがなく、みんなが仲良く穏やかに暮らしていること。",
+      "example": "世界中のみんなが平和に暮らせるように願っています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "平気",
+      "reading": "へいき",
+      "meaning": "心配したり、気にしたりしないこと。大丈夫なこと。",
+      "example": "ちょっと転んだくらいじゃ、ぼくは平気だよ！",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "公平",
+      "reading": "こうへい",
+      "meaning": "誰か一人だけに味方したりせず、みんなに同じように接すること。えこひいきしないこと。",
+      "example": "先生は、みんなに公平になるようにくじ引きで役割を決めた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水平",
+      "reading": "すいへい",
+      "meaning": "水面のように、まっすぐで傾いていない様子。横にまっすぐなこと。",
+      "example": "水が入ったお皿は、どこに置いてもいつも水平になる。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
