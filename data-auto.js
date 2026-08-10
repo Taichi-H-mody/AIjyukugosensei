@@ -39297,6 +39297,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "風": [
+    {
+      "jukugo": "風船",
+      "reading": "ふうせん",
+      "meaning": "空気などを入れてふくらませる、お祭りや遊びで使うもの。",
+      "example": "公園で風船を飛ばして遊んだ。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "風車",
+      "reading": "かざぐるま",
+      "meaning": "風の力で羽根がくるくる回るおもちゃ。",
+      "example": "お祭りでカラフルな風車を買ってもらった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "台風",
+      "reading": "たいふう",
+      "meaning": "南の海で生まれて、強い風とたくさん雨を降らせる大きな嵐のこと。",
+      "example": "台風が近づいているので、みんな気をつけましょう。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "強風",
+      "reading": "きょうふう",
+      "meaning": "とても勢いよく吹く強い風のこと。",
+      "example": "今日の強風で、帽子が飛ばされそうになった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "そよ風",
+      "reading": "そよかぜ",
+      "meaning": "やさしく、心地よく吹く風のこと。",
+      "example": "そよ風が気持ちいい季節になったね。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
