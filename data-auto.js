@@ -39465,6 +39465,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "鳴": [
+    {
+      "jukugo": "鳴き声",
+      "reading": "なきごえ",
+      "meaning": "鳥や動物が出す声のこと。",
+      "example": "朝、窓の外から小鳥の鳴き声が聞こえてきた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "悲鳴",
+      "reading": "ひめい",
+      "meaning": "びっくりした時や、怖い時などに思わず出す大きな声。",
+      "example": "急に目の前で花火が上がって、思わず悲鳴を上げてしまった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耳鳴り",
+      "reading": "みみなり",
+      "meaning": "周りに何の音もないのに、耳の中でキーンという音などが聞こえる感じ。",
+      "example": "静かな場所で集中していると、たまに耳鳴りがすることがある。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雷鳴",
+      "reading": "らいめい",
+      "meaning": "雷が落ちる時にゴロゴロと鳴る大きな音。",
+      "example": "遠くで雷鳴がとどろき、そろそろ雨が降るかもしれない。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鳴り物",
+      "reading": "なりもの",
+      "meaning": "音を鳴らす道具。特に、お祭りなどで使う太鼓や笛などの楽器。",
+      "example": "お祭り会場からは、にぎやかな鳴り物の音が響いていた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
