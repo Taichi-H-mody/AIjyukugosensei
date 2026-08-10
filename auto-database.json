@@ -39253,5 +39253,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "多": [
+    {
+      "jukugo": "多数",
+      "reading": "たすう",
+      "meaning": "たくさんの数。多くの人やもの。",
+      "example": "多数の人が運動会を見に来ました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多量",
+      "reading": "たりょう",
+      "meaning": "たくさんの量。",
+      "example": "給食のカレーは多量に作られます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多色",
+      "reading": "たしょく",
+      "meaning": "いろいろな色。たくさんの色。",
+      "example": "多色のちょうが花畑を飛んでいます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多少",
+      "reading": "たしょう",
+      "meaning": "多いことと少ないこと。少しばかり。いくらか。",
+      "example": "多少の雨が降っても、遠足は行きます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多忙",
+      "reading": "たぼう",
+      "meaning": "とても忙しいこと。用事がたくさんあること。",
+      "example": "先生はいつも多忙そうにしています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
