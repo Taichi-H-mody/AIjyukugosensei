@@ -38286,14 +38286,6 @@
       "example": "転んでひざを負傷してしまった。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "負けん気",
-      "reading": "まけんき",
-      "meaning": "人に負けたくないという強い気持ち。",
-      "example": "彼女は負けん気が強いので、どんなことにも諦めない。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
     }
   ],
   "寺": [
@@ -38438,30 +38430,6 @@
       "example": "夏の自由研究で、山でめずらしい昆虫を採取した。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "受け取り",
-      "reading": "うけとり",
-      "meaning": "品物や手紙などを受け取ること。また、受け取ったという証明。",
-      "example": "宅配便の荷物を、お母さんが受け取りました。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "取り消し",
-      "reading": "とりけし",
-      "meaning": "一度決めたことや、言ったことをやめること。",
-      "example": "雨がふったので、今日の遠足は取り消しになった。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "取り組む",
-      "reading": "とりくむ",
-      "meaning": "熱心に物事を行うこと。努力して問題などにあたること。",
-      "example": "運動会のかけっこで一位になるために、毎日練習に取り組む。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
     }
   ],
   "黒": [
@@ -38478,22 +38446,6 @@
       "reading": "くろねこ",
       "meaning": "体の毛の色が真っ黒な猫のこと。",
       "example": "公園で、しっぽが長いかわいい黒猫を見かけたよ。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "真っ黒",
-      "reading": "まっくろ",
-      "meaning": "とても黒いこと、またはすっかり黒くなってしまう様子。",
-      "example": "夏休み、海でたくさん遊んだら顔が真っ黒になった。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "黒ごま",
-      "reading": "くろごま",
-      "meaning": "皮が黒い色をしたゴマの一種。健康に良いとされ、料理やお菓子に使われる。",
-      "example": "お団子に黒ごまのきな粉をかけると、香ばしくて美味しいね。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     },
@@ -38608,14 +38560,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "まな板",
-      "reading": "まないた",
-      "meaning": "料理をするときに、食材を切るために使う板。",
-      "example": "お母さんが**まな板**の上で野菜をトントン切っています。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "板チョコ",
       "reading": "いたちょこ",
       "meaning": "平たい板のような形をしているチョコレート。割って食べるものが多い。",
@@ -38633,14 +38577,6 @@
     }
   ],
   "調": [
-    {
-      "jukugo": "調べ",
-      "reading": "しらべ",
-      "meaning": "何かを知るために、よく見たり聞いたりすること。",
-      "example": "夏休みの自由研究で、セミのことをたくさん**調べ**た。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "調子",
       "reading": "ちょうし",
@@ -38722,30 +38658,6 @@
       "reading": "まるた",
       "meaning": "木を切り倒したままの、枝を切り落とした幹の部分。",
       "example": "きこりさんが大きな丸太を運んでいる。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "日の丸",
-      "reading": "ひのまる",
-      "meaning": "日本の国旗のこと。白い布に赤い丸が描かれている。",
-      "example": "運動会では、校庭に日の丸の旗が上がった。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "丸刈り",
-      "reading": "まるがり",
-      "meaning": "髪の毛をバリカンなどで短く刈り上げること。",
-      "example": "野球部の選手は、みんな丸刈りにしていた。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "丸焼き",
-      "reading": "まるやき",
-      "meaning": "肉や魚などを、切らずにそのままの形で焼くこと。",
-      "example": "クリスマスのごちそうは、鶏の丸焼きだった。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     },
@@ -38844,14 +38756,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "お客様",
-      "reading": "おきゃくさま",
-      "meaning": "店などに訪れた人を、大切にする気持ちをこめて呼ぶ言葉。",
-      "example": "お店の人が、笑顔で「いらっしゃいませ、お客様」と言いました。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "様子",
       "reading": "ようす",
       "meaning": "物事のあり方や、その時の状態。",
@@ -38932,14 +38836,6 @@
       "reading": "びょうしん",
       "meaning": "時計の文字盤を１分間で１周する細い針。",
       "example": "時計の秒針がカチカチと音を立てて動いています。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "秒読み",
-      "reading": "びょうよみ",
-      "meaning": "ロケットの打ち上げなどで、最後の時間を数えること。物事の最後の段階。",
-      "example": "運動会のスタートの秒読みが始まりました。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
     },
@@ -39045,14 +38941,6 @@
     }
   ],
   "皿": [
-    {
-      "jukugo": "皿洗い",
-      "reading": "さらあらい",
-      "meaning": "食事の後、汚れた食器を洗うこと。",
-      "example": "夕食の後、お母さんの皿洗いをお手伝いしました。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "小皿",
       "reading": "こざら",
@@ -39328,14 +39216,6 @@
       "example": "今日の強風で、帽子が飛ばされそうになった。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "そよ風",
-      "reading": "そよかぜ",
-      "meaning": "やさしく、心地よく吹く風のこと。",
-      "example": "そよ風が気持ちいい季節になったね。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
     }
   ],
   "豆": [
@@ -39368,14 +39248,6 @@
       "reading": "まめちしき",
       "meaning": "ちょっとした、おもしろくて役に立つ知識のことです。",
       "example": "先生が、動物の面白い豆知識を教えてくれました。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "豆まき",
-      "reading": "まめまき",
-      "meaning": "節分の日に、鬼を追い払うために豆をまく行事です。",
-      "example": "節分には、家族みんなで「鬼は外、福は内」と言って豆まきをしました。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
@@ -39440,39 +39312,15 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "川遊び",
-      "reading": "かわあそび",
-      "meaning": "川に入って水と親しんだり、魚を取ったりして遊ぶこと。",
-      "example": "夏休みには、家族と川遊びに行く予定だ。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "川魚",
       "reading": "かわざかな",
       "meaning": "川の中でくらす魚。",
       "example": "父が釣ってきた川魚を、夕食で食べた。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "川沿い",
-      "reading": "かわぞい",
-      "meaning": "川にそってあること。川の近く。",
-      "example": "自転車で川沿いを走ったら、とても気持ちよかった。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
     }
   ],
   "鳴": [
-    {
-      "jukugo": "鳴き声",
-      "reading": "なきごえ",
-      "meaning": "鳥や動物が出す声のこと。",
-      "example": "朝、窓の外から小鳥の鳴き声が聞こえてきた。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "悲鳴",
       "reading": "ひめい",
@@ -39482,26 +39330,10 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "耳鳴り",
-      "reading": "みみなり",
-      "meaning": "周りに何の音もないのに、耳の中でキーンという音などが聞こえる感じ。",
-      "example": "静かな場所で集中していると、たまに耳鳴りがすることがある。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "雷鳴",
       "reading": "らいめい",
       "meaning": "雷が落ちる時にゴロゴロと鳴る大きな音。",
       "example": "遠くで雷鳴がとどろき、そろそろ雨が降るかもしれない。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "鳴り物",
-      "reading": "なりもの",
-      "meaning": "音を鳴らす道具。特に、お祭りなどで使う太鼓や笛などの楽器。",
-      "example": "お祭り会場からは、にぎやかな鳴り物の音が響いていた。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
@@ -39676,14 +39508,6 @@
   ],
   "早": [
     {
-      "jukugo": "早起き",
-      "reading": "はやおき",
-      "meaning": "朝早く起きること。",
-      "example": "健康のために、毎日早起きをしています。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "早寝",
       "reading": "はやね",
       "meaning": "夜、早く寝ること。",
@@ -39772,14 +39596,6 @@
       "reading": "きしょう",
       "meaning": "朝、目を覚まして床や布団から起きること。",
       "example": "毎朝6時に「起床」する習慣があります。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "寝起き",
-      "reading": "ねおき",
-      "meaning": "寝ている状態から起きること。または、起きてすぐの状態。",
-      "example": "私は「寝起き」が悪くて、朝はなかなか元気がでません。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     },
