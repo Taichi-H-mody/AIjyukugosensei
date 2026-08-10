@@ -39421,5 +39421,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "川": [
+    {
+      "jukugo": "小川",
+      "reading": "おがわ",
+      "meaning": "小さくて、幅のせまい川。",
+      "example": "学校の近くに、魚が泳ぐ小川があります。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川岸",
+      "reading": "かわぎし",
+      "meaning": "川のふちや、川べりの土地。",
+      "example": "川岸に座って、水が流れるのを見た。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川遊び",
+      "reading": "かわあそび",
+      "meaning": "川に入って水と親しんだり、魚を取ったりして遊ぶこと。",
+      "example": "夏休みには、家族と川遊びに行く予定だ。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川魚",
+      "reading": "かわざかな",
+      "meaning": "川の中でくらす魚。",
+      "example": "父が釣ってきた川魚を、夕食で食べた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川沿い",
+      "reading": "かわぞい",
+      "meaning": "川にそってあること。川の近く。",
+      "example": "自転車で川沿いを走ったら、とても気持ちよかった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
