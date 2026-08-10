@@ -39337,5 +39337,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "豆": [
+    {
+      "jukugo": "豆乳",
+      "reading": "とうにゅう",
+      "meaning": "大豆をしぼって作る、ミルクのような飲み物です。体にとっても良いですよ。",
+      "example": "朝ごはんのとき、コップいっぱいの豆乳を飲みました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大豆",
+      "reading": "だいず",
+      "meaning": "みそやしょうゆ、豆腐、納豆など、たくさんの食べ物のもとになる大切な豆です。",
+      "example": "納豆は、大豆から作られていると教えてもらいました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "枝豆",
+      "reading": "えだまめ",
+      "meaning": "まだ若い大豆をさやのままゆでたものです。夏によく食べられます。",
+      "example": "おやつに、冷たい枝豆をたくさん食べました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豆知識",
+      "reading": "まめちしき",
+      "meaning": "ちょっとした、おもしろくて役に立つ知識のことです。",
+      "example": "先生が、動物の面白い豆知識を教えてくれました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "豆まき",
+      "reading": "まめまき",
+      "meaning": "節分の日に、鬼を追い払うために豆をまく行事です。",
+      "example": "節分には、家族みんなで「鬼は外、福は内」と言って豆まきをしました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
