@@ -39759,6 +39759,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "起": [
+    {
+      "jukugo": "起立",
+      "reading": "きりつ",
+      "meaning": "立つこと。立ち上がること。",
+      "example": "先生が「起立！」と言うと、みんなが立ち上がった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "起床",
+      "reading": "きしょう",
+      "meaning": "朝、目を覚まして床や布団から起きること。",
+      "example": "毎朝6時に「起床」する習慣があります。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寝起き",
+      "reading": "ねおき",
+      "meaning": "寝ている状態から起きること。または、起きてすぐの状態。",
+      "example": "私は「寝起き」が悪くて、朝はなかなか元気がでません。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "再起",
+      "reading": "さいき",
+      "meaning": "一度失敗したり、負けたりした人が、もう一度立ち上がって頑張ること。",
+      "example": "病気で休んでいたけれど、「再起」を誓ってまた練習を始めた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "奮起",
+      "reading": "ふんき",
+      "meaning": "元気を出し、心を奮い立たせて、さあやろうという気持ちになること。",
+      "example": "試合に負けたけれど、「奮起」して次の試合に向けて練習を頑張ろう。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
