@@ -39717,6 +39717,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "薬": [
+    {
+      "jukugo": "薬局",
+      "reading": "やっきょく",
+      "meaning": "薬を売ったり、お医者さんが出してくれた薬をわたしてくれるお店。",
+      "example": "お母さんと一緒に薬局へ風邪薬を買いに行きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "薬箱",
+      "reading": "くすりばこ",
+      "meaning": "けがをしたときや病気のときに使う薬を入れておく箱。",
+      "example": "弟が転んでけがをしたので、薬箱からばんそうこうを出しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目薬",
+      "reading": "めぐすり",
+      "meaning": "目にさして、目の病気を治したり目をきれいにしたりする液体の薬。",
+      "example": "プールで目が赤くなったので、目薬をさしました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "風邪薬",
+      "reading": "かぜぐすり",
+      "meaning": "風邪をひいたときに飲む薬。",
+      "example": "熱があったので、お医者さんに風邪薬をもらいました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "胃薬",
+      "reading": "いぐすり",
+      "meaning": "おなかが痛いときや、食べすぎたときに飲む薬。",
+      "example": "おじいちゃんがおなかが痛いと言って、胃薬を飲んでいました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
