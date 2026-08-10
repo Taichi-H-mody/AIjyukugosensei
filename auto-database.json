@@ -39783,5 +39783,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "暗": [
+    {
+      "jukugo": "暗闇",
+      "reading": "くらやみ",
+      "meaning": "光がなくて真っ暗な場所や状態のこと。",
+      "example": "でんきが消えて、へやの中はまっくらな**暗闇**になった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗号",
+      "reading": "あんごう",
+      "meaning": "秘密の情報を、他の人にはわからないように変えたしるしや言葉のこと。",
+      "example": "たんていは、なぞの**暗号**を解読して事件を解決した。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗算",
+      "reading": "あんざん",
+      "meaning": "計算を頭の中で考えること。",
+      "example": "お父さんは、大きな数字のたし算も**暗算**でできてすごいな。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗記",
+      "reading": "あんき",
+      "meaning": "文章や言葉などを、そのままおぼえること。",
+      "example": "漢字テストのために、新しい漢字を毎日**暗記**した。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗黒",
+      "reading": "あんこく",
+      "meaning": "光がなく、とても真っ暗なこと。",
+      "example": "宇宙の遠くには、光がとどかない**暗黒**の場所がある。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
