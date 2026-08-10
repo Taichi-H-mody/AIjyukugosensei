@@ -39633,6 +39633,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "習": [
+    {
+      "jukugo": "学習",
+      "reading": "がくしゅう",
+      "meaning": "学んだり、練習したりして知識や技術を身につけること。",
+      "example": "毎日こつこつ学習することが、かしこくなるための第一歩です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "練習",
+      "reading": "れんしゅう",
+      "meaning": "できるようになるまで、くり返し行ってみること。",
+      "example": "なわとびの練習をして、ついに二重跳びができるようになりました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "復習",
+      "reading": "ふくしゅう",
+      "meaning": "一度習ったことを、もう一度学び直すこと。",
+      "example": "今日の授業で習った算数の問題を、家に帰ってから復習しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "予習",
+      "reading": "よしゅう",
+      "meaning": "これから習うことを、前もって調べて学ぶこと。",
+      "example": "明日の国語の授業のために、教科書を読んで予習しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "習字",
+      "reading": "しゅうじ",
+      "meaning": "筆を使って正しい書き方で字を書く練習をすること。書道のこと。",
+      "example": "小学校の習字の時間に、筆で「大」という字を大きく書きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
