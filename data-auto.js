@@ -39885,6 +39885,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "号": [
+    {
+      "jukugo": "信号",
+      "reading": "しんごう",
+      "meaning": "交通のきまりを示す色や光。赤や青などがあります。",
+      "example": "赤信号で止まって、青信号でわたります。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "番号",
+      "reading": "ばんごう",
+      "meaning": "ものや人を区別するためにつける数字や記号。",
+      "example": "自分の出席番号は15番です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "号令",
+      "reading": "ごうれい",
+      "meaning": "みんなを動かすために大きな声で出す指示。",
+      "example": "先生の号令で、みんなが一斉に走り出しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "暗号",
+      "reading": "あんごう",
+      "meaning": "秘密のやりとりをするための特別な記号や言葉。",
+      "example": "友達と暗号を使って、秘密のメッセージを交換した。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "号車",
+      "reading": "ごうしゃ",
+      "meaning": "電車やバスなどの車両につけられた番号。",
+      "example": "私たちは新幹線の一番うしろ、16号車に乗りました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
