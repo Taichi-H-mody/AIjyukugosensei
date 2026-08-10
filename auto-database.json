@@ -39547,5 +39547,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "合": [
+    {
+      "jukugo": "集合",
+      "reading": "しゅうごう",
+      "meaning": "みんなが一か所に集まること。",
+      "example": "公園に集合して、一緒に遊びましょう。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合計",
+      "reading": "ごうけい",
+      "meaning": "たくさんの数をすべて足し合わせること。",
+      "example": "テストの点数を合計すると、90点でした。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合格",
+      "reading": "ごうかく",
+      "meaning": "試験やテストにちゃんと通ること。目標を達成すること。",
+      "example": "一生懸命勉強して、漢字テストに合格しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合図",
+      "reading": "あいず",
+      "meaning": "相手に何かを知らせるために、体や声で送るしるし。",
+      "example": "先生の合図で、みんなが一斉に走り出しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "合体",
+      "reading": "がったい",
+      "meaning": "別々のものが一つにくっついて、新しいものになること。",
+      "example": "パズルを合体させて、大きなロボットを作りました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
