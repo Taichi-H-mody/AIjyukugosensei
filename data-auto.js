@@ -39801,6 +39801,48 @@ const autoData = {
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "父": [
+    {
+      "jukugo": "父親",
+      "reading": "ちちおや",
+      "meaning": "自分の父のこと。または一般的に、男親のこと。",
+      "example": "私の**父親**は、いつも優しく話を聞いてくれます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "父母",
+      "reading": "ふぼ",
+      "meaning": "父と母のこと。両親。",
+      "example": "運動会には、たくさんの**父母**が応援に来ていました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祖父",
+      "reading": "そふ",
+      "meaning": "自分の父や母の父親のこと。おじいさん。",
+      "example": "夏休みには、**祖父**の家へ遊びに行きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "父兄",
+      "reading": "ふけい",
+      "meaning": "父と兄のこと。学校などでは、保護者の意味で使われます。",
+      "example": "先生は、**父兄**の皆さんに集まってもらい、大切なお話をしました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "父子",
+      "reading": "ふし",
+      "meaning": "父親と子どものこと。",
+      "example": "日曜日は、**父子**で公園にキャッチボールをしに行きました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
