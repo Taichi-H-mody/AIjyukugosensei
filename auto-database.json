@@ -39589,5 +39589,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "礼": [
+    {
+      "jukugo": "礼儀",
+      "reading": "れいぎ",
+      "meaning": "人とのつきあい方で、相手を大切にするための作法や態度。",
+      "example": "あいさつは、礼儀の基本です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "御礼",
+      "reading": "おんれい",
+      "meaning": "感謝の気持ちを表すこと。",
+      "example": "手伝ってくれた友達に、御礼を言いました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "失礼",
+      "reading": "しつれい",
+      "meaning": "相手に対してぶしつけなこと。作法にかなっていないこと。",
+      "example": "ごめんなさい、失礼なことを言ってしまいました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "敬礼",
+      "reading": "けいれい",
+      "meaning": "相手に敬意を表すために、頭を下げたり体を動かしたりする動作。",
+      "example": "体育の時間に、先生に敬礼しました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "無礼",
+      "reading": "ぶれい",
+      "meaning": "礼儀がないこと。ぶしつけなこと。",
+      "example": "無礼な態度は、相手に悪い印象を与えます。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
