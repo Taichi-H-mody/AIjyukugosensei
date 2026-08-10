@@ -39673,5 +39673,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "早": [
+    {
+      "jukugo": "早起き",
+      "reading": "はやおき",
+      "meaning": "朝早く起きること。",
+      "example": "健康のために、毎日早起きをしています。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早寝",
+      "reading": "はやね",
+      "meaning": "夜、早く寝ること。",
+      "example": "早寝早起きは、元気な体を作る基本です。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早口",
+      "reading": "はやくち",
+      "meaning": "話す速さが速いこと。",
+      "example": "彼は早口なので、何を言っているのか聞き取りにくい時がある。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早朝",
+      "reading": "そうちょう",
+      "meaning": "朝早く。夜が明けて間もない時間。",
+      "example": "早朝から鳥の鳴き声が聞こえてきました。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早道",
+      "reading": "はやみち",
+      "meaning": "目的地まで早く着くことのできる道。近道。",
+      "example": "あの角を曲がると、学校への早道だよ。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
