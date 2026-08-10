@@ -39211,5 +39211,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "色": [
+    {
+      "jukugo": "景色",
+      "reading": "けしき",
+      "meaning": "目に見えるまわりの風景やようす。",
+      "example": "窓から見える景色がとてもきれいだ。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "水色",
+      "reading": "みずいろ",
+      "meaning": "水のような、うすい青色。",
+      "example": "夏の空には、水色の雲がうかんでいた。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "着色",
+      "reading": "ちゃくしょく",
+      "meaning": "物などに色をつけること。",
+      "example": "このおかしには、食べられる色が着色されている。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "色鉛筆",
+      "reading": "いろえんぴつ",
+      "meaning": "色をぬるための鉛筆。",
+      "example": "新しい色鉛筆を買ってもらい、うれしい。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "虹色",
+      "reading": "にじいろ",
+      "meaning": "虹のように、いろいろな色がまざりあっている様子。",
+      "example": "シャボン玉が虹色にキラキラ光って、とてもきれいだった。",
+      "addedDate": "2026-08-10",
+      "addedBy": "discord-agent"
+    }
   ]
 }
