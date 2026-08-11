@@ -39902,25 +39902,9 @@ const autoData = {
       "example": "コップの水はきれいで透明だった。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "夜明け",
-      "reading": "よあけ",
-      "meaning": "夜が終わり、朝になって空が明るくなり始めるころ。",
-      "example": "夜明けとともに、鳥たちが歌い始めた。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
     }
   ],
   "池": [
-    {
-      "jukugo": "ため池",
-      "reading": "ためいけ",
-      "meaning": "農業などに使う水をためておく池。",
-      "example": "畑に水をやるために、大きなため池があります。",
-      "addedDate": "2026-08-10",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "貯水池",
       "reading": "ちょすいち",
