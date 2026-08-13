@@ -39961,5 +39961,47 @@
       "addedDate": "2026-08-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "他": [
+    {
+      "jukugo": "他人",
+      "reading": "たにん",
+      "meaning": "自分ではない、ほかの人。",
+      "example": "他人には、いつも優しく接しましょう。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "他所",
+      "reading": "よそ",
+      "meaning": "自分のいる場所ではない、別の場所。",
+      "example": "お母さんは、他所で遊んではいけないと言った。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "他校",
+      "reading": "たこう",
+      "meaning": "自分の学校ではない、ほかの学校。",
+      "example": "運動会で、他校の友達と会った。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "他国",
+      "reading": "たこく",
+      "meaning": "自分の国ではない、ほかの国。",
+      "example": "世界の他国には、色々な文化があります。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "他言",
+      "reading": "たごん",
+      "meaning": "秘密などを、ほかの人に話すこと。",
+      "example": "この話は、誰にも他言しないでください。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
