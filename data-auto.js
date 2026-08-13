@@ -40047,6 +40047,48 @@ const autoData = {
       "addedDate": "2026-08-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "新": [
+    {
+      "jukugo": "新年",
+      "reading": "しんねん",
+      "meaning": "新しい年。一年の始まり。",
+      "example": "お正月に、家族みんなで新年を祝いました。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新聞",
+      "reading": "しんぶん",
+      "meaning": "世の中の新しい出来事や情報を伝える印刷物。",
+      "example": "毎朝、お父さんが新聞を読んでいます。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新鮮",
+      "reading": "しんせん",
+      "meaning": "とれたてで、まだ古くなっていないこと。新しいこと。",
+      "example": "この野菜は、畑でとれたばかりなのでとても新鮮です。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新型",
+      "reading": "しんがた",
+      "meaning": "前とはちがう、新しいかたちやタイプ。",
+      "example": "お店に新型のゲームきが並んでいました。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新学期",
+      "reading": "しんがっき",
+      "meaning": "新しい学年の期間が始まること。",
+      "example": "4月になって、わくわくする新学期が始まりました。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
