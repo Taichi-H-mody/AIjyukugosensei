@@ -39919,5 +39919,47 @@
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
     }
+  ],
+  "名": [
+    {
+      "jukugo": "名前",
+      "reading": "なまえ",
+      "meaning": "人や物を呼ぶときに使う言葉。",
+      "example": "わたしの名前は山田花子です。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "有名",
+      "reading": "ゆうめい",
+      "meaning": "多くの人に知られていること。",
+      "example": "あの歌手はテレビにたくさん出ていて、とても有名です。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名所",
+      "reading": "めいしょ",
+      "meaning": "景色がきれいだったり、歴史が古かったりして、特に知られている場所。",
+      "example": "京都には金閣寺や清水寺などの名所がたくさんあります。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名物",
+      "reading": "めいぶつ",
+      "meaning": "その土地で特に有名で、多くの人にすすめられる品物や食べ物。",
+      "example": "この町の名物はおいしいりんごです。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本名",
+      "reading": "ほんみょう",
+      "meaning": "その人が生まれつき持っている、正式な名前。",
+      "example": "みんなからはケンと呼ばれているけど、本名は健太です。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    }
   ]
 }
