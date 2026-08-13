@@ -40089,6 +40089,48 @@ const autoData = {
       "addedDate": "2026-08-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "仕": [
+    {
+      "jukugo": "仕事",
+      "reading": "しごと",
+      "meaning": "するべきこと。やるべきこと。",
+      "example": "お父さんは、毎日かいしゃへ仕事に行く。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仕方",
+      "reading": "しかた",
+      "meaning": "やり方。方法。",
+      "example": "宿題のやり方が分からない時は、先生に聞こう。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仕度",
+      "reading": "したく",
+      "meaning": "準備をすること。用意をすること。",
+      "example": "遠足の前日には、持ち物の仕度を終わらせておこう。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仕上げ",
+      "reading": "しあげ",
+      "meaning": "物事をさいごまでやりとげること。完成させること。",
+      "example": "この絵をきれいに仕上げるために、がんばって色をぬった。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "仕草",
+      "reading": "しぐさ",
+      "meaning": "人や動物が、ちょっとした動きや動作であらわす感情や気持ち。",
+      "example": "かわいい子犬の仕草に、みんな笑顔になった。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
