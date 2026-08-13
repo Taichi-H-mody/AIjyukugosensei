@@ -40005,6 +40005,48 @@ const autoData = {
       "addedDate": "2026-08-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "味": [
+    {
+      "jukugo": "味見",
+      "reading": "あじみ",
+      "meaning": "食べ物や飲み物の味を、少しだけ試して確かめること。",
+      "example": "お母さんが作ったスープを、妹が少しだけ**味見**しました。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "甘味",
+      "reading": "あまみ",
+      "meaning": "甘い味のこと。また、甘いお菓子やデザートのこと。",
+      "example": "このチョコレートは、ちょうどいい**甘味**でおいしいね。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "美味",
+      "reading": "びみ",
+      "meaning": "おいしいこと。また、おいしい料理や食べ物のこと。",
+      "example": "おばあちゃんが作ってくれたケーキは、本当に**美味**だった。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "後味",
+      "reading": "あとあじ",
+      "meaning": "食べ物や飲み物を食べた後に、口の中に残る味。転じて、物事が終わった後の気分。",
+      "example": "このリンゴは、シャキシャキしていて**後味**もすっきりしているね。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "味方",
+      "reading": "みかた",
+      "meaning": "自分と同じ立場にいる人や、自分を助けてくれる人。",
+      "example": "困っている時に、いつも**味方**になってくれる友達がいる。",
+      "addedDate": "2026-08-13",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
