@@ -40165,6 +40165,48 @@ const autoData = {
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "詩": [
+    {
+      "jukugo": "詩人",
+      "reading": "しじん",
+      "meaning": "詩を作る人。",
+      "example": "有名な詩人が書いた本を読みました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "詩集",
+      "reading": "ししゅう",
+      "meaning": "詩をたくさん集めて、一冊の本にしたもの。",
+      "example": "この詩集には、短い詩がたくさん載っています。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作詩",
+      "reading": "さくし",
+      "meaning": "詩や歌の歌詞をつくること。",
+      "example": "国語の授業で、みんなで詩の作詩にちょうせんしました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "詩歌",
+      "reading": "しいか",
+      "meaning": "詩や歌のこと。詩全体をさす言葉。",
+      "example": "日本の伝統的な詩歌には、和歌や俳句などがあります。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漢詩",
+      "reading": "かんし",
+      "meaning": "昔の中国でつくられた詩のこと。",
+      "example": "歴史の授業で、李白という人の漢詩を習いました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
