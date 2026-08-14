@@ -40207,6 +40207,48 @@ const autoData = {
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "幸": [
+    {
+      "jukugo": "幸福",
+      "reading": "こうふく",
+      "meaning": "しあわせなこと。満ち足りていて、不満がないこと。",
+      "example": "家族みんなが健康でいることが、わたしにとっての幸福です。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幸運",
+      "reading": "こううん",
+      "meaning": "運が良いこと。めぐり合わせが良いこと。",
+      "example": "忘れ物をしたけれど、すぐに気がついて取りに戻れたのは幸運だった。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "不幸",
+      "reading": "ふこう",
+      "meaning": "しあわせでないこと。かわいそうなこと。",
+      "example": "急な雨で、外で遊べなくなってしまい少し不幸な気持ちになった。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "幸先",
+      "reading": "さいさき",
+      "meaning": "これからのことの様子やきざし。特に、これから先に良いことが起こりそうなこと。「幸先が良い」という使い方をします。",
+      "example": "朝、きれいな虹を見ることができて、今日は幸先の良い一日になりそうだ。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "多幸",
+      "reading": "たこう",
+      "meaning": "多くの幸せ。たくさんの幸せ。",
+      "example": "おじいちゃんとおばあちゃんに、これからも多幸が続くことを願った。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
