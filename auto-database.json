@@ -40121,5 +40121,47 @@
       "addedDate": "2026-08-13",
       "addedBy": "discord-agent"
     }
+  ],
+  "由": [
+    {
+      "jukugo": "理由",
+      "reading": "りゆう",
+      "meaning": "物事がそうなった原因や、わけ。",
+      "example": "どうして遅れたのか、理由を先生に説明しました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自由",
+      "reading": "じゆう",
+      "meaning": "自分の思いのままにふるまえること。何にもとらわれないこと。",
+      "example": "夏休みは自由研究で、自分の好きなことを調べよう。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "由来",
+      "reading": "ゆらい",
+      "meaning": "物事がどのように始まったか、また、昔からのいわれや歴史。",
+      "example": "このお祭りの由来を調べて、みんなに発表しました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "経由",
+      "reading": "けいゆ",
+      "meaning": "ある場所を通っていくこと。または、あるものを介すること。",
+      "example": "学校へは、公園を経由して帰ります。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "由緒",
+      "reading": "ゆいしょ",
+      "meaning": "物事の始まりからの歴史や、古くからのいわれ。",
+      "example": "おじいちゃんの家の近くには、由緒あるお寺があります。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    }
   ]
 }
