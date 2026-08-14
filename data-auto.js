@@ -40249,6 +40249,40 @@ const autoData = {
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "六": [
+    {
+      "jukugo": "六月",
+      "reading": "ろくがつ",
+      "meaning": "一年のうち、五月の次の月。梅雨の時期にあたることが多いです。",
+      "example": "六月には、雨がたくさん降ります。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "六日",
+      "reading": "むいか",
+      "meaning": "月の第六番目の日。または、六日間。",
+      "example": "僕の誕生日は、五月の六日です。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "六角形",
+      "reading": "ろっかっけい",
+      "meaning": "辺が六つ、角が六つある図形。",
+      "example": "蜂の巣の穴は、きれいな六角形をしています。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "六つ",
+      "reading": "むっつ",
+      "meaning": "物の数が六個であること。また、年齢が六歳であること。",
+      "example": "おやつにミカンを六つ食べました。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
