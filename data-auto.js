@@ -40283,6 +40283,48 @@ const autoData = {
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "立": [
+    {
+      "jukugo": "起立",
+      "reading": "きりつ",
+      "meaning": "席から立ち上がること。学校などで先生の合図で行います。",
+      "example": "先生の「起立」の声で、みんなは一斉に立ち上がった。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "立場",
+      "reading": "たちば",
+      "meaning": "人が置かれている状況や、その人の考え方。",
+      "example": "友達の立場になって考えてみよう。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "立派",
+      "reading": "りっぱ",
+      "meaning": "姿や内容がすぐれていて、見事なこと。ほめるときにも使います。",
+      "example": "将来は、みんなから「立派な人だね」と言われるようになりたい。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自立",
+      "reading": "じりつ",
+      "meaning": "他人に頼らず、自分で物事をすること。",
+      "example": "自分のことは自分でできるようになって、早く自立したい。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市立",
+      "reading": "しりつ",
+      "meaning": "市が建てて、運営していること。",
+      "example": "私の通う小学校は、〇〇市立の学校です。",
+      "addedDate": "2026-08-14",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
