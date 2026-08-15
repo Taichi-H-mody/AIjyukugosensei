@@ -40274,14 +40274,6 @@ const autoData = {
       "example": "蜂の巣の穴は、きれいな六角形をしています。",
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "六つ",
-      "reading": "むっつ",
-      "meaning": "物の数が六個であること。また、年齢が六歳であること。",
-      "example": "おやつにミカンを六つ食べました。",
-      "addedDate": "2026-08-14",
-      "addedBy": "discord-agent"
     }
   ],
   "立": [
