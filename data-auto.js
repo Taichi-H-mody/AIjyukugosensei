@@ -40443,6 +40443,48 @@ const autoData = {
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
     }
+  ],
+  "待": [
+    {
+      "jukugo": "期待",
+      "reading": "きたい",
+      "meaning": "物事がこうなってほしいと願って待つこと。当てにして待つこと。",
+      "example": "明日の遠足がとても楽しみで、期待しています。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "待機",
+      "reading": "たいき",
+      "meaning": "ある時機が来るのを、じっと待っていること。",
+      "example": "地震が起きたら、先生の指示があるまで教室で待機します。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "待望",
+      "reading": "たいぼう",
+      "meaning": "心待ちにすること。待ち望むこと。",
+      "example": "夏休みは、みんなが待望していた旅行に行きます。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "待合室",
+      "reading": "まちあいしつ",
+      "meaning": "病院や駅などで、人が集まって待つ部屋。",
+      "example": "病院の待合室で、絵本を読みながら順番を待ちました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "待ち時間",
+      "reading": "まちじかん",
+      "meaning": "待っている間の時間。",
+      "example": "人気のアトラクションは、いつも待ち時間が長いです。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
