@@ -40315,5 +40315,47 @@
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
     }
+  ],
+  "顔": [
+    {
+      "jukugo": "笑顔",
+      "reading": "えがお",
+      "meaning": "にこにこ笑っている顔のこと。",
+      "example": "友達の笑顔を見ると、私も元気になります。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "顔色",
+      "reading": "かおいろ",
+      "meaning": "顔の肌の色やつや。体の調子を表すことが多い。",
+      "example": "具合が悪そうな子の顔色を、先生が心配そうに見ていました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "洗顔",
+      "reading": "せんがん",
+      "meaning": "顔を洗うこと。",
+      "example": "朝起きたら、まず洗顔をして目を覚まします。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "真顔",
+      "reading": "まがお",
+      "meaning": "まじめな顔つき。ふざけていない顔。",
+      "example": "先生が真顔で話すので、みんな静かに聞きました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寝顔",
+      "reading": "ねがお",
+      "meaning": "寝ているときの顔。",
+      "example": "赤ちゃんの寝顔は、とても可愛らしいです。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    }
   ]
 }
