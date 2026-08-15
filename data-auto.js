@@ -40359,6 +40359,48 @@ const autoData = {
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
     }
+  ],
+  "船": [
+    {
+      "jukugo": "船長",
+      "reading": "せんちょう",
+      "meaning": "船の全体を指揮し、運転する一番偉い人。",
+      "example": "船長が大きな船を動かしています。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "漁船",
+      "reading": "ぎょせん",
+      "meaning": "魚や貝などを捕るための船。",
+      "example": "朝早く、たくさんの漁船が港を出ていきました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "客船",
+      "reading": "きゃくせん",
+      "meaning": "お客さんを乗せて目的地まで運んだり、観光をしたりするための船。",
+      "example": "夏休みに家族と客船に乗って旅行に行きました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "船旅",
+      "reading": "ふなたび",
+      "meaning": "船に乗ってする旅行。",
+      "example": "いつか豪華な船旅をしてみたいです。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小船",
+      "reading": "こぶね",
+      "meaning": "小さい船。",
+      "example": "池に小船を浮かべて遊びました。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
