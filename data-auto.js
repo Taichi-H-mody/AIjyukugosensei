@@ -40401,6 +40401,48 @@ const autoData = {
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
     }
+  ],
+  "次": [
+    {
+      "jukugo": "次回",
+      "reading": "じかい",
+      "meaning": "今度の回、次の番。",
+      "example": "この番組の**次回**の放送は来週の土曜日です。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "目次",
+      "reading": "もくじ",
+      "meaning": "本や書類の内容を、順序立てて書き出したもの。",
+      "example": "図鑑の**目次**を見て、ライオンが載っているページを探した。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "次男",
+      "reading": "じなん",
+      "meaning": "二番目に生まれた男の子。",
+      "example": "私の家族は、お父さん、お母さん、お兄ちゃん、そして**次男**の僕の4人家族です。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "次々",
+      "reading": "つぎつぎ",
+      "meaning": "ひとつ終わるとすぐにまた次が来る様子。次から次へと。",
+      "example": "運動会では、たくさんの競技が**次々**と行われた。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "次点",
+      "reading": "じてん",
+      "meaning": "一番の次の順位。二番目。",
+      "example": "クイズ大会で優勝は逃したが、僕は**次点**に入ることができた。",
+      "addedDate": "2026-08-15",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
