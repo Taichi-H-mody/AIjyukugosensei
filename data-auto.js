@@ -40476,14 +40476,6 @@ const autoData = {
       "example": "病院の待合室で、絵本を読みながら順番を待ちました。",
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "待ち時間",
-      "reading": "まちじかん",
-      "meaning": "待っている間の時間。",
-      "example": "人気のアトラクションは、いつも待ち時間が長いです。",
-      "addedDate": "2026-08-15",
-      "addedBy": "discord-agent"
     }
   ],
   "坂": [
@@ -40492,22 +40484,6 @@ const autoData = {
       "reading": "さかみち",
       "meaning": "傾斜のある道のこと。",
       "example": "自転車で長い坂道を上るのは大変だ。",
-      "addedDate": "2026-08-15",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "上り坂",
-      "reading": "のぼりざか",
-      "meaning": "登っていく傾斜の道。",
-      "example": "これから先はきつい上り坂が続くよ。",
-      "addedDate": "2026-08-15",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "下り坂",
-      "reading": "くだりざか",
-      "meaning": "下っていく傾斜の道。",
-      "example": "スケートボードで下り坂を滑るのは楽しい。",
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
     },
