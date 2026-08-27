@@ -40663,6 +40663,40 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "思": [
+    {
+      "jukugo": "思い出",
+      "reading": "おもいで",
+      "meaning": "過去にあった楽しい出来事や、その時の気持ち。",
+      "example": "夏休みの思い出を絵日記に書きました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意思",
+      "reading": "いし",
+      "meaning": "何かをしようと心に決めた、自分の考え。",
+      "example": "自分の意思で、このスポーツクラブに入りました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "思考",
+      "reading": "しこう",
+      "meaning": "物事を筋道を立てて、よく考えること。",
+      "example": "算数の難しい問題を解くために、深く思考しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "思案",
+      "reading": "しあん",
+      "meaning": "どうしたらよいか、あれこれと考えること。",
+      "example": "お母さんは夕ご飯のメニューを思案しています。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
