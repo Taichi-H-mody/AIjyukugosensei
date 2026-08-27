@@ -40781,6 +40781,48 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "曲": [
+    {
+      "jukugo": "楽曲",
+      "reading": "がっきょく",
+      "meaning": "歌や演奏の音楽。",
+      "example": "今日の音楽会では、きれいな**楽曲**を演奏しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "作曲",
+      "reading": "さっきょく",
+      "meaning": "歌や音楽を作ること。",
+      "example": "将来、自分で**作曲**した歌をみんなに聞かせたいです。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "名曲",
+      "reading": "めいきょく",
+      "meaning": "多くの人に知られている、すばらしい音楽。",
+      "example": "この歌は、世界中の人に愛される**名曲**です。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "曲線",
+      "reading": "きょくせん",
+      "meaning": "まっすぐではなく、まがっている線。",
+      "example": "ボールを投げると、きれいな**曲線**を描いて飛んでいきました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "曲目",
+      "reading": "きょくもく",
+      "meaning": "演奏会やコンサートなどで演奏される歌や音楽の題名。",
+      "example": "プログラムを見て、今日の発表会の**曲目**を確認しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
