@@ -40577,5 +40577,47 @@
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "麦": [
+    {
+      "jukugo": "麦畑",
+      "reading": "むぎばたけ",
+      "meaning": "麦が植えられている畑。特に、小麦や大麦が育てられている場所。",
+      "example": "春になると、見渡す限りの麦畑が緑色に変わります。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小麦粉",
+      "reading": "こむぎこ",
+      "meaning": "小麦の粒を細かくひいて粉にしたもの。パンやうどん、ケーキなどを作るのに使われます。",
+      "example": "お母さんが小麦粉を使って、ふわふわのパンを焼いてくれました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "麦茶",
+      "reading": "むぎちゃ",
+      "meaning": "大麦を炒ってから煮出して作る飲み物。夏によく飲まれます。",
+      "example": "暑い日に、冷たい麦茶を飲むと体がすっきりします。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "大麦",
+      "reading": "おおむぎ",
+      "meaning": "イネ科の植物で、粒が小麦よりも少し大きく、麦茶や麦飯、飼料などに使われます。",
+      "example": "大麦は昔から日本で食べられてきた穀物の一つです。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "麦飯",
+      "reading": "むぎめし",
+      "meaning": "白米に大麦などを混ぜて炊いたご飯。栄養があり、昔から食べられています。",
+      "example": "健康のために、いつも麦飯を食べるようにしています。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
