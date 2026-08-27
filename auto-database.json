@@ -40535,5 +40535,47 @@
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "書": [
+    {
+      "jukugo": "教科書",
+      "reading": "きょうかしょ",
+      "meaning": "学校の勉強で使う本のこと。",
+      "example": "明日の算数の時間に使う教科書をカバンに入れた。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "読書",
+      "reading": "どくしょ",
+      "meaning": "本を読むこと。",
+      "example": "休み時間に図書館で読書をした。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書道",
+      "reading": "しょどう",
+      "meaning": "ふでと墨を使って、文字を美しく書く日本のならわし。",
+      "example": "私は書道教室で、もっと字を上手に書きたい。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "図書館",
+      "reading": "としょかん",
+      "meaning": "たくさんの本が置いてあって、みんなが借りたり読んだりできる建物。",
+      "example": "夏休みに、図書館でたくさんの物語を借りて読んだ。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "書き方",
+      "reading": "かきかた",
+      "meaning": "文字や文章を、どう書いたらいいかという方法。",
+      "example": "国語の時間に、漢字の正しい書き方を勉強した。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
