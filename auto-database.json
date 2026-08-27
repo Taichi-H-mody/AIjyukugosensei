@@ -40493,5 +40493,47 @@
       "addedDate": "2026-08-15",
       "addedBy": "discord-agent"
     }
+  ],
+  "実": [
+    {
+      "jukugo": "現実",
+      "reading": "げんじつ",
+      "meaning": "今、目の前で実際に起こっていること。",
+      "example": "夢ばかり見ていないで、現実をよく見よう。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "事実",
+      "reading": "じじつ",
+      "meaning": "実際にあったことや、本当のこと。",
+      "example": "その話が事実かどうか、確かめてみよう。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実行",
+      "reading": "じっこう",
+      "meaning": "計画したことや決めたことを、実際に行うこと。",
+      "example": "立てた計画を実行するのは大変だけど、がんばろう。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実力",
+      "reading": "じつりょく",
+      "meaning": "実際に持っている力や能力のこと。",
+      "example": "試験では、自分の実力を出しきることが大切だ。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "実験",
+      "reading": "じっけん",
+      "meaning": "何かを確かめるために、実際にやってみること。",
+      "example": "理科の授業で、水を温める実験をした。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
