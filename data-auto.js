@@ -40621,6 +40621,48 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "社": [
+    {
+      "jukugo": "神社",
+      "reading": "じんじゃ",
+      "meaning": "日本の神様がまつられている建物や場所のこと。",
+      "example": "お正月に家族と神社へお参りに行きました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "会社",
+      "reading": "かいしゃ",
+      "meaning": "色々な仕事をして、お金をもうけるための集まりや場所。お父さんやお母さんが働くところ。",
+      "example": "将来、私もお父さんの会社で働きたいです。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "社会",
+      "reading": "しゃかい",
+      "meaning": "人々が一緒に暮らしている世界や、その中で起こる色々なこと。小学校の「社会」という教科の名前でもある。",
+      "example": "社会の勉強で、日本の地理について学びました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "社会科",
+      "reading": "しゃかいか",
+      "meaning": "小学校や中学校で、人々の暮らしや歴史、地理などを学ぶ教科のこと。",
+      "example": "明日の社会科の授業は、工場見学なので楽しみです。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "本社",
+      "reading": "ほんしゃ",
+      "meaning": "色々な場所にある会社の中で、中心となる一番大切な会社のこと。",
+      "example": "東京にある会社の本社ビルは、とても大きいです。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
