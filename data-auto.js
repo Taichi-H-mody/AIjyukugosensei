@@ -40697,6 +40697,48 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "始": [
+    {
+      "jukugo": "開始",
+      "reading": "かいし",
+      "meaning": "物事を始めること。",
+      "example": "運動会の開始時間を確認する。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "始業",
+      "reading": "しぎょう",
+      "meaning": "学校の授業や仕事が始まること。",
+      "example": "始業のチャイムが鳴って、みんな席に着いた。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "始発",
+      "reading": "しはつ",
+      "meaning": "一番最初に駅や停留所を出る電車やバス。",
+      "example": "始発の電車に乗って、朝早く出かけた。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "年始",
+      "reading": "ねんし",
+      "meaning": "年の初めのこと。",
+      "example": "年始には、親戚のお家にあいさつに行く。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終始",
+      "reading": "しゅうし",
+      "meaning": "最初から最後まで、ずっと。",
+      "example": "彼は終始笑顔で、みんなと話していた。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
