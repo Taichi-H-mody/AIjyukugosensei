@@ -40739,6 +40739,48 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "意": [
+    {
+      "jukugo": "意味",
+      "reading": "いみ",
+      "meaning": "言葉や記号が表す内容。何が言いたいのか、何を表しているのか。",
+      "example": "この言葉の**意味**を教えてください。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "意見",
+      "reading": "いけん",
+      "meaning": "自分の考えや思ったこと、提案したいこと。",
+      "example": "発表会で、自分の**意見**をみんなに伝えました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "注意",
+      "reading": "ちゅうい",
+      "meaning": "気を配ること。危ないことや忘れてはいけないことに気を向けること。",
+      "example": "廊下を走ると危ないから、足元に**注意**しましょう。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "用意",
+      "reading": "ようい",
+      "meaning": "あらかじめ準備すること。必要なものをそろえたり、心の準備をしたりすること。",
+      "example": "明日の遠足の**用意**は、もうできた？",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "同意",
+      "reading": "どうい",
+      "meaning": "相手の考えや提案を認めて、賛成すること。同じ考えを持つこと。",
+      "example": "みんなが**同意**してくれたので、この計画で進めることになりました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
