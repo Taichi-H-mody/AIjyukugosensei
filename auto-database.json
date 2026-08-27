@@ -40863,5 +40863,47 @@
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "決": [
+    {
+      "jukugo": "決定",
+      "reading": "けってい",
+      "meaning": "物事をはっきりと決めること。また、はっきり決まること。",
+      "example": "みんなで話し合って、今日の遊びを決定しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "決心",
+      "reading": "けっしん",
+      "meaning": "何かをしようと心に固く決めること。",
+      "example": "明日から毎日ランニングをすると、心に決心しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "解決",
+      "reading": "かいけつ",
+      "meaning": "問題や困ったことをすっかりかたづけること。",
+      "example": "友達と協力して、難しいなぞなぞを解決しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "決勝",
+      "reading": "けっしょう",
+      "meaning": "試合などで、優勝を決めるためにする最後の戦い。",
+      "example": "サッカーの試合で、チームはついに決勝まで勝ち進みました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "決意",
+      "reading": "けつい",
+      "meaning": "必ずやりとげようと心に決めること。",
+      "example": "算数の難しい問題も、あきらめずに解く決意をしました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
