@@ -40821,5 +40821,47 @@
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "問": [
+    {
+      "jukugo": "質問",
+      "reading": "しつもん",
+      "meaning": "分からないことを人に尋ねること。",
+      "example": "先生に、宿題のことで質問しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "問題",
+      "reading": "もんだい",
+      "meaning": "問いかけられたり、考えるべき事柄。テストの問いなど。",
+      "example": "算数の問題を、じっくり考えました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "疑問",
+      "reading": "ぎもん",
+      "meaning": "分からないことや、不思議に思うこと。",
+      "example": "なぜ鳥は空を飛べるのか、いつも疑問に思います。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "訪問",
+      "reading": "ほうもん",
+      "meaning": "人の家や会社などを訪ねて行くこと。",
+      "example": "おじいちゃんの家に、家族で訪問しました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "問いかけ",
+      "reading": "といかけ",
+      "meaning": "相手に何かを尋ねたり、考えさせたりすること。",
+      "example": "友達に「今日、何する？」と問いかけました。",
+      "addedDate": "2026-08-27",
+      "addedBy": "discord-agent"
+    }
   ]
 }
