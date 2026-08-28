@@ -41673,6 +41673,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "分": [
+    {
+      "jukugo": "半分",
+      "reading": "はんぶん",
+      "meaning": "全体を二つに分けた一つ。真ん中。",
+      "example": "ケーキをみんなで半分こにした。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "自分",
+      "reading": "じぶん",
+      "meaning": "私やあなた自身のこと。",
+      "example": "自分の名前を大きな声で言った。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "気分",
+      "reading": "きぶん",
+      "meaning": "心のもち方。気持ち。",
+      "example": "今日はとても気分がいい。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "十分",
+      "reading": "じゅうぶん",
+      "meaning": "必要なだけそろっていて、足りないものがないこと。",
+      "example": "練習を十分にして試合にのぞんだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "部分",
+      "reading": "ぶぶん",
+      "meaning": "全体をいくつか分けたうちの一つ。",
+      "example": "この絵の好きな部分を教えてください。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
