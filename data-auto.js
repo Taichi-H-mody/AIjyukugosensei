@@ -41715,6 +41715,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "近": [
+    {
+      "jukugo": "近所",
+      "reading": "きんじょ",
+      "meaning": "自分の家のまわりの場所。すぐそば。",
+      "example": "近所の公園で友達と遊んだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "最近",
+      "reading": "さいきん",
+      "meaning": "今からあまり時間がたっていない頃。",
+      "example": "最近、さむい日がつづいているね。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "近道",
+      "reading": "ちかみち",
+      "meaning": "目的地まで早く着くための短い道。",
+      "example": "学校への近道を見つけたよ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "付近",
+      "reading": "ふきん",
+      "meaning": "ある場所のまわり。",
+      "example": "駅の付近には、たくさんのお店がある。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "間近",
+      "reading": "まぢか",
+      "meaning": "すぐそこまで近づいていること。すぐ目の前。",
+      "example": "遠足の日が間近にせまっている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
