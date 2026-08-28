@@ -41175,5 +41175,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "具": [
+    {
+      "jukugo": "道具",
+      "reading": "どうぐ",
+      "meaning": "物を作ったり、ある目的を果たすために使う品物。",
+      "example": "絵を描く道具をきれいに片付けました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "家具",
+      "reading": "かぐ",
+      "meaning": "家の中にある、机やいす、たんすなどの品物。",
+      "example": "新しい家具が部屋に届くのが楽しみです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "文具",
+      "reading": "ぶんぐ",
+      "meaning": "勉強や事務に使う道具。えんぴつや消しゴム、ノートなど。",
+      "example": "文具店で新しい消しゴムを買いました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵具",
+      "reading": "えのぐ",
+      "meaning": "絵を描くときに使う、色のある材料。",
+      "example": "水彩絵具を使ってきれいな絵を描きました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "具材",
+      "reading": "ぐざい",
+      "meaning": "料理を作る時に使う材料のこと。",
+      "example": "カレーの具材を切るお手伝いをしました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
