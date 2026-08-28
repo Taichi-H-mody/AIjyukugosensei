@@ -42007,5 +42007,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "毎": [
+    {
+      "jukugo": "毎日",
+      "reading": "まいにち",
+      "meaning": "すべての日。一日一日。",
+      "example": "私は毎日学校に行きます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎週",
+      "reading": "まいしゅう",
+      "meaning": "すべての週。一週間ごと。",
+      "example": "毎週土曜日は習い事があります。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎年",
+      "reading": "まいねん",
+      "meaning": "すべての年。一年ごと。",
+      "example": "毎年夏休みにはおばあちゃんの家に行きます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎朝",
+      "reading": "まいあさ",
+      "meaning": "毎日の朝。",
+      "example": "毎朝早く起きて朝ごはんを食べます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "毎月",
+      "reading": "まいつき",
+      "meaning": "すべての月。一か月ごと。",
+      "example": "毎月、図書館で新しい本を借りています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
