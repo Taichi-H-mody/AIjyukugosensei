@@ -40883,6 +40883,48 @@ const autoData = {
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
+  ],
+  "去": [
+    {
+      "jukugo": "去年",
+      "reading": "きょねん",
+      "meaning": "過ぎ去った年。前の年。",
+      "example": "去年は、家族で旅行に行きました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "過去",
+      "reading": "かこ",
+      "meaning": "過ぎ去った時。昔のこと。",
+      "example": "過去の出来事を写真で振り返りました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "立ち去る",
+      "reading": "たちさる",
+      "meaning": "その場から立って離れる。",
+      "example": "友達とけんかをして、その場を立ち去ってしまいました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "除去",
+      "reading": "じょきょ",
+      "meaning": "不要なものを取り除くこと。",
+      "example": "草むしりをして、たくさんの雑草を除去しました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "退去",
+      "reading": "たいきょ",
+      "meaning": "そこから引き下がって、立ち去ること。",
+      "example": "工事のため、古い建物から退去することになりました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
