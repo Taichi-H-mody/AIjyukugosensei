@@ -41503,5 +41503,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "午": [
+    {
+      "jukugo": "午前",
+      "reading": "ごぜん",
+      "meaning": "昼の12時より前の時間。朝から昼まで。",
+      "example": "午前のうちに宿題を終わらせましょう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "午後",
+      "reading": "ごご",
+      "meaning": "昼の12時より後の時間。昼から夜まで。",
+      "example": "午後は公園で友達と遊びます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "正午",
+      "reading": "しょうご",
+      "meaning": "ちょうど昼の12時のこと。",
+      "example": "給食は正午から始まります。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "午前中",
+      "reading": "ごぜんちゅう",
+      "meaning": "昼の12時になるまでの間の時間。",
+      "example": "午前中に買い物を済ませておこう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "午睡",
+      "reading": "ごすい",
+      "meaning": "昼寝のこと。昼間に少し眠ること。",
+      "example": "疲れたので、短い午睡をとって元気になりました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
