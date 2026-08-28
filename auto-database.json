@@ -4362,53 +4362,7 @@
       "addedBy": "force-all"
     }
   ],
-  "熟": [
-    {
-      "jukugo": "熟考",
-      "reading": "じゅっこう",
-      "meaning": "物事をじっくりと深く考えること。",
-      "example": "重要な決断を下す前に、彼はその問題を熟考した。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "成熟",
-      "reading": "せいじゅく",
-      "meaning": "十分に成長し、完成すること。または、精神的に円熟すること。",
-      "example": "この地域の果物は、太陽の光を浴びて成熟する。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "熟練",
-      "reading": "じゅくれん",
-      "meaning": "長い訓練や経験によって、物事を巧みにこなせるようになること。",
-      "example": "彼は熟練の技を持つ職人として、多くの人々から信頼されている。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "熟睡",
-      "reading": "じゅくすい",
-      "meaning": "深くぐっすりと眠ること。",
-      "example": "一日の疲れから、彼はベッドに入るとすぐに熟睡した。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
-      "jukugo": "熟読",
-      "reading": "じゅくどく",
-      "meaning": "書物などを注意深く、繰り返し読むこと。",
-      "example": "先生の指示に従い、課題のテキストを熟読した。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    }
-  ],
+  "熟": [],
   "純": [
     {
       "jukugo": "純粋",
