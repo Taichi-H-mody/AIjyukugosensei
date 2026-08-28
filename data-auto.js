@@ -40570,14 +40570,6 @@ const autoData = {
       "example": "夏休みに、図書館でたくさんの物語を借りて読んだ。",
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "書き方",
-      "reading": "かきかた",
-      "meaning": "文字や文章を、どう書いたらいいかという方法。",
-      "example": "国語の時間に、漢字の正しい書き方を勉強した。",
-      "addedDate": "2026-08-27",
-      "addedBy": "discord-agent"
     }
   ],
   "麦": [
@@ -40665,14 +40657,6 @@ const autoData = {
     }
   ],
   "思": [
-    {
-      "jukugo": "思い出",
-      "reading": "おもいで",
-      "meaning": "過去にあった楽しい出来事や、その時の気持ち。",
-      "example": "夏休みの思い出を絵日記に書きました。",
-      "addedDate": "2026-08-27",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "意思",
       "reading": "いし",
@@ -40854,14 +40838,6 @@ const autoData = {
       "reading": "ほうもん",
       "meaning": "人の家や会社などを訪ねて行くこと。",
       "example": "おじいちゃんの家に、家族で訪問しました。",
-      "addedDate": "2026-08-27",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "問いかけ",
-      "reading": "といかけ",
-      "meaning": "相手に何かを尋ねたり、考えさせたりすること。",
-      "example": "友達に「今日、何する？」と問いかけました。",
       "addedDate": "2026-08-27",
       "addedBy": "discord-agent"
     }
