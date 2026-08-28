@@ -41379,6 +41379,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "米": [
+    {
+      "jukugo": "米飯",
+      "reading": "べいはん",
+      "meaning": "炊いたご飯のこと。普段食べるご飯。",
+      "example": "今日の給食は、米飯とカレーライスでした。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新米",
+      "reading": "しんまい",
+      "meaning": "その年にとれたばかりのお米。新鮮でおいしいことが多い。",
+      "example": "秋になると、お店にはおいしい新米が並びます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "白米",
+      "reading": "はくまい",
+      "meaning": "お米のもみ殻やぬかを取りのぞき、白く精米したお米。私たちが普段食べるご飯の元になるものです。",
+      "example": "炊きたての白米は、つやつやしていてとてもおいしいです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "玄米",
+      "reading": "げんまい",
+      "meaning": "お米のもみ殻だけを取りのぞいた、精米する前の状態のお米。栄養がたくさんあります。",
+      "example": "おじいちゃんは健康のために毎日玄米を食べています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "米作り",
+      "reading": "こめづくり",
+      "meaning": "田んぼで稲を育て、お米を収穫する仕事や活動のこと。",
+      "example": "日本の農家さんは、毎日一生懸命米作りをしています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
