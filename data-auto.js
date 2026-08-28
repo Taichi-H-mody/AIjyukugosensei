@@ -41589,6 +41589,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "知": [
+    {
+      "jukugo": "知識",
+      "reading": "ちしき",
+      "meaning": "物事を学んで得た情報や、知っていること。",
+      "example": "本をたくさん読んで、新しい知識を増やそう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "知恵",
+      "reading": "ちえ",
+      "meaning": "物事をうまく考えたり、問題を解決したりする力。",
+      "example": "みんなで知恵を出し合って、良いアイデアを見つけた。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "通知",
+      "reading": "つうち",
+      "meaning": "あることを相手に知らせること。",
+      "example": "明日の遠足の通知が学校から配られた。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "知人",
+      "reading": "ちじん",
+      "meaning": "知り合いの人。",
+      "example": "公園で、お母さんの知人に出会った。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未知",
+      "reading": "みち",
+      "meaning": "まだ誰も知らないこと。まだ経験したことがないこと。",
+      "example": "宇宙には、まだ誰も見たことのない未知の星がたくさんある。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
