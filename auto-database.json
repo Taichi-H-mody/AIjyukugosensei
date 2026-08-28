@@ -41461,5 +41461,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "来": [
+    {
+      "jukugo": "来週",
+      "reading": "らいしゅう",
+      "meaning": "今の週の次の週のこと。",
+      "example": "来週の遠足が楽しみです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "来月",
+      "reading": "らいげつ",
+      "meaning": "今の月の次の月のこと。",
+      "example": "来月はわたしの誕生日です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "来年",
+      "reading": "らいねん",
+      "meaning": "今の年の次の年のこと。",
+      "example": "来年小学生になります。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "未来",
+      "reading": "みらい",
+      "meaning": "これから先の時間のこと。まだ来ていない時。",
+      "example": "未来の自分を想像するとワクワクします。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "将来",
+      "reading": "しょうらい",
+      "meaning": "これから先の時間や、その人の人生のこと。",
+      "example": "将来の夢は、お医者さんになることです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
