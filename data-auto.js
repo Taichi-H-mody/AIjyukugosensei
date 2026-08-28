@@ -41967,6 +41967,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "息": [
+    {
+      "jukugo": "息子",
+      "reading": "むすこ",
+      "meaning": "男の子ども。自分の子、または他人を敬って呼ぶときに使う言葉。",
+      "example": "私はお父さんとお母さんの息子です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "息切れ",
+      "reading": "いきぎれ",
+      "meaning": "走ったり運動したりして、呼吸が苦しくなること。",
+      "example": "マラソンでたくさん走りすぎて、息切れがした。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休息",
+      "reading": "きゅうそく",
+      "meaning": "体や心を休ませること。休憩。",
+      "example": "長い時間遊んだので、少し休息をとろう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "寝息",
+      "reading": "ねいき",
+      "meaning": "寝ているときの呼吸の音や様子。",
+      "example": "赤ちゃんがすやすやと寝息を立てている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "ため息",
+      "reading": "ためいき",
+      "meaning": "困ったときや疲れたときなどに、深く息を吐き出すこと。",
+      "example": "難しい算数の問題を見て、思わずため息が出た。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
