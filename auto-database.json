@@ -41091,5 +41091,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "両": [
+    {
+      "jukugo": "両親",
+      "reading": "りょうしん",
+      "meaning": "お父さんとお母さんのことです。",
+      "example": "私の両親は、いつも私のことを応援してくれます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両手",
+      "reading": "りょうて",
+      "meaning": "左手と右手の二つの手のことです。",
+      "example": "彼は両手で大きなボールをしっかりつかみました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両方",
+      "reading": "りょうほう",
+      "meaning": "二つのものやことのうち、どちらもという意味です。",
+      "example": "りんごとみかん、どちらも好きだから両方食べたいな。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両側",
+      "reading": "りょうがわ",
+      "meaning": "左と右、または二つの方向のきわのことです。",
+      "example": "道の両側には、きれいな花がたくさん咲いていました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "両目",
+      "reading": "りょうめ",
+      "meaning": "左目と右目の二つの目のことです。",
+      "example": "驚いて、思わず両目を大きく開けてしまいました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
