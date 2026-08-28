@@ -41217,5 +41217,39 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "章": [
+    {
+      "jukugo": "文章",
+      "reading": "ぶんしょう",
+      "meaning": "いくつかの文が集まってできたまとまり。考えや気持ちを伝えるために書かれたもの。",
+      "example": "国語の授業で、この文章を音読しました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "楽章",
+      "reading": "がくしょう",
+      "meaning": "交響曲やソナタなどの、長い曲をいくつかの部分に分けたときのまとまり。",
+      "example": "この曲は全部で三つの楽章からできています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "終章",
+      "reading": "しゅうしょう",
+      "meaning": "物語や本、長い話などの最後の部分。",
+      "example": "物語の終章を読んで、とても感動しました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "勲章",
+      "reading": "くんしょう",
+      "meaning": "国や社会に大きな功績のあった人に贈られる、名誉を示すしるし。",
+      "example": "人命救助をした消防士さんは、りっぱな勲章をもらいました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
