@@ -41755,5 +41755,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "馬": [
+    {
+      "jukugo": "馬車",
+      "reading": "ばしゃ",
+      "meaning": "馬に引かせて人や物を運ぶ車。",
+      "example": "昔のお姫様は、きれいな馬車に乗って出かけることが多かったそうです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "乗馬",
+      "reading": "じょうば",
+      "meaning": "馬に乗ること。また、馬に乗る技術。",
+      "example": "休日に牧場へ行って、初めて乗馬にチャレンジしました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "木馬",
+      "reading": "もくば",
+      "meaning": "木でできた馬の形をした遊具。",
+      "example": "小さい頃は、部屋にある木馬に乗って遊ぶのが大好きでした。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "子馬",
+      "reading": "こうま",
+      "meaning": "生まれたばかりの、まだ小さい馬。",
+      "example": "お母さん馬のそばで、かわいい子馬がぴょこぴょこ走っていました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "馬小屋",
+      "reading": "うまごや",
+      "meaning": "馬を入れておくための小屋。",
+      "example": "農場の奥には、馬たちが休むための大きな馬小屋がありました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
