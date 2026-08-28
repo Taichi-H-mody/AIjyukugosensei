@@ -42091,5 +42091,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "緑": [
+    {
+      "jukugo": "緑色",
+      "reading": "みどりいろ",
+      "meaning": "草や木の葉のような色。青と黄色の間にある色。",
+      "example": "公園の木々がきれいな**緑色**に変わったね。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "新緑",
+      "reading": "しんりょく",
+      "meaning": "春に芽生えたばかりの、みずみずしい緑色の葉っぱ。",
+      "example": "山が**新緑**でいっぱいになって、とても気持ちがいい。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "緑茶",
+      "reading": "りょくちゃ",
+      "meaning": "発酵させないで作ったお茶。日本でよく飲まれるお茶。",
+      "example": "おじいちゃんはいつも食事のときに**緑茶**を飲むよ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "緑地",
+      "reading": "りょくち",
+      "meaning": "草や木がたくさん生えている土地。公園など。",
+      "example": "学校の近くに広い**緑地**があって、みんなの遊び場になっている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "常緑",
+      "reading": "じょうりょく",
+      "meaning": "一年中、葉っぱが緑色であること。季節によって色が変わらないこと。",
+      "example": "松の木は冬でも葉が落ちない、**常緑**の木だ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
