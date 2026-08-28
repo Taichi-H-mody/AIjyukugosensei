@@ -41797,5 +41797,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "第": [
+    {
+      "jukugo": "第一",
+      "reading": "だいいち",
+      "meaning": "最初に当たること。一番。",
+      "example": "みんなで協力することが**第一**だ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "第二",
+      "reading": "だいに",
+      "meaning": "二番目に当たること。二番目。",
+      "example": "私は兄に続いて、リレーの**第二**走者として走った。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "第一歩",
+      "reading": "だいいっぽ",
+      "meaning": "物事を始める最初の段階や行動。",
+      "example": "新しい挑戦の**第一歩**を踏み出した。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "第一位",
+      "reading": "だいいちい",
+      "meaning": "順位が一番であること。",
+      "example": "運動会の徒競走で、見事**第一位**をとった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "第一章",
+      "reading": "だいいっしょう",
+      "meaning": "書物などを内容で区切った、最初の部分。",
+      "example": "物語の**第一章**を読み始めたら、すぐに夢中になった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
