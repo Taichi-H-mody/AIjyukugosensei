@@ -41547,6 +41547,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "重": [
+    {
+      "jukugo": "体重",
+      "reading": "たいじゅう",
+      "meaning": "体の重さのこと。",
+      "example": "健康のために、毎日体重をはかります。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重要",
+      "reading": "じゅうよう",
+      "meaning": "とても大切なこと。",
+      "example": "今日の勉強はテストで点がとれるようになるための、とても重要な時間です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重力",
+      "reading": "じゅうりょく",
+      "meaning": "物を地面にひきつける力のこと。",
+      "example": "りんごが木から落ちるのは、重力があるからです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二重",
+      "reading": "にじゅう",
+      "meaning": "同じものが二つ重なっていること。",
+      "example": "二重とびができるように、毎日練習しています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "重ね着",
+      "reading": "かさねぎ",
+      "meaning": "寒いときに服を何枚も着ること。",
+      "example": "冬の寒い日には、重ね着をして体を温めます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
