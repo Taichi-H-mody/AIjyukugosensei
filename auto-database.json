@@ -41133,5 +41133,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "氷": [
+    {
+      "jukugo": "氷水",
+      "reading": "こおりみず",
+      "meaning": "氷を入れて冷やした水。または、溶けて水になった氷。",
+      "example": "暑い日には、冷たい氷水を飲むとさっぱりする。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "氷山",
+      "reading": "ひょうざん",
+      "meaning": "海に浮かぶ、とても大きな氷の塊。",
+      "example": "船が氷山にぶつからないように、注意して進んだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "氷点",
+      "reading": "ひょうてん",
+      "meaning": "水が凍る温度。0度のこと。",
+      "example": "今朝の気温は氷点下まで下がり、池の水が凍った。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "氷上",
+      "reading": "ひょうじょう",
+      "meaning": "凍った水の上。スケートリンクなどのこと。",
+      "example": "フィギュアスケートの選手が、氷上で美しい技を披露した。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "製氷",
+      "reading": "せいひょう",
+      "meaning": "氷を作ること。",
+      "example": "冷蔵庫の製氷機能を使って、飲み物に入れる氷を作った。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
