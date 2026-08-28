@@ -42051,6 +42051,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "身": [
+    {
+      "jukugo": "身長",
+      "reading": "しんちょう",
+      "meaning": "頭の先から足の先までの体の高さ。",
+      "example": "ぼくの身長は、去年の夏より5センチのびた。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "全身",
+      "reading": "ぜんしん",
+      "meaning": "体の全部、すべて。",
+      "example": "走っていたら転んでしまい、全身が泥だらけになった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "出身",
+      "reading": "しゅっしん",
+      "meaning": "生まれた場所や育った場所。",
+      "example": "山田先生は北海道出身なので、雪に慣れているそうだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "身近",
+      "reading": "みぢか",
+      "meaning": "自分のすぐそばにあること。親しいこと。",
+      "example": "スマートフォンは、私たちの身近な道具になった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "身体",
+      "reading": "しんたい",
+      "meaning": "人間や動物の体。",
+      "example": "毎日運動することは、丈夫な身体を作るために大切だ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
