@@ -40965,5 +40965,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "福": [
+    {
+      "jukugo": "幸福",
+      "reading": "こうふく",
+      "meaning": "しあわせであること。満ち足りていること。",
+      "example": "みんなが幸福にくらしていける世界をめざします。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "福袋",
+      "reading": "ふくぶくろ",
+      "meaning": "お正月などに売られる、何が入っているか分からない袋のこと。中身は値段以上の価値があることが多い。",
+      "example": "お正月にデパートで福袋を買ってもらいました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "福笑い",
+      "reading": "ふくわらい",
+      "meaning": "お正月などに遊ぶ、おかめやひょっとこの顔の部品を目かくしをして並べる遊び。",
+      "example": "お正月に家族みんなで福笑いをして楽しみました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "福祉",
+      "reading": "ふくし",
+      "meaning": "しあわせや利益。特に、社会全体が豊かになるように、人々が安心してくらしていけるようにすること。",
+      "example": "みんなが安心して生活できるように、福祉のしせつは大切です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "福耳",
+      "reading": "ふくみみ",
+      "meaning": "大きくて厚みのある耳のこと。昔から幸運のしるしとされている。",
+      "example": "おじいちゃんはふっくらした福耳をしていて、いつも笑顔です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
