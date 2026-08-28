@@ -41049,5 +41049,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "血": [
+    {
+      "jukugo": "出血",
+      "reading": "しゅっけつ",
+      "meaning": "体から血が出ること。",
+      "example": "転んでひざから出血した。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "血液",
+      "reading": "けつえき",
+      "meaning": "体の中を流れる赤い液体のこと。",
+      "example": "人間の体には血液が流れている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "血豆",
+      "reading": "ちまめ",
+      "meaning": "指などを挟んだりして、皮膚の下に血がたまってできる、黒っぽい小さなできもの。",
+      "example": "ドアに指を挟んで血豆ができた。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "止血",
+      "reading": "しけつ",
+      "meaning": "体から血が出るのを止めること。",
+      "example": "鼻血が出たときは、ティッシュで止血する。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "貧血",
+      "reading": "ひんけつ",
+      "meaning": "体の中の血が足りなくなり、めまいがしたり、気分が悪くなったりすること。",
+      "example": "朝礼で立ちっぱなしだったので貧血を起こしてしまった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
