@@ -41337,6 +41337,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "地": [
+    {
+      "jukugo": "地面",
+      "reading": "じめん",
+      "meaning": "地の表面。地面の表面。",
+      "example": "雨上がりの地面はぬれています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地図",
+      "reading": "ちず",
+      "meaning": "土地の様子や建物などを、縮めて記号や色で表したもの。",
+      "example": "宝の地図を見つけました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地球",
+      "reading": "ちきゅう",
+      "meaning": "私たちが住んでいる星。太陽系の惑星の一つ。",
+      "example": "地球は水と緑の豊かな星です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地下",
+      "reading": "ちか",
+      "meaning": "地面のすぐ下の部分。または、地面の下にある場所。",
+      "example": "デパートの地下には食品売り場があります。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "土地",
+      "reading": "とち",
+      "meaning": "地面。地面や土がある場所。",
+      "example": "この広い土地には、いつか学校が建つ予定です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
