@@ -41293,5 +41293,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "方": [
+    {
+      "jukugo": "方向",
+      "reading": "ほうこう",
+      "meaning": "向いている方角。進むべき道。",
+      "example": "北の方向へ歩いていきました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "味方",
+      "reading": "みかた",
+      "meaning": "自分と同じ側について、助けてくれる人や集団。",
+      "example": "友達はいつも私の味方です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "方法",
+      "reading": "ほうほう",
+      "meaning": "物事をどのように行うかというやり方や手段。",
+      "example": "この問題の解決方法を考えましょう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "地方",
+      "reading": "ちほう",
+      "meaning": "あるまとまりを持った地域。都市部から離れた田舎の方。",
+      "example": "夏休みには、祖父母の住む地方へ遊びに行きます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一方",
+      "reading": "いっぽう",
+      "meaning": "片方。ある特定の方面や方向。",
+      "example": "チームは一方のゴールに向かって攻めました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
