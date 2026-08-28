@@ -41629,5 +41629,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "春": [
+    {
+      "jukugo": "春休み",
+      "reading": "はるやすみ",
+      "meaning": "小学校や中学校などで、春にある短いお休み期間。",
+      "example": "春休みには、家族で動物園に行く予定です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "春風",
+      "reading": "はるかぜ",
+      "meaning": "春に吹く、あたたかくやわらかい風。",
+      "example": "あたたかい春風が、桜の花びらをやさしく散らした。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "春雨",
+      "reading": "はるさめ",
+      "meaning": "春にしとしと降る、細くて静かな雨。",
+      "example": "春雨が降って、木々の緑がいっそう鮮やかになった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "春分",
+      "reading": "しゅんぶん",
+      "meaning": "一年の中で、昼と夜の長さがほぼ同じになる日。国民の祝日の一つ。",
+      "example": "春分の日は、お昼の時間と夜の時間が同じくらいになる日だよ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "立春",
+      "reading": "りっしゅん",
+      "meaning": "暦の上で、春が始まる日。",
+      "example": "まだ寒いけれど、立春を過ぎると少しずつ春が近づいてくるのが感じられる。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
