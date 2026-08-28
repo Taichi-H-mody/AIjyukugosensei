@@ -41251,5 +41251,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "君": [
+    {
+      "jukugo": "君が代",
+      "reading": "きみがよ",
+      "meaning": "日本の国歌。",
+      "example": "運動会でみんなで**君が代**を歌いました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "君達",
+      "reading": "きみたち",
+      "meaning": "あなたたち。",
+      "example": "先生は「**君達**は、本当によく頑張ったね！」と言いました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "君付け",
+      "reading": "きみづけ",
+      "meaning": "人名などの後に「君」をつけて呼ぶこと。",
+      "example": "友達を**君付け**で呼ぶのは、親しいしるしです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "姫君",
+      "reading": "ひめぎみ",
+      "meaning": "お姫様。身分の高い家のお嬢さん。",
+      "example": "昔のお話には、いつも心優しい**姫君**が出てきます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "若君",
+      "reading": "わかぎみ",
+      "meaning": "身分の高い家の若い男の子。世継ぎの男の子。",
+      "example": "お城には、将来お殿様になる**若君**が住んでいました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
