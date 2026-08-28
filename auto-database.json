@@ -41839,5 +41839,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "南": [
+    {
+      "jukugo": "南国",
+      "reading": "なんごく",
+      "meaning": "暖かい地方にある国のこと。",
+      "example": "南国では、一年中きれいな花が咲いています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "南風",
+      "reading": "みなみかぜ",
+      "meaning": "南の方から吹いてくる風のこと。",
+      "example": "夏の初めには、気持ちの良い南風が吹きます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "南北",
+      "reading": "なんぼく",
+      "meaning": "南と北、二つの方向のこと。",
+      "example": "この道は南北にまっすぐ続いています。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "南極",
+      "reading": "なんきょく",
+      "meaning": "地球の一番南にある、とても寒い場所。",
+      "example": "南極には、たくさんのペンギンが住んでいます。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "南向き",
+      "reading": "みなみむき",
+      "meaning": "南の方を向いていること。日当たりが良いことが多い。",
+      "example": "わたしの家のリビングは南向きなので、いつも明るいです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
