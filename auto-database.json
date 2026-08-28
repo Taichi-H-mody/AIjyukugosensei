@@ -40923,5 +40923,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "番": [
+    {
+      "jukugo": "番号",
+      "reading": "ばんごう",
+      "meaning": "物事の順序や区別を表すために使う数字。",
+      "example": "自分の出席番号を覚える。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一番",
+      "reading": "いちばん",
+      "meaning": "順序や程度で、他よりも最もすぐれていること。最初。",
+      "example": "かけっこで一番になった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "順番",
+      "reading": "じゅんばん",
+      "meaning": "物事を行う順序。また、その順序がまわってくること。",
+      "example": "みんなで順番に発表する。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "番地",
+      "reading": "ばんち",
+      "meaning": "住所を表すために、土地に付けられた番号。",
+      "example": "家の番地を調べて地図に書き込む。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "交番",
+      "reading": "こうばん",
+      "meaning": "警察官が交代で勤務する、小さな警察署の建物。",
+      "example": "道に迷ったら交番で聞こう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
