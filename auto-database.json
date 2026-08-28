@@ -41881,5 +41881,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "止": [
+    {
+      "jukugo": "停止",
+      "reading": "ていし",
+      "meaning": "動いていたものが動かなくなること。止まること。",
+      "example": "信号が赤になり、車が停止しました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中止",
+      "reading": "ちゅうし",
+      "meaning": "途中まで行われていたことをやめること。",
+      "example": "雨がひどかったので、遠足は中止になりました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "禁止",
+      "reading": "きんし",
+      "meaning": "してはいけないと、きびしく定めること。",
+      "example": "この場所は危険なので、立ち入り禁止です。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "防止",
+      "reading": "ぼうし",
+      "meaning": "悪いことや事故が起きないように防ぐこと。",
+      "example": "事故の防止のために、交通ルールを守りましょう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休止",
+      "reading": "きゅうし",
+      "meaning": "一時的に活動をやめて、休みに入ること。",
+      "example": "工事がしばらくの間、休止することになりました。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
