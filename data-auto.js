@@ -41925,6 +41925,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "母": [
+    {
+      "jukugo": "母の日",
+      "reading": "ははのひ",
+      "meaning": "お母さんに感謝の気持ちを伝える日。毎年5月の第2日曜日。",
+      "example": "母の日には、お母さんにカーネーションをプレゼントしたよ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "母親",
+      "reading": "ははおや",
+      "meaning": "自分の母、または子どもがいる女性。",
+      "example": "あの動物は、子どもを大切に育てる強い母親だ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "祖母",
+      "reading": "そぼ",
+      "meaning": "お父さんやお母さんのお母さんのこと。おばあさん。",
+      "example": "夏休みには、祖母の家に遊びに行くのが楽しみだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "父母",
+      "reading": "ふぼ",
+      "meaning": "お父さんとお母さんのこと。りょうしん。",
+      "example": "学校の父母会には、たくさんの人が参加した。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "母国",
+      "reading": "ぼこく",
+      "meaning": "自分が生まれた国や、ふるさととなる国。",
+      "example": "彼は遠くはなれた母国を、いつも大切に思っている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
