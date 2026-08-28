@@ -41007,5 +41007,47 @@
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "万": [
+    {
+      "jukugo": "一万",
+      "reading": "いちまん",
+      "meaning": "数字の10,000のこと。",
+      "example": "貯金箱に**一万**円貯まったら、新しいゲームを買うんだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "万歳",
+      "reading": "ばんざい",
+      "meaning": "喜びやお祝いの気持ちを表すときに、両手を上げて叫ぶ言葉。",
+      "example": "運動会で応援していたチームが勝って、みんなで「**万歳**！」と叫んだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "万年筆",
+      "reading": "まんねんひつ",
+      "meaning": "インクを補充して繰り返し使える筆記用具。",
+      "example": "おじいちゃんが**万年筆**で手紙を書いているのを見たことがある。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "万引き",
+      "reading": "まんびき",
+      "meaning": "お店でお金を払わずに品物を盗むこと。",
+      "example": "**万引き**は、絶対にしてはいけない悪いことです。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "万が一",
+      "reading": "まんがいち",
+      "meaning": "ひょっとしたら、もしもの時。",
+      "example": "**万が一**の災害に備えて、水や食料を用意しておこう。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 }
