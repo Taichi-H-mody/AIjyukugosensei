@@ -41421,6 +41421,48 @@ const autoData = {
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
+  ],
+  "鼻": [
+    {
+      "jukugo": "鼻血",
+      "reading": "はなぢ",
+      "meaning": "鼻の穴から出る血のこと。",
+      "example": "転んでしまって、鼻血が出ちゃった。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鼻水",
+      "reading": "はなみず",
+      "meaning": "風邪をひいたりアレルギーがあったりするときに、鼻から出てくる液体。",
+      "example": "くしゃみをしたら、鼻水が出たよ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鼻歌",
+      "reading": "はなうた",
+      "meaning": "声を出さずに、口を閉じて鼻からメロディーを歌うこと。",
+      "example": "お父さんは気分がいいと鼻歌を歌う。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鼻声",
+      "reading": "はなごえ",
+      "meaning": "風邪などで鼻が詰まっていて、鼻に響くような声。",
+      "example": "風邪をひいて、ちょっと鼻声になっている。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "鼻筋",
+      "reading": "はなすじ",
+      "meaning": "鼻の付け根から鼻先まで、顔の中心を通る線。",
+      "example": "あの人の鼻筋はすっと通っていてきれいだ。",
+      "addedDate": "2026-08-28",
+      "addedBy": "discord-agent"
+    }
   ]
 };
 for (const k in autoData) {
