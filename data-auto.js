@@ -40856,14 +40856,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "立ち去る",
-      "reading": "たちさる",
-      "meaning": "その場から立って離れる。",
-      "example": "友達とけんかをして、その場を立ち去ってしまいました。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "除去",
       "reading": "じょきょ",
       "meaning": "不要なものを取り除くこと。",
@@ -40940,14 +40932,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "福笑い",
-      "reading": "ふくわらい",
-      "meaning": "お正月などに遊ぶ、おかめやひょっとこの顔の部品を目かくしをして並べる遊び。",
-      "example": "お正月に家族みんなで福笑いをして楽しみました。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "福祉",
       "reading": "ふくし",
       "meaning": "しあわせや利益。特に、社会全体が豊かになるように、人々が安心してくらしていけるようにすること。",
@@ -40986,22 +40970,6 @@ const autoData = {
       "reading": "まんねんひつ",
       "meaning": "インクを補充して繰り返し使える筆記用具。",
       "example": "おじいちゃんが**万年筆**で手紙を書いているのを見たことがある。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "万引き",
-      "reading": "まんびき",
-      "meaning": "お店でお金を払わずに品物を盗むこと。",
-      "example": "**万引き**は、絶対にしてはいけない悪いことです。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "万が一",
-      "reading": "まんがいち",
-      "meaning": "ひょっとしたら、もしもの時。",
-      "example": "**万が一**の災害に備えて、水や食料を用意しておこう。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
@@ -41210,26 +41178,10 @@ const autoData = {
   ],
   "君": [
     {
-      "jukugo": "君が代",
-      "reading": "きみがよ",
-      "meaning": "日本の国歌。",
-      "example": "運動会でみんなで**君が代**を歌いました。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "君達",
       "reading": "きみたち",
       "meaning": "あなたたち。",
       "example": "先生は「**君達**は、本当によく頑張ったね！」と言いました。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "君付け",
-      "reading": "きみづけ",
-      "meaning": "人名などの後に「君」をつけて呼ぶこと。",
-      "example": "友達を**君付け**で呼ぶのは、親しいしるしです。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     },
@@ -41364,14 +41316,6 @@ const autoData = {
       "reading": "げんまい",
       "meaning": "お米のもみ殻だけを取りのぞいた、精米する前の状態のお米。栄養がたくさんあります。",
       "example": "おじいちゃんは健康のために毎日玄米を食べています。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "米作り",
-      "reading": "こめづくり",
-      "meaning": "田んぼで稲を育て、お米を収穫する仕事や活動のこと。",
-      "example": "日本の農家さんは、毎日一生懸命米作りをしています。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
@@ -41534,14 +41478,6 @@ const autoData = {
       "example": "二重とびができるように、毎日練習しています。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "重ね着",
-      "reading": "かさねぎ",
-      "meaning": "寒いときに服を何枚も着ること。",
-      "example": "冬の寒い日には、重ね着をして体を温めます。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
     }
   ],
   "知": [
@@ -41587,14 +41523,6 @@ const autoData = {
     }
   ],
   "春": [
-    {
-      "jukugo": "春休み",
-      "reading": "はるやすみ",
-      "meaning": "小学校や中学校などで、春にある短いお休み期間。",
-      "example": "春休みには、家族で動物園に行く予定です。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "春風",
       "reading": "はるかぜ",
@@ -41828,14 +41756,6 @@ const autoData = {
       "example": "南極には、たくさんのペンギンが住んでいます。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "南向き",
-      "reading": "みなみむき",
-      "meaning": "南の方を向いていること。日当たりが良いことが多い。",
-      "example": "わたしの家のリビングは南向きなので、いつも明るいです。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
     }
   ],
   "止": [
@@ -41882,14 +41802,6 @@ const autoData = {
   ],
   "母": [
     {
-      "jukugo": "母の日",
-      "reading": "ははのひ",
-      "meaning": "お母さんに感謝の気持ちを伝える日。毎年5月の第2日曜日。",
-      "example": "母の日には、お母さんにカーネーションをプレゼントしたよ。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "母親",
       "reading": "ははおや",
       "meaning": "自分の母、または子どもがいる女性。",
@@ -41932,14 +41844,6 @@ const autoData = {
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "息切れ",
-      "reading": "いきぎれ",
-      "meaning": "走ったり運動したりして、呼吸が苦しくなること。",
-      "example": "マラソンでたくさん走りすぎて、息切れがした。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "休息",
       "reading": "きゅうそく",
       "meaning": "体や心を休ませること。休憩。",
@@ -41952,14 +41856,6 @@ const autoData = {
       "reading": "ねいき",
       "meaning": "寝ているときの呼吸の音や様子。",
       "example": "赤ちゃんがすやすやと寝息を立てている。",
-      "addedDate": "2026-08-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "ため息",
-      "reading": "ためいき",
-      "meaning": "困ったときや疲れたときなどに、深く息を吐き出すこと。",
-      "example": "難しい算数の問題を見て、思わずため息が出た。",
       "addedDate": "2026-08-28",
       "addedBy": "discord-agent"
     }
