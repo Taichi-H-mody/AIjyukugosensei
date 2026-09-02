@@ -1561,7 +1561,7 @@
     {
       "jukugo": "恩恵",
       "reading": "おんけい",
-      "meaning": "めぐみ。",
+      "meaning": "めぐみ。自然や社会、人から受けるありがたい利益や恩のこと。",
       "example": "自然の恩恵を受ける。",
       "grade": 6,
       "addedDate": "2026-06-22",
@@ -2315,7 +2315,7 @@
     {
       "jukugo": "胸中",
       "reading": "きょうちゅう",
-      "meaning": "心の中。",
+      "meaning": "胸のうち。心の中で考えていることや秘めた思い。",
       "example": "胸中を打ち明ける。",
       "grade": 6,
       "addedDate": "2026-06-22",
@@ -7612,15 +7612,6 @@
       "addedBy": "force-all"
     },
     {
-      "jukugo": "棒グラフ",
-      "reading": "ぼうぐらふ",
-      "meaning": "統計データを、棒の長さや高さによって視覚的に表したグラフ。各項目を比較するのに用いられる。",
-      "example": "アンケートの結果を棒グラフで分かりやすくまとめた。",
-      "grade": 6,
-      "addedDate": "2026-06-22",
-      "addedBy": "force-all"
-    },
-    {
       "jukugo": "金棒",
       "reading": "かなぼう",
       "meaning": "鉄でできた太い棒。重く頑丈で、昔は武器や道具として用いられた。",
@@ -11538,7 +11529,7 @@
     {
       "jukugo": "右側",
       "reading": "みぎがわ",
-      "meaning": "右の方。",
+      "meaning": "右のほう。向かって右にあたる側。",
       "example": "道を歩くときは、右側をよく見て渡りましょう。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
@@ -11546,7 +11537,7 @@
     {
       "jukugo": "左側",
       "reading": "ひだりがわ",
-      "meaning": "左の方。",
+      "meaning": "左のほう。向かって左にあたる側。",
       "example": "教室の左側に窓があります。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
@@ -11729,14 +11720,6 @@
     }
   ],
   "輪": [
-    {
-      "jukugo": "輪ゴム",
-      "reading": "わごむ",
-      "meaning": "物を束ねたり、まとめたりするのに使う、ゴムでできた輪っか。",
-      "example": "たくさんのプリントを輪ゴムでひとつにまとめた。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
     {
       "jukugo": "指輪",
       "reading": "ゆびわ",
@@ -12532,14 +12515,6 @@
       "reading": "こなごな",
       "meaning": "物が細かく砕けて、粉のようにばらばらになった状態を表します。",
       "example": "お皿を落としてしまい、床で**粉々**に割れてしまいました。",
-      "addedDate": "2026-06-28",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "パン粉",
-      "reading": "パンこ",
-      "meaning": "パンを乾燥させて細かく砕いた粉。揚げ物の衣やハンバーグのつなぎなどに使われます。",
-      "example": "エビフライを作るために、魚屋さんで**パン粉**を買いました。",
       "addedDate": "2026-06-28",
       "addedBy": "discord-agent"
     }
@@ -18400,14 +18375,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "省エネ",
-      "reading": "しょうエネ",
-      "meaning": "エネルギーを節約すること。電力や燃料などを無駄なく使うこと。",
-      "example": "エアコンの設定温度を上げて、みんなで省エネに取り組んだ。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "省略",
       "reading": "しょうりゃく",
       "meaning": "不必要な部分をはぶいて、短くしたり簡単にしたりすること。",
@@ -21152,14 +21119,6 @@
       "reading": "どうぞう",
       "meaning": "銅（どう）という金属（きんぞく）で作られた像（ぞう）のこと。公園（こうえん）などに立っていることがあります。",
       "example": "公園（こうえん）には、歴史（れきし）の人物（じんぶつ）の立派（りっぱ）な**銅像**が立っています。",
-      "addedDate": "2026-06-29",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "銅メダル",
-      "reading": "どうメダル",
-      "meaning": "スポーツなどの試合（しあい）で、3番目（ばんめ）になった選手（せんしゅ）にもらえるメダルのこと。",
-      "example": "彼（かれ）は運動会（うんどうかい）のリレーで、チームが3位（い）になり**銅メダル**をもらいました。",
       "addedDate": "2026-06-29",
       "addedBy": "discord-agent"
     },
@@ -24594,13 +24553,21 @@
       "example": "一人で本を読んだ。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "一致",
+      "reading": "いっち",
+      "meaning": "いくつかのものや人々の意見、考え、気持ちなどが、ぴったりと一つにまとまることです。みんなの心がそろう様子を表します。",
+      "example": "クラス全員の意見が一致して、遠足は水族館に行くことになった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "右": [
     {
       "jukugo": "右側",
       "reading": "みぎがわ",
-      "meaning": "右の方。",
+      "meaning": "右のほう。向かって右にあたる側。",
       "example": "本棚の右側におもちゃが置いてあるよ。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
@@ -24624,7 +24591,7 @@
     {
       "jukugo": "右手",
       "reading": "みぎて",
-      "meaning": "右の手。",
+      "meaning": "右側の手。また、右の方向のこと。",
       "example": "先生に質問するときは、右手をあげてから話そう。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
@@ -24670,6 +24637,14 @@
       "example": "小雨が降っていたけれど、傘をささずに外で遊んだ。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "雨水",
+      "reading": "うすい",
+      "meaning": "空から降ってきた雨の水のことを言います。ためて植物にあげたり、災害の時に使ったりすることもあります。",
+      "example": "雨水をバケツにためて、庭の花に水をあげました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "円": [
@@ -24690,20 +24665,28 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "円グラフ",
-      "reading": "えんグラフ",
-      "meaning": "全体の割合を円の形で表したグラフ。",
-      "example": "クラスのみんなの好きな色を円グラフで表しました。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "円形",
       "reading": "えんけい",
       "meaning": "円のような形。丸い形。",
       "example": "運動場でみんなが円形に集まりました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "円周",
+      "reading": "えんしゅう",
+      "meaning": "丸いもののふちの長さのことです。例えば、お皿の周りの長さを円周と言います。",
+      "example": "コンパスで書いた円の円周を計算しました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "円満",
+      "reading": "えんまん",
+      "meaning": "物事がうまくいっていて、とどこおりなく進む様子や、みんなが仲良く平和な様子を表す言葉です。",
+      "example": "家族みんなが協力して、いつも円満な家庭を築いています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "王": [
@@ -24864,6 +24847,14 @@
       "example": "来週の火曜日は、学校がお休みです。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "火力",
+      "reading": "かりょく",
+      "meaning": "火がもっている力の強さのことです。物を燃やしたり、お湯をわかしたり、発電したりするときに使われる力のことです。",
+      "example": "ストーブの火力を一番強くして、部屋を早く暖めた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "花": [
@@ -25066,6 +25057,14 @@
       "example": "いつか九州へ旅行に行きたいです。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "九割",
+      "reading": "くわり",
+      "meaning": "全体を10に分けたうちの9つ分のこと。ほとんど全部という意味で使われます。",
+      "example": "クラスの九割の人が、遠足で行きたい場所に動物園を選びました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "休": [
@@ -25092,6 +25091,14 @@
       "example": "ゴールデンウィークは連休なので、遠出をする人が多い。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "休校",
+      "reading": "きゅうこう",
+      "meaning": "学校が何かの理由で開かれないこと、つまりお休みになることだよ。台風や雪がたくさん降った時に、学校が休みになることがあるね。",
+      "example": "大雪で道が危ないから、今日は学校が休校になったよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "玉": [
@@ -25104,20 +25111,36 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "ビー玉",
-      "reading": "ビーだま",
-      "meaning": "ガラスでできた小さな丸い玉で、昔から子どもたちの遊び道具として人気があります。",
-      "example": "昔、お兄ちゃんとビー玉を地面に転がして遊んだことを覚えています。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "玉手箱",
       "reading": "たまてばこ",
       "meaning": "浦島太郎（うらしまたろう）の物語に出てくる、開けると年をとってしまう不思議な箱。転じて、珍しいものや楽しいものがたくさん詰まった箱という意味でも使われます。",
       "example": "おばあちゃんの家には、昔のおもちゃがたくさん入った玉手箱のような箱があります。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "玉子",
+      "reading": "たまご",
+      "meaning": "鳥が産む卵のことで、栄養がたっぷりの食べ物です。料理に使われることが多く、みんなの食卓でもよく見かける身近な食材ですね。",
+      "example": "朝ごはんにお母さんが作ってくれた玉子焼きは、ふんわり甘くてとてもおいしかった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "宝玉",
+      "reading": "ほうぎょく",
+      "meaning": "とてもきれいで、めったに手に入らない、宝石のように価値のある玉のことです。キラキラと輝き、宝物として大切にされます。",
+      "example": "物語のお姫様は、きらびやかな宝玉の指輪を大切にしていました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "白玉",
+      "reading": "しらたま",
+      "meaning": "もち米の粉から作られた、白くて丸いおもちのような食べ物です。デザートやおやつによく使われ、つるんとした食感が特徴です。",
+      "example": "お祭りでおいしい白玉ぜんざいを食べたら、心も体も温まった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "金": [
@@ -25154,12 +25177,12 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "金メダル",
-      "reading": "きんめだる",
-      "meaning": "スポーツや競技会で、一番になった人にもらえる金色のメダル。",
-      "example": "運動会で金メダルを目標にがんばる。",
-      "addedDate": "2026-07-01",
-      "addedBy": "discord-agent"
+      "jukugo": "現金",
+      "reading": "げんきん",
+      "meaning": "お札や硬貨のように、そのままお金として使えるもののことだよ。お店で買い物をするときに、この現金を支払うことが多いね。",
+      "example": "お母さんはお財布から現金を出して、お菓子を買ってくれた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "空": [
@@ -25186,6 +25209,22 @@
       "example": "今日は気持ちのいい青空が広がっていて、遠足にぴったりだ。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "空地",
+      "reading": "あきち",
+      "meaning": "何も建物などが建っていない、ぽっかりとあいている土地のことです。草が生えていることも多いですよ。",
+      "example": "公園の隣の広い空地で、みんなでサッカーをして遊んだ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "空席",
+      "reading": "くうせき",
+      "meaning": "電車やバス、映画館などで、だれも座っていない、あいている席のことです。座れる場所があるという意味で使われます。",
+      "example": "満員のバスの中で、たった一つだけ空席を見つけて座ることができた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "月": [
@@ -25220,6 +25259,14 @@
       "example": "今月の目標は、毎日漢字の練習をすることです。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "月見",
+      "reading": "つきみ",
+      "meaning": "夜空に浮かぶきれいな月をながめて楽しむことです。秋によく行われます。お団子を供えることもあります。",
+      "example": "おばあちゃんの家で、みんなでお団子を食べながら**月見**をしました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "犬": [
@@ -25394,7 +25441,7 @@
     {
       "jukugo": "左側",
       "reading": "ひだりがわ",
-      "meaning": "左の方にあること、または左の方。",
+      "meaning": "左のほう。向かって左にあたる側。",
       "example": "学校の門を入って、すぐ左側に体育館があります。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
@@ -25674,6 +25721,14 @@
       "example": "静かな部屋で、誰かが呼んだ気がしたけれど、たぶん空耳だった。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "耳垢",
+      "reading": "みみあか",
+      "meaning": "耳の中にたまる、体から出る小さなかすのこと。耳をきれいにするときに、耳かきなどで優しく取り除きます。",
+      "example": "お風呂上がりに、お母さんに耳かきで耳垢を取ってもらった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "七": [
@@ -26504,6 +26559,14 @@
       "example": "昔々、一人の美女が森に住んでいました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "少女",
+      "reading": "しょうじょ",
+      "meaning": "まだ大人になっていない、幼い女の子のことを指す言葉だよ。子どもだけど、特に女の子の場合に使われるんだ。",
+      "example": "公園でブランコに乗っている少女が、楽しそうに笑っていた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "小": [
@@ -26538,6 +26601,14 @@
       "example": "外は**小雨**が降っていたので、傘をさして出かけました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "小道",
+      "reading": "こみち",
+      "meaning": "せまくて、あまり人が通らないような細い道のことだよ。特に山の中や林の中にあるような道をさすことが多いよ。",
+      "example": "森の中の小道を歩いていくと、小さなお花が咲いていた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "上": [
@@ -26598,6 +26669,30 @@
       "example": "木々が森々としている中を歩くと、とても静かで心が落ち着きました。",
       "addedDate": "2026-07-01",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "森厳",
+      "reading": "しんげん",
+      "meaning": "静かでとてもおごそかな雰囲気のこと。神聖な場所や、みんなが静かにしている場所で感じられます。",
+      "example": "古いお寺の森厳な雰囲気の中で、みんな静かに手を合わせたよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "森閑",
+      "reading": "しんかん",
+      "meaning": "音もなく、とても静かな様子を表す言葉です。深い森の中や、夜の学校のように、誰もいない場所で使われます。",
+      "example": "授業が終わった後、誰もいない教室は森閑としていた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "森羅",
+      "reading": "しんら",
+      "meaning": "この世の中にある、すべての物事や現象が、森の木々のようにたくさんある様子を表す言葉です。",
+      "example": "この世の中には、森羅のようにたくさんの不思議なことや美しいものがあふれているよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "梨": [
@@ -26868,6 +26963,14 @@
       "example": "どうして失敗したのか、原因を調べてみよう。",
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "原点",
+      "reading": "げんてん",
+      "meaning": "物事がはじまる一番最初の場所や、考えのもとになる点のこと。スタート地点という意味です。",
+      "example": "サッカーを好きになったのが、僕がプロ選手をめざす原点です。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "農": [
@@ -27130,14 +27233,6 @@
       "reading": "ほうそうきょく",
       "meaning": "ラジオやテレビの番組を作って、電波で送るところ。",
       "example": "将来は、放送局でニュースを作る人になりたいです。",
-      "addedDate": "2026-07-02",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "テレビ局",
-      "reading": "テレビきょく",
-      "meaning": "テレビ番組を作って、みんなの家へ届けるところ。",
-      "example": "テレビ局のスタジオ見学で、たくさんの機材を見ました。",
       "addedDate": "2026-07-02",
       "addedBy": "discord-agent"
     },
@@ -28708,6 +28803,22 @@
       "example": "初夏には、みずみずしい緑がたくさん見られます。",
       "addedDate": "2026-07-05",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夏空",
+      "reading": "なつぞら",
+      "meaning": "夏の晴れた日に見られる、高く澄んだ青い空のことだよ。もくもくと大きな白い雲（入道雲）が浮かんでいる様子がよく見られるね。",
+      "example": "夏空に大きな入道雲が浮かんでいて、とてもきれいだった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "夏野菜",
+      "reading": "なつやさい",
+      "meaning": "夏の暑い時期にとれる、きゅうりやトマト、ナスなどの野菜のことだよ。体を冷やしてくれる働きがあると言われているよ。",
+      "example": "おばあちゃんの畑でとれた夏野菜は、どれも新鮮でおいしいね。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "注": [
@@ -29526,6 +29637,14 @@
       "example": "大事なことを決める前には、時間をかけて**熟考**するようにしている。",
       "addedDate": "2026-07-07",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "考慮",
+      "reading": "こうりょ",
+      "meaning": "何かを選ぶときや行動するときに、いろんな事情や人の気持ちをよく考えて判断すること。",
+      "example": "みんなで遊び方を決めるときは、友だちの意見もよく考慮しようね。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "何": [
@@ -30082,6 +30201,14 @@
       "example": "空には薄雲が広がっていましたが、お日様はまだ見えていました。",
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "飛行機雲",
+      "reading": "ひこうきぐも",
+      "meaning": "空を飛ぶ飛行機が通ったあとに、細長く白く見える雲のことです。飛行機のエンジンから出る水蒸気が冷えてできるんですよ。",
+      "example": "今日の青空には、きれいな飛行機雲が長くのびていた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "使": [
@@ -30206,7 +30333,7 @@
     {
       "jukugo": "水中",
       "reading": "すいちゅう",
-      "meaning": "水の中。",
+      "meaning": "水の中。水面より下の場所。",
       "example": "水族館で、水中を気持ちよさそうに泳ぐ魚たちを見た。",
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
@@ -30218,6 +30345,14 @@
       "example": "夜中に目が覚めて、トイレに行った。",
       "addedDate": "2026-07-08",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "中央",
+      "reading": "ちゅうおう",
+      "meaning": "いろいろなものや人が集まる場所の、ちょうどまんなかのことを言います。とても大切な部分です。",
+      "example": "運動場の中央に大きな木が立っています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "柱": [
@@ -31002,6 +31137,14 @@
       "example": "観光地（かんこうち）で美しい棚田の景色（けしき）を見ることができました。",
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "田園",
+      "reading": "でんえん",
+      "meaning": "田んぼや畑がたくさん広がっていて、自然がいっぱいの場所のことだよ。都会とはちがって、のんびりした風景が特徴だよ。",
+      "example": "夏休みに、おじいちゃんの家の田園風景を見に行ったよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "日": [
@@ -31162,6 +31305,14 @@
       "example": "お母さんが作った夕飯はいつもおいしい。",
       "addedDate": "2026-07-10",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "夕立",
+      "reading": "ゆうだち",
+      "meaning": "夏の午後、急にザーッと激しく降り出して、すぐに止む雨のことです。涼しくなるので、暑い日にはうれしいこともあります。",
+      "example": "急な夕立にびっくりして、みんなで雨宿りをしました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "木": [
@@ -31862,6 +32013,14 @@
       "example": "夏休みの旅行の計画を立てた。",
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "設計",
+      "reading": "せっけい",
+      "meaning": "物を作る前に、どんな形にするか、どうやって作るかなどを絵や図に表して考えることだよ。",
+      "example": "新しい校舎を建てるために、まずは設計図をかくんだ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "植": [
@@ -31956,6 +32115,14 @@
       "example": "先生の質問に手を挙げて回答しました。",
       "addedDate": "2026-07-12",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "初回",
+      "reading": "しょかい",
+      "meaning": "何かをするときの一番最初のことを言います。初めての時に使われる言葉で、これから始まることの始まりを指します。",
+      "example": "新しいゲームの初回プレイで、すぐにクリアできました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "院": [
@@ -32596,6 +32763,14 @@
       "example": "この絵本には、八百ぴきのねこが登場するよ。",
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "八重",
+      "reading": "やえ",
+      "meaning": "花びらがたくさん重なって咲いている様子を表す言葉です。特に、桜の花でよく使われます。華やかで美しい咲き方ですよ。",
+      "example": "公園の八重桜は、花びらが何枚も重なっていてとてもきれいです。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "銀": [
@@ -32620,14 +32795,6 @@
       "reading": "ぎんが",
       "meaning": "夜空に星が帯のように見える集まり。天の川。",
       "example": "夏のキャンプで、満点の星空に銀河が輝いているのを見た。",
-      "addedDate": "2026-07-13",
-      "addedBy": "discord-agent"
-    },
-    {
-      "jukugo": "銀メダル",
-      "reading": "ぎんめだる",
-      "meaning": "スポーツなどで、2位になった人にもらえる銀製のメダル。",
-      "example": "運動会のリレーで、私たちのチームは銀メダルをとることができた。",
       "addedDate": "2026-07-13",
       "addedBy": "discord-agent"
     },
@@ -32792,6 +32959,14 @@
       "example": "日本の昔話には、よく**百姓**が出てきます。",
       "addedDate": "2026-07-14",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "百合",
+      "reading": "ゆり",
+      "meaning": "きれいで大きな花を咲かせる植物の名前だよ。白やピンクなどいろいろな色の種類があって、いい香りがするんだ。",
+      "example": "庭に咲いている白い百合の花が、とてもきれいに咲いています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "練": [
@@ -33446,7 +33621,7 @@
     {
       "jukugo": "牛肉",
       "reading": "ぎゅうにく",
-      "meaning": "牛の肉。",
+      "meaning": "食用にする牛の肉。",
       "example": "すき焼きには牛肉を使うとおいしいね。",
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
@@ -33454,7 +33629,7 @@
     {
       "jukugo": "豚肉",
       "reading": "ぶたにく",
-      "meaning": "豚の肉。",
+      "meaning": "食用にする豚の肉。",
       "example": "しょうが焼きは豚肉で作る料理だよ。",
       "addedDate": "2026-07-20",
       "addedBy": "discord-agent"
@@ -33740,7 +33915,7 @@
     {
       "jukugo": "月光",
       "reading": "げっこう",
-      "meaning": "月の光。",
+      "meaning": "月の光。夜空の月が放つ明るい光。",
       "example": "月光が窓から差し込み、部屋をほんのり照らした。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
@@ -33764,7 +33939,7 @@
     {
       "jukugo": "光線",
       "reading": "こうせん",
-      "meaning": "光の筋。",
+      "meaning": "光の筋。光がまっすぐに進む線。",
       "example": "懐中電灯の光線が、暗い道を明るく照らした。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
@@ -34022,6 +34197,14 @@
       "example": "遠目には小さく見えた山が、近くで見るととても大きかった。",
       "addedDate": "2026-07-21",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "遠距離",
+      "reading": "えんきょり",
+      "meaning": "とても離れた場所や、長い道のりのことを指す言葉だよ。すぐには行けないくらい遠いときに使うことが多いんだ。",
+      "example": "友達のお家は、電車で一時間もかかる遠距離にあるから、なかなか遊びに行けません。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "二": [
@@ -34048,6 +34231,22 @@
       "example": "この本は二度読みました。",
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "二日",
+      "reading": "ふつか",
+      "meaning": "月の最初の日を一日（ついたち）というように、月の二番目の日や、何かを始めてから二日目のことをいいます。",
+      "example": "あさっての二日は、おばあちゃんの誕生日です。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "第二",
+      "reading": "だいに",
+      "meaning": "たくさんのものや人を順番に並べたときに、一番目の次の、二番目にあたることを表す言葉です。順位や種類などに使われます。",
+      "example": "今日の徒競走で、僕は第二位になりました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "聞": [
@@ -34166,6 +34365,14 @@
       "example": "自分の生年月日をすらすら言えるかな。",
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "生物",
+      "reading": "せいぶつ",
+      "meaning": "生きているもののことです。動物や植物、微生物など、自分で大きくなったり、動いたり、子孫をのこしたりするものの全てを言います。",
+      "example": "森の中には、たくさんの珍しい**生物**がくらしています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "命": [
@@ -34242,6 +34449,14 @@
       "example": "お昼ごはんに、熱々の天丼を食べました。",
       "addedDate": "2026-07-22",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "天空",
+      "reading": "てんくう",
+      "meaning": "地球をとりまく広い空のことだよ。鳥が飛んだり、雲が流れたりする場所をさす言葉で、とても広くて気持ちの良い空を表すときに使うよ。",
+      "example": "広い天空には、色々な形をした雲が浮かんでいた。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "代": [
@@ -34580,6 +34795,14 @@
       "example": "メッセージを送るとき、気持ちを伝えるために絵文字を使いました。",
       "addedDate": "2026-07-23",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "絵日記",
+      "reading": "えにっき",
+      "meaning": "その日にあった出来事を絵と文章で記録する日記のことです。夏休みなどの長期休暇に書くことが多いですね。",
+      "example": "夏休みの宿題で、毎日絵日記をつけました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "当": [
@@ -35130,14 +35353,6 @@
   ],
   "歯": [
     {
-      "jukugo": "歯ブラシ",
-      "reading": "はぶらし",
-      "meaning": "歯を磨くための道具です。",
-      "example": "ご飯を食べた後は、**歯ブラシ**で歯をきれいに磨きましょう。",
-      "addedDate": "2026-07-24",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "歯医者",
       "reading": "はいしゃ",
       "meaning": "歯の病気を治したり、歯を健康に保つ手助けをしてくれるお医者さんです。",
@@ -35590,6 +35805,14 @@
       "example": "港町では、朝早くから魚市場が活気にあふれています。",
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "市町村",
+      "reading": "しちょうそん",
+      "meaning": "日本全国の、人々の住んでいる地域を区切る呼び方で、市・町・村の３つの種類があります。",
+      "example": "私の住んでいる場所は、〇〇市町村のどれかです。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "係": [
@@ -35760,6 +35983,14 @@
       "example": "この農村では、おいしいお米がたくさん作られています。",
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "村落",
+      "reading": "そんらく",
+      "meaning": "いくつかの家が集まってできた、小さなまちや地域のことです。自然が豊かな場所にあることが多いです。",
+      "example": "その村落には、昔ながらの生活をしている人たちが暮らしています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "横": [
@@ -36140,6 +36371,14 @@
       "example": "図鑑の巻末にある索引を使って、恐竜の名前を調べました。",
       "addedDate": "2026-07-30",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "引率",
+      "reading": "いんそつ",
+      "meaning": "たくさんの人や子どもたちを連れて、ある場所へ導いていくことだよ。先生が遠足でみんなを連れて行くときなどに使う言葉だね。",
+      "example": "先生が引率して、みんなで動物園に行った。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "区": [
@@ -36498,7 +36737,7 @@
     {
       "jukugo": "帰路",
       "reading": "きろ",
-      "meaning": "帰り道。",
+      "meaning": "帰る途中の道。帰り道。",
       "example": "楽しい遠足も終わり、みんなで歌を歌いながら帰路についた。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
@@ -36632,7 +36871,7 @@
     {
       "jukugo": "人数",
       "reading": "にんずう",
-      "meaning": "人の数。",
+      "meaning": "人の数。そこにいる人の集まりの総数。",
       "example": "このクラスの人数は25人です。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
@@ -36982,6 +37221,14 @@
       "example": "困っている人を助ける男気のある行動でした。",
       "addedDate": "2026-07-31",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "男児",
+      "reading": "だんじ",
+      "meaning": "男の子のことだよ。特に小さい男の子や、幼い子どもを指して使う言葉だよ。",
+      "example": "公園には、元気に走り回る男児がたくさんいました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "箱": [
@@ -37784,6 +38031,14 @@
       "example": "ゴールまで、全力で走りきった。",
       "addedDate": "2026-08-07",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "腕力",
+      "reading": "わんりょく",
+      "meaning": "うでの力のことだよ。重い物を持ったり、何かを力ずくで動かしたりするときに使う力だよ。",
+      "example": "お父さんは腕力が強いから、大きな荷物も一人で運べるんだ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "悪": [
@@ -37852,6 +38107,22 @@
       "example": "剣道教室で、先生が竹刀の正しい持ち方を教えてくれた。",
       "addedDate": "2026-08-08",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "竹細工",
+      "reading": "たけざいく",
+      "meaning": "竹を細く割ったり、熱を加えたり、編んだりして、かごやざる、おもちゃ、工芸品などを作る日本の伝統的な技術やその作品のことです。",
+      "example": "夏休みの自由研究で、竹細工のペン立てを作ってみました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "竹垣",
+      "reading": "たけがき",
+      "meaning": "細く割った竹や竹の棒をきれいに並べたり編んだりして作られた垣根のことです。お庭のしきりや目隠し、飾りとして使われます。",
+      "example": "お寺のきれいな竹垣を見て、日本の文化を感じました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "申": [
@@ -38514,14 +38785,6 @@
       "addedBy": "discord-agent"
     },
     {
-      "jukugo": "板チョコ",
-      "reading": "いたちょこ",
-      "meaning": "平たい板のような形をしているチョコレート。割って食べるものが多い。",
-      "example": "私は大きい**板チョコ**を少しずつ食べるのが好きです。",
-      "addedDate": "2026-08-09",
-      "addedBy": "discord-agent"
-    },
-    {
       "jukugo": "掲示板",
       "reading": "けいじばん",
       "meaning": "みんなにお知らせを貼ったり、情報を伝えたりするための板。学校や町などで見かける。",
@@ -38622,6 +38885,22 @@
       "example": "漢字の書き取りは、意味を考えて丸暗記しないようにしよう。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "丸顔",
+      "reading": "まるがお",
+      "meaning": "顔の輪郭が全体的に丸っこくて、ふっくらしている顔つきのことだよ。やさしい印象に見えることが多いよ。",
+      "example": "赤ちゃんは、ぷにぷにの丸顔でとても可愛い。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "丸一日",
+      "reading": "まるいちにち",
+      "meaning": "朝から夜まで、切れ目なくずっと続く一日のことだよ。長い時間を表すときに使う言葉だよ。",
+      "example": "夏休みには、丸一日ゲームをして過ごしたくなる。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "階": [
@@ -38694,7 +38973,7 @@
     {
       "jukugo": "短刀",
       "reading": "たんとう",
-      "meaning": "短い刀。",
+      "meaning": "短い刀。刃渡りが短い日本刀のこと。",
       "example": "昔の物語に出てくる侍が短刀を持っていた。",
       "addedDate": "2026-08-09",
       "addedBy": "discord-agent"
@@ -38982,7 +39261,7 @@
     {
       "jukugo": "牛肉",
       "reading": "ぎゅうにく",
-      "meaning": "牛のお肉。カレーやハンバーグなど、色々な料理に使われます。",
+      "meaning": "食用にする牛の肉。",
       "example": "お母さんが牛肉を使っておいしいシチューを作ってくれました。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
@@ -39272,6 +39551,22 @@
       "example": "父が釣ってきた川魚を、夕食で食べた。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "川上",
+      "reading": "かわかみ",
+      "meaning": "川の水が流れてくる、始まるあたりの場所のことだよ。高いところから低いところへ向かって流れる川の、上のほうを指すんだ。",
+      "example": "川上から流れてきた木の葉が、どんどん下流へと進んでいったよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "川下",
+      "reading": "かわしも",
+      "meaning": "川の水が流れ下っていく先の場所のことだよ。川上とは反対に、流れの終わりに近い下のほうを指すんだ。",
+      "example": "川下では、たくさんの人が水遊びをして楽しんでいたよ。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "鳴": [
@@ -39492,6 +39787,14 @@
       "example": "あの角を曲がると、学校への早道だよ。",
       "addedDate": "2026-08-10",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "早足",
+      "reading": "はやあし",
+      "meaning": "急いでいるときに、足の動きが速くなること。さっさと歩く様子を表す言葉です。",
+      "example": "学校に遅れそうだったので、早足で走っていった。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "薬": [
@@ -40226,6 +40529,22 @@
       "example": "蜂の巣の穴は、きれいな六角形をしています。",
       "addedDate": "2026-08-14",
       "addedBy": "discord-agent"
+    },
+    {
+      "jukugo": "六段",
+      "reading": "ろくだん",
+      "meaning": "柔道や剣道、将棋などの道で、技術や力が上達したときに与えられる六番目の高い位のことです。",
+      "example": "祖父は剣道で六段の腕前を持っています。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
+    },
+    {
+      "jukugo": "六感",
+      "reading": "ろっかん",
+      "meaning": "目や耳などの五つの感覚とは別に、何となく感じる不思議な直感や予感のことを言います。",
+      "example": "危険が迫っていることを六感で感じ取り、その場から逃げ出しました。",
+      "addedDate": "2026-09-02",
+      "addedBy": "quality-enrich-agent"
     }
   ],
   "立": [
